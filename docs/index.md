@@ -1,11 +1,11 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+Esta é uma wiki para as campanhas da série **Mundos Nômades**, as quais são idealizadas e (geralmente) mestradas por mim, **nômade**. Você pode conseguir mais informações sobre cada campanha em específico na tabela abaixo.
 
-## Hello World!
+---
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+## Lista de Campanhas
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+| Campanha                    | Mundo      | Sistema   | Mestre | Tipo                                           | Situação                            |
+| --------------------------- | ---------- | --------- | ------ | ---------------------------------------------- | ----------------------------------- |
+| (Exemplo)                   | (Mundo)    | (Sistema) | -      | (Campanha Normal, Mini Campanha ou *One Shot*) | (Em Andamanto, Largada ou Completa) |
+| **[[Vestígios Fantasmas]]** | [[Vitria]] | D&D 5e    | nômade | Campanha Normal                                | Em Andamento                        |
