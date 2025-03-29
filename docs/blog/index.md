@@ -1,5 +1,4 @@
 
-Guias e atualizações das campanhas.
-
 # Blog
 
+Guias e atualizações das campanhas.
