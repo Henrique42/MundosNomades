@@ -11,4 +11,4 @@
 - **Jogador:** Emanoel
 - **Espécie:** Lightfoot Halfling
 - **Gênero:** Masculino
-- **Classe:** Rogue
+- **Classe:** Rogue (Inquisitive)

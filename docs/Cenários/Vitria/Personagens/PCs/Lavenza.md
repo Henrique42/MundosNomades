@@ -12,3 +12,7 @@
 - **Espécie:** Aasimar
 - **Gênero:** Feminino
 - **Classe:** Warlock (The Celestial)
+
+---
+
+- Fonte da Imagem: Lavenza (Franquia Persona).
