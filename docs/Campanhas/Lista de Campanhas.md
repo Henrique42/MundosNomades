@@ -1,4 +1,5 @@
+Esta página serve como uma lista das campanhas presentes na *wiki*, divididas pelo sistema utilizado.
 
-Lista das minhas campanhas, em ordem alfabética:
+## D&D 5e
 
-- [[Vestígios Fantasmas]] (D&D 5e).
+- [[Vestígios Fantasmas]].

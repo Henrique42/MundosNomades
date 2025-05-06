@@ -15,6 +15,6 @@
 
 ---
 
-### *Sobre*
+### Sobre
 
 - Bartolomeu é neto de **Belchior Bravo**, um famoso bardo que acompanhou o herói **Arendel** em suas aventuras.

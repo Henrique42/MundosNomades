@@ -15,6 +15,6 @@
 
 ---
 
-### *Sobre*
+### Sobre
 
 - Dona Edna é a proprietária da [[Porto Lobo|Casa das Ervas]].

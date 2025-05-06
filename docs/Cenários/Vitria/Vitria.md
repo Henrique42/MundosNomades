@@ -4,4 +4,4 @@
 
 - [[Espécies]];
 - [[Planos]];
-- [[Religião]].
+- [[Divindades]].

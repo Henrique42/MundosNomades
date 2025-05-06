@@ -29,18 +29,13 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 
 ### Locais Importantes
 
+- **Bar Água & Sal:** um dos principais estabelecimentos existentes no Porto Oeste;
+- **Casa das Ervas:** loja criada e administrada pela herbalista [[Dona Edna]];
 - **Esgoto de Porto Lobo;**
-- **Casa das Ervas;**
-- **Prisão de Porto Lobo;**
+- **Prisão de Porto Lobo:** prisão municipal, conhecida como um ponto turístico por certos visitantes;
 - **Sede da [[S.A.P.O.]];**
-- **Teatro Municipal de Porto Lobo;**
+- **Teatro Municipal de Porto Lobo:** administrado pelo dramaturgo [[Bartolomeu Bravo]];
 - **Templo de Utana.**
-
----
-
-### Moradores Importantes
-
-- A ser adicionado.
 
 ---
 

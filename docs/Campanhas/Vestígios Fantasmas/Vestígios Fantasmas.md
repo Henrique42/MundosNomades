@@ -28,11 +28,11 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Lista de Sessões
 
-Essa página serve como uma lista de sessões da campanha cujas anotações foram feitas pelos próprios jogadores.
+Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Parte 1
 
-#### Caso I: Libertem a Bruxa
+#### Caso 01: Libertem a Bruxa
 
 - [[Sessão 01 ― Fantasmagoria]];
 - [[Sessão 02 ― Libertem a Bruxa]];
@@ -41,3 +41,5 @@ Essa página serve como uma lista de sessões da campanha cujas anotações fora
 #### ―
 
 - [[Sessão 04 ― A Prisioneira]];
+- [[Sessão 05 ― Garota Azeda]];
+- [[Sessão 06 ― Mergulhe]].

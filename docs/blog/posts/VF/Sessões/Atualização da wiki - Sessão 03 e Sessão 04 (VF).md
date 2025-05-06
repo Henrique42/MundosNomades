@@ -9,9 +9,9 @@ tags:
 ---
 
 
-# Atualização da wiki (Sessão 03 & 04)
+# Atualização da wiki (Sessões 03 & 04)
 
-A wiki foi atualizada com o conteúdo da sessão nº 03 e 04.
+A wiki foi atualizada com o conteúdo da sessões nº 03 e 04.
 
 <!-- more -->
 

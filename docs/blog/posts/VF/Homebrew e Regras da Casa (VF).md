@@ -20,7 +20,7 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 
 - [*Backgrounds*](https://homebrewery.naturalcrit.com/share/OgqSwg2qti4M);
 
-- [[Religião]];
+- [[Divindades]];
 
 - [[Espécies]];
 

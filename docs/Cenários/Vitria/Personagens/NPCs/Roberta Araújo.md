@@ -15,6 +15,6 @@
 
 ---
 
-### *Sobre*
+### Sobre
 
 *A ser adicionado.*

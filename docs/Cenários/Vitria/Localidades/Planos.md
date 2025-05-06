@@ -26,7 +26,7 @@ Em [[Vitria]], existem sete planos principais. Eles são organizados em forma de
 
 ### Purgatório (*Shadowfell*)
 
-Quando um ser vivo morre, sua alma é mandada para o _Purgatório_, local no qual habita a deusa [[Religião|Capra]]. Lá, a índole do indivíduo será julgada pela própria deusa, a qual poderá mandá-lo para três lugares: **Inferno**, **Paraíso** ou o próprio **Purgatório**, lugar no qual as almas que cometeram "crimes leves" esperam uma oportunidade de reencarnar.
+Quando um ser vivo morre, sua alma é mandada para o _Purgatório_, local no qual habita a deusa [[Divindades|Capra]]. Lá, a índole do indivíduo será julgada pela própria deusa, a qual poderá mandá-lo para três lugares: **Inferno**, **Paraíso** ou o próprio **Purgatório**, lugar no qual as almas que cometeram "crimes leves" esperam uma oportunidade de reencarnar.
 
 ### Inferno
 
