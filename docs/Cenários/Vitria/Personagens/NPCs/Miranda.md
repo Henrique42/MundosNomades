@@ -3,7 +3,7 @@
 ---
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/tI9Alxu.png" width="300" height="300" style="border: 1px solid black;">
+<img src="https://i.imgur.com/3yIyMJA.png" width="300" height="300" style="border: 1px solid black;">
 </div>
 
 ### Informações

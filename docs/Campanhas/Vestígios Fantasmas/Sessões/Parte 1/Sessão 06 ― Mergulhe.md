@@ -18,7 +18,7 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Bar Água e Sal.
+	- Bar Água & Sal.
 
 ---
 

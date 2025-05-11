@@ -32,14 +32,18 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Parte 1
 
-#### Caso 01: Libertem a Bruxa
+#### Arquivo SAPO-0079: "O Fantasma do Teatro"
 
 - [[Sessão 01 ― Fantasmagoria]];
 - [[Sessão 02 ― Libertem a Bruxa]];
 - [[Sessão 03 ― Caveiras e Velas]].
 
-#### ―
+#### Interlúdio: Conhecendo Porto Lobo
 
 - [[Sessão 04 ― A Prisioneira]];
 - [[Sessão 05 ― Garota Azeda]];
 - [[Sessão 06 ― Mergulhe]].
+
+#### ...
+
+- [[Sessão 07 ― Mãe]].
