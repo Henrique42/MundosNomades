@@ -32,7 +32,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Parte 1
 
-#### Arquivo SAPO-0079: "O Fantasma do Teatro"
+#### Arquivo S.A.P.O.: "O Fantasma do Teatro"
 
 - [[Sessão 01 ― Fantasmagoria]];
 - [[Sessão 02 ― Libertem a Bruxa]];
@@ -46,4 +46,5 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 #### ...
 
-- [[Sessão 07 ― Mãe]].
+- [[Sessão 07 ― Mãe]];
+- [[Sessão 08 ― A Galeria dos Espelhos]].
