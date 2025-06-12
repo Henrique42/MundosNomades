@@ -8,7 +8,7 @@
 
 ### Informações
 
-- **Jogador:** Betinho
+- **Jogador:** [[Antônio]]
 - **Espécie:** Firbolg
 - **Gênero:** Masculino
 - **Ocupação:** Druid (Circle of Stars)

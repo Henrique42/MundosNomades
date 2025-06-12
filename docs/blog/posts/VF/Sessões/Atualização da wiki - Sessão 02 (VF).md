@@ -19,5 +19,4 @@ A wiki foi atualizada com o conteúdo da sessão nº 02.
 	- Nova sessão: [[Sessão 02 ― Libertem a Bruxa]];
 	- NPC adicionado: [[Vegas]];
 	- Local atualizado: [[Porto Lobo]];
-	- Categoria **Metafísica** renomeada para **Cosmologia**;
-	- Adição da página de [[Linha do Tempo]].
+	- Categoria **Metafísica** renomeada para **Cosmologia**.

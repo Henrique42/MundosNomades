@@ -4,13 +4,13 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian, ausente)
-- Betinho - [[Marduk]] (Druid)
-- Clenildo - [[Lavenza]] (Warlock)
-- Emanoel - [[Sherlock]] (Rogue)
-- Saymon - [[Aenoir]] (Sorcerer)
+- [[Aenoir]] (Sorcerer 3)
+- [[Lavenza]] (Warlock 3)
+- [[Marduk]] (Druid 3)
+- [[Rhogar]] (Barbarian 3) - *Ausente*
+- [[Sherlock]] (Rogue 3)
 
-**Mestre:** Bruno.
+**Mestre:** [[Bruno]].
 
 ---  
 
@@ -45,3 +45,7 @@
 5. Lá, eles encontram um símbolo estranho na parede e um boneco de pano, ambos com uma tinta vinho que foi realçada pela magia *detect magic*.
 6. O *detect magic* também indicou que a magia presente parecia ser do tipo **encantamento**.
 7. Após sair da casa, os jogadores se encontram com guardas que estavam investigando a casa vizinha. Entre eles, estava um dos guardas que estava presente no caso do teatro.
+
+---
+
+[[Sessão 06 ― Mergulhe|<< Anterior]] | [[Sessão 08 ― A Galeria dos Espelhos|Próxima >>]]

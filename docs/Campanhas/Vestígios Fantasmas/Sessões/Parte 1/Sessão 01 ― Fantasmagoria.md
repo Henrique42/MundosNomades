@@ -4,14 +4,14 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian);
-- Betinho - [[Marduk]] (Druid);
-- Clenildo - [[Lavenza]] (Warlock);
-- Emanoel - [[Sherlock]] (Rogue);
-- Paulo - [[Vamas]] (Cleric);
-- Saymon - [[Aenoir]] (Sorcerer).
+- [[Aenoir]] (Sorcerer 1)
+- [[Lavenza]] (Warlock 1)
+- [[Marduk]] (Druid 1)
+- [[Rhogar]] (Barbarian 1)
+- [[Sherlock]] (Rogue 1)
+- [[Vamas]] (Cleric 1)
 
-**Mestre:** Bruno.
+**Mestre:** [[Bruno]].
 
 ---  
 
@@ -51,3 +51,7 @@ Buscando vingança, agora despertamos"
 - **Porrada.** Após isso, da fumaça surgem três criaturas: dois diabos de sombra e um conjurador dentro de uma capa. O grupo luta contra eles e vence. Com o teatro vazio por causa da luta, o grupo se vê livre para investigar o local.
 
 - **Investigando o Teatro.** Na frente do teatro, o grupo se encontra novamente com o guarda, que diz que uma das atrizes foi levada para a delegacia por suspeita de bruxaria e reafirma que a mainha Wilma sempre disse para ele não se meter com essas coisas de magia. Investigando o teatro, o grupo chega aos camarins dos atores e, no camarim da principal atriz, encontram um pergaminho com uma magia de mudança de forma, o que gera perguntas, pois apenas alguém com algum nível de magia poderia usar esse pergaminho, o que não é comum. Investigando um pouco mais, o grupo encontra um rastro de magia e um cheiro estranho no camarim que os leva para a saída dos fundos do teatro. Agora, só resta ir até a delegacia atrás da dona do pergaminho.
+
+---
+
+[[Sessão 02 ― Libertem a Bruxa|Próxima >>]]

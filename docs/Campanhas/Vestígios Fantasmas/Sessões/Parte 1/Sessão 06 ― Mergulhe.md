@@ -4,14 +4,14 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian)
-- Betinho - [[Marduk]] (Druid)
-- Clenildo - [[Lavenza]] (Warlock)
-- Emanoel - [[Sherlock]] (Rogue)
-- Paulo - [[Vamas]] (Cleric, ausente)
-- Saymon - [[Aenoir]] (Sorcerer)
+- [[Aenoir]] (Sorcerer 2)
+- [[Lavenza]] (Warlock 2)
+- [[Marduk]] (Druid 2)
+- [[Rhogar]] (Barbarian 2)
+- [[Sherlock]] (Rogue 2)
+- [[Vamas]] (Cleric 2) - *Ausente*
 
-**Mestre:** Bruno.
+**Mestre:** [[Bruno]].
 
 ---  
 
@@ -39,3 +39,7 @@
 	- Um deles destrói parte do cais.
 4. Garou se junta ao grupo no combate e ajuda a derrotar os inimigos.
 5. Após o combate, Garou decide revelar mais informações que talvez tenham relação com os homens encapuzados que foram vistos com Joaquim.
+
+---
+
+[[Sessão 05 ― Garota Azeda|<< Anterior]] | [[Sessão 07 ― Mãe|Próxima >>]]

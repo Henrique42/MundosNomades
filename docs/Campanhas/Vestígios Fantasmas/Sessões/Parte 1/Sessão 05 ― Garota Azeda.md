@@ -4,14 +4,14 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian)
-- Betinho - [[Marduk]] (Druid)
-- Clenildo - [[Lavenza]] (Warlock)
-- Emanoel - [[Sherlock]] (Rogue, ausente)
-- Paulo - [[Vamas]] (Cleric, ausente)
-- Saymon - [[Aenoir]] (Sorcerer)
+- [[Aenoir]] (Sorcerer 2)
+- [[Lavenza]] (Warlock 2)
+- [[Marduk]] (Druid 2)
+- [[Rhogar]] (Barbarian 2)
+- [[Sherlock]] (Rogue 2) - *Ausente*
+- [[Vamas]] (Cleric 2) - *Ausente*
 
-**Mestre:** Bruno.
+**Mestre:** [[Bruno]].
 
 ---  
 
@@ -43,3 +43,7 @@
 4. Fora do bar, eles ameaçam um guarda bêbado a fim de obter informações, sem muito sucesso.
 5. De volta ao bar, Lavenza utiliza *detect magic* e descobre que Roberta carregava um item mágico (um pergaminho de *disguise self*, como revelado posteriormente).
 6. Após ameaças e discussões, Roberta se separa do grupo.
+
+---
+
+[[Sessão 04 ― A Prisioneira|<< Anterior]] | [[Sessão 06 ― Mergulhe|Próxima >>]]

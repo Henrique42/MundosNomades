@@ -4,14 +4,14 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian)
-- Betinho - [[Marduk]] (Druid)
-- Clenildo - [[Lavenza]] (Warlock)
-- Emanoel - [[Sherlock]] (Rogue)
-- Paulo - [[Vamas]] (Cleric)
-- Saymon - [[Aenoir]] (Sorcerer)
+- [[Aenoir]] (Sorcerer 1)
+- [[Lavenza]] (Warlock 1)
+- [[Marduk]] (Druid 1)
+- [[Rhogar]] (Barbarian 1)
+- [[Sherlock]] (Rogue 1)
+- [[Vamas]] (Cleric 1)
 
-**Mestre:** Bruno.
+**Mestre:** [[Bruno]].
 
 ---  
 
@@ -60,3 +60,7 @@
 >  Ah, eles têm que libertar a bruxa"
 
 Logo em seguida, uma mulher sai de dentro de uma das tendas, e o couro vai comer;
+
+---
+
+[[Sessão 01 ― Fantasmagoria|<< Anterior]] | [[Sessão 03 ― Caveiras e Velas|Próxima >>]]

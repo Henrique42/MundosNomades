@@ -14,15 +14,17 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Participantes
 
-- **Mestre:**
-	- Bruno (nômade).
+- **Mestre(s):** [[Bruno]].
 - **Jogadores:**
-	- Anthony: [[Rhogar]];
-	- Betinho: [[Marduk]];
-	- Clenes: [[Lavenza]];
-	- Emano: [[Sherlock]];
-	- Paulo: [[Vamas]];
-	- Saymon: [[Aenoir]].
+
+| Jogador      | Personagens  |
+| ------------ | ------------ |
+| [[Anthony]]  | [[Rhogar]]   |
+| [[Antônio]]  | [[Marduk]]   |
+| [[Clenildo]] | [[Lavenza]]  |
+| [[Emanoel]]  | [[Sherlock]] |
+| [[Paulo]]    | [[Vamas]]    |
+| [[Saymon]]   | [[Aenoir]]   |
 
 ---
 

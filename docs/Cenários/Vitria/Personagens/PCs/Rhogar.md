@@ -8,7 +8,7 @@
 
 ### Informações
 
-- **Jogador:** Anthony
+- **Jogador:** [[Anthony]]
 - **Espécie:** Red Dragonborn
 - **Gênero:** Masculino
 - **Classe:** Barbarian (Path of Wild Magic)
