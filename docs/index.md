@@ -2,6 +2,6 @@ Esta é uma *wiki* para as campanhas da série **Mundos Nômades**, as quais sã
 
 ## Lista de Campanhas
 
-| Campanha                    | Mundo      | Sistema | Mestre            | Tipo     | Situação     |
-| --------------------------- | ---------- | ------- | ----------------- | -------- | ------------ |
-| **[[Vestígios Fantasmas]]** | [[Vitria]] | D&D 5e  | [[Bruno\|nômade]] | Campanha | Em Andamento |
+| Campanha                    | Mundo      | Sistema | Mestre    | Tipo     | Situação     |
+| --------------------------- | ---------- | ------- | --------- | -------- | ------------ |
+| **[[Vestígios Fantasmas]]** | [[Vitria]] | D&D 5e  | [[Bruno]] | Campanha | Em Andamento |
