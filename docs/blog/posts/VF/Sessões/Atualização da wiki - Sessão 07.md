@@ -16,5 +16,5 @@ A wiki foi atualizada com o conteúdo da sessões nº 07.
 <!-- more -->
 
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 07 ― Mãe]], com resumo feito por mim;
+	- Nova sessão: [[Sessão 07 ― Mãe]];
 	- NPC adicionado: [[Sérgio, o Guarda]].

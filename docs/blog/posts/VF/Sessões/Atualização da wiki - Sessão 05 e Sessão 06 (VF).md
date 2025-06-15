@@ -16,7 +16,7 @@ A wiki foi atualizada com o conteúdo da sessões nº 05 e 06.
 <!-- more -->
 
 - **O que há de novo?**
-	- Novas sessões: [[Sessão 05 ― Garota Azeda]] e [[Sessão 06 ― Mergulhe]], com resumos feitos por mim;
+	- Novas sessões: [[Sessão 05 ― Garota Azeda]] e [[Sessão 06 ― Mergulhe]];
 	- NPCs adicionados: [[Garou]];
 	- Local atualizado: [[Porto Lobo]] (**Bar Água & Sal** adicionado);
 	- Mapa de [[Vernália]] remodelado.

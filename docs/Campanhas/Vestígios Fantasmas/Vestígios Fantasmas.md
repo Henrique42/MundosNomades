@@ -49,4 +49,5 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 #### ...
 
 - [[Sessão 07 ― Mãe]];
-- [[Sessão 08 ― A Galeria dos Espelhos]].
+- [[Sessão 08 ― A Galeria dos Espelhos]];
+- [[Sessão 09 ― Atravesse (Para o Outro Lado)]].

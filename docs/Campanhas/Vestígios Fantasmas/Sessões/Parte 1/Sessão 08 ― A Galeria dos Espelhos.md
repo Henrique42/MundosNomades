@@ -1,4 +1,5 @@
-**Data:** 07/06/2025
+- **Data:** 07/06/2025
+- **Autor(es):** [[Bruno]]
 
 ---
 
@@ -48,4 +49,4 @@
 
 ---
 
-[[Sessão 07 ― Mãe|<< Anterior]] | Próxima >>
+[[Sessão 07 ― Mãe|<< Anterior]] | [[Sessão 09 ― Atravesse (Para o Outro Lado)|Próxima]] >>
