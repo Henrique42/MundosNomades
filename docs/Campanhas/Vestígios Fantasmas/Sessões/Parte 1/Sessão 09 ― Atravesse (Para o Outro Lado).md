@@ -29,14 +29,21 @@
 
 ---
 
+### Inimigos Enfrentados
+
+- Palhaços Encapetados;
+- Malabarista de Facas.
+
+---
+
 ### Principais eventos
 
 1. Marduk e Rhogar conseguem atravessar o espelho e se juntar aos outros no "outro lado";
-2. Os personagens exploram tal versão do circo, ao mesmo tempo similar e diferente da que eles viram anteriormente.
+2. Os personagens exploram tal versão do circo, ao mesmo tempo similar e diferente da que eles viram anteriormente;
 	- Eles encontram alguns itens mágicos.
-3. Ao tentar avançar, eles se encontram com palhaços encapetados e um malabarista de facas. Combate se inicia.
+3. Ao tentar avançar, eles se encontram com palhaços encapetados e um malabarista de facas. Combate se inicia;
 4. Após a derrota dos monstros, o caminho para a próxima área se abre.
 
 ---
 
-[[Sessão 08 ― A Galeria dos Espelhos|<< Anterior]] | Próxima >>
+[[Sessão 08 ― A Galeria dos Espelhos|<< Anterior]] | [[Sessão 10 ― O Show Tem que Continuar|Próxima >>]]

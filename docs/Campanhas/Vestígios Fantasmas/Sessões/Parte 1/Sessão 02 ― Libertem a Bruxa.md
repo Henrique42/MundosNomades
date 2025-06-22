@@ -25,7 +25,7 @@
 
 ---  
 
-### NPCs encontrados
+### NPCs Encontrados
 
 - [[Vegas]] (Cara estranho no meio do beco);
 - Guarda 1;
@@ -33,9 +33,15 @@
 - Roberta Araújo (Atriz/Bruxa);
 - Silva Duarte (Ator).
 
+---
+
+### Inimigos Enfrentados
+
+*Vazio.*
+
 ---  
 
-### Principais eventos
+### Principais Eventos
 
 - **Caminho para a Prisão.** No teatro, após percebermos que não tínhamos mais nada pra fazer, continuamos o caminho para a prisão. À caminho da prisão, Sherlock encontra um cara estranho, vestido com um sobretudo, num beco escuro ~~(nada suspeito)~~ e decide fazer alguma perguntas sobre a cidade e sobre o que aconteceu mais cedo.
 

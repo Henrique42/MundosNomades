@@ -24,15 +24,22 @@
 
 ---  
 
-### NPCs encontrados
+### NPCs Encontrados
 
 - [[Miranda]], empregada da líder da organização misteriosa;
 - Mainha Wilma;
 - Guarda 1, filho de Mainha Wilma.
 
+---
+
+### Inimigos Enfrentados
+
+- Monstros de Fumaça;
+- Capa Flutuante.
+
 ---  
 
-### Principais eventos
+### Principais Eventos
 
 - **Chegada em Porto Lobo.** Após a chegada do grupo em Porto Lobo, os personagens se conhecem e conversam sobre o motivo de terem sido chamados lá.
 

@@ -46,8 +46,9 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[Sessão 05 ― Garota Azeda]];
 - [[Sessão 06 ― Mergulhe]].
 
-#### ...
+#### Arquivo S.A.P.O.: "Demônios Circenses"
 
 - [[Sessão 07 ― Mãe]];
 - [[Sessão 08 ― A Galeria dos Espelhos]];
-- [[Sessão 09 ― Atravesse (Para o Outro Lado)]].
+- [[Sessão 09 ― Atravesse (Para o Outro Lado)]];
+- [[Sessão 10 ― O Show Tem que Continuar]].

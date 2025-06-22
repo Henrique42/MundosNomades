@@ -24,7 +24,7 @@
 
 ---
 
-### NPCs encontrados
+### NPCs Encontrados
 
 - Dona do bar;
 - [[Garou]];
@@ -34,15 +34,21 @@
 
 ---
 
-### Principais eventos
+### Inimigos Enfrentados
 
-1. O Grupo 2 (Marduk, Rhogar, Sherlock e Roberta) decide investigar o bar no qual Joaquim costumava ir.
+*Vazio.*
+
+---
+
+### Principais Eventos
+
+1. O Grupo 2 (Marduk, Rhogar, Sherlock e Roberta) decide investigar o bar no qual Joaquim costumava ir;
 	- Eles ligam para a Sede da Organização para avisar seus companheiros.
-2. No bar, eles conversam com Garou, assistente de cozinheiro e ex-amigo de Joaquim.
+2. No bar, eles conversam com Garou, assistente de cozinheiro e ex-amigo de Joaquim;
 	- Eles descobrem que Joaquim foi visto com homens encapuzados.
-3. Após passar pela sede seus companheiros se juntam à eles.
-4. Fora do bar, eles ameaçam um guarda bêbado a fim de obter informações, sem muito sucesso.
-5. De volta ao bar, Lavenza utiliza *detect magic* e descobre que Roberta carregava um item mágico (um pergaminho de *disguise self*, como revelado posteriormente).
+3. Após passar pela sede seus companheiros se juntam à eles;
+4. Fora do bar, eles ameaçam um guarda bêbado a fim de obter informações, sem muito sucesso;
+5. De volta ao bar, Lavenza utiliza *detect magic* e descobre que Roberta carregava um item mágico (um pergaminho de *disguise self*, como revelado posteriormente);
 6. Após ameaças e discussões, Roberta se separa do grupo.
 
 ---

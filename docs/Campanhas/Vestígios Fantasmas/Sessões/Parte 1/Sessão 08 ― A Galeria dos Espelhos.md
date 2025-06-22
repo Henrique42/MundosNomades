@@ -23,7 +23,7 @@
 
 ---
 
-### NPCs encontrados
+### NPCs Encontrados
 
 - Lucilla Naves;
 - Guarda de Porto Lobo;
@@ -34,9 +34,15 @@
 
 ---
 
-### Principais eventos
+### Inimigos Enfrentados
 
-1. Os jogadores tentam entrar na casa da criança desaparecida enquanto os guardas a vasculham.
+*Vazio.*
+
+---
+
+### Principais Eventos
+
+1. Os jogadores tentam entrar na casa da criança desaparecida enquanto os guardas a vasculham;
 	- Inicialmente, Lavenza tenta mandar seu familiar cobra, mas Sérgio a percebe;
 	- A cobra consegue passar após conjurarem *Invisibility* nela.
 2. Na casa, um dos guardas começa a rir descontroladamente após se aproximar de um espelho;
