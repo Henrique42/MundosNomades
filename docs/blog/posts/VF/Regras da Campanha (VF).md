@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-06-22
+date: 2025-07-04
 slug: vf-regras
 categories:
   - regras
@@ -57,6 +57,7 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 | +1     | Ao forjar ou quebrar um *laço* com um personagem (PC ou NPC).                                                                                                                                                            |
 | +1     | Ao progredir significativamente nos objetivos pessoais do personagem.                                                                                                                                                    |
 | +2     | Ao falhar automaticamente em uma rolagem por causa de uma característica do seu personagem. *EX.: perder um teste contra ficar assustado se o personagem tiver uma fobia já estabelecida de uma criatura em específico.* |
+| +x     | Adicionar conteúdo relevante à *wiki*.                                                                                                                                                                                   |
 
 #### Usos
 
@@ -69,5 +70,5 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 #### Observações
 
 - Substituto para a Inspiração do D&D 5e;
-- Não há limite máximo de pontos;
+- O limite máximo de pontos é **5**;
 - Ao final de uma sessão, os jogadores têm a possibilidade de argumentar sobre ter cumprido alguma das condições para a aquisição de pontos.

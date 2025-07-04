@@ -12,3 +12,4 @@
 - **Espécie:** High Elf
 - **Gênero:** Feminino
 - **Classe:** Sorcerer (Lunar Sorcery)
+- **Campanha(s):** [[Vestígios Fantasmas]]

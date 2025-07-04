@@ -9,7 +9,7 @@ tags:
 ---
 
 
-# Criação de Personagem (nível 1)
+# Criação de Personagem - Vestígios Fantasmas
 
 Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os seus personagens.
 
@@ -17,15 +17,15 @@ Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os
 
 ## *Prompt* inicial:
 
-*Há exatamente um mês, todos vocês receberam uma carta misteriosa assinada por uma mulher, a qual vocês não conhecem, chamada Reina Velez. O envelope continha uma mensagem provocativa: uma oferta de emprego que prometia uma chance de "solucionar os mistérios mais obscuros deste mundo".*
+> *Há exatamente um mês, todos vocês receberam uma carta misteriosa assinada por uma mulher, a qual vocês não conhecem, chamada Reina Velez. O envelope continha uma mensagem provocativa: uma oferta de emprego que prometia uma chance de "solucionar os mistérios mais obscuros deste mundo".*
+>
+>*Por algum motivo, talvez relacionado a memórias antigas ou um desejo de mudar de vida, você decide aceitar o convite. Agora, você se dirige a outrora famosa cidade de [[Porto Lobo]].*
 
-*Por algum motivo, talvez relacionado a memórias antigas ou um desejo de mudar de vida, você decide aceitar o convite. Agora, você se dirige a outrora famosa cidade de [[Porto Lobo]].*
-
-**Observação:**
+### Observações
 
 - O ideal é que os personagens tenham um motivo para terem sido escolhidos como investigadores paranormais. Não precisa estar necessariamente ligado à algum monstro;
 
-- Sem arte de IA;
+- **Sem arte de IA**;
 
 - Podem criar ligações entre personagens, caso contrário, será presumido que todos são desconhecidos entre si.
 

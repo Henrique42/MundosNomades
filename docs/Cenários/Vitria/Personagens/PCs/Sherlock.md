@@ -12,3 +12,4 @@
 - **Espécie:** Lightfoot Halfling
 - **Gênero:** Masculino
 - **Classe:** Rogue (Inquisitive)
+- **Campanha(s):** [[Vestígios Fantasmas]]

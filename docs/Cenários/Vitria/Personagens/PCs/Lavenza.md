@@ -12,6 +12,7 @@
 - **Espécie:** Aasimar
 - **Gênero:** Feminino
 - **Classe:** Warlock (The Celestial)
+- **Campanha(s):** [[Vestígios Fantasmas]]
 
 ---
 

@@ -12,3 +12,4 @@
 - **Espécie:** ?
 - **Gênero:** Masculino
 - **Classe:** Cleric (Grave Domain)
+- **Campanha(s):** [[Vestígios Fantasmas]]

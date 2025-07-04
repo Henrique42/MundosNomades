@@ -1,4 +1,4 @@
-- **Pseudônimos:** Betinho
+- **Pseudônimos:** -
 - **Função:** jogador
 
 ---
@@ -7,7 +7,7 @@
 
 | Personagem | Campanha                | Situação |
 | ---------- | ----------------------- | -------- |
-| [[Marduk]] | [[Vestígios Fantasmas]] | Vivo     |
+| [[Vamas]]  | [[Vestígios Fantasmas]] | Em Hiato |
 
 ---
 

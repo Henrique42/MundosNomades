@@ -9,9 +9,9 @@ tags:
 ---
 
 
-# Atualização da wiki (Sessão 02)
+# Atualização da wiki (Sessão VF02)
 
-A wiki foi atualizada com o conteúdo da sessão nº 02.
+A wiki foi atualizada com o conteúdo da sessão nº 02 da campanha [[Vestígios Fantasmas]].
 
 <!-- more -->
 

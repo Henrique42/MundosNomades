@@ -12,3 +12,4 @@
 - **Espécie:** Firbolg
 - **Gênero:** Masculino
 - **Ocupação:** Druid (Circle of Stars)
+- **Campanha(s):** [[Vestígios Fantasmas]]

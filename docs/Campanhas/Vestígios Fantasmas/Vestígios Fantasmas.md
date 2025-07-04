@@ -17,14 +17,14 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 - **Mestre(s):** [[Bruno]].
 - **Jogadores:**
 
-| Jogador      | Personagens  |
-| ------------ | ------------ |
-| [[Anthony]]  | [[Rhogar]]   |
-| [[Antônio]]  | [[Marduk]]   |
-| [[Clenildo]] | [[Lavenza]]  |
-| [[Emanoel]]  | [[Sherlock]] |
-| [[Paulo]]    | [[Vamas]]    |
-| [[Saymon]]   | [[Aenoir]]   |
+| Jogador      | Personagens          |
+| ------------ | -------------------- |
+| [[Anthony]]  | [[Rhogar]]           |
+| [[Antônio]]  | [[Marduk]]           |
+| [[Clenildo]] | [[Lavenza]]          |
+| [[Emanoel]]  | [[Sherlock]]         |
+| [[Paulo]]    | [[Vamas]] (Em Hiato) |
+| [[Saymon]]   | [[Aenoir]]           |
 
 ---
 
@@ -51,4 +51,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[Sessão 07 ― Mãe]];
 - [[Sessão 08 ― A Galeria dos Espelhos]];
 - [[Sessão 09 ― Atravesse (Para o Outro Lado)]];
-- [[Sessão 10 ― O Show Tem que Continuar]].
+- [[Sessão 10 ― O Show Tem Que Continuar]].

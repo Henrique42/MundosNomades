@@ -9,9 +9,9 @@ tags:
 ---
 
 
-# Atualização da wiki (Sessão 08)
+# Atualização da wiki (Sessão VF08)
 
-A wiki foi atualizada com o conteúdo da sessões nº 08.
+A wiki foi atualizada com o conteúdo da sessões nº 08 da campanha [[Vestígios Fantasmas]].
 
 <!-- more -->
 

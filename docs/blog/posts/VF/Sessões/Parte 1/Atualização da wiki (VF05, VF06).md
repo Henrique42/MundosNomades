@@ -9,9 +9,9 @@ tags:
 ---
 
 
-# Atualização da wiki (Sessões 05 & 06)
+# Atualização da wiki (Sessões VF05 & VF06)
 
-A wiki foi atualizada com o conteúdo da sessões nº 05 e 06.
+A wiki foi atualizada com o conteúdo da sessões nº 05 e 06 da campanha [[Vestígios Fantasmas]].
 
 <!-- more -->
 

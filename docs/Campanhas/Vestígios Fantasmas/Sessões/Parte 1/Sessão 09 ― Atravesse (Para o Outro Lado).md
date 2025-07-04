@@ -46,4 +46,4 @@
 
 ---
 
-[[Sessão 08 ― A Galeria dos Espelhos|<< Anterior]] | [[Sessão 10 ― O Show Tem que Continuar|Próxima >>]]
+[[Sessão 08 ― A Galeria dos Espelhos|<< Anterior]] | [[Sessão 10 ― O Show Tem Que Continuar|Próxima >>]]

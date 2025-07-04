@@ -9,12 +9,12 @@ tags:
 ---
 
 
-# Atualização da wiki (Sessão 10)
+# Atualização da wiki (Sessão VF10)
 
-A wiki foi atualizada com o conteúdo da sessões nº 10.
+A wiki foi atualizada com o conteúdo da sessões nº 10 da campanha [[Vestígios Fantasmas]].
 
 <!-- more -->
 
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 10 ― O Show Tem que Continuar]];
+	- Nova sessão: [[Sessão 10 ― O Show Tem Que Continuar]];
 	- Adicionada parte de "Inimigos Enfrentados" nas sessões.

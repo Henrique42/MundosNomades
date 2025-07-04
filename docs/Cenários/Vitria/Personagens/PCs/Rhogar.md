@@ -12,6 +12,7 @@
 - **Espécie:** Red Dragonborn
 - **Gênero:** Masculino
 - **Classe:** Barbarian (Path of Wild Magic)
+- **Campanha(s):** [[Vestígios Fantasmas]]
 
 ---
 
