@@ -52,3 +52,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[Sessão 08 ― A Galeria dos Espelhos]];
 - [[Sessão 09 ― Atravesse (Para o Outro Lado)]];
 - [[Sessão 10 ― O Show Tem Que Continuar]].
+
+#### Interlúdio: O Arquivo da S.A.P.O.
+
+- [[Sessão 11 ― Estivemos Longe Por Muito Tempo]].

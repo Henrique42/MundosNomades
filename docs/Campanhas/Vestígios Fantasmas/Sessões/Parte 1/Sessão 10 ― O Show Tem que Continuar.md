@@ -47,4 +47,4 @@
 
 ---
 
-[[Sessão 09 ― Atravesse (Para o Outro Lado)|<< Anterior]] | Próxima >>
+[[Sessão 09 ― Atravesse (Para o Outro Lado)|<< Anterior]] | [[Sessão 11 ― Estivemos Longe Por Muito Tempo | Próxima >>]]

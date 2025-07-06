@@ -1,4 +1,4 @@
-**Fausto** é um estudante na Universidade Vernaliana de Magia.
+**Fausto** é um estudante na Universidade Vernaliana de Magia e estagiário na [[S.A.P.O.]].
 
 ---
 
@@ -11,7 +11,7 @@
 - **Espécie:** Harengon
 - **Gênero:** Masculino
 - **Ocupação:** Mago / Estudante universitário
-- **Afiliação:** Universidade Vernaliana de Magia
+- **Afiliação:** Universidade Vernaliana de Magia, [[S.A.P.O.]]
 
 ---
 
