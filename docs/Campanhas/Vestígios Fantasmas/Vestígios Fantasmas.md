@@ -42,7 +42,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 #### Interlúdio: Conhecendo Porto Lobo
 
-- [[Sessão 04 ― A Prisioneira]];
+- [[Sessão 04 ― Breves Encontros]];
 - [[Sessão 05 ― Garota Azeda]];
 - [[Sessão 06 ― Mergulhe]].
 
@@ -55,4 +55,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 #### Interlúdio: O Arquivo da S.A.P.O.
 
-- [[Sessão 11 ― Estivemos Longe Por Muito Tempo]].
+- [[Sessão 11 ― Estivemos Longe Tempo Demais]].

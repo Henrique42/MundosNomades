@@ -50,4 +50,4 @@
 
 ---
 
-[[Sessão 02 ― Libertem a Bruxa|<< Anterior]] | [[Sessão 04 ― A Prisioneira|Próxima >>]]
+[[Sessão 02 ― Libertem a Bruxa|<< Anterior]] | [[Sessão 04 ― Breves Encontros|Próxima >>]]

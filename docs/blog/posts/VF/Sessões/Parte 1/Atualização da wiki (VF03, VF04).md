@@ -16,7 +16,7 @@ A wiki foi atualizada com o conteúdo da sessões nº 03 e 04 da campanha [[Vest
 <!-- more -->
 
 - **O que há de novo?**
-	- Novas sessões: [[Sessão 03 ― Caveiras e Velas]] e [[Sessão 04 ― A Prisioneira]];
+	- Novas sessões: [[Sessão 03 ― Caveiras e Velas]] e [[Sessão 04 ― Breves Encontros]];
 	- NPCs adicionados: [[Átropos]], [[Bartolomeu Bravo]], [[Dona Edna]], [[Fausto]] e [[Roberta Araújo]];
 	- NPCs atualizados: [[Miranda]] e [[Reina Velez]];
 	- Local adicionado: [[A 'Cripta']];

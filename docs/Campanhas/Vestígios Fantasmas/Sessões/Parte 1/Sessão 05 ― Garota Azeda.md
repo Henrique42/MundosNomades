@@ -53,4 +53,4 @@
 
 ---
 
-[[Sessão 04 ― A Prisioneira|<< Anterior]] | [[Sessão 06 ― Mergulhe|Próxima >>]]
+[[Sessão 04 ― Breves Encontros|<< Anterior]] | [[Sessão 06 ― Mergulhe|Próxima >>]]
