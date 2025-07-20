@@ -2,6 +2,6 @@
 
 ## Mais Informações
 
-- [[Espécies]];
-- [[Planos]];
-- [[Divindades]].
+- [[Espécies de Vitria]];
+- [[Planos de Vitria]];
+- [[Divindades de Vitria]].
