@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/ZaHTMnC.png" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Espécie:** Harengon
-- **Gênero:** Masculino
-- **Ocupação:** Mago / Estudante universitário
-- **Afiliação:** Universidade Vernaliana de Magia, [[S.A.P.O.]]
+!!! abstract "Perfil"
+	- **Espécie:** Harengon
+	- **Gênero:** Masculino
+	- **Ocupação:** Mago; Estudante Universitário
+	- **Afiliação:** Universidade Vernaliana de Magia; [[S.A.P.O.]]
 
 ---
 

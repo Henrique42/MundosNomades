@@ -1,5 +1,6 @@
-- **Pseudônimos:** nômade
-- **Função:** mestre
+!!! abstract "Perfil"
+	- **Pseudônimos:** nômade
+	- **Função:** mestre
 
 ---
 

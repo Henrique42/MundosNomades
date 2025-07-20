@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/xSgHJzq.png" height="300">
 </div>
 
-### Informações
-
-- **Espécie:** humano
-- **Gênero:** masculino
-- **Ocupação:** Escritor / Dramaturgo
-- **Afiliação:** Teatro Municipal de Porto Lobo
+!!! abstract "Perfil"
+	- **Espécie:** humano
+	- **Gênero:** Masculino
+	- **Ocupação:** Escritor; Dramaturgo
+	- **Afiliação:** [[Porto Lobo | Teatro Municipal de Porto Lobo]]
 
 ---
 

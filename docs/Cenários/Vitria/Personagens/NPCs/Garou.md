@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/rBO98Hk.png" width="300" height="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Espécie:** Humano
-- **Gênero:** Masculino
-- **Ocupação:** Assistente de Cozinheiro
-- **Afiliação:** [[Porto Lobo|Bar Água & Sal]]
+!!! abstract "Perfil"
+	- **Espécie:** Humano
+	- **Gênero:** Masculino
+	- **Ocupação:** Assistente de Cozinheiro
+	- **Afiliação:** [[Porto Lobo|Bar Água & Sal]]
 
 ---
 

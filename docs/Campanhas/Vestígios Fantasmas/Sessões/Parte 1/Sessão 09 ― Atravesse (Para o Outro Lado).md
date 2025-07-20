@@ -1,5 +1,6 @@
-- **Data:** 14/06/2025
-- **Autor(es):** [[Bruno]]
+!!! info
+	- **Data:** 14/06/2025
+	- **Autor(es):** [[Bruno]]
 
 ---
 

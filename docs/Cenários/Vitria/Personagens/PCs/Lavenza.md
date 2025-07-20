@@ -6,13 +6,12 @@
 <img src="https://i.imgur.com/exjaav3.jpeg" height="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Jogador:** [[Clenildo]]
-- **Espécie:** Aasimar
-- **Gênero:** Feminino
-- **Classe:** Warlock (The Celestial)
-- **Campanha(s):** [[Vestígios Fantasmas]]
+!!! abstract "Perfil"
+	- **Jogador:** [[Clenildo]]
+	- **Espécie:** Aasimar
+	- **Gênero:** Feminino
+	- **Classe:** Warlock (The Celestial)
+	- **Campanha(s):** [[Vestígios Fantasmas]]
 
 ---
 

@@ -6,10 +6,9 @@
 <img src="https://i.imgur.com/l4IwGH9.jpeg" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Jogador:** [[Antônio]]
-- **Espécie:** Firbolg
-- **Gênero:** Masculino
-- **Ocupação:** Druid (Circle of Stars)
-- **Campanha(s):** [[Vestígios Fantasmas]]
+!!! abstract "Perfil"
+	- **Jogador:** [[Antônio]]
+	- **Espécie:** Firbolg
+	- **Gênero:** Masculino
+	- **Ocupação:** Druid (Circle of Stars)
+	- **Campanha(s):** [[Vestígios Fantasmas]]

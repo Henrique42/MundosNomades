@@ -6,13 +6,12 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/017/286/766/large/andrew-phillips-dragonbornlumberjacklowresbg.jpg" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Jogador:** [[Anthony]]
-- **Espécie:** Red Dragonborn
-- **Gênero:** Masculino
-- **Classe:** Barbarian (Path of Wild Magic)
-- **Campanha(s):** [[Vestígios Fantasmas]]
+!!! abstract "Perfil"
+	- **Jogador:** [[Anthony]]
+	- **Espécie:** Red Dragonborn
+	- **Gênero:** Masculino
+	- **Classe:** Barbarian (Path of Wild Magic)
+	- **Campanha(s):** [[Vestígios Fantasmas]]
 
 ---
 

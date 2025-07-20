@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/Z2Kfx2a.png" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Espécie:** Humana
-- **Gênero:** Feminino
-- **Ocupação:** Atriz
-- **Afiliação:** [[Porto Lobo|Teatro Municipal de Porto Lobo]]
+!!! abstract "Perfil"
+	- **Espécie:** Humana
+	- **Gênero:** Feminino
+	- **Ocupação:** Atriz
+	- **Afiliação:** [[Porto Lobo|Teatro Municipal de Porto Lobo]]
 
 ---
 

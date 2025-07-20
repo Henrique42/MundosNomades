@@ -15,7 +15,8 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 
 <!-- more -->
 
-> OBS.: Para saber mais sobre o cenário (*homebrew*) da campanha, acesse [[Vitria]].
+!!! tip "Dica"
+	Para saber mais sobre o cenário (*homebrew*) da campanha, acesse [[Vitria]].
 
 ## Regras Gerais
 
@@ -38,11 +39,10 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 
 ### Montagem de viagem
 
-> "Caso os Heróis estejam viajando pela cidade por algumas horas ou pela natureza selvagem em uma expedição aterrorizante rumo ao desconhecido, estabeleça o clima de desafio e aventura sem gastar muito tempo em múltiplos encontros hostis. Essa regra é válida principalmente para sessões mais curtas ou one-shots. *Nesses casos, circule pela mesa e peça ao primeiro jogador para descrever uma ameaça ou desafio. Peça ao segundo jogador para piorá-lo. Por fim, pergunte a um terceiro jogador como o grupo resolveu o problema e se houve consequências.*"
-> 
-> "Tais desafios podem ser interpessoais, diplomáticos, de combate, logísticos, burocráticos ou inúmeras outras possibilidades; a única regra é que sejam divertidos o suficiente para valerem a pena serem mencionados. Duas ou três montagens geralmente são suficientes para capturar a sensação de uma longa jornada em apenas alguns instantes, mas ajuste a quantidade como desejar."
-
-*(Retirado do livro de regras do TTRPG "Swords of the Serpentine")*
+!!! quote "Montagem de Viagem (Swords of the Serpentine)"
+	Caso os Heróis estejam viajando através da cidade por algumas horas ou pela natureza selvagem em uma expedição perigosa rumo ao desconhecido, estabeleça o clima de desafio e aventura sem gastar muito tempo em múltiplos encontros hostis. Essa regra é válida principalmente para sessões mais curtas ou one-shots. **Nesses casos, circule pela mesa e peça ao primeiro jogador para descrever uma ameaça ou desafio. Peça ao segundo jogador para piorá-lo. Por fim, pergunte a um terceiro jogador como o grupo resolveu o problema e se houve consequências.**
+	<p></p>
+	Tais desafios podem ser interpessoais, diplomáticos, de combate, logísticos, burocráticos ou inúmeras outras possibilidades; a única regra é que sejam divertidos o suficiente para valerem a pena serem mencionados. Duas ou três montagens geralmente são suficientes para capturar a sensação de uma longa jornada em apenas alguns instantes, mas ajuste a quantidade como desejar.
 
 ### Pontos de Vestígio
 
@@ -53,7 +53,7 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 | Pontos | Motivo                                                                                                                                                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | +1     | Ao subir de nível.                                                                                                                                                                                                       |
-| +1     | Ao tirar uma falha crítica.                                                                                                                                                                                              |
+| +1     | Ao tirar uma falha crítica em rolagens de ataques.                                                                                                                                                                       |
 | +1     | Ao forjar ou quebrar um *laço* com um personagem (PC ou NPC).                                                                                                                                                            |
 | +1     | Ao progredir significativamente nos objetivos pessoais do personagem.                                                                                                                                                    |
 | +2     | Ao falhar automaticamente em uma rolagem por causa de uma característica do seu personagem. *EX.: perder um teste contra ficar assustado se o personagem tiver uma fobia já estabelecida de uma criatura em específico.* |

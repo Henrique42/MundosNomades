@@ -1,5 +1,6 @@
-- **Data:** 27/09/2024
-- **Autor(es):** [[Anthony]] e [[Paulo]]
+!!! info
+	- **Data:** 27/09/2024
+	- **Autor(es):** [[Anthony]] e [[Paulo]]
 
 ---
 

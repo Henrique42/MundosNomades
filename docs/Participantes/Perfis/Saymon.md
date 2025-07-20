@@ -1,5 +1,6 @@
-- **Pseudônimos:** -
-- **Função:** jogador
+!!! abstract "Perfil"
+	- **Pseudônimos:** -
+	- **Função:** jogador
 
 ---
 

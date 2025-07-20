@@ -6,10 +6,9 @@
 <img src="https://i.imgur.com/MhaV69Q.png" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Jogador:** [[Saymon]]
-- **Espécie:** High Elf
-- **Gênero:** Feminino
-- **Classe:** Sorcerer (Lunar Sorcery)
-- **Campanha(s):** [[Vestígios Fantasmas]]
+!!! abstract "Perfil"
+	- **Jogador:** [[Saymon]]
+	- **Espécie:** High Elf
+	- **Gênero:** Feminino
+	- **Classe:** Sorcerer (Lunar Sorcery)
+	- **Campanha(s):** [[Vestígios Fantasmas]]

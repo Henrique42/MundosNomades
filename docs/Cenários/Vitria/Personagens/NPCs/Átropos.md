@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/dRLhfPj.png" width="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Espécie:** ?
-- **Gênero:** Feminino
-- **Ocupação:** Bruxa
-- **Afiliação:** ?
+!!! abstract "Perfil"
+	- **Espécie:** ?
+	- **Gênero:** Feminino
+	- **Ocupação:** Bruxa
+	- **Afiliação:** ?
 
 ---
 

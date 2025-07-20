@@ -1,5 +1,6 @@
-- **Pseudônimos:** Betinho
-- **Função:** jogador
+!!! abstract "Perfil"
+	- **Pseudônimos:** Betinho
+	- **Função:** jogador
 
 ---
 

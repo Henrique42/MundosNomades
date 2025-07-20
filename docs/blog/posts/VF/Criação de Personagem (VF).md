@@ -17,9 +17,9 @@ Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os
 
 ## *Prompt* inicial:
 
-> *Há exatamente um mês, todos vocês receberam uma carta misteriosa assinada por uma mulher, a qual vocês não conhecem, chamada Reina Velez. O envelope continha uma mensagem provocativa: uma oferta de emprego que prometia uma chance de "solucionar os mistérios mais obscuros deste mundo".*
->
->*Por algum motivo, talvez relacionado a memórias antigas ou um desejo de mudar de vida, você decide aceitar o convite. Agora, você se dirige a outrora famosa cidade de [[Porto Lobo]].*
+!!! abstract
+	Há exatamente um mês, todos vocês receberam uma carta misteriosa assinada por uma mulher, a qual vocês não conhecem, chamada Reina Velez. O envelope continha uma mensagem provocativa: uma oferta de emprego que prometia uma chance de "solucionar os mistérios mais obscuros deste mundo".
+	Por algum motivo, talvez relacionado a memórias antigas ou um desejo de mudar de vida, você decide aceitar o convite. Agora, você se dirige a outrora famosa cidade de [[Porto Lobo]].
 
 ### Observações
 

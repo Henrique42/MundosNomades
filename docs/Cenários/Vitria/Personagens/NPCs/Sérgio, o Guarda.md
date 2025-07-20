@@ -6,12 +6,11 @@
 <img src="https://i.imgur.com/UjaHWO6.png" width="300" height="300" style="border: 1px solid black;">
 </div>
 
-### Informações
-
-- **Espécie:** Humano
-- **Gênero:** Masculino
-- **Ocupação:** Guarda
-- **Afiliação:** [[Porto Lobo|Cidade de Porto Lobo]]
+!!! abstract "Perfil"
+	- **Espécie:** Humano
+	- **Gênero:** Masculino
+	- **Ocupação:** Guarda
+	- **Afiliação:** [[Porto Lobo|Cidade de Porto Lobo]]
 
 ---
 

@@ -1,5 +1,6 @@
-- **Data:** 07/06/2025
-- **Autor(es):** [[Bruno]]
+!!! info
+	- **Data:** 07/06/2025
+	- **Autor(es):** [[Bruno]]
 
 ---
 
@@ -36,7 +37,7 @@
 
 ### Inimigos Enfrentados
 
-*Vazio.*
+- Assaltantes (montagem).
 
 ---
 
