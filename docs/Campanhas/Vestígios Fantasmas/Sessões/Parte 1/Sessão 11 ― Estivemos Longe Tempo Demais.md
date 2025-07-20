@@ -1,5 +1,6 @@
-- **Data:** 05/07/2025
-- **Autor(es):** [[Bruno]]
+!!! info
+	- **Data:** 05/07/2025
+	- **Autor(es):** [[Bruno]]
 
 ---
 
@@ -51,4 +52,4 @@
 
 ---
 
-[[Sessão 10 ― O Show Tem Que Continuar|<< Anterior]] | Próxima >>
+[[Sessão 10 ― O Show Tem Que Continuar|<< Anterior]] | [[Sessão 12 ― Mundo Selvagem | Próxima >>]]

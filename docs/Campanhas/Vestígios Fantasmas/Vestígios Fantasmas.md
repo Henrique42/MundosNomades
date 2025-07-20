@@ -1,5 +1,15 @@
 **Vestígios Fantasmas** é uma campanha de D&D 5ª edição com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
+!!! abstract "Ficha"
+	- **Sistema:** D&D 5e (2014)
+	- **Mundo:** [[Vitria]]
+	- **Gênero(s):** 
+		- Fantasia
+		- Mistério 
+	- **Mestre:** [[Bruno]]
+	- **Tipo:** Campanha
+	- **Estado:** Em Andamento
+
 ---
 
 ## Premissa
@@ -34,25 +44,29 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Parte 1
 
-#### Arquivo S.A.P.O.: "O Fantasma do Teatro"
+**Arquivo S.A.P.O.: "O Fantasma do Teatro"**
 
-- [[Sessão 01 ― Fantasmagoria]];
-- [[Sessão 02 ― Libertem a Bruxa]];
-- [[Sessão 03 ― Caveiras e Velas]].
+- [[Sessão 01 ― Fantasmagoria]]
+- [[Sessão 02 ― Libertem a Bruxa]]
+- [[Sessão 03 ― Caveiras e Velas]]
 
-#### Interlúdio: Conhecendo Porto Lobo
+**Interlúdio: Conhecendo Porto Lobo**
 
-- [[Sessão 04 ― Breves Encontros]];
-- [[Sessão 05 ― Garota Azeda]];
-- [[Sessão 06 ― Mergulhe]].
+- [[Sessão 04 ― Breves Encontros]]
+- [[Sessão 05 ― Garota Azeda]]
+- [[Sessão 06 ― Mergulhe]]
 
-#### Arquivo S.A.P.O.: "Demônios Circenses"
+**Arquivo S.A.P.O.: "Demônios Circenses"**
 
-- [[Sessão 07 ― Mãe]];
-- [[Sessão 08 ― A Galeria dos Espelhos]];
-- [[Sessão 09 ― Atravesse (Para o Outro Lado)]];
-- [[Sessão 10 ― O Show Tem Que Continuar]].
+- [[Sessão 07 ― Mãe]]
+- [[Sessão 08 ― A Galeria dos Espelhos]]
+- [[Sessão 09 ― Atravesse (Para o Outro Lado)]]
+- [[Sessão 10 ― O Show Tem Que Continuar]]
 
-#### Interlúdio: O Arquivo da S.A.P.O.
+**Interlúdio: O Arquivo da S.A.P.O.**
 
-- [[Sessão 11 ― Estivemos Longe Tempo Demais]].
+- [[Sessão 11 ― Estivemos Longe Tempo Demais]]
+
+**...**
+
+- [[Sessão 12 ― Mundo Selvagem]]

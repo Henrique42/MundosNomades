@@ -32,10 +32,11 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 - **Bar Água & Sal:** um dos principais estabelecimentos existentes no Porto Oeste;
 - **Casa das Ervas:** loja criada e administrada pela herbalista [[Dona Edna]];
 - **Esgoto de Porto Lobo;**
+- **Forja Germain:** forja criada e administrada pelo respeitado ferreiro [[Bjorn Germain]] e seu filho Fritz;
 - **Prisão de Porto Lobo:** prisão municipal, conhecida como um ponto turístico por certos visitantes;
-- **Sede da [[S.A.P.O.]];**
+- **Sede da S.A.P.O.:** base de operações da misteriosa organização conhecida como [[S.A.P.O.]]
 - **Teatro Municipal de Porto Lobo:** administrado pelo dramaturgo [[Bartolomeu Bravo]];
-- **Templo de Utana.**
+- **Templo de Utana:** templo dedicado à deusa Utana.
 
 ---
 
