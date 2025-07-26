@@ -52,4 +52,4 @@
 
 ---
 
-[[Sessão 11 ― Estivemos Longe Tempo Demais|<< Anterior]] | Próxima >>
+[[Sessão 11 ― Estivemos Longe Tempo Demais|<< Anterior]] | [[Sessão 13 ― Carne e Sangue | Próxima >>]]

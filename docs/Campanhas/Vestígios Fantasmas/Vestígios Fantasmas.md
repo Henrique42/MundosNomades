@@ -70,3 +70,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 **...**
 
 - [[Sessão 12 ― Mundo Selvagem]]
+- [[Sessão 13 ― Carne e Sangue]]

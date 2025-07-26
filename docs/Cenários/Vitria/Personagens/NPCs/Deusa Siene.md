@@ -9,8 +9,8 @@
 !!! abstract "Perfil"
 	- **Espécie:** Deidade
 	- **Gênero:** Feminino
-	- **Ocupação:** Deusa do Rio Siene
-	- **Afiliação:** Panteão de [[Vitria]]
+	- **Ocupação:** Deusa do rio Siene
+	- **Afiliação:** [[Divindades de Vitria]]
 
 ---
 
