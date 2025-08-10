@@ -2,7 +2,7 @@ site_name: Mundos Nômades
 
 theme:
     name: 'material'
-    language: pt-br
+    language: pt
     # Mudar ícone
     icon:
       logo: material/wizard-hat
