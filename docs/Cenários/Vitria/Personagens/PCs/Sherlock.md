@@ -1,4 +1,4 @@
-**Sherlock Gomes** é um halfling ladino que almeja atuar como investigador paranormal na [[S.A.P.O.]]
+**Sherlock Gomes** é um halfling ladino que atua como investigador paranormal na [[S.A.P.O.]]
 
 ---
 
@@ -12,3 +12,4 @@
 	- **Gênero:** Masculino
 	- **Classe:** Rogue (Inquisitive)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
+	- **Situação:** Vivo

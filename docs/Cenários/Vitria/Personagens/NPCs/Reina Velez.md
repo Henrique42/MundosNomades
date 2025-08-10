@@ -10,7 +10,8 @@
 	- **Espécie:** Shadar-kai
 	- **Gênero:** Feminino
 	- **Ocupação:** Fundadora e líder da [[S.A.P.O.]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** 
+		- [[S.A.P.O.]]
 
 ---
 

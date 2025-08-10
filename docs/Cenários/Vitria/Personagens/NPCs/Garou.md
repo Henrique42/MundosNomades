@@ -10,7 +10,8 @@
 	- **Espécie:** Humano
 	- **Gênero:** Masculino
 	- **Ocupação:** Assistente de Cozinheiro
-	- **Afiliação:** [[Porto Lobo|Bar Água & Sal]]
+	- **Afiliação:** 
+		- [[Porto Lobo|Bar Água & Sal]]
 
 ---
 

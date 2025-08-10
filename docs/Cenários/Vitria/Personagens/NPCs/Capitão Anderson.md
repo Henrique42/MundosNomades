@@ -10,7 +10,8 @@
 	- **Espécie:** ?
 	- **Gênero:** Masculino
 	- **Ocupação:** Capitão da Guarda
-	- **Afiliação:** [[Porto Lobo | Governo de Porto Lobo]]
+	- **Afiliação:** 
+		- [[Porto Lobo | Cidade de Porto Lobo]]
 
 ---
 

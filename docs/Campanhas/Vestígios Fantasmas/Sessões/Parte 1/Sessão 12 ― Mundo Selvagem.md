@@ -21,14 +21,14 @@
 - [[Porto Lobo]]:
 	- Sede da [[S.A.P.O.]];
 	- Forja Germain.
-- Bosque dos Lobos.
+- [[Bosque dos Lobos]].
 
 ---
 
 ### NPCs encontrados
 
 - [[Bjorn Germain]];
-- Fritz Germain;
+- [[Fritz Germain]];
 - [[Garou]];
 - Guardas;
 - [[Deusa Siene]].

@@ -10,7 +10,9 @@
 	- **Espécie:** Harengon
 	- **Gênero:** Masculino
 	- **Ocupação:** Mago; Estudante Universitário
-	- **Afiliação:** Universidade Vernaliana de Magia; [[S.A.P.O.]]
+	- **Afiliação:** 
+		- Universidade Vernaliana de Magia
+		- [[S.A.P.O.]]
 
 ---
 

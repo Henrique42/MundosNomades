@@ -10,7 +10,8 @@
 	- **Espécie:** humano
 	- **Gênero:** Masculino
 	- **Ocupação:** Escritor; Dramaturgo
-	- **Afiliação:** [[Porto Lobo | Teatro Municipal de Porto Lobo]]
+	- **Afiliação:** 
+		- [[Porto Lobo | Teatro Municipal de Porto Lobo]]
 
 ---
 

@@ -1,4 +1,4 @@
-**Rhogar da Lagoa Verde** é um dragonborn bárbaro que almeja atuar como investigador paranormal na [[S.A.P.O.]]
+**Rhogar da Lagoa Verde** é um dragonborn bárbaro que atua como investigador paranormal na [[S.A.P.O.]]
 
 ---
 
@@ -12,6 +12,7 @@
 	- **Gênero:** Masculino
 	- **Classe:** Barbarian (Path of Wild Magic)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
+	- **Situação:** Vivo
 
 ---
 

@@ -1,4 +1,4 @@
-**Lavenza** é uma aasimar bruxa que almeja atuar como investigadora paranormal na [[S.A.P.O.]]
+**Lavenza** é uma aasimar bruxa que atua como investigadora paranormal na [[S.A.P.O.]]
 
 ---
 
@@ -12,6 +12,7 @@
 	- **Gênero:** Feminino
 	- **Classe:** Warlock (The Celestial)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
+	- **Situação:** Viva
 
 ---
 

@@ -10,7 +10,8 @@
 	- **Espécie:** Gnomo
 	- **Gênero:** Feminino
 	- **Ocupação:** Herbalista / Apotecária
-	- **Afiliação:** [[Porto Lobo|Casa das Ervas]]
+	- **Afiliação:** 
+		- [[Porto Lobo|Casa das Ervas]]
 
 ---
 

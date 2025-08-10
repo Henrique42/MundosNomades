@@ -10,7 +10,8 @@
 	- **Espécie:** Deidade
 	- **Gênero:** Feminino
 	- **Ocupação:** Deusa do rio Siene
-	- **Afiliação:** [[Divindades de Vitria]]
+	- **Afiliação:** 
+		- [[Divindades de Vitria]]
 
 ---
 

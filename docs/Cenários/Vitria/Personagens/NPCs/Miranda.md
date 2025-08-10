@@ -10,7 +10,8 @@
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
 	- **Ocupação:** Secretária; Empregada (?)
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** 
+		- [[S.A.P.O.]]
 
 ---
 

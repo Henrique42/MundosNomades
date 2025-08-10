@@ -17,5 +17,5 @@ A wiki foi atualizada com o conteúdo da sessões nº 12 da campanha [[Vestígio
 
 - **O que há de novo?**
 	- Nova sessão: [[Sessão 12 ― Mundo Selvagem]];
-	- Novos NPCs: [[Bjorn Germain]] e [[Deusa Siene]];
+	- Novos NPCs: [[Bjorn Germain]], [[Fritz Germain]] e [[Deusa Siene]];
 	- Local atualizado: [[Porto Lobo]].
