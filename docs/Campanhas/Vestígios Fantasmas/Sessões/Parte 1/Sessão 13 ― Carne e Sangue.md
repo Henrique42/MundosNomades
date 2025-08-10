@@ -18,7 +18,7 @@
 
 ### Locais Visitados
 
-- Bosque dos Lobos:
+- [[Bosque dos Lobos]]:
 	- Acampamento dos Bandidos.
 
 ---
@@ -45,4 +45,4 @@
 
 ---
 
-[[Sessão 12 ― Mundo Selvagem|<< Anterior]] | Próxima >>
+[[Sessão 12 ― Mundo Selvagem|<< Anterior]] | [[Sessão 14 ― Os Dias de Cão Acabaram | Próxima >>]]
