@@ -67,8 +67,9 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 - [[Sessão 11 ― Estivemos Longe Tempo Demais]]
 
-**...**
+**Arquivo S.A.P.O.: "Lobisomem na Noite"**
 
 - [[Sessão 12 ― Mundo Selvagem]]
 - [[Sessão 13 ― Carne e Sangue]]
 - [[Sessão 14 ― Os Dias de Cão Acabaram]]
+- [[Sessão 15 ― A Lua Irá Cantar]]

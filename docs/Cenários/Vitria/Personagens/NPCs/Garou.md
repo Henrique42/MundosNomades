@@ -7,11 +7,12 @@
 </div>
 
 !!! abstract "Perfil"
-	- **Espécie:** Humano
+	- **Espécie:** Licantropo
 	- **Gênero:** Masculino
 	- **Ocupação:** Assistente de Cozinheiro
 	- **Afiliação:** 
 		- [[Porto Lobo|Bar Água & Sal]]
+		- [[Clã Midna]]
 
 ---
 

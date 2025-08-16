@@ -46,4 +46,4 @@
 
 ---
 
-[[Sessão 13 ― Carne e Sangue|<< Anterior]] | Próxima >>
+[[Sessão 13 ― Carne e Sangue|<< Anterior]] | [[Sessão 15 ― A Lua Irá Cantar| Próxima >>]]

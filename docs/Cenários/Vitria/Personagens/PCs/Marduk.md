@@ -3,7 +3,7 @@
 ---
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/l4IwGH9.jpeg" width="300" style="border: 1px solid black;">
+<img src="https://i.imgur.com/xBWiwqo.jpeg" width="300" style="border: 1px solid black;">
 </div>
 
 !!! abstract "Perfil"
