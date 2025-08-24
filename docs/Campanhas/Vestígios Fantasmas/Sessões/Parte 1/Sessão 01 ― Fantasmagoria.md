@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 23/08/2024
 	- **Autor(es):** [[Anthony]] e [[Paulo]]
 
@@ -20,23 +21,23 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Mercado;
-	- Teatro Municipal.
+	- Mercado
+	- Teatro Municipal
 
 ---  
 
 ### NPCs Encontrados
 
-- [[Miranda]], empregada da líder da organização misteriosa;
-- Mainha Wilma;
-- Guarda 1, filho de Mainha Wilma.
+- [[Miranda]], empregada da líder da organização misteriosa
+- Mainha Wilma
+- Guarda 1, filho de Mainha Wilma (posteriormente nomeado como [[Sérgio, o Guarda]])
 
 ---
 
 ### Inimigos Enfrentados
 
-- Monstros de Fumaça;
-- Capa Flutuante.
+- Monstros de Fumaça
+- Capa Flutuante
 
 ---  
 

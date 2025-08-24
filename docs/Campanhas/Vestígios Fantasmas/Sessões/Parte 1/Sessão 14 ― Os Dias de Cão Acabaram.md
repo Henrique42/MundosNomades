@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 09/08/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,21 +20,21 @@
 ### Locais Visitados
 
 - [[Bosque dos Lobos]]:
-	- Acampamento dos Bandidos;
-	- Santuário na Floresta.
+	- Acampamento dos Bandidos
+	- Santuário na Floresta
 
 ---
 
 ### NPCs encontrados
 
-- [[Mocho]];
-- [[Garou]].
+- [[Mocho]]
+- [[Garou]]
 
 ---
 
 ### Inimigos Enfrentados
 
-- A Gangue das Harpias.
+- A Gangue das Harpias
 
 ---
 

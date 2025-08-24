@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 30/08/2024
 	- **Autor(es):** [[Anthony]] e [[Paulo]]
 
@@ -20,19 +21,19 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Teatro Municipal;
-	- Prisão;
-	- Esgoto.
+	- Teatro Municipal
+	- Prisão
+	- Esgoto
 
 ---  
 
 ### NPCs Encontrados
 
-- [[Vegas]] (Cara estranho no meio do beco);
-- Guarda 1;
-- Guarda 2;
-- Roberta Araújo (Atriz/Bruxa);
-- Silva Duarte (Ator).
+- [[Vegas]] (Cara estranho no meio do beco)
+- Guarda 1
+- Guarda 2
+- Roberta Araújo (Atriz/Bruxa)
+- Silva Duarte (Ator)
 
 ---
 

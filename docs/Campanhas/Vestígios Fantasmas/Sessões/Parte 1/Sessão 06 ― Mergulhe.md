@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 26/04/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -20,32 +21,32 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Bar Água & Sal.
+	- Bar Água & Sal
 
 ---
 
 ### NPCs Encontrados
 
-- Dona do bar;
-- [[Garou]];
-- Guarda bêbado;
-- Homens no Porto.
+- Dona do bar
+- [[Garou]]
+- Guarda bêbado
+- Homens no Porto
 
 ---
 
 ### Inimigos Enfrentados
 
-- Homens-peixe (2 tipos).
+- Homens-peixe (2 tipos)
 
 ---
 
 ### Principais Eventos
 
-1. Após sair do bar, Sherlock tenta conversar com dois homens no porto;
-2. Antes de isso ser possível, um dos homens é puxada para a água por um homem-peixe;
-3. Um combate se inicia com um grupo de homens-peixe;
+1. Após sair do bar, Sherlock tenta conversar com dois homens no porto.
+2. Antes de isso ser possível, um dos homens é puxada para a água por um homem-peixe.
+3. Um combate se inicia com um grupo de homens-peixe.
 	- Um deles destrói parte do cais.
-4. Garou se junta ao grupo no combate e ajuda a derrotar os inimigos;
+4. Garou se junta ao grupo no combate e ajuda a derrotar os inimigos.
 5. Após o combate, Garou decide revelar mais informações que talvez tenham relação com os homens encapuzados que foram vistos com Joaquim.
 
 ---

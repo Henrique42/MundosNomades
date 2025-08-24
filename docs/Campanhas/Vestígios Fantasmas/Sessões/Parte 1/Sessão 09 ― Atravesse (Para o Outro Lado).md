@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 14/06/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,8 +20,8 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Circo dos Irmãos Alichino.
-- [[O 'Outro Circo']].
+	- Circo dos Irmãos Alichino
+- [[O 'Outro Circo']]
 
 ---
 
@@ -32,17 +33,17 @@
 
 ### Inimigos Enfrentados
 
-- Palhaços Encapetados;
-- Malabarista de Facas.
+- Palhaços Encapetados
+- Malabarista de Facas
 
 ---
 
 ### Principais eventos
 
-1. Marduk e Rhogar conseguem atravessar o espelho e se juntar aos outros no "outro lado";
-2. Os personagens exploram tal versão do circo, ao mesmo tempo similar e diferente da que eles viram anteriormente;
+1. Marduk e Rhogar conseguem atravessar o espelho e se juntar aos outros no "outro lado".
+2. Os personagens exploram tal versão do circo, ao mesmo tempo similar e diferente da que eles viram anteriormente.
 	- Eles encontram alguns itens mágicos.
-3. Ao tentar avançar, eles se encontram com palhaços encapetados e um malabarista de facas. Combate se inicia;
+3. Ao tentar avançar, eles se encontram com palhaços encapetados e um malabarista de facas. Combate se inicia.
 4. Após a derrota dos monstros, o caminho para a próxima área se abre.
 
 ---

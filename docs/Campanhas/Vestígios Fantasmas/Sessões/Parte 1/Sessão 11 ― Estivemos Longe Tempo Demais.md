@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 05/07/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,19 +20,19 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Circo dos Irmãos Alichino;
+	- Circo dos Irmãos Alichino
 	- Sede da [[S.A.P.O.]]
 
 ---
 
 ### NPCs encontrados
 
-- Várias crianças;
-- Vários guardas;
-- [[Miranda]];
-- [[Reina Velez]];
-- Dona Vera e outros funcionários;
-- [[Fausto]].
+- Várias crianças
+- Vários guardas
+- [[Miranda]]
+- [[Reina Velez]]
+- Dona Vera e outros funcionários
+- [[Fausto]]
 
 ---
 

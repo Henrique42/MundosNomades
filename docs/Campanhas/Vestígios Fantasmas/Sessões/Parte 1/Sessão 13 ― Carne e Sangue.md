@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 25/07/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,7 +20,7 @@
 ### Locais Visitados
 
 - [[Bosque dos Lobos]]:
-	- Acampamento dos Bandidos.
+	- Acampamento dos Bandidos
 
 ---
 
@@ -31,8 +32,8 @@
 
 ### Inimigos Enfrentados
 
-- Cães de Caça;
-- Bandidos.
+- Cães de Caça
+- Bandidos
 
 ---
 

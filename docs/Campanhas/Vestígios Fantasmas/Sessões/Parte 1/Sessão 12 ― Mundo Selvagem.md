@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 19/07/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,25 +20,25 @@
 ### Locais Visitados
 
 - [[Porto Lobo]]:
-	- Sede da [[S.A.P.O.]];
-	- Forja Germain.
-- [[Bosque dos Lobos]].
+	- Sede da [[S.A.P.O.]]
+	- Forja Germain
+- [[Bosque dos Lobos]]
 
 ---
 
 ### NPCs encontrados
 
-- [[Bjorn Germain]];
-- [[Fritz Germain]];
-- [[Garou]];
-- Guardas;
-- [[Deusa Siene]].
+- [[Bjorn Germain]]
+- [[Fritz Germain]]
+- [[Garou]]
+- Guardas
+- [[Deusa Siene]]
 
 ---
 
 ### Inimigos Enfrentados
 
-- Lobos (montagem).
+- Lobos (montagem)
 
 ---
 
