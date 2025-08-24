@@ -1,4 +1,5 @@
 !!! info
+	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data:** 15/08/2025
 	- **Autor(es):** [[Bruno]]
 
@@ -19,21 +20,21 @@
 ### Locais Visitados
 
 - [[Bosque dos Lobos]]:
-	- Santuário na Floresta;
-	- Acampamento dos Bandidos;
-	- Ponte sobre o rio Siene.
+	- Santuário na Floresta
+	- Acampamento dos Bandidos
+	- Ponte sobre o rio Siene
 - [[Porto Lobo]]:
-	- Forja Germain.
+	- Forja Germain
 
 ---
 
 ### NPCs encontrados
 
-- [[Garou]];
-- [[Zaara]];
-- [[Deusa Siene]];
-- [[Bjorn Germain]];
-- [[Fritz Germain]].
+- [[Garou]]
+- [[Zaara]]
+- [[Deusa Siene]]
+- [[Bjorn Germain]]
+- [[Fritz Germain]]
 
 ---
 
@@ -53,4 +54,4 @@
 
 ---
 
-[[Sessão 14 ― Os Dias de Cão Acabaram|<< Anterior]] | Próxima >>
+[[Sessão 14 ― Os Dias de Cão Acabaram|<< Anterior]] | [[Sessão 16 ― Quando Chove | Próxima]]

@@ -5,8 +5,7 @@
 	- **Mundo:** [[Vitria]]
 	- **Gênero(s):** 
 		- Fantasia
-		- Mistério 
-	- **Mestre:** [[Bruno]]
+		- Mistério
 	- **Tipo:** Campanha
 	- **Estado:** Em Andamento
 
@@ -73,3 +72,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[Sessão 13 ― Carne e Sangue]]
 - [[Sessão 14 ― Os Dias de Cão Acabaram]]
 - [[Sessão 15 ― A Lua Irá Cantar]]
+
+**...**
+
+- [[Sessão 16 ― Quando Chove]]

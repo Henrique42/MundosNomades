@@ -17,4 +17,4 @@ A wiki foi atualizada com o conteúdo da sessões nº 11 da campanha [[Vestígio
 
 - **O que há de novo?**
 	- Nova sessão: [[Sessão 11 ― Estivemos Longe Tempo Demais]];
-	- Novo NPC: [[Capitão Anderson]].
+	- Novo NPC: [[Capitão Andriessen]].
