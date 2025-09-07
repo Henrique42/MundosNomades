@@ -75,4 +75,5 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 **...**
 
-- [[Sessão 16 ― Quando Chove]]
+- [[Sessão 16 ― Caixa de Chuva]]
+- [[Sessão 17 ― Flores Mortas]]
