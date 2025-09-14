@@ -16,4 +16,6 @@
 
 ---
 
-- Fonte da Imagem: Lavenza (Franquia Persona).
+### Créditos
+
+- Imagem do personagem: Franquia **Persona**.

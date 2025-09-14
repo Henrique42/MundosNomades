@@ -1,4 +1,4 @@
-**Átropos**, é uma antiga bruxa de [[Vernália]]. Ela foi a responsável pelas aparições misteriosas no Teatro Municipal de [[Porto Lobo]].
+**Átropos** é uma antiga bruxa de [[Vernália]]. Ela foi a responsável pelas aparições misteriosas no Teatro Municipal de [[Porto Lobo]].
 
 ---
 

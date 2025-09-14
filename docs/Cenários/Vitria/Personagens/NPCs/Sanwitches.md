@@ -15,3 +15,9 @@
 ### Sobre
 
 *A ser adicionado.*
+
+---
+
+### Créditos
+
+- Imagem do personagem: Franquia **Yu-Gi-Oh!**

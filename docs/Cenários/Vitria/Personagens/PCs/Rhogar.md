@@ -16,4 +16,6 @@
 
 ---
 
-- Fonte da Imagem: [ArtStation - Drenthis Sarzel, Red Dragonborn Conquest Paladin](https://www.artstation.com/artwork/9ePevR)
+### Créditos
+
+- Imagem do personagem: [ArtStation - Drenthis Sarzel, Red Dragonborn Conquest Paladin](https://www.artstation.com/artwork/9ePevR)
