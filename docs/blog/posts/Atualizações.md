@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-09-07
+date: 2025-09-14
 slug: atualizacoes
 categories:
   - atualização
@@ -17,6 +17,14 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 !!! info "Observação"
 	- **Campanhas em Andamento:** [[Vestígios Fantasmas]]
 	- **Campanhas Finalizadas:** -
+
+---
+
+## 2025/09/14 (VF)
+- **Motivo:** Sessão 18 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[Sessão 18 ― Vire a Página]]
+	- Novo NPC: [[Espírito da Biblioteca]], [[Mordomo]], [[O 'Inimigo']] e [[Velho Misterioso]]
 
 ---
 

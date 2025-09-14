@@ -27,7 +27,7 @@
 
 - [[Fausto]]
 - [[Sanwitches]]
-- Velho misterioso
+- [[Velho Misterioso]]
 
 ---
 
@@ -47,4 +47,4 @@
 
 ---
 
-[[Sessão 16 ― Caixa de Chuva|<< Anterior]] | Próxima >>
+[[Sessão 16 ― Caixa de Chuva|<< Anterior]] | [[Sessão 18 ― Vire a Página | Próxima >>]]
