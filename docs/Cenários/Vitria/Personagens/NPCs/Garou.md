@@ -13,6 +13,8 @@
 	- **Afiliação:** 
 		- [[Porto Lobo|Bar Água & Sal]]
 		- [[Clã Midna]]
+	- **Família:** ?
+	- **Situação:** Vivo
 
 ---
 

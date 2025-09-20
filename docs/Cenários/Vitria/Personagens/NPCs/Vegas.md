@@ -11,6 +11,8 @@
 	- **Gênero:** Masculino
 	- **Ocupação:** Vendedor de Informações
 	- **Afiliação:** ?
+	- **Família:** ?
+	- **Situação:** Vivo
 
 ---
 

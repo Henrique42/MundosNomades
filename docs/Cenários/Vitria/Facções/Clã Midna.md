@@ -14,5 +14,5 @@ Desconhecido.
 
 ## Membros Importantes
 
-- [[Garou]];
-- [[Zaara]].
+- [[Garou]]
+- [[Zaara]]

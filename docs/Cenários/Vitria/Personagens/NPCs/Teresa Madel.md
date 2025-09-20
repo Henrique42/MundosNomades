@@ -11,6 +11,8 @@
 	- **Gênero:** Feminino
 	- **Ocupação:** Enfermeira
 	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** ?
+	- **Situação:** Viva
 
 ---
 

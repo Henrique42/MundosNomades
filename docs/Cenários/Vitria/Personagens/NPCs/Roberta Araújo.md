@@ -10,8 +10,9 @@
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
 	- **Ocupação:** Atriz
-	- **Afiliação:** 
-		- [[Porto Lobo|Teatro Municipal de Porto Lobo]]
+	- **Afiliação:** [[Porto Lobo|Teatro Municipal de Porto Lobo]]
+	- **Família:** ?
+	- **Situação:** Viva
 
 ---
 

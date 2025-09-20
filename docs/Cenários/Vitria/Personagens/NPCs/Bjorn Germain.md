@@ -10,10 +10,9 @@
 	- **Espécie:** Anão
 	- **Gênero:** Masculino
 	- **Ocupação:** Ferreiro
-	- **Afiliação:** 
-		- [[Porto Lobo | Forja Germain]]
-	- **Família:** 
-		- [[Fritz Germain]] *(Filho)*
+	- **Afiliação:** [[Porto Lobo |Forja Germain]]
+	- **Família:** [[Fritz Germain]] *(Filho)*
+	- **Situação:** Vivo
 
 ---
 

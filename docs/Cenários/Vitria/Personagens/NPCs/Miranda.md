@@ -9,9 +9,12 @@
 !!! abstract "Perfil"
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
-	- **Ocupação:** Secretária; Empregada (?)
-	- **Afiliação:** 
-		- [[S.A.P.O.]]
+	- **Ocupação:** 
+		- Secretária
+		- Empregada (?)
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** ?
+	- **Situação:** Viva
 
 ---
 

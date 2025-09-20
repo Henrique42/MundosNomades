@@ -14,5 +14,16 @@ O objetivo da agência é solucionar mistérios que envolvam atividades sobrenat
 
 ## Membros Importantes
 
-- [[Reina Velez]] (líder);
-- [[Miranda]] (Secretária / empregada?).
+- [[Reina Velez]] (líder)
+- [[Miranda]] (Secretária / empregada?)
+- [[Fausto]]
+- [[Teresa Madel]]
+- [[Mocho]]
+- Geraldo e Jéssica
+- *Party*:
+	- [[Aenoir]]
+	- [[Lavenza]]
+	- [[Marduk]]
+	- [[Rhogar]]
+	- [[Sherlock]]
+	- [[Vamas]] (*Em hiato*)

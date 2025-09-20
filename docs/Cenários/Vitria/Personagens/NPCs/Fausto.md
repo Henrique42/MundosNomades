@@ -9,10 +9,14 @@
 !!! abstract "Perfil"
 	- **Espécie:** Harengon
 	- **Gênero:** Masculino
-	- **Ocupação:** Mago; Estudante Universitário
+	- **Ocupação:** 
+		- Mago
+		- Estudante Universitário
 	- **Afiliação:** 
 		- Universidade Vernaliana de Magia
 		- [[S.A.P.O.]]
+	- **Família:** ?
+	- **Situação:** Vivo
 
 ---
 

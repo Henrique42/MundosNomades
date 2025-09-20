@@ -9,9 +9,12 @@
 !!! abstract "Perfil"
 	- **Espécie:** humano
 	- **Gênero:** Masculino
-	- **Ocupação:** Escritor; Dramaturgo
-	- **Afiliação:** 
-		- [[Porto Lobo | Teatro Municipal de Porto Lobo]]
+	- **Ocupação:** 
+		- Escritor
+		- Dramaturgo
+	- **Afiliação:** [[Porto Lobo |Teatro Municipal de Porto Lobo]]
+	- **Família:** ?
+	- **Situação:** ?
 
 ---
 

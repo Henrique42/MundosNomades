@@ -12,6 +12,7 @@ Uma **mordomo** que pode ser real ou não.
 	- **Ocupação:** Mordomo (?)
 	- **Afiliação:** ?
 	- **Família:** ?
+	- **Situação:** ?
 
 ---
 

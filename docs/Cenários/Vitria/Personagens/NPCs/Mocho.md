@@ -12,7 +12,9 @@
 	- **Ocupação:** Ladra
 	- **Afiliação:** 
 		- Gangue das Harpias *(anteriormente)*
-	- **Família:** ?
+		- [[S.A.P.O.]]
+	- **Família:** -
+	- **Situação:** Viva
 
 ---
 

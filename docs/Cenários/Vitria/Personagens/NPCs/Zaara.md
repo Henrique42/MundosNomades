@@ -11,6 +11,8 @@
 	- **Gênero:** Feminino
 	- **Ocupação:** ?
 	- **Afiliação:** [[Clã Midna]]
+	- **Família:** -
+	- **Situação:** Viva
 
 ---
 

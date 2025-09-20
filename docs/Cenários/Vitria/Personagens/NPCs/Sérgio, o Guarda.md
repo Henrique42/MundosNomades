@@ -10,10 +10,9 @@
 	- **Espécie:** Humano
 	- **Gênero:** Masculino
 	- **Ocupação:** Guarda
-	- **Afiliação:** 
-		- [[Porto Lobo|Cidade de Porto Lobo]]
-	- **Família:**
-		- Mainha Wilma *(Mãe)*
+	- **Afiliação:** [[Porto Lobo|Cidade de Porto Lobo]]
+	- **Família:** Mainha Wilma *(Mãe)*
+	- **Situação:** Vivo
 
 ---
 

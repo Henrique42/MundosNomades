@@ -10,8 +10,9 @@
 	- **Espécie:** Elfo
 	- **Gênero:** Masculino
 	- **Ocupação:** Capitão da Guarda
-	- **Afiliação:** 
-		- [[Porto Lobo | Cidade de Porto Lobo]]
+	- **Afiliação:** [[Porto Lobo |Cidade de Porto Lobo]]
+	- **Família:** ?
+	- **Situação:** Vivo
 
 ---
 
