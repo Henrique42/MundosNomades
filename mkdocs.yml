@@ -1,7 +1,8 @@
 site_name: Mundos Nômades
+site_author: nômade
 
 theme:
-    name: 'material'
+    name: material
     language: pt
     # Mudar ícone
     icon:
@@ -9,6 +10,7 @@ theme:
     # Adicionar menu superior
     features:
       - navigation.tabs
+      - navigation.top
     palette:
       # Light mode
       - media: "(prefers-color-scheme: light)"
@@ -51,12 +53,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
   - toc:
       permalink: true
 
 plugins:
   - search
+  - awesome-nav
   - roamlinks
   - blog
   - rss:
@@ -70,4 +72,4 @@ plugins:
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 0001-01-01
+date: 2025-09-20
 slug: atualizacoes
 categories:
   - atualização
