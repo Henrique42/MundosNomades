@@ -78,3 +78,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[Sessão 16 ― Caixa de Chuva]]
 - [[Sessão 17 ― Flores Mortas]]
 - [[Sessão 18 ― Vire a Página]]
+- [[Sessão 19 ― Mosca na Parede]]

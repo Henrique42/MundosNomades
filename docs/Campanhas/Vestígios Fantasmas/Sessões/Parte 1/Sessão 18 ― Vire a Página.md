@@ -20,20 +20,20 @@
 ### Locais Visitados
 
 - [[Ruínas da Biblioteca Arcana]]:
-	- **Livro Proibido**:
-		- *Memória da Floresta*
-		- *Memória da Biblioteca*
+	- Livro Proibido:
+		- Memória da Floresta
+		- Memória da Biblioteca
 - ???:
-	- *Funeral de Sherlock* e outras cenas
+	- "Funeral de Sherlock" e outras cenas
 
 ---
 
 ### NPCs encontrados
 
 - [[Fausto]]
-- [[Velho Misterioso]]
-- [[Espírito da Biblioteca]]
-- [[O 'Inimigo']]
+- [[Fídias, o Orador]]  (então "Velho Misterioso")
+- [[Leto]] (então "Espírito da Biblioteca")
+- [[O Observador]] (então "O Inimigo")
 - [[Mordomo]]
 - [[Átropos]] (memória)
 
@@ -57,4 +57,4 @@
 
 ---
 
-[[Sessão 17 ― Flores Mortas|<< Anterior]] | Próxima >>
+[[Sessão 17 ― Flores Mortas|<< Anterior]] | [[Sessão 19 ― Mosca na Parede|Próxima >>]]

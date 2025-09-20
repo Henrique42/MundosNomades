@@ -1,4 +1,4 @@
-O **espírito** da Biblioteca Arcana que fica nos arredores de [[Porto Lobo]].
+**Leto**, ou simplesmente "Espírito da Biblioteca", é a personificação da *Biblioteca Arcana de Leto*, a qual fica nos arredores de [[Porto Lobo]].
 
 ---
 
@@ -11,6 +11,8 @@ O **espírito** da Biblioteca Arcana que fica nos arredores de [[Porto Lobo]].
 	- **Gênero:** -
 	- **Ocupação:** Espírito Guardião
 	- **Afiliação:** [[Ruínas da Biblioteca Arcana]]
+	- **Família:** -
+	- **Situação:** Vivo (?)
 
 ---
 

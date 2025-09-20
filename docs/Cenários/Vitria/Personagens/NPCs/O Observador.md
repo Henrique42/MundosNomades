@@ -1,4 +1,4 @@
-(???)
+**O Observador** é uma entidade misteriosa de origem desconhecida.
 
 ---
 
@@ -12,12 +12,18 @@
 	- **Ocupação:** ?
 	- **Afiliação:** ?
 	- **Família:** ?
+	- **Situação:** Vivo (?)
 
 ---
 
 ### Sobre
 
-*A ser adicionado.*
+O Observador também é conhecido por outros nomes, como:
+
+- O Inimigo;
+- O Senhor das Moscas;
+- O Crânio de um Deus com os Olhos de um Diabo;
+- etc.
 
 ---
 

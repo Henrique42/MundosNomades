@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-09-14
+date: 0001-01-01
 slug: atualizacoes
 categories:
   - atualização
@@ -20,11 +20,20 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
+## 2025/09/20 (VF)
+- **Motivo:** Sessão 19 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[Sessão 19 ― Mosca na Parede]]
+	- Nova Facção: [[Sociedade do Memento]]
+	- NPCs atualizados: [[Leto]], [[O Observador]] e [[Fídias, o Orador]]
+
+---
+
 ## 2025/09/14 (VF)
 - **Motivo:** Sessão 18 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[Sessão 18 ― Vire a Página]]
-	- Novo NPC: [[Espírito da Biblioteca]], [[Mordomo]], [[O 'Inimigo']] e [[Velho Misterioso]]
+	- Novo NPC: [[Leto]] (então "Espírito da Biblioteca"), [[Mordomo]], [[O Observador]] (então "O Inimigo") e [[Fídias, o Orador]] (então "Velho Misterioso")
 
 ---
 

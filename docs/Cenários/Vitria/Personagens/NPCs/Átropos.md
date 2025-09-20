@@ -11,6 +11,8 @@
 	- **Gênero:** Feminino
 	- **Ocupação:** Bruxa
 	- **Afiliação:** ?
+	- **Família:** Duas irmãs *(mortas)*
+	- **Situação:** Viva
 
 ---
 

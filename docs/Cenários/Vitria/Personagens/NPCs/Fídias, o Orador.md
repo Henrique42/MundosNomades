@@ -1,4 +1,4 @@
-Um **Velho misterioso** encontrado na biblioteca.
+**Fídias, o Orador**, foi um dos arquimagos de Vernália, o qual foi assassinado por uma das sombras d'[[O Observador]].
 
 ---
 
@@ -7,10 +7,18 @@ Um **Velho misterioso** encontrado na biblioteca.
 </div>
 
 !!! abstract "Perfil"
-	- **Espécie:** ?
+	- **Espécie:** Humano
 	- **Gênero:** Masculino
-	- **Ocupação:** ?
-	- **Afiliação:** ?
+	- **Ocupação:** 
+		- Arquimago
+		- Arquivista *(anteriormente)*
+		- Professor universitário *(anteriormente)*
+	- **Afiliação:**
+		- [[Divindades de Vitria#Os Avatares|Tarno]]
+		- [[Sociedade do Memento]] *(anteriormente)*
+		- Universidade Vernaliana de Magia *(anteriormente)*
+	- **Família:** ?
+	- **Situação:** Morto
 
 ---
 
