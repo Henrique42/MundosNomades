@@ -57,4 +57,4 @@
 
 ---
 
-[[Sessão 17 ― Flores Mortas|<< Anterior]] | [[Sessão 19 ― Mosca na Parede|Próxima >>]]
+[[VF17 ― Flores Mortas|<< Anterior]] | [[VF19 ― O Mago|Próxima >>]]

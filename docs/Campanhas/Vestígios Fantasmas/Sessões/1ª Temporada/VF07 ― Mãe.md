@@ -57,4 +57,4 @@
 
 ---
 
-[[Sessão 06 ― Mergulhe|<< Anterior]] | [[Sessão 08 ― A Galeria dos Espelhos|Próxima >>]]
+[[VF06 ― Mergulhe|<< Anterior]] | [[VF08 ― A Galeria dos Espelhos|Próxima >>]]

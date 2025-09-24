@@ -53,4 +53,4 @@
 
 ---
 
-[[Sessão 10 ― O Show Tem Que Continuar|<< Anterior]] | [[Sessão 12 ― Mundo Selvagem | Próxima >>]]
+[[VF10 ― O Show Tem Que Continuar|<< Anterior]] | [[VF12 ― Mundo Selvagem| Próxima >>]]

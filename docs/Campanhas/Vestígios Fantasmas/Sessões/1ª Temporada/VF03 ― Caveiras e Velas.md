@@ -56,4 +56,4 @@
 
 ---
 
-[[Sessão 02 ― Libertem a Bruxa|<< Anterior]] | [[Sessão 04 ― Breves Encontros|Próxima >>]]
+[[VF02 ― Libertem a Bruxa|<< Anterior]] | [[VF04 ― Breves Encontros|Próxima >>]]

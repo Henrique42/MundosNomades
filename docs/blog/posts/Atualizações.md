@@ -23,24 +23,24 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/09/20 (VF)
 - **Motivo:** Sessão 19 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 19 ― Mosca na Parede]]
+	- Nova sessão: [[VF19 ― O Mago]]
 	- Nova Facção: [[Sociedade do Memento]]
-	- NPCs atualizados: [[Leto]], [[O Observador]] e [[Fídias, o Orador]]
+	- NPCs atualizados: [[Leto]] (o espírito da biblioteca), [[O Observador]] (o inimigo) e [[Fídias, o Orador]] (o velho misterioso)
 
 ---
 
 ## 2025/09/14 (VF)
 - **Motivo:** Sessão 18 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 18 ― Vire a Página]]
-	- Novo NPC: [[Leto]] (então "Espírito da Biblioteca"), [[Mordomo]], [[O Observador]] (então "O Inimigo") e [[Fídias, o Orador]] (então "Velho Misterioso")
+	- Nova sessão: [[VF18 ― Vire a Página]]
+	- Novo NPC: [[Leto|"Espírito da Biblioteca"]], [[Mordomo|"Mordomo"]], [[O Observador|"O Inimigo"]] e [[Fídias, o Orador|"Velho Misterioso"]]
 
 ---
 
 ## 2025/09/07 (VF)
 - **Motivo:** Sessão 17 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 17 ― Flores Mortas]]
+	- Nova sessão: [[VF17 ― Flores Mortas]]
 	- Novo NPC: [[Sanwitches]]
 
 ---
@@ -48,7 +48,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/08/24 (VF)
 - **Motivo:** Sessão 16 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 16 ― Caixa de Chuva]]
+	- Nova sessão: [[VF16 ― Caixa de Chuva]]
 	- Novo NPC: [[Teresa Madel]]
 	- Novo local: [[Ruínas da Biblioteca Arcana]]
 
@@ -57,7 +57,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/08/16 (VF)
 - **Motivo:** Sessão 15 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 15 ― A Lua Irá Cantar]]
+	- Nova sessão: [[VF15 ― A Lua Irá Cantar]]
 	- Novo NPC: [[Zaara]]
 	- NPC atualizado: [[Garou]]
 	- Nova facção: [[Clã Midna]]
@@ -67,7 +67,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/08/10 (VF)
 - **Motivo:** Sessão 14 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 14 ― Os Dias de Cão Acabaram]]
+	- Nova sessão: [[VF14 ― Os Dias de Cão Acabaram]]
 	- Novo NPC: [[Mocho]]
 	- Novo Local: [[Bosque dos Lobos]]
 
@@ -76,14 +76,14 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/07/26 (VF)
 - **Motivo:** Sessão 13 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 13 ― Carne e Sangue]].
+	- Nova sessão: [[VF13 ― Carne e Sangue]].
 
 ---
 
 ## 2025/07/20 (VF)
 - **Motivo:** Sessão 12 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 12 ― Mundo Selvagem]]
+	- Nova sessão: [[VF12 ― Mundo Selvagem]]
 	- Novos NPCs: [[Bjorn Germain]], [[Fritz Germain]] e [[Deusa Siene]]
 	- Local atualizado: [[Porto Lobo]]
 
@@ -92,7 +92,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/07/06 (VF)
 - **Motivo:** Sessão 11 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 11 ― Estivemos Longe Tempo Demais]]
+	- Nova sessão: [[VF11 ― Estivemos Longe Tempo Demais]]
 	- Novo NPC: [[Capitão Andriessen]] (anteriormente Capitão Anderson)
 
 ---
@@ -100,7 +100,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/06/22 (VF)
 - **Motivo:** Sessão 10 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 10 ― O Show Tem Que Continuar]]
+	- Nova sessão: [[VF10 ― O Show Tem Que Continuar]]
 	- Adicionada parte de "Inimigos Enfrentados" nas sessões (VF)
 
 ---
@@ -108,7 +108,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/06/15 (VF)
 - **Motivo:** Sessão 09 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 09 ― Atravesse (Para o Outro Lado)]]
+	- Nova sessão: [[VF09 ― Atravesse (Para o Outro Lado)]]
 	- Novo local: [[O 'Outro Circo']]
 
 ---
@@ -116,14 +116,14 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/06/08 (VF)
 - **Motivo:** Sessão 08 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 08 ― A Galeria dos Espelhos]]
+	- Nova sessão: [[VF08 ― A Galeria dos Espelhos]]
 
 ---
 
 ## 2025/05/11 (VF)
 - **Motivo:** Sessão 07 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 07 ― Mãe]]
+	- Nova sessão: [[VF07 ― Mãe]]
 	- NPC adicionado: [[Sérgio, o Guarda]]
 
 ---
@@ -131,7 +131,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2025/05/06 (VF)
 - **Motivo:** Sessões 05 e 06 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Novas sessões: [[Sessão 05 ― Garota Azeda]] e [[Sessão 06 ― Mergulhe]]
+	- Novas sessões: [[VF05 ― Garota Azeda]] e [[VF06 ― Mergulhe]]
 	- NPCs adicionados: [[Garou]]
 	- Local atualizado: [[Porto Lobo]] (**Bar Água & Sal** adicionado)
 	- Mapa de [[Vernália]] remodelado
@@ -141,7 +141,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2024/11/07 (VF)
 - **Motivo:** Sessões 03 e 04 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Novas sessões: [[Sessão 03 ― Caveiras e Velas]] e [[Sessão 04 ― Breves Encontros]]
+	- Novas sessões: [[VF03 ― Caveiras e Velas]] e [[VF04 ― Breves Encontros]]
 	- NPCs adicionados: [[Átropos]], [[Bartolomeu Bravo]], [[Dona Edna]], [[Fausto]] e [[Roberta Araújo]]
 	- NPCs atualizados: [[Miranda]] e [[Reina Velez]]
 	- Local adicionado: [[A 'Cripta']]
@@ -153,7 +153,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2024/09/12 (VF)
 - **Motivo:** Sessão 02 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 02 ― Libertem a Bruxa]]
+	- Nova sessão: [[VF02 ― Libertem a Bruxa]]
 	- NPC adicionado: [[Vegas]]
 	- Local atualizado: [[Porto Lobo]]
 
@@ -162,7 +162,7 @@ Esta postagem existe como uma forma de registrar as atualizações na wiki.
 ## 2024/08/30 (VF)
 - **Motivo:** Sessão 01 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 01 ― Fantasmagoria]]
+	- Nova sessão: [[VF01 ― Fantasmagoria]]
 	- Personagens dos jogadores adicionados: [[Aenoir]], [[Lavenza]], [[Marduk]], [[Rhogar]], [[Sherlock]] e [[Vamas]]
 	- NPCs adicionados: [[Miranda]] e [[Reina Velez]]
 	- Facção adicionada: [[S.A.P.O.]]

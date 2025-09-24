@@ -72,4 +72,4 @@ Logo em seguida, uma mulher sai de dentro de uma das tendas, e o couro vai comer
 
 ---
 
-[[Sessão 01 ― Fantasmagoria|<< Anterior]] | [[Sessão 03 ― Caveiras e Velas|Próxima >>]]
+[[VF01 ― Fantasmagoria|<< Anterior]] | [[VF03 ― Caveiras e Velas|Próxima >>]]

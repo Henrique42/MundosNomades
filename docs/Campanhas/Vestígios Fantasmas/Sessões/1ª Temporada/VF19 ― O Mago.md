@@ -48,4 +48,4 @@
 
 ---
 
-[[Sessão 18 ― Vire a Página|<< Anterior]] | Próxima >>
+[[VF18 ― Vire a Página|<< Anterior]] | Próxima >>

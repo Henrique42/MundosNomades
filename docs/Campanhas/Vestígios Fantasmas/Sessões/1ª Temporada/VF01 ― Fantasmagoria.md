@@ -64,4 +64,4 @@ Buscando vingança, agora despertamos"
 
 ---
 
-[[Sessão 02 ― Libertem a Bruxa|Próxima >>]]
+[[VF02 ― Libertem a Bruxa|Próxima >>]]

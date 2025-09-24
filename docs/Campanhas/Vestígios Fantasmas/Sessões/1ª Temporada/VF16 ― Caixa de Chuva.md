@@ -55,4 +55,4 @@
 
 ---
 
-[[Sessão 15 ― A Lua Irá Cantar|<< Anterior]] | [[Sessão 17 ― Flores Mortas| Próxima >>]]
+[[VF15 ― A Lua Irá Cantar|<< Anterior]] | [[VF17 ― Flores Mortas| Próxima >>]]

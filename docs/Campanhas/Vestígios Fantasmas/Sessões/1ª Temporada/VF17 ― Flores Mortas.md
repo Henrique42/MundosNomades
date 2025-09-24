@@ -47,4 +47,4 @@
 
 ---
 
-[[Sessão 16 ― Caixa de Chuva|<< Anterior]] | [[Sessão 18 ― Vire a Página | Próxima >>]]
+[[VF16 ― Caixa de Chuva|<< Anterior]] | [[VF18 ― Vire a Página| Próxima >>]]

@@ -51,4 +51,4 @@
 
 ---
 
-[[Sessão 05 ― Garota Azeda|<< Anterior]] | [[Sessão 07 ― Mãe|Próxima >>]]
+[[VF05 ― Garota Azeda|<< Anterior]] | [[VF07 ― Mãe|Próxima >>]]

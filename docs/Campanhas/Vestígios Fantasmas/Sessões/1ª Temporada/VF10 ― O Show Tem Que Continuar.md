@@ -49,4 +49,4 @@
 
 ---
 
-[[Sessão 09 ― Atravesse (Para o Outro Lado)|<< Anterior]] | [[Sessão 11 ― Estivemos Longe Tempo Demais| Próxima >>]]
+[[VF09 ― Atravesse (Para o Outro Lado)|<< Anterior]] | [[VF11 ― Estivemos Longe Tempo Demais| Próxima >>]]

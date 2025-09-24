@@ -2,7 +2,7 @@
 
 !!! abstract "Ficha"
 	- **Sistema:** D&D 5e (2014)
-	- **Mundo:** [[Vitria]]
+	- **Cenário:** [[Vitria]] > [[Mandala]] > [[Vernália]]
 	- **Gênero(s):** 
 		- Fantasia
 		- Mistério
@@ -41,41 +41,41 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 Esta seção serve como uma lista de sessões e arcos da campanha.
 
-### Parte 1
+### 1ª Temporada
 
 **Arquivo S.A.P.O.: "O Fantasma do Teatro"**
 
-- [[Sessão 01 ― Fantasmagoria]]
-- [[Sessão 02 ― Libertem a Bruxa]]
-- [[Sessão 03 ― Caveiras e Velas]]
+- [[VF01 ― Fantasmagoria]]
+- [[VF02 ― Libertem a Bruxa]]
+- [[VF03 ― Caveiras e Velas]]
 
 **Interlúdio: Conhecendo Porto Lobo**
 
-- [[Sessão 04 ― Breves Encontros]]
-- [[Sessão 05 ― Garota Azeda]]
-- [[Sessão 06 ― Mergulhe]]
+- [[VF04 ― Breves Encontros]]
+- [[VF05 ― Garota Azeda]]
+- [[VF06 ― Mergulhe]]
 
 **Arquivo S.A.P.O.: "Demônios Circenses"**
 
-- [[Sessão 07 ― Mãe]]
-- [[Sessão 08 ― A Galeria dos Espelhos]]
-- [[Sessão 09 ― Atravesse (Para o Outro Lado)]]
-- [[Sessão 10 ― O Show Tem Que Continuar]]
+- [[VF07 ― Mãe]]
+- [[VF08 ― A Galeria dos Espelhos]]
+- [[VF09 ― Atravesse (Para o Outro Lado)]]
+- [[VF10 ― O Show Tem Que Continuar]]
 
 **Interlúdio: O Arquivo da S.A.P.O.**
 
-- [[Sessão 11 ― Estivemos Longe Tempo Demais]]
+- [[VF11 ― Estivemos Longe Tempo Demais]]
 
 **Arquivo S.A.P.O.: "Lobisomem na Noite"**
 
-- [[Sessão 12 ― Mundo Selvagem]]
-- [[Sessão 13 ― Carne e Sangue]]
-- [[Sessão 14 ― Os Dias de Cão Acabaram]]
-- [[Sessão 15 ― A Lua Irá Cantar]]
+- [[VF12 ― Mundo Selvagem]]
+- [[VF13 ― Carne e Sangue]]
+- [[VF14 ― Os Dias de Cão Acabaram]]
+- [[VF15 ― A Lua Irá Cantar]]
 
 **...**
 
-- [[Sessão 16 ― Caixa de Chuva]]
-- [[Sessão 17 ― Flores Mortas]]
-- [[Sessão 18 ― Vire a Página]]
-- [[Sessão 19 ― Mosca na Parede]]
+- [[VF16 ― Caixa de Chuva]]
+- [[VF17 ― Flores Mortas]]
+- [[VF18 ― Vire a Página]]
+- [[VF19 ― O Mago]]

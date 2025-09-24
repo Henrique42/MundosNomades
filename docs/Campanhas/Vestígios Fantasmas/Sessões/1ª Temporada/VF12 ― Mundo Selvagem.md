@@ -53,4 +53,4 @@
 
 ---
 
-[[Sessão 11 ― Estivemos Longe Tempo Demais|<< Anterior]] | [[Sessão 13 ― Carne e Sangue | Próxima >>]]
+[[VF11 ― Estivemos Longe Tempo Demais|<< Anterior]] | [[VF13 ― Carne e Sangue| Próxima >>]]

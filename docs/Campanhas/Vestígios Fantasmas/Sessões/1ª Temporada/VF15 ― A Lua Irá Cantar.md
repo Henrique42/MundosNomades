@@ -54,4 +54,4 @@
 
 ---
 
-[[Sessão 14 ― Os Dias de Cão Acabaram|<< Anterior]] | [[Sessão 16 ― Caixa de Chuva| Próxima]]
+[[VF14 ― Os Dias de Cão Acabaram|<< Anterior]] | [[VF16 ― Caixa de Chuva| Próxima]]

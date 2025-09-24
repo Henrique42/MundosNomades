@@ -70,4 +70,4 @@
 
 ---
 
-[[Sessão 03 ― Caveiras e Velas|<< Anterior]] | [[Sessão 05 ― Garota Azeda|Próxima >>]]
+[[VF03 ― Caveiras e Velas|<< Anterior]] | [[VF05 ― Garota Azeda|Próxima >>]]

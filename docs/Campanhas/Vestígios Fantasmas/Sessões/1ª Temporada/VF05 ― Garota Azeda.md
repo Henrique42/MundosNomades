@@ -55,4 +55,4 @@
 
 ---
 
-[[Sessão 04 ― Breves Encontros|<< Anterior]] | [[Sessão 06 ― Mergulhe|Próxima >>]]
+[[VF04 ― Breves Encontros|<< Anterior]] | [[VF06 ― Mergulhe|Próxima >>]]

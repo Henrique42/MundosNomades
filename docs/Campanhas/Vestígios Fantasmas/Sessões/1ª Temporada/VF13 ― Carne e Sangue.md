@@ -46,4 +46,4 @@
 
 ---
 
-[[Sessão 12 ― Mundo Selvagem|<< Anterior]] | [[Sessão 14 ― Os Dias de Cão Acabaram | Próxima >>]]
+[[VF12 ― Mundo Selvagem|<< Anterior]] | [[VF14 ― Os Dias de Cão Acabaram| Próxima >>]]

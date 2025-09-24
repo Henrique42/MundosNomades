@@ -53,4 +53,4 @@
 
 ---
 
-[[Sessão 07 ― Mãe|<< Anterior]] | [[Sessão 09 ― Atravesse (Para o Outro Lado)|Próxima]] >>
+[[VF07 ― Mãe|<< Anterior]] | [[VF09 ― Atravesse (Para o Outro Lado)|Próxima]] >>
