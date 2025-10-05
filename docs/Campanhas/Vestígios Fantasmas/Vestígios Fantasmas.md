@@ -73,9 +73,10 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF14 ― Os Dias de Cão Acabaram]]
 - [[VF15 ― A Lua Irá Cantar]]
 
-**...**
+**Arquivo S.A.P.O.: *"Codex Gigas"***
 
 - [[VF16 ― Caixa de Chuva]]
 - [[VF17 ― Flores Mortas]]
 - [[VF18 ― Vire a Página]]
 - [[VF19 ― O Mago]]
+- [[VF20 ― Mosca na Parede]]

@@ -19,10 +19,11 @@
 
 ### Locais Visitados
 
-- [[Ruínas da Biblioteca Arcana]]:
-	- Livro Proibido:
-		- Memória da Biblioteca
-	- Coração da Biblioteca
+- [[Porto Lobo]]:
+	- [[Ruínas da Biblioteca Arcana]]:
+		- Livro Proibido:
+			- Memória da Biblioteca
+		- Coração da Biblioteca
 
 ---
 
@@ -48,4 +49,4 @@
 
 ---
 
-[[VF18 ― Vire a Página|<< Anterior]] | Próxima >>
+[[VF18 ― Vire a Página|<< Anterior]] | [[VF20 ― Mosca na Parede|Próxima >>]]

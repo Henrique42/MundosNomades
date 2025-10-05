@@ -19,12 +19,13 @@
 
 ### Locais Visitados
 
-- [[Ruínas da Biblioteca Arcana]]:
-	- Livro Proibido:
-		- Memória da Floresta
-		- Memória da Biblioteca
-- ???:
-	- "Funeral de Sherlock" e outras cenas
+- [[Porto Lobo]]
+	- [[Ruínas da Biblioteca Arcana]]:
+		- Livro Proibido:
+			- Memória da Floresta
+			- Memória da Biblioteca
+	- *"Sombras"*:
+		- "Funeral de Sherlock" e outras cenas
 
 ---
 

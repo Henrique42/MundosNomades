@@ -19,7 +19,8 @@
 
 ### Locais Visitados
 
-- [[Ruínas da Biblioteca Arcana]]
+- [[Porto Lobo]]:
+	- [[Ruínas da Biblioteca Arcana]]
 
 ---
 

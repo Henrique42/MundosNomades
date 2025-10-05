@@ -1,22 +1,25 @@
 ---
 draft: false
-date: 2025-09-20
+date: 0001-01-01
 slug: atualizacoes
 categories:
   - atualização
 tags:
 ---
-
-
-# Atualizações da Wiki
-
-Esta postagem existe como uma forma de registrar as atualizações na wiki.
+Esta página existe como uma forma de registrar as atualizações na wiki.
 
 <!-- more -->
 
 !!! info "Observação"
 	- **Campanhas em Andamento:** [[Vestígios Fantasmas]]
 	- **Campanhas Finalizadas:** -
+
+---
+
+## 2025/10/05 (VF)
+- **Motivo:** Sessão 20 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF20 ― Mosca na Parede]]
 
 ---
 

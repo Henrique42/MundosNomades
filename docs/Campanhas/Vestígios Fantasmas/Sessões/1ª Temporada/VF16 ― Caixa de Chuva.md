@@ -22,7 +22,7 @@
 - [[Porto Lobo]]:
 	- Loja de Brinquedos (?)
 	- Sede da [[S.A.P.O.]]
-- [[Ruínas da Biblioteca Arcana]]
+	- [[Ruínas da Biblioteca Arcana]]
 
 ---
 
