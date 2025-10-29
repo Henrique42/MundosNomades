@@ -6,12 +6,13 @@
 
 ## Personagens
 
-| Personagem | Campanha                | Situação     |
-| ---------- | ----------------------- | ------------ |
-| [[Aenoir]] | [[Vestígios Fantasmas]] | Em Atividade |
+| Campanha                                                           | Personagem     | Situação     |
+| ------------------------------------------------------------------ | -------------- | ------------ |
+| [[Partes de Boneca (Halloween 2025)]] | Carlos Armando | Aposentado   |
+| [[Vestígios Fantasmas]]                                            | [[Aenoir]]     | Em Atividade |
 
 ---
 
-## Campanhas Mestradas
+## Narrações
 
 *Vazio.*

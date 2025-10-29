@@ -5,5 +5,6 @@ Esta página serve como uma lista dos participantes que participaram de campanha
 - [[Bruno]]
 - [[Clenildo]]
 - [[Emanoel]]
+- [[Guilherme]]
 - [[Paulo]]
 - [[Saymon]]

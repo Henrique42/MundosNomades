@@ -8,22 +8,31 @@ tags:
 ---
 Esta página existe como uma forma de registrar as atualizações na wiki.
 
-<!-- more -->
-
-!!! info "Observação"
-	- **Campanhas em Andamento:** [[Vestígios Fantasmas]]
-	- **Campanhas Finalizadas:** -
+## Guia
+- Campanhas em Andamento:
+	- **VF** = [[Vestígios Fantasmas]]
+- One-shots:
+	- **PdB** = [[Partes de Boneca (Halloween 2025)]]
 
 ---
 
-## 2025/10/05 (VF)
+## Registro de Atualizações
+
+### 2025/10/29 (PdB)
+- **Motivo:** One-shot **Partes de Boneca**.
+- **O que há de novo?**
+	- Novo one-shot: [[Partes de Boneca (Halloween 2025)]]
+
+---
+
+### 2025/10/05 (VF)
 - **Motivo:** Sessão 20 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF20 ― Mosca na Parede]]
 
 ---
 
-## 2025/09/20 (VF)
+### 2025/09/20 (VF)
 - **Motivo:** Sessão 19 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF19 ― O Mago]]
@@ -32,7 +41,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/09/14 (VF)
+### 2025/09/14 (VF)
 - **Motivo:** Sessão 18 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF18 ― Vire a Página]]
@@ -40,7 +49,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/09/07 (VF)
+### 2025/09/07 (VF)
 - **Motivo:** Sessão 17 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF17 ― Flores Mortas]]
@@ -48,7 +57,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/08/24 (VF)
+### 2025/08/24 (VF)
 - **Motivo:** Sessão 16 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF16 ― Caixa de Chuva]]
@@ -57,7 +66,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/08/16 (VF)
+### 2025/08/16 (VF)
 - **Motivo:** Sessão 15 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF15 ― A Lua Irá Cantar]]
@@ -67,7 +76,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/08/10 (VF)
+### 2025/08/10 (VF)
 - **Motivo:** Sessão 14 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF14 ― Os Dias de Cão Acabaram]]
@@ -76,14 +85,14 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/07/26 (VF)
+### 2025/07/26 (VF)
 - **Motivo:** Sessão 13 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF13 ― Carne e Sangue]].
 
 ---
 
-## 2025/07/20 (VF)
+### 2025/07/20 (VF)
 - **Motivo:** Sessão 12 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF12 ― Mundo Selvagem]]
@@ -92,7 +101,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/07/06 (VF)
+### 2025/07/06 (VF)
 - **Motivo:** Sessão 11 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF11 ― Estivemos Longe Tempo Demais]]
@@ -100,7 +109,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/06/22 (VF)
+### 2025/06/22 (VF)
 - **Motivo:** Sessão 10 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF10 ― O Show Tem Que Continuar]]
@@ -108,7 +117,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/06/15 (VF)
+### 2025/06/15 (VF)
 - **Motivo:** Sessão 09 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF09 ― Atravesse (Para o Outro Lado)]]
@@ -116,14 +125,14 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/06/08 (VF)
+### 2025/06/08 (VF)
 - **Motivo:** Sessão 08 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF08 ― A Galeria dos Espelhos]]
 
 ---
 
-## 2025/05/11 (VF)
+### 2025/05/11 (VF)
 - **Motivo:** Sessão 07 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF07 ― Mãe]]
@@ -131,7 +140,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2025/05/06 (VF)
+### 2025/05/06 (VF)
 - **Motivo:** Sessões 05 e 06 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Novas sessões: [[VF05 ― Garota Azeda]] e [[VF06 ― Mergulhe]]
@@ -141,7 +150,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2024/11/07 (VF)
+### 2024/11/07 (VF)
 - **Motivo:** Sessões 03 e 04 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Novas sessões: [[VF03 ― Caveiras e Velas]] e [[VF04 ― Breves Encontros]]
@@ -153,16 +162,16 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ---
 
-## 2024/09/12 (VF)
+### 2024/09/12 (VF)
 - **Motivo:** Sessão 02 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF02 ― Libertem a Bruxa]]
+	- Nova sessão: [[VF02 ― Libertar a Bruxa]]
 	- NPC adicionado: [[Vegas]]
 	- Local atualizado: [[Porto Lobo]]
 
 ---
 
-## 2024/08/30 (VF)
+### 2024/08/30 (VF)
 - **Motivo:** Sessão 01 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF01 ― Fantasmagoria]]

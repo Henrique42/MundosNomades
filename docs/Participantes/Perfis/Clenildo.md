@@ -6,12 +6,13 @@
 
 ## Personagens
 
-| Personagem  | Campanha                | Situação     |
-| ----------- | ----------------------- | ------------ |
-| [[Lavenza]] | [[Vestígios Fantasmas]] | Em Atividade |
+| Campanha                                                           | Personagem  | Situação     |
+| ------------------------------------------------------------------ | ----------- | ------------ |
+| [[Partes de Boneca (Halloween 2025)]] | Dr. Kleyton | Aposentado   |
+| [[Vestígios Fantasmas]]                                            | [[Lavenza]] | Em Atividade |
 
 ---
 
-## Campanhas Mestradas
+## Narrações
 
 *Vazio.*
