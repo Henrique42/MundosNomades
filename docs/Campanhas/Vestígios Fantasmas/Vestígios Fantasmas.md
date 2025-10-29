@@ -1,5 +1,10 @@
 **Vestígios Fantasmas** é uma campanha de D&D 5ª edição com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
+
+<div style="text-align: center;">
+	<img src="https://i.imgur.com/QcDfacc.png" width="300" alt="Vestígios Fantasmas">
+</div> 
+
 !!! abstract "Ficha"
 	- **Sistema:** D&D 5e (2014)
 	- **Cenário:** [[Vitria]] > [[Mandala]] > [[Vernália]]
@@ -23,8 +28,8 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Participantes
 
-- **Mestre(s):** [[Bruno]].
-- **Jogadores:**
+- **Narrador:** [[Bruno]]
+- **Investigadores:**
 
 | Jogador      | Personagens          |
 | ------------ | -------------------- |
@@ -41,12 +46,12 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 Esta seção serve como uma lista de sessões e arcos da campanha.
 
-### 1ª Temporada
+### Livro I
 
 **Arquivo S.A.P.O.: "O Fantasma do Teatro"**
 
 - [[VF01 ― Fantasmagoria]]
-- [[VF02 ― Libertem a Bruxa]]
+- [[VF02 ― Libertar a Bruxa]]
 - [[VF03 ― Caveiras e Velas]]
 
 **Interlúdio: Conhecendo Porto Lobo**

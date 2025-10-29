@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Bosque dos Lobos]]:
 	- Acampamento dos Bandidos
@@ -25,20 +23,20 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- A Gangue das Harpias
+
+### Sem Combate
 
 - [[Mocho]]
 - [[Garou]]
 
 ---
 
-### Inimigos Enfrentados
-
-- A Gangue das Harpias
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Os investigadores interrogam sua prisioneira, uma ladra chamada Mocho. Depois de muitas táticas diferentes, eles conseguem obter novas informações sobre sua gangue e convencê-la a se abrigar na [[S.A.P.O.]]
 2. Os jogadores seguem em frente, seguindo os rastros de destruição. No fim do caminho, eles encontram uma espécie de santuário na floresta.

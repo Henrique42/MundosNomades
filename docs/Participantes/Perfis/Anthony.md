@@ -6,12 +6,12 @@
 
 ## Personagens
 
-| Personagem | Campanha                | Situação     |
-| ---------- | ----------------------- | ------------ |
-| [[Rhogar]] | [[Vestígios Fantasmas]] | Em Atividade |
+| Campanha                | Personagem | Situação     |
+| ----------------------- | ---------- | ------------ |
+| [[Vestígios Fantasmas]] | [[Rhogar]] | Em Atividade |
 
 ---
 
-## Campanhas Mestradas
+## Narrações
 
 *Vazio.*

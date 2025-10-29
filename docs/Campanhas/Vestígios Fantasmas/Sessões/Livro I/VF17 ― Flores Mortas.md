@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 4)
 - [[Lavenza]] (Warlock 4)
@@ -13,18 +13,23 @@
 - [[Rhogar]] (Barbarian 4)
 - [[Sherlock]] (Rogue 4)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- [[Ruínas da Biblioteca Arcana]]
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- Plantas Crânio
+- Plantas Esqueleto
+
+### Sem Combate
 
 - [[Fausto]]
 - [[Sanwitches]]
@@ -32,14 +37,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Plantas Crânio
-- Plantas Esqueleto
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Os investigadores conversam com as *sanwitches*, que, em agradecimento ao resgate, os entregam uma pedra com o símbolo do Sol.
 2. Com a pedra e um uso de *Sacred Flame*, os jogadores abrem uma das portas e avançam na biblioteca.

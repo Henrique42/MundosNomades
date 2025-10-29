@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3) - *Ausente*
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Circo dos Irmãos Alichino
@@ -25,7 +23,9 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Sem Combate
 
 - Várias crianças
 - Vários guardas
@@ -36,13 +36,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-*Vazio.*
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Após escapar do *Outro Circo* por meio do espelho, os investigadores dão de cara com vários guardas.
 2. Os guardas os deixam ir, mas os jogadores têm que deixar para trás as crianças e o corpo de Tom.

@@ -6,12 +6,12 @@
 
 ## Personagens
 
-| Personagem | Campanha                | Situação     |
-| ---------- | ----------------------- | ------------ |
-| [[Marduk]] | [[Vestígios Fantasmas]] | Em Atividade |
+| Campanha                | Personagem | Situação     |
+| ----------------------- | ---------- | ------------ |
+| [[Vestígios Fantasmas]] | [[Marduk]] | Em Atividade |
 
 ---
 
-## Campanhas Mestradas
+## Narrações
 
 *Vazio.*

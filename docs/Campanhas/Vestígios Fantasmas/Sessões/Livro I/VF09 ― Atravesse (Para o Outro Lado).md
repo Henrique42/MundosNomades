@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Circo dos Irmãos Alichino
@@ -25,20 +23,16 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
 
-*Vazio.*
-
----
-
-### Inimigos Enfrentados
+### Com Combate
 
 - Palhaços Encapetados
 - Malabarista de Facas
 
 ---
 
-### Principais eventos
+## Principais eventos
 
 1. Marduk e Rhogar conseguem atravessar o espelho e se juntar aos outros no "outro lado".
 2. Os personagens exploram tal versão do circo, ao mesmo tempo similar e diferente da que eles viram anteriormente.

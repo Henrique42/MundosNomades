@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,31 +13,29 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Bosque dos Lobos]]:
 	- Acampamento dos Bandidos
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- Cães de Caça
+- Bandidos
+
+### Sem Combate
 
 - [[Garou]].
 
 ---
 
-### Inimigos Enfrentados
-
-- Cães de Caça
-- Bandidos
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Garou e os investigadores adentram ainda mais a floresta, encontrando, ao fim da trilha, um acampamento cercado por troncos de madeira.
 2. No local, eles percebem marcas de sangue e outros vestígios de algum tipo de incidente.

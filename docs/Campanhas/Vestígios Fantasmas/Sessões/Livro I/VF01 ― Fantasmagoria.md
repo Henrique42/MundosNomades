@@ -5,7 +5,7 @@
 
 ---  
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 1)
 - [[Lavenza]] (Warlock 1)
@@ -14,11 +14,9 @@
 - [[Sherlock]] (Rogue 1)
 - [[Vamas]] (Cleric 1)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Mercado
@@ -26,22 +24,22 @@
 
 ---  
 
-### NPCs Encontrados
+## NPCs
+
+### Com Combate
+
+- Monstros de Fumaça
+- Capa Flutuante
+
+### Sem Combate
 
 - [[Miranda]], empregada da líder da organização misteriosa
 - Mainha Wilma
 - Guarda 1, filho de Mainha Wilma (posteriormente nomeado como [[Sérgio, o Guarda]])
 
----
-
-### Inimigos Enfrentados
-
-- Monstros de Fumaça
-- Capa Flutuante
-
 ---  
 
-### Principais Eventos
+## Principais Eventos
 
 - **Chegada em Porto Lobo.** Após a chegada do grupo em Porto Lobo, os personagens se conhecem e conversam sobre o motivo de terem sido chamados lá.
 
@@ -64,4 +62,4 @@ Buscando vingança, agora despertamos"
 
 ---
 
-[[VF02 ― Libertem a Bruxa|Próxima >>]]
+[[VF02 ― Libertar a Bruxa|Próxima >>]]

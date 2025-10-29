@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 4)
 - [[Lavenza]] (Warlock 4)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 4) *- Ausente*
 - [[Sherlock]] (Rogue 4)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]
 	- [[Ruínas da Biblioteca Arcana]]:
@@ -29,7 +27,12 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+### Com Combate
+
+- Olhos Perseguidores (montagem)
+
+### Sem Combate
 
 - [[Fausto]]
 - [[Fídias, o Orador]]  (então "Velho Misterioso")
@@ -40,13 +43,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Olhos Perseguidores
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Explorando a última sala da biblioteca, os investigadores acabam sendo separados.
 2. **Desventuras de um Detetive.** Sherlock é abduzido pelas sombras na biblioteca, indo parar em uma visão do próprio funeral.

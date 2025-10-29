@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3) - *Ausente*
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Bar Água & Sal
@@ -26,7 +24,9 @@
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Sem Combate
 
 - [[Garou]]
 - Dona do bar
@@ -38,13 +38,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-*Vazio.*
-
----
-
-### Principais Eventos
+## Principais eventos
 
 1. Os jogadores deixam Garou lidando com o tratamento das vítimas e com a atenção que o ataque dos tubarões ganhou.
 2. Na organização, eles se reencontram com Reina e repassam o que aconteceu na cidade para ela. Eles também deixam o cartão do Crepúsculo com ela.

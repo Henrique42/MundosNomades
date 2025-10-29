@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 1)
 - [[Lavenza]] (Warlock 1)
@@ -14,11 +14,9 @@
 - [[Sherlock]] (Rogue 1)
 - [[Vamas]] (Cleric 1)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Esgoto
@@ -27,7 +25,13 @@
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Com Combate
+
+- Esqueletos guardiões
+
+### Sem Combate
 
 - Bruxa (posteriormente nomeada como [[Átropos]])
 - [[Bartolomeu Bravo]]
@@ -36,13 +40,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Esqueletos guardiões
-
----
-
-### Principais Eventos
+## Principais Eventos
 
 - **O encontro;** Após o susto inicial, a mulher se revela como a responsável por todas as coisas estranhas que vinham acontecendo no teatro: a bruxa. Ela também revela que o homem amarrado é Bartolomeu Bravo, que está em um transe. Os aventureiros se preparam para lutar, mas a bruxa não demonstra interesse em confronto. Em vez disso, ela os convida para se sentarem à mesa e conversarem, convite que eles aceitam, embora com algumas relutâncias de alguns membros do grupo.
 
@@ -56,4 +54,4 @@
 
 ---
 
-[[VF02 ― Libertem a Bruxa|<< Anterior]] | [[VF04 ― Breves Encontros|Próxima >>]]
+[[VF02 ― Libertar a Bruxa|<< Anterior]] | [[VF04 ― Breves Encontros|Próxima >>]]

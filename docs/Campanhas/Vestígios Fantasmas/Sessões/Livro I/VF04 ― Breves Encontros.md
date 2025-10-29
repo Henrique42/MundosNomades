@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 2)
 - [[Lavenza]] (Warlock 2)
@@ -14,11 +14,9 @@
 - [[Sherlock]] (Rogue 2)
 - [[Vamas]] (Cleric 2)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Sede da [[S.A.P.O.]]
@@ -29,7 +27,9 @@
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Sem Combate
 
 - [[Miranda]] (Empregada)
 - [[Reina Velez]] (Líder da S.A.P.O)
@@ -42,13 +42,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-*Vazio.*
-
----
-
-### Principais Eventos
+## Principais Eventos
 
 - **Café da Manhã na S.A.P.O:** Ao acordarem na base da S.A.P.O., o grupo se dirige ao café da manhã, mas logo são interrompidos por Miranda, que informa que Reina está esperando os aventureiros em sua sala. Na sala da diretora, Reina os cumprimenta e pergunta sobre o café da manhã. Em seguida, explica o que vem acontecendo e o que a S.A.P.O. está investigando. Ela revela que, nos últimos meses, diversos desaparecimentos ocorreram na cidade de Porto Lobo mas que não tem muitas informações para nos dar em seguida ela pede que o grupo converse com uma pessoa.
 

@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3) - *Ausente*
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Casa dos Naves
@@ -25,7 +23,13 @@
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Com Combate
+
+- Assaltantes (montagem)
+
+### Sem Combate
 
 - Lucilla Naves
 - Guarda de Porto Lobo (+ [[Sérgio, o Guarda]])
@@ -33,13 +37,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Assaltantes (montagem)
-
----
-
-### Principais Eventos
+## Principais eventos
 
 1. Os jogadores tentam entrar na casa da criança desaparecida enquanto os guardas a vasculham.
 	- Inicialmente, Lavenza tenta mandar seu familiar cobra, mas Sérgio a percebe.

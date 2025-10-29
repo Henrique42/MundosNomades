@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 2)
 - [[Lavenza]] (Warlock 2)
@@ -14,18 +14,22 @@
 - [[Sherlock]] (Rogue 2)
 - [[Vamas]] (Cleric 2) - *Ausente*
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Bar Água & Sal
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Com Combate
+
+- Homens-peixe
+
+### Sem Combate
 
 - Dona do bar
 - [[Garou]]
@@ -34,13 +38,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Homens-peixe (2 tipos)
-
----
-
-### Principais Eventos
+## Principais eventos
 
 1. Após sair do bar, Sherlock tenta conversar com dois homens no porto.
 2. Antes de isso ser possível, um dos homens é puxada para a água por um homem-peixe.

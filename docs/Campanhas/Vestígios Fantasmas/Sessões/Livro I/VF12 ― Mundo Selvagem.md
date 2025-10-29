@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Sede da [[S.A.P.O.]]
@@ -26,7 +24,13 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- Lobos (montagem)
+
+### Sem Combate
 
 - [[Bjorn Germain]]
 - [[Fritz Germain]]
@@ -36,13 +40,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Lobos (montagem)
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Os investigadores vão para a *Forja Germain* para saber mais sobre o incidente. Lá, eles conversam com Bjorn e seu filho.
 2. Sherlock banha sua espada curta em prata.

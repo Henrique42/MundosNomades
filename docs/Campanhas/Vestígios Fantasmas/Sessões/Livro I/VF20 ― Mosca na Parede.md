@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 4)
 - [[Lavenza]] (Warlock 4) *- Ausente*
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 4)
 - [[Sherlock]] (Rogue 4)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- [[Ruínas da Biblioteca Arcana]]:
@@ -26,7 +24,13 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- Sr. Mosca e suas mosquinhas
+
+### Sem Combate
 
 - [[Leto]]
 - [[Reina Velez]]
@@ -35,13 +39,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Sr. Mosca e suas mosquinhas
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Os investigadores terminam de fazer perguntas para Leto e começam a se preparar para o combate.
 2. Um homem-mosca de terno aparece das sombras. Ele oferece, para os jogadores, a possibilidade de se esquecer de tudo o que aconteceu na biblioteca em troca de terem as suas vidas poupadas. Os investigadores recusam e o homem invoca moscas gigantes.

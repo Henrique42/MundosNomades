@@ -6,12 +6,12 @@
 
 ## Personagens
 
-| Personagem | Campanha                | Situação |
-| ---------- | ----------------------- | -------- |
-| [[Vamas]]  | [[Vestígios Fantasmas]] | Em Hiato |
+| Campanha                | Personagem | Situação |
+| ----------------------- | ---------- | -------- |
+| [[Vestígios Fantasmas]] | [[Vamas]]  | Em Hiato |
 
 ---
 
-## Campanhas Mestradas
+## Narrações
 
 *Vazio.*

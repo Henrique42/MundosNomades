@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 4)
 - [[Lavenza]] (Warlock 4)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 4)
 - [[Sherlock]] (Rogue 4)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Bosque dos Lobos]]:
 	- Santuário na Floresta
@@ -28,7 +26,9 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Sem Combate
 
 - [[Garou]]
 - [[Zaara]]
@@ -38,13 +38,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-*Vazio.*
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Após a batalha, os investigadores analisam a criatura, que está viva, mas enfraquecida.
 2. Juntos de Garou, que se revela um lobisomem, eles realizam uma espécie de *ritual lunar* na floresta, livrando a criatura do item amaldiçoado que a prendia.

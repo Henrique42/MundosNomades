@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 2)
 - [[Lavenza]] (Warlock 2)
@@ -14,11 +14,9 @@
 - [[Sherlock]] (Rogue 2) - *Ausente*
 - [[Vamas]] (Cleric 2) - *Ausente*
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Sede da [[S.A.P.O.]]
@@ -26,7 +24,9 @@
 
 ---
 
-### NPCs Encontrados
+## NPCs
+
+### Sem Combate
 
 - Dona do bar
 - [[Garou]]
@@ -36,13 +36,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-*Vazio.*
-
----
-
-### Principais Eventos
+## Principais eventos
 
 1. O Grupo 2 (Marduk, Rhogar, Sherlock e Roberta) decide investigar o bar no qual Joaquim costumava ir.
 	- Eles ligam para a Sede da Organização para avisar seus companheiros.

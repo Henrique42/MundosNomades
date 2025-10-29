@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 4)
 - [[Lavenza]] (Warlock 4)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 4)
 - [[Sherlock]] (Rogue 4)
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Loja de Brinquedos (?)
@@ -26,7 +24,9 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Sem Combate
 
 - [[Sérgio, o Guarda]] e outros guardas
 - [[Capitão Andriessen]]
@@ -40,13 +40,7 @@
 
 ---
 
-### Inimigos Enfrentados
-
-- Planta bizarra
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Após o fim da missão, nossos investigadores retornam para a sede da organização. No caminho, eles finalmente encontram com Andriessen, o chefe da guarda.
 2. Na sede, eles reportam o que ocorreu na missão para os seus superiores. Depois, há uma conversa com Mocho, que agora faz parte da organização, e Teresa na enfermaria improvisada.

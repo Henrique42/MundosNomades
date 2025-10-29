@@ -5,7 +5,7 @@
 
 ---
 
-### Participantes
+## Personagens
 
 - [[Aenoir]] (Sorcerer 3)
 - [[Lavenza]] (Warlock 3)
@@ -13,11 +13,9 @@
 - [[Rhogar]] (Barbarian 3)
 - [[Sherlock]] (Rogue 3) - *Ausente*
 
-**Mestre:** [[Bruno]].
-
 ---  
 
-### Locais Visitados
+## Locais Visitados
 
 - [[Porto Lobo]]:
 	- Circo dos Irmãos Alichino
@@ -25,21 +23,21 @@
 
 ---
 
-### NPCs encontrados
+## NPCs
+
+### Com Combate
+
+- Mestre de Cerimônias
+- Tom, a Fera
+
+### Sem Combate
 
 - Várias crianças
 - Vários guardas
 
 ---
 
-### Inimigos Enfrentados
-
-- Mestre de Cerimônias
-- Tom, a Fera
-
----
-
-### Principais eventos
+## Principais eventos
 
 1. Os investigadores foram em direção ao palco principal do circo.
 2. Lá, eles foram recebidos por um mestre de cerimônias nem um pouco suspeito e um público de crianças com máscara de demônio.
