@@ -1,11 +1,18 @@
+**Partes de Boneca** foi um one-shot de terror no sistema *Liminal Horror*. Ele foi realizado em comemoração ao *Halloween* de 2025.
 
 <div style="text-align: center;">
-	<img src="https://i.imgur.com/ZAQsXKD.png" width="300" alt="Partes de Boneca">
+	<img src="https://i.imgur.com/ZAQsXKD.png" width="300" alt="Partes de Boneca" style="border: 1px solid black;">
 </div> 
 
-!!! info
-	- **Data:** 26/10/2025 e 28/10/2025
-	- **Autor(es):** [[Bruno]]
+!!! abstract "Ficha"
+	- **Sistema:** Liminal Horror
+	- **Cenário:** -
+	- **Gênero(s):** Terror e Mistério
+	- **Tipo:** One-shot
+	- **Data(s):** 
+		- **Início:** 26/10/2025
+		- **Fim:** 28/10/2025
+	- **Autor(es) do Resumo:** [[Bruno]]
 
 ---
 
@@ -32,7 +39,7 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 ## Locais Visitados
 
 - **Dólmen:** uma cidade fictícia no interior do Brasil.
-	- **Prefeitura de Dólmen;**
+	- **Prefeitura de Dólmen**;
 	- **Mansão Novelo:** mansão baseada em um castelo medieval onde eventos estranhos têm acontecido. Ela fica no topo de uma colina.
 
 ---

@@ -1,22 +1,22 @@
----
-draft: false
-date: 0001-01-01
-slug: atualizacoes
-categories:
-  - atualização
-tags:
----
 Esta página existe como uma forma de registrar as atualizações na wiki.
 
-## Guia
+**Legenda:**
+
 - Campanhas em Andamento:
-	- **VF** = [[Vestígios Fantasmas]]
+	- **VF** → [[Vestígios Fantasmas]]
 - One-shots:
-	- **PdB** = [[Partes de Boneca (Halloween 2025)]]
+	- **PdB** → [[Partes de Boneca (Halloween 2025)]]
 
 ---
 
 ## Registro de Atualizações
+
+### 2025/11/03 (VF)
+- **Motivo:** Adição de uma linha do tempo para a campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Página atualizada: [[Vitria#História do Cenário|História de Vitria]]
+
+---
 
 ### 2025/10/29 (PdB)
 - **Motivo:** One-shot **Partes de Boneca**.
