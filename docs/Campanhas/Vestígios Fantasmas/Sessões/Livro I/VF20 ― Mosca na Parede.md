@@ -50,4 +50,4 @@
 
 ---
 
-[[VF19 ― O Mago|<< Anterior]] | Próxima >>
+[[VF19 ― O Mago|<< Anterior]] | [[VF21 ― Martelos e Pregos|Próxima >>]]

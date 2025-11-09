@@ -11,6 +11,15 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2025/11/09 (VF)
+- **Motivo:** Sessão 21 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF21 ― Martelos e Pregos]]
+	- NPC atualizado: [[Sanwitches]] (o conteúdo da página "Vegas" foi transferido para cá)
+	- Local atualizado: [[Porto Lobo]]
+
+---
+
 ### 2025/11/03 (VF)
 - **Motivo:** Adição de uma linha do tempo para a campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
@@ -166,7 +175,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **Motivo:** Sessão 02 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF02 ― Libertar a Bruxa]]
-	- NPC adicionado: [[Vegas]]
+	- NPC adicionado: [[Sanwitches|Vegas]]
 	- Local atualizado: [[Porto Lobo]]
 
 ---

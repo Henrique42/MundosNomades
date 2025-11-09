@@ -29,7 +29,7 @@
 
 ### Sem Combate
 
-- [[Vegas]] (Cara estranho no meio do beco)
+- [[Sanwitches|Vegas]] (Cara estranho no meio do beco)
 - Guarda 1
 - Guarda 2
 - Roberta Araújo (Atriz/Bruxa)

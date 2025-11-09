@@ -1,4 +1,6 @@
-**Sanwitches** são um grupo de demônios com três olhos que ganham a vida coletando e vendendo itens mágicos.
+**Sanwitches** são um grupo de demônios com três olhos que ganham a vida coletando e vendendo itens mágicos e "informações edificantes".
+
+Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanwitches: *Vegas*, *Califórnia* e *Colorado*.
 
 ---
 
@@ -14,7 +16,11 @@
 
 ### Sobre
 
-*A ser adicionado.*
+Quando três sanwitches se juntam, eles se tornam uma entidade misteriosa de sobretudo. Tal transformação serve como um disfarce para interagir com criaturas humanoides.
+
+<div style="text-align: center;">
+<img src="https://images.unsplash.com/flagged/photo-1578074606880-a7f5c9a30418" width="300px" style="border: 1px solid black;">
+</div>
 
 ---
 
