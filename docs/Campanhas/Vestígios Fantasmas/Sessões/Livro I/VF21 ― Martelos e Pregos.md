@@ -1,6 +1,6 @@
 !!! info
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 09/11/2025
+	- **Data:** 08/11/2025
 	- **Autor(es):** [[Bruno]]
 
 ---
@@ -53,4 +53,4 @@
 
 ---
 
-[[VF20 ― Mosca na Parede|<< Anterior]] | Próxima >>
+[[VF20 ― Mosca na Parede|<< Anterior]] | [[VF22 ― Palha ao Vento|Próxima >>]]

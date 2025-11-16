@@ -90,3 +90,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 **...**
 
 - [[VF21 ― Martelos e Pregos]]
+- [[VF22 ― Palha ao Vento]]

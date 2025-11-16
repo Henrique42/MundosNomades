@@ -11,6 +11,15 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+
+### 2025/11/16 (VF)
+- **Motivo:** Sessão 22 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF22 ― Palha ao Vento]]
+	- Novos NPCs: [[Ignacius]], [[Manah]] e [[Fábio Castello]]
+
+---
+
 ### 2025/11/09 (VF)
 - **Motivo:** Sessão 21 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
