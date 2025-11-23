@@ -15,8 +15,8 @@
 	<hr>
 	**Outras Informações:**
 		- **Primeira Aparição:**
-			- [[VF22 ― Palha ao Vento]] *(mencionado)*
-			- [[VF23 ― Canção da Cobra]] *(aparição verdadeira)*
+			- [[VF21 ― Martelos e Pregos]] *(mencionado)*
+			- [[VF22 ― Palha ao Vento]] *(aparição verdadeira)*
 		- **Situação:** Morto
 
 ---
