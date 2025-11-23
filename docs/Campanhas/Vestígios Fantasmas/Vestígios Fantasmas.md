@@ -1,6 +1,5 @@
 **Vestígios Fantasmas** é uma campanha de *D&D 5ª edição* com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
-
 <div style="text-align: center;">
 	<img src="https://i.imgur.com/QcDfacc.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;">
 </div> 
@@ -32,14 +31,14 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 - **Narrador:** [[Bruno]]
 - **Investigadores:**
 
-| Jogador      | Personagens          |
-| ------------ | -------------------- |
-| [[Anthony]]  | [[Rhogar]]           |
-| [[Antônio]]  | [[Marduk]]           |
-| [[Clenildo]] | [[Lavenza]]          |
-| [[Emanoel]]  | [[Sherlock]]         |
-| [[Paulo]]    | [[Vamas]] (Em Hiato) |
-| [[Saymon]]   | [[Aenoir]]           |
+| Jogador      | Personagens             |
+| ------------ | ----------------------- |
+| [[Anthony]]  | [[Rhogar]] (Aposentado) |
+| [[Antônio]]  | [[Marduk]]              |
+| [[Clenildo]] | [[Lavenza]]             |
+| [[Emanoel]]  | [[Sherlock]] (Morto)    |
+| [[Paulo]]    | [[Vamas]] (Aposentado)  |
+| [[Saymon]]   | [[Aenoir]]              |
 
 ---
 
@@ -47,7 +46,7 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 Esta seção serve como uma lista de sessões e arcos da campanha.
 
-### Livro I
+### Livro I: Bruxa à Beira-Mar
 
 **Arquivo S.A.P.O.: "O Fantasma do Teatro"**
 
@@ -87,7 +86,12 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF19 ― O Mago]]
 - [[VF20 ― Mosca na Parede]]
 
-**...**
+**Arquivo S.A.P.O.: "Martelo da Bruxa"**
 
 - [[VF21 ― Martelos e Pregos]]
 - [[VF22 ― Palha ao Vento]]
+- [[VF23 ― Canção da Cobra]]
+
+### Livro II
+
+*Em breve.*

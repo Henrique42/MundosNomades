@@ -1,4 +1,4 @@
-**Sherlock Gomes** é um halfling ladino que atua como investigador paranormal na [[S.A.P.O.]]
+**Sherlock Gomes** foi um halfling ladino que atuou como detetive e investigador paranormal na [[S.A.P.O.]]
 
 ---
 
@@ -12,4 +12,15 @@
 	- **Gênero:** Masculino
 	- **Classe:** Rogue (Inquisitive)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Vivo
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** Sra. Gomes *(mãe)*
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Morto
+
+---
+
+## Sobre
+
+- Sherlock foi morto por um espantalho durante a luta contra a bruxa [[Átropos]] *(ver sessão "[[VF23 ― Canção da Cobra]]")*.

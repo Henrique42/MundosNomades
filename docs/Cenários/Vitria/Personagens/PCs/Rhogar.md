@@ -12,7 +12,12 @@
 	- **Gênero:** Masculino
 	- **Classe:** Barbarian (Path of Wild Magic)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Vivo
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** Irmã desaparecida
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Vivo *(Aposentado)*
 
 ---
 

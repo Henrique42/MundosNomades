@@ -6,10 +6,10 @@
 
 ## Personagens
 
-| Campanha                              | Personagem      | Situação     |
-| ------------------------------------- | --------------- | ------------ |
-| [[Partes de Boneca (Halloween 2025)]] | Katarino Bugalu | Aposentado   |
-| [[Vestígios Fantasmas]]               | [[Sherlock]]    | Em Atividade |
+| Campanha                              | Personagem      | Situação   |
+| ------------------------------------- | --------------- | ---------- |
+| [[Partes de Boneca (Halloween 2025)]] | Katarino Bugalu | Aposentado |
+| [[Vestígios Fantasmas]]               | [[Sherlock]]    | Morto      |
 
 ---
 

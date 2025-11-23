@@ -1,4 +1,4 @@
-**Átropos** é uma antiga bruxa de [[Vernália]]. Ela foi a responsável pelas aparições misteriosas no Teatro Municipal de [[Porto Lobo]].
+**Átropos** é uma antiga bruxa de [[Vernália]]. Durante o tempo em que ela atuou como Serpente para [[O Observador]], Átropos foi responsável por diversos incidentes na cidade de [[Porto Lobo]].
 
 ---
 
@@ -7,15 +7,20 @@
 </div>
 
 !!! abstract "Perfil"
-	- **Espécie:** ?
+	- **Espécie:** Humana
 	- **Gênero:** Feminino
 	- **Ocupação:** Bruxa
-	- **Afiliação:** ?
+	- **Afiliação:** [[O Observador]]
 	- **Família:** Duas irmãs *(mortas)*
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF02 ― Libertar a Bruxa]]
+		- **Situação:** Morta *(presumidamente)*
 
 ---
 
-### Sobre
+## Sobre
 
-*A ser adicionado.*
+- No passado, Átropos foi morta pela Inquisição Vernaliana (um destino similar ao de suas duas irmãs);
+- Em algum momento, a bruxa foi revivida pela entidade conhecida como "[[O Observador]]", ganhando o título de "A Serpente do Ódio";
+- No ano de 79 D.A., Átropos coordenou um ataque à cidade de [[Porto Lobo]]. Ela acabou sendo derrotada por um grupo de investigadores da [[S.A.P.O.]]

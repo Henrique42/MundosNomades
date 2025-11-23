@@ -12,4 +12,9 @@
 	- **Gênero:** Feminino
 	- **Classe:** Sorcerer (Lunar Sorcery)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Viva
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** [[Mestre dos Espelhos]] *(clone com a consciência de um palhaço)*
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Viva

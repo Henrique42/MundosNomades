@@ -11,6 +11,19 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2025/11/23 (VF)
+- **Motivo:** Sessão 23 da campanha **Vestígios Fantasmas** (Fim do "Livro I").
+- **O que há de novo?**
+	- Nova sessão: [[VF23 ― Canção da Cobra]]
+	- Novos NPCs: [[Geraldo e Jéssica]], [[Deusa Capra]] e [[Mestre dos Espelhos]]
+	- Novo local: [[Setor das Almas Perdidas]]
+	- PCs atualizados: [[Aenoir]], [[Rhogar]] e [[Sherlock]] (F)
+	- NPCs atualizados: [[Átropos]] e [[Bartolomeu Bravo]]
+	- Local atualizado: [[Porto Lobo]]
+	- Facção atualizada: [[S.A.P.O.]]
+	- "Primeira aparição" adicionada para todos os personagens
+
+---
 
 ### 2025/11/16 (VF)
 - **Motivo:** Sessão 22 da campanha **Vestígios Fantasmas**.

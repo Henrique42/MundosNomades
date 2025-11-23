@@ -52,4 +52,4 @@
 
 ---
 
-[[VF21 ― Martelos e Pregos|<< Anterior]] | Próxima >>
+[[VF21 ― Martelos e Pregos|<< Anterior]] | [[VF23 ― Canção da Cobra|Próxima >>]]
