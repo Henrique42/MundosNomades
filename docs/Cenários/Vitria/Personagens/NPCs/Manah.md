@@ -12,10 +12,13 @@
 	- **Ocupação:** Cartomante
 	- **Afiliação:** [[Divindades de Vitria#Os Avatares|Avhel]]
 	- **Família:** [[Ignacius]] *(Marido)*
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF22 ― Palha ao Vento]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

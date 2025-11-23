@@ -12,10 +12,15 @@
 	- **Ocupação:** ?
 	- **Afiliação:** [[Clã Midna]]
 	- **Família:** -
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:**
+			- [[VF12 ― Mundo Selvagem]] *(mencionada)*
+			- [[VF14 ― Os Dias de Cão Acabaram]] *(aparição verdadeira)*
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

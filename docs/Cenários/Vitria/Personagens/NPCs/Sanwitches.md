@@ -11,10 +11,16 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 !!! abstract "Perfil"
 	- **Espécie:** Demônio (*sanwitch*)
 	- **Ocupação:** Mercadores
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** 
+			- [[VF02 ― Libertar a Bruxa]] *(disfarçados)*
+			- [[VF16 ― Caixa de Chuva]] *(forma verdadeira)*
+		- **Situação:** Vivos
 
 ---
 
-### Sobre
+## Sobre
 
 Quando três sanwitches se juntam, eles se tornam uma entidade misteriosa de sobretudo. Tal transformação serve como um disfarce para interagir com criaturas humanoides.
 
@@ -24,6 +30,6 @@ Quando três sanwitches se juntam, eles se tornam uma entidade misteriosa de sob
 
 ---
 
-### Créditos
+## Créditos
 
 - Imagem do personagem: Franquia **Yu-Gi-Oh!**

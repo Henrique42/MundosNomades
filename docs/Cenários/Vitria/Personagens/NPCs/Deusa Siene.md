@@ -12,13 +12,16 @@
 	- **Ocupação:** Deusa do rio Siene
 	- **Afiliação:** [[Divindades de Vitria]]
 	- **Família:** -
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF12 ― Mundo Selvagem]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
-!!! question "Culto a Siene"
+!!! question "Culto à Siene"
 	- **Mandamentos:** ?
 	- **Pecados:** Poluir o rio Siene
 	- **Símbolos:** Baronesa (planta)

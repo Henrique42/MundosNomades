@@ -12,10 +12,13 @@
 	- **Ocupação:** Herbalista / Apotecária
 	- **Afiliação:** [[Porto Lobo|Casa das Ervas]]
 	- **Família:** ?
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF04 ― Breves Encontros]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 - Dona Edna é a proprietária da [[Porto Lobo|Casa das Ervas]].

@@ -12,4 +12,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Cleric (Grave Domain)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Vivo *(Em hiato)*
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** ?
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Vivo *(Aposentado)*

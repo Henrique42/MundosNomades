@@ -12,10 +12,13 @@ Uma **mordomo** que pode ser real ou não.
 	- **Ocupação:** Mordomo (?)
 	- **Afiliação:** ?
 	- **Família:** ?
-	- **Situação:** ?
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF18 ― Vire a Página]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

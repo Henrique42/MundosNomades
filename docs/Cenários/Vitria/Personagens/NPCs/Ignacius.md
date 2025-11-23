@@ -12,10 +12,13 @@
 	- **Ocupação:** Guarda-costas
 	- **Afiliação:** -
 	- **Família:** [[Manah]] *(Esposa)*
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF22 ― Palha ao Vento]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

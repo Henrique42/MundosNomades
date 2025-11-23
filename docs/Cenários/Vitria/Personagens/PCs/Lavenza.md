@@ -12,7 +12,12 @@
 	- **Gênero:** Feminino
 	- **Classe:** Warlock (The Celestial)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Viva
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** Mestre desaparecido
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Viva
 
 ---
 

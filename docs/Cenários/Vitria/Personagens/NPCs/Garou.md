@@ -13,11 +13,14 @@
 	- **Afiliação:** 
 		- [[Porto Lobo|Bar Água & Sal]]
 		- [[Clã Midna]]
-	- **Família:** ?
-	- **Situação:** Vivo
+	- **Família:** [[Clã Midna]]
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF05 ― Garota Azeda]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

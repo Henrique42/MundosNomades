@@ -12,10 +12,13 @@
 	- **Ocupação:** Atriz
 	- **Afiliação:** [[Porto Lobo|Teatro Municipal de Porto Lobo]]
 	- **Família:** ?
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

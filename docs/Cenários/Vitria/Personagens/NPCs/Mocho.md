@@ -14,10 +14,13 @@
 		- Gangue das Harpias *(anteriormente)*
 		- [[S.A.P.O.]]
 	- **Família:** -
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF13 ― Carne e Sangue]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

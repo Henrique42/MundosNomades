@@ -12,10 +12,13 @@
 	- **Ocupação:** Enfermeira
 	- **Afiliação:** [[S.A.P.O.]]
 	- **Família:** ?
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF11 ― Estivemos Longe Tempo Demais]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

@@ -12,16 +12,19 @@
 	- **Ocupação:** Espírito Guardião
 	- **Afiliação:** [[Ruínas da Biblioteca Arcana]]
 	- **Família:** -
-	- **Situação:** Vivo (?)
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF18 ― Vire a Página]]
+		- **Situação:** Vivo (?)
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*
 
 ---
 
-### Créditos
+## Créditos
 
 - Imagem do personagem: Franquia **Yu-Gi-Oh!**

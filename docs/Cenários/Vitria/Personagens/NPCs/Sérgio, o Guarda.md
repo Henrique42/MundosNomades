@@ -12,10 +12,13 @@
 	- **Ocupação:** Guarda
 	- **Afiliação:** [[Porto Lobo|Cidade de Porto Lobo]]
 	- **Família:** Mainha Wilma *(Mãe)*
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

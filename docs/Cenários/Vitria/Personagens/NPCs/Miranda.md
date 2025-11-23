@@ -14,10 +14,13 @@
 		- Empregada (?)
 	- **Afiliação:** [[S.A.P.O.]]
 	- **Família:** ?
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

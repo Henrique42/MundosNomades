@@ -16,10 +16,13 @@
 		- Universidade Vernaliana de Magia
 		- [[S.A.P.O.]]
 	- **Família:** ?
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF04 ― Breves Encontros]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

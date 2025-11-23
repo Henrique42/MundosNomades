@@ -12,10 +12,15 @@
 	- **Ocupação:** Capitão da Guarda
 	- **Afiliação:** [[Porto Lobo |Cidade de Porto Lobo]]
 	- **Família:** ?
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:**
+			- [[VF11 ― Estivemos Longe Tempo Demais]] *(mencionado)*
+			- [[VF16 ― Caixa de Chuva]] *(aparição verdadeira)*
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

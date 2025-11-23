@@ -12,16 +12,21 @@
 	- **Ocupação:** Alcaide
 	- **Afiliação:** [[Porto Lobo |Cidade de Porto Lobo]]
 	- **Família:** ?
-	- **Situação:** Morto
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:**
+			- [[VF22 ― Palha ao Vento]] *(mencionado)*
+			- [[VF23 ― Canção da Cobra]] *(aparição verdadeira)*
+		- **Situação:** Morto
 
 ---
 
-### Sobre
+## Sobre
 
 - Durante um *Festival das 5 Damas da Colheita*, Fábio acabou sendo transformado em um monstro de chamas. Ele morreu após ser derrotado pelos protagonistas da campanha [[VF22 ― Palha ao Vento|Vestígios Fantasmas]].
 
 ---
 
-### Créditos
+## Créditos
 
 - Imagem do personagem: [Reddit](https://www.reddit.com/r/DnD/comments/f9ip3j/ocartdrawing_the_monster_manual_8_noble/)

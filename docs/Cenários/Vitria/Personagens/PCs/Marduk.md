@@ -12,4 +12,11 @@
 	- **Gênero:** Masculino
 	- **Ocupação:** Druid (Circle of Stars)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Situação:** Vivo
+	- **Afiliação:** 
+		- [[S.A.P.O.]]
+		- Arquivistas
+	- **Família:** Tribo desaparecida
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
+		- **Situação:** Vivo

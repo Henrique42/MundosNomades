@@ -12,11 +12,14 @@
 	- **Ocupação:** ?
 	- **Afiliação:** ?
 	- **Família:** ?
-	- **Situação:** Vivo (?)
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF18 ― Vire a Página]]
+		- **Situação:** Vivo (?)
 
 ---
 
-### Sobre
+## Sobre
 
 O Observador também é conhecido por outros nomes, como:
 
@@ -27,6 +30,6 @@ O Observador também é conhecido por outros nomes, como:
 
 ---
 
-### Créditos
+## Créditos
 
 - Imagem do personagem: **Aku no Hana**

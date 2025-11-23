@@ -12,11 +12,16 @@
 	- **Ocupação:** Fundadora e líder da [[S.A.P.O.]]
 	- **Afiliação:** [[S.A.P.O.]]
 	- **Família:** ?
-	- **Situação:** Viva
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:**
+			- [[VF01 ― Fantasmagoria]] *(mencionada)*
+			- [[VF03 ― Caveiras e Velas]] *(aparição verdadeira)*
+		- **Situação:** Viva
 
 ---
 
-### Sobre
+## Sobre
 
 *Desconhecido.*
 

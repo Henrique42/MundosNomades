@@ -18,16 +18,19 @@
 		- [[Sociedade do Memento]] *(anteriormente)*
 		- Universidade Vernaliana de Magia *(anteriormente)*
 	- **Família:** ?
-	- **Situação:** Morto
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF17 ― Flores Mortas]]
+		- **Situação:** Morto
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*
 
 ---
 
-### Créditos
+## Créditos
 
 - Imagem do personagem: [Merlin the court wizard](https://www.deviantart.com/lucy-lisett/art/Merlin-the-court-wizard-622420764?src=MC_deviation_stack)

@@ -12,10 +12,13 @@
 	- **Ocupação:** Ferreiro
 	- **Afiliação:** [[Porto Lobo |Forja Germain]]
 	- **Família:** [[Fritz Germain]] *(Filho)*
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF04 ― Breves Encontros]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*

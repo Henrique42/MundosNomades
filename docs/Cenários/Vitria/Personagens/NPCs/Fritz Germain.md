@@ -12,10 +12,13 @@
 	- **Ocupação:** Ferreiro
 	- **Afiliação:** [[Porto Lobo |Forja Germain]]
 	- **Família:** [[Bjorn Germain]] *(Pai)*
-	- **Situação:** Vivo
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF12 ― Mundo Selvagem]]
+		- **Situação:** Vivo
 
 ---
 
-### Sobre
+## Sobre
 
 *A ser adicionado.*
