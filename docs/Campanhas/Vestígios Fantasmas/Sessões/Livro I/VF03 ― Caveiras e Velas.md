@@ -33,7 +33,7 @@
 
 ### Sem Combate
 
-- Bruxa (posteriormente nomeada como [[Átropos]])
+- [[Átropos|Bruxa do Esgoto]]
 - [[Bartolomeu Bravo]]
 - [[Miranda]]
 - [[Reina Velez]]

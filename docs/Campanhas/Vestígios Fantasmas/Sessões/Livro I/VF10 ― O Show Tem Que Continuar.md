@@ -18,7 +18,7 @@
 ## Locais Visitados
 
 - [[Porto Lobo]]:
-	- Circo dos Irmãos Alichino
+	- Circo dos Arlequins
 - [[O 'Outro Circo']]
 
 ---
@@ -27,7 +27,7 @@
 
 ### Com Combate
 
-- Mestre de Cerimônias
+- [[Mestre dos Espelhos|Palhaço chefe]]
 - Tom, a Fera
 
 ### Sem Combate

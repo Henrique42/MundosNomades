@@ -4,7 +4,7 @@ No passado, o bosque era tido como um local sagrado, onde diversas práticas rel
 
 ---
 
-### Locais Importantes
+## Locais Importantes
 
 - Acampamento das Harpias *(destruído)*;
 - Monte Alba;
@@ -12,10 +12,10 @@ No passado, o bosque era tido como um local sagrado, onde diversas práticas rel
 
 ---
 
-### Visual
+## Visual
 
 ![O Bosque dos Lobos](https://cdna.artstation.com/p/assets/images/images/002/830/622/large/veli-nystrom-sketch-forest.jpg)
 
-#### Créditos
+### Créditos
 
 Esta arte foi criada por [Veli Nyström](https://www.artstation.com/artwork/PEKAy).

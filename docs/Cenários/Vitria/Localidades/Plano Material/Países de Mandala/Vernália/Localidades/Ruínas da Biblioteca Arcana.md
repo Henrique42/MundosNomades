@@ -4,10 +4,10 @@ Em algum momento, um misterioso terremoto atingiu o local, deixando a biblioteca
 
 ---
 
-### Visual
+## Visual
 
 ![The Library](https://cdna.artstation.com/p/assets/images/images/014/623/470/large/maria-yue-highresscreenshot00126.jpg)
 
-#### Créditos
+### Créditos
 
-Esta arte foi criada por [Maria Yue](https://www.artstation.com/artwork/balv6k).
+A arte utilizada nesta página é de autoria de [Maria Yue](https://www.artstation.com/artwork/balv6k).

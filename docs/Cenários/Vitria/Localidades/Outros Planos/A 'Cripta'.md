@@ -2,10 +2,10 @@
 
 ---
 
-### Visual
+## Visual
 
 ![A Cripta](https://cdnb.artstation.com/p/assets/images/images/001/061/405/large/darren-benton-grave-yard-scene-big.jpg)
 
-#### Créditos
+### Créditos
 
-Esta arte foi criada por [Darren Benton](https://www.artstation.com/artwork/BkVnk).
+A arte utilizada nesta página é de autoria de [Darren Benton](https://www.artstation.com/artwork/BkVnk).

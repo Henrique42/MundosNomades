@@ -35,7 +35,8 @@
 
 - [[Miranda]], empregada da líder da organização misteriosa
 - Mainha Wilma
-- Guarda 1, filho de Mainha Wilma (posteriormente nomeado como [[Sérgio, o Guarda]])
+- [[Sérgio, o Guarda|Guarda 1, filho de Mainha Wilma]]
+- Atores e público
 
 ---  
 

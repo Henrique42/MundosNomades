@@ -36,7 +36,7 @@
 - [[Mocho]]
 - [[Teresa Madel]]
 - [[Fausto]]
-- Irmãos *Sanwitch*
+- [[Sanwitches]]
 
 ---
 

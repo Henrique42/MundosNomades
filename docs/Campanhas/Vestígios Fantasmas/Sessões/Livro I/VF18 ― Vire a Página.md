@@ -35,10 +35,10 @@
 ### Sem Combate
 
 - [[Fausto]]
-- [[Fídias, o Orador]]  (então "Velho Misterioso")
-- [[Leto]] (então "Espírito da Biblioteca")
-- [[O Observador]] (então "O Inimigo")
-- [[Mordomo]]
+- [[Fídias, o Orador|Velho misterioso]]
+- [[Leto|Espírito da Biblioteca]]
+- [[O Observador|O Inimigo]]
+- [[Mordomo|Mordomo misteriosa]]
 - [[Átropos]] (memória)
 
 ---

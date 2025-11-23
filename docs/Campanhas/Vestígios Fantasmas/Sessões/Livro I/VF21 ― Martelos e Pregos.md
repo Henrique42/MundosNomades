@@ -32,7 +32,7 @@
 - [[Reina Velez]]
 - [[Teresa Madel]]
 - [[Mocho]]
-- Geraldo e Jéssica
+- [[Geraldo e Jéssica]]
 - [[Fausto]]
 - [[Deusa Siene]]
 - [[Bjorn Germain]]

@@ -33,8 +33,6 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 	- *Acerto crítico:* vantagem na primeira ação;
 	- *Falha crítica:* desvantagem na primeira ação.
 
-- **Feat** gratuita no nível 1;
-
 - **Flanquear:** Bônus de +2 para a rolagem de ataque, ao invés vantagem;
 
 ### Montagem de viagem

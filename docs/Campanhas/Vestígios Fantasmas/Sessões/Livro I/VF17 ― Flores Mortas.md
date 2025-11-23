@@ -33,7 +33,7 @@
 
 - [[Fausto]]
 - [[Sanwitches]]
-- [[Fídias, o Orador]] (então "Velho Misterioso")
+- [[Fídias, o Orador|Velho Misterioso]]
 
 ---
 

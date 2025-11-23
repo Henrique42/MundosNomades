@@ -33,6 +33,7 @@
 
 - [[Mocho]]
 - [[Garou]]
+- [[Zaara|Lobisomem branco]]
 
 ---
 

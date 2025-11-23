@@ -18,7 +18,7 @@
 ## Locais Visitados
 
 - [[Porto Lobo]]:
-	- Circo dos Irmãos Alichino
+	- Circo dos Arlequins
 	- Sede da [[S.A.P.O.]]
 
 ---

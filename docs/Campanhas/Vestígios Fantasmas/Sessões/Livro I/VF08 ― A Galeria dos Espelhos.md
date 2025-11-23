@@ -19,7 +19,7 @@
 
 - [[Porto Lobo]]:
 	- Casa dos Naves
-	- Circo dos Irmãos Alichino
+	- Circo dos Arlequins
 
 ---
 
