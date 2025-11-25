@@ -1,4 +1,4 @@
-**Leto**, ou simplesmente "Espírito da Biblioteca", é a personificação da *Biblioteca Arcana de Leto*, a qual fica nos arredores de [[Porto Lobo]].
+**Leto**, ou simplesmente "Espírito da Biblioteca", é a personificação da [[Ruínas da Biblioteca Arcana|Biblioteca Arcana de Leto]], a qual ficava nos arredores de [[Porto Lobo]].
 
 ---
 
@@ -10,7 +10,9 @@
 	- **Espécie:** Espírito
 	- **Gênero:** -
 	- **Ocupação:** Espírito Guardião
-	- **Afiliação:** [[Ruínas da Biblioteca Arcana]]
+	- **Afiliação:** 
+		- [[Ruínas da Biblioteca Arcana|Biblioteca Arcana de Leto]]
+		- Tarno *(deusa da qual ele é um fragmento)*
 	- **Família:** -
 	<hr>
 	**Outras Informações:**
@@ -21,9 +23,9 @@
 
 ## Sobre
 
-- Por décadas, Leto protegeu as [[Ruínas da Biblioteca Arcana]] dos ataques d'[[O Observador]] e seus asseclas *(Sessão: [[VF19 ― O Mago]])*.
+- Por décadas, Leto protegeu se protegeu sozinho dos ataques d'[[O Observador]] e seus asseclas *(Sessão: [[VF19 ― O Mago]])*.
 
-- No fim de sua vida, o espírito decidiu sacrificar o resto de sua energia para dar poder para um grupo de investigadores da [[S.A.P.O.]] Como resultado, Leto acabou se tornando uma gema azulada *(Sessões: [[VF20 ― Mosca na Parede]] e [[VF21 ― Martelos e Pregos]])*.
+- No fim de sua vida, o espírito decidiu sacrificar o resto de sua energia para ajudar um grupo de investigadores da [[S.A.P.O.]] Como resultado, Leto acabou se tornando uma gema azulada *(Sessões: [[VF20 ― Mosca na Parede]] e [[VF21 ― Martelos e Pregos]])*.
 
 ---
 

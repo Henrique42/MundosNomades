@@ -27,4 +27,4 @@
 
 - Desde filhote, Zaara foi escravizada pela [[Gangue das Harpias]], sendo forçada a participar de seus crimes.
 
-- Um dia, ela decidiu se rebelar contra seus captores, sendo ferida durante sua fuga. Posteriormente, ela foi protegida e tratada por [[Garou]] e um grupo de investigadores da [[S.A.P.O.]], o que a levou a ser adotada pelo [[Clã Midna]] *(Sessão: [[VF15 ― A Lua Irá Cantar]])*.
+- Um dia, ela decidiu se rebelar contra seus captores, sendo ferida durante sua fuga. Posteriormente, ela foi protegida e tratada por [[Garou]] e um grupo de investigadores da [[S.A.P.O.]], o que a levou a ser adotada pelo [[Clã Midna]] *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]] e [[VF15 ― A Lua Irá Cantar]])*.

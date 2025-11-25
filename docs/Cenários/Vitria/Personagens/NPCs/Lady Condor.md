@@ -3,7 +3,7 @@
 ---
 
 <div style="text-align: center;">
-<img src="https://www.artofmtg.com/wp-content/uploads/2021/09/Graveyard-Trespasser-Innistrad-Midnight-Hunt-MtG-Art.jpg" height="300" style="border: 1px solid black;">
+<img src="https://i.imgur.com/KSig76o.jpeg" height="300" style="border: 1px solid black;">
 </div>
 
 !!! abstract "Perfil"
