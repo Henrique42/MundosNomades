@@ -1,4 +1,4 @@
-**'Cripta'** é um antigo templo da deusa da morte, **Capra**. Em algum momento, o local se tornou um *demiplano* que existe entre o mundo dos vivos e o mundo dos mortos.
+**'Cripta'** é um antigo templo da deusa da morte, [[Capra]]. Em algum momento, o local se tornou um *demiplano* que existe entre o mundo dos vivos e o mundo dos mortos.
 
 ---
 

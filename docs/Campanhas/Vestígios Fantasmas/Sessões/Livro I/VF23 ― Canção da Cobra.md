@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 22/11/2025
-	- **Autor(es):** [[Bruno]]
+	- **Data da sessão:** 22/11/2025
+	- **Autoria do resumo:** [[Bruno]]
 
 ---
 
@@ -43,7 +43,7 @@
 - Dona do Bar
 - [[Mestre dos Espelhos]]
 - [[Mordomo|Mordomo misteriosa]] *(brevemente)* 
-- [[Deusa Capra]]
+- [[Capra]]
 
 ---
 

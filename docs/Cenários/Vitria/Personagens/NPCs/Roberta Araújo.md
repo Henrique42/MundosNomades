@@ -21,4 +21,6 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Após os ataques de [[Átropos]] ao teatro em que Roberta trabalhava, a atriz foi acusada injustamente (?) de bruxaria *(Sessão: [[VF02 ― Libertar a Bruxa]])*.
+
+- Junto de um grupo de investigadores da [[S.A.P.O.]], ela participou da batalha contra Átropos durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]]. Ao longo do conflito, ela teve que enfrentar uma versão morta-viva de seu ex-chefe, [[Bartolomeu Bravo]] *(Sessão: [[VF23 ― Canção da Cobra]])*.

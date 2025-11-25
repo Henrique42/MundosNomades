@@ -22,7 +22,7 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 
 ## Sobre
 
-Quando três sanwitches se juntam, eles se tornam uma entidade misteriosa de sobretudo. Tal transformação serve como um disfarce para interagir com criaturas humanoides.
+- Quando três sanwitches se juntam, eles se tornam uma entidade misteriosa de sobretudo. Tal transformação serve como um disfarce para interagir com criaturas humanoides *(Sessão: [[VF21 ― Martelos e Pregos]])*.
 
 <div style="text-align: center;">
 <img src="https://images.unsplash.com/flagged/photo-1578074606880-a7f5c9a30418" width="300px" style="border: 1px solid black;">

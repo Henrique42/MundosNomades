@@ -9,10 +9,7 @@
 	- **Cenário:** -
 	- **Gênero(s):** Terror e Mistério
 	- **Tipo:** One-shot
-	- **Data(s):** 
-		- **Início:** 26/10/2025
-		- **Fim:** 28/10/2025
-	- **Autor(es) do Resumo:** [[Bruno]]
+	- **Data(s):** 26/10/2025 e 28/10/2025
 
 ---
 
@@ -36,7 +33,20 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 
 ---
 
-## Locais Visitados
+## Resumo
+
+!!! info
+	- **Autoria do resumo:** [[Bruno]]
+
+O quarteto de investigadores fica preso na Mansão Novelo ao tentar investigar a mesma. Lá, eles se deparam com eventos bizarros, como: banheiros estranhamente limpos, escadas que desaparecem, fantasmas arrependidos, políticos traidores (*esse não é tão bizarro*) e manequins assassinos.
+
+Com o tempo, eles descobrem a conexão entre a ascensão (e queda) de **Noélia** com as forças demoníacas que estavam permeando a mansão. Isso leva o quarteto a tentar resgatar a filha perdida da atriz, a responsável pelos desaparecimentos. O demônio **Belial**, suposto pai da criança, fica irritado com isso e começa a perseguir os investigadores.
+
+Eles conseguem se safar com a ajuda dos manequins. No fim, Kleyton acaba adotando a criança, a qual ganha o nome de **Marnie**.
+
+---
+
+### Locais Visitados
 
 - **Dólmen:** uma cidade fictícia no interior do Brasil.
 	- **Prefeitura de Dólmen**;
@@ -44,25 +54,15 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 
 ---
 
-## NPCs encontrados
+### NPCs encontrados
 
-### Com Combate
+#### Com Combate
 
 - Manequins
 - Prefeito Anselmo Figueiroa
 - Demônio Belial (*não exatamente um combate*)
 
-### Sem Combate
+#### Sem Combate
 
 - Noélia Novelo
 - Marnie
-
----
-
-## Resumo
-
-O quarteto de investigadores fica preso na Mansão Novelo ao tentar investigar a mesma. Lá, eles se deparam com eventos bizarros, como: banheiros estranhamente limpos, escadas que desaparecem, fantasmas arrependidos, políticos traidores (*esse não é tão bizarro*) e manequins assassinos.
-
-Com o tempo, eles descobrem a conexão entre a ascensão (e queda) de **Noélia** com as forças demoníacas que estavam permeando a mansão. Isso leva o quarteto a tentar resgatar a filha perdida da atriz, a responsável pelos desaparecimentos. O demônio **Belial**, suposto pai da criança, fica irritado com isso e começa a perseguir os investigadores.
-
-Eles conseguem se safar com a ajuda dos manequins. No fim, Kleyton acaba adotando a criança, a qual ganha o nome de **Marnie**.

@@ -21,10 +21,12 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Tanto Geraldo quanto Jéssica fazem de tudo para não trabalhar.
+
+- Eles amam café.
 
 ---
 
 ## Créditos
 
-- Imagem do personagem: [Noir: A Collection of Crime Comics](https://www.darkhorse.com/books/3006-126/noir-a-collection-of-crime-comics-hc/)
+- Imagem dos personagens: [Noir: A Collection of Crime Comics](https://www.darkhorse.com/books/3006-126/noir-a-collection-of-crime-comics-hc/)

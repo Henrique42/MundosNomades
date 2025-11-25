@@ -23,5 +23,6 @@
 
 ## Sobre
 
-- Bartolomeu é neto de **Belchior Bravo**, um famoso bardo que acompanhou o herói **Arendel** em suas aventuras;
-- O dramaturgo foi morto e transformado em morto-vivo pela bruxa [[Átropos]]. Ele acabou extinguindo a própria existência após o controle exercido pela mesma ser desfeito.
+- Bartolomeu é neto de **Belchior Bravo**, um famoso bardo que acompanhou o herói **Arendel** em suas aventuras.
+
+- O dramaturgo foi morto e transformado em morto-vivo pela bruxa [[Átropos]]. Ele acabou extinguindo a própria existência após o controle exercido pela mesma ser desfeito *(Sessões: [[VF03 ― Caveiras e Velas]] e [[VF23 ― Canção da Cobra]])*.

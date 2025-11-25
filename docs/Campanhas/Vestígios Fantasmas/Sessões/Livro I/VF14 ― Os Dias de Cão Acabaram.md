@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 09/08/2025
-	- **Autor(es):** [[Bruno]]
+	- **Data da sessão:** 09/08/2025
+	- **Autoria do resumo:** [[Bruno]]
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Com Combate
 
-- A Gangue das Harpias
+- [[Gangue das Harpias]]
 
 ### Sem Combate
 

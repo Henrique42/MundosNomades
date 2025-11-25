@@ -15,13 +15,14 @@
 	<hr>
 	**Outras Informações:**
 		- **Primeira Aparição:**
-			- [[VF01 ― Fantasmagoria]] *(mencionada)*
-			- [[VF03 ― Caveiras e Velas]] *(aparição verdadeira)*
+			- [[VF01 ― Fantasmagoria]] *(menção)*
+			- [[VF03 ― Caveiras e Velas]] *(aparição)*
 		- **Situação:** Viva
 
 ---
 
 ## Sobre
 
-*Desconhecido.*
+- Séculos atrás, o clã de Reina foi exilado por outros elfos. Em algum momento, eles foram acolhidos pela deusa [[Capra]] no [[Planos de Vitria|Purgatório]] *(Sessão: [[VF20 ― Mosca na Parede]])*.
 
+- Reina fez uma certa fortuna como aventureira, tendo participado, inclusive, da campanha contra a Rainha Carmesim *(Sessão: [[VF21 ― Martelos e Pregos]])*.

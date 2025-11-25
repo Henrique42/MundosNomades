@@ -11,18 +11,18 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ### Informações
 
 - **Sistema Político:** Monarquia.
-- **Governante:** Rei Melchor II.
+- **Governante:** Rei [[Melchor II]].
 - **Capital:** Ciprino.
 
 ---
 
 ### Principais Cidades
 
-- Ciprino (Capital);
-- Cormura;
-- Norte Castelo;
-- [[Porto Lobo]];
-- Sul Castelo.
+- Ciprino (Capital)
+- Cormura
+- Norte Castelo
+- [[Porto Lobo]]
+- Sul Castelo
 
 ---
 

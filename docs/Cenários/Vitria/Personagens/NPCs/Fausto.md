@@ -25,4 +25,8 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Fausto se tornou estagiário na S.A.P.O. para poder arcar com os custos de seus estudos.
+
+- Ele acabou contratando um grupo de investigadores da própria organização para conseguir livros antigos nas [[Ruínas da Biblioteca Arcana]] e enfim terminar o seu TCC *(Sessões: [[VF04 ― Breves Encontros]] e [[VF11 ― Estivemos Longe Tempo Demais]])*.
+
+- Na biblioteca, ele serviu de receptáculo para o espírito [[Leto]] *(Sessão: [[VF18 ― Vire a Página]])*.

@@ -21,4 +21,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Bjorn é o proprietário da [[Porto Lobo |Forja Germain]].

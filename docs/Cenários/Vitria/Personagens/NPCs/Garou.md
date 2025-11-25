@@ -23,4 +23,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Garou está sempre disposto a tentar proteger outros lobisomens, podendo até mesmo se colocar em perigo no processo *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]], [[VF15 ― A Lua Irá Cantar]] e [[VF23 ― Canção da Cobra]])*.

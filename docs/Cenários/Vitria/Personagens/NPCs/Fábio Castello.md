@@ -15,15 +15,15 @@
 	<hr>
 	**Outras Informações:**
 		- **Primeira Aparição:**
-			- [[VF21 ― Martelos e Pregos]] *(mencionado)*
-			- [[VF22 ― Palha ao Vento]] *(aparição verdadeira)*
+			- [[VF21 ― Martelos e Pregos]] *(menção)*
+			- [[VF22 ― Palha ao Vento]] *(aparição)*
 		- **Situação:** Morto
 
 ---
 
 ## Sobre
 
-- Durante um *Festival das 5 Damas da Colheita*, Fábio acabou sendo transformado em um monstro de chamas. Ele morreu após ser derrotado pelos protagonistas da campanha [[VF22 ― Palha ao Vento|Vestígios Fantasmas]].
+- Durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]], Fábio acabou sendo transformado em um monstro de chamas. Ele morreu após ser derrotado por um grupo de investigadores da [[S.A.P.O.]] *(Sessão: [[VF22 ― Palha ao Vento]])*.
 
 ---
 

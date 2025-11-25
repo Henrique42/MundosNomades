@@ -1,14 +1,13 @@
 !!! abstract "Perfil"
 	- **Pseudônimos:** -
-	- **Função:** jogador
 
 ---
 
 ## Personagens
 
-| Campanha                                                           | Personagem     | Situação     |
-| ------------------------------------------------------------------ | -------------- | ---------- |
-| [[Partes de Boneca (Halloween 2025)]] | Sérgio Santana | Aposentado   |
+| Personagem     | Campanha(s)                             | Situação           |
+| -------------- | --------------------------------------- | ------------------ |
+| Sérgio Santana | - [[Partes de Boneca (Halloween 2025)]] | História Concluída |
 
 ---
 

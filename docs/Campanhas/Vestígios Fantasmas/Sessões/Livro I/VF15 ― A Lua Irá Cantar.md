@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 15/08/2025
-	- **Autor(es):** [[Bruno]]
+	- **Data da sessão:** 15/08/2025
+	- **Autoria do resumo:** [[Bruno]]
 
 ---
 
@@ -32,7 +32,7 @@
 
 - [[Garou]]
 - [[Zaara]]
-- [[Deusa Siene]]
+- [[Siene]]
 - [[Bjorn Germain]]
 - [[Fritz Germain]]
 

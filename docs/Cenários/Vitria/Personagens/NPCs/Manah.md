@@ -10,7 +10,7 @@
 	- **Espécie:** Tiefling
 	- **Gênero:** Feminino
 	- **Ocupação:** Cartomante
-	- **Afiliação:** [[Divindades de Vitria#Os Avatares|Avhel]]
+	- **Afiliação:** [[Divindades de Vitria#Os Avatares|Avhel]] *(divindade da qual ela é clériga)*
 	- **Família:** [[Ignacius]] *(Marido)*
 	<hr>
 	**Outras Informações:**
@@ -21,4 +21,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]], Manah fez uma previsão sobre o "bote da serpente", isto é, o ataque realizado por [[Átropos]] na mesma noite *(Sessão: [[VF22 ― Palha ao Vento]])*.

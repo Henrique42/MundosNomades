@@ -12,7 +12,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Cleric (Grave Domain)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:**
+		- [[S.A.P.O.]]
+		- [[Capra]] *(divindade da qual ele é clérigo)*
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

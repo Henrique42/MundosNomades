@@ -17,8 +17,8 @@
 	<hr>
 	**Outras Informações:**
 		- **Primeira Aparição:**
-			- [[VF03 ― Caveiras e Velas]] *(mencionada)*
-			- [[VF23 ― Canção da Cobra]] *(aparição verdadeira)*
+			- [[VF03 ― Caveiras e Velas]] *(menção)*
+			- [[VF23 ― Canção da Cobra]] *(aparição)*
 		- **Situação:** Viva
 
 ---

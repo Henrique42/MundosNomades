@@ -15,12 +15,14 @@
 	<hr>
 	**Outras Informações:**
 		- **Primeira Aparição:**
-			- [[VF11 ― Estivemos Longe Tempo Demais]] *(mencionado)*
-			- [[VF16 ― Caixa de Chuva]] *(aparição verdadeira)*
+			- [[VF11 ― Estivemos Longe Tempo Demais]] *(menção)*
+			- [[VF16 ― Caixa de Chuva]] *(aparição)*
 		- **Situação:** Vivo
 
 ---
 
 ## Sobre
 
-*A ser adicionado.*
+- Elliot faz parte de uma casa nobre falida de Étincelle *(Sessão: [[VF20 ― Mosca na Parede]])*.
+
+- Já em [[Vernália]], ele fez amizade com o filho do rei [[Melchor II]], o que o ajudou a ganhar prestígio rapidamente no país *(Sessão: [[VF21 ― Martelos e Pregos]])*.

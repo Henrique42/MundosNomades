@@ -21,7 +21,7 @@ Os Avatares, como já explicado anteriormente, são os deuses que personificam o
 | Alnúr     | Lua/Noite            | Mariposa        |
 | Avhel     | Tempo                | Ampulheta       |
 | Blair     | Justiça/Ordem        | Chave e Cadeado |
-| Capra     | Morte                | Bode Preto      |
+| [[Capra]] | Morte                | Bode Preto      |
 | Elres     | Malandragem          | Abutre          |
 | Gazna     | Guerra               | Dardo           |
 | Lacán     | Forja                | Martelo         |

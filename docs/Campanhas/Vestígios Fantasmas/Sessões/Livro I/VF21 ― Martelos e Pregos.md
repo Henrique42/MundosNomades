@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 08/11/2025
-	- **Autor(es):** [[Bruno]]
+	- **Data da sessão:** 08/11/2025
+	- **Autoria do resumo:** [[Bruno]]
 
 ---
 
@@ -34,7 +34,7 @@
 - [[Mocho]]
 - [[Geraldo e Jéssica]]
 - [[Fausto]]
-- [[Deusa Siene]]
+- [[Siene]]
 - [[Bjorn Germain]]
 - [[Fritz Germain]]
 - [[Sanwitches]] (agora nomeados como *Vegas*, *Califórnia* e *Colorado*)

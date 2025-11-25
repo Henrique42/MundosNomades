@@ -21,4 +21,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]], Teresa foi transformada em espantalho por [[Átropos]] *(Sessão: [[VF22 ― Palha ao Vento]])*.

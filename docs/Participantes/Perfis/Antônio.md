@@ -1,14 +1,13 @@
 !!! abstract "Perfil"
 	- **Pseudônimos:** Betinho
-	- **Função:** jogador
 
 ---
 
 ## Personagens
 
-| Campanha                | Personagem | Situação     |
-| ----------------------- | ---------- | ------------ |
-| [[Vestígios Fantasmas]] | [[Marduk]] | Em Atividade |
+| Personagem | Campanha(s)               | Situação     |
+| ---------- | ------------------------- | ------------ |
+| [[Marduk]] | - [[Vestígios Fantasmas]] | Em Atividade |
 
 ---
 

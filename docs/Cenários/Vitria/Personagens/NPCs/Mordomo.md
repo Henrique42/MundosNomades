@@ -21,4 +21,6 @@ Uma **mordomo** que pode ser real ou não.
 
 ## Sobre
 
-*A ser adicionado.*
+- Como uma mordomo, ela foi avistada pela primeira vez por [[Sherlock]], quando o mesmo estava preso nas sombras d'[[O Observador]] *(Sessão: [[VF18 ― Vire a Página]])*.
+
+- Em seus últimos momentos, Sherlock teve uma nova visão relacionada a ela. Dessa vez, a mordomo estava servindo o também moribundo [[Melchor II]] *(Sessão: [[VF23 ― Canção da Cobra]])*.

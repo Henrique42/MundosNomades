@@ -10,7 +10,7 @@
 	- **Espécie:** ?
 	- **Gênero:** ?
 	- **Ocupação:** ?
-	- **Afiliação:** ?
+	- **Afiliação:** [[Os Três Venenos]] *(como patrono)*
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**
@@ -21,12 +21,7 @@
 
 ## Sobre
 
-O Observador também é conhecido por outros nomes, como:
-
-- O Inimigo;
-- O Senhor das Moscas;
-- O Crânio de um Deus com os Olhos de um Diabo;
-- etc.
+- O Observador também é conhecido por outros nomes, como: *O Inimigo*, *O Senhor das Moscas*, *O Crânio de um Deus com os Olhos de um Diabo*, etc.
 
 ---
 

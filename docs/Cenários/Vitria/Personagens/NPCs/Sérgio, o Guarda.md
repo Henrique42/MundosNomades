@@ -21,4 +21,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- No início, Sérgio não acreditava em monstros. Isso mudou quando ele presenciou os ataques que ocorreram durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]] *(Sessões: [[VF22 ― Palha ao Vento]] e [[VF23 ― Canção da Cobra]])*.

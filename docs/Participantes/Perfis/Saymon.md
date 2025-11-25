@@ -1,15 +1,14 @@
 !!! abstract "Perfil"
 	- **Pseudônimos:** -
-	- **Função:** jogador
 
 ---
 
 ## Personagens
 
-| Campanha                                                           | Personagem     | Situação     |
-| ------------------------------------------------------------------ | -------------- | ------------ |
-| [[Partes de Boneca (Halloween 2025)]] | Carlos Armando | Aposentado   |
-| [[Vestígios Fantasmas]]                                            | [[Aenoir]]     | Em Atividade |
+| Personagem     | Campanha(s)                             | Situação           |
+| -------------- | --------------------------------------- | ------------------ |
+| [[Aenoir]]     | - [[Vestígios Fantasmas]]               | Em Atividade       |
+| Carlos Armando | - [[Partes de Boneca (Halloween 2025)]] | História Concluída |
 
 ---
 

@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 23/08/2025
-	- **Autor(es):** [[Bruno]]
+	- **Data da sessão:** 23/08/2025
+	- **Autoria do resumo:** [[Bruno]]
 
 ---
 

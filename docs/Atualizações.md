@@ -11,17 +11,29 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2025/11/24 (VF)
+- **Motivo:** Correções e adição de algumas pendências na campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Novos NPCs: [[Lady Condor]] e [[Melchor II]]
+	- Novas facções: [[Gangue das Harpias]] e [[Os Três Venenos]]
+	- A parte de "sobre" de vários NPCs foi atualizada
+	- Cronologia movida para [[Cronologia de Vitria]]
+	- Páginas atualizadas: [[Planos de Vitria]] e [[Mandala]]
+	- Adição de links em várias páginas e outras correções menores.
+
+---
+
 ### 2025/11/23 (VF)
 - **Motivo:** Sessão 23 da campanha **Vestígios Fantasmas** (Fim do "Livro I").
 - **O que há de novo?**
 	- Nova sessão: [[VF23 ― Canção da Cobra]]
-	- Novos NPCs: [[Geraldo e Jéssica]], [[Deusa Capra]] e [[Mestre dos Espelhos]]
+	- Novos NPCs: [[Geraldo e Jéssica]], [[Capra]] e [[Mestre dos Espelhos]]
 	- Novo local: [[Setor das Almas Perdidas]]
 	- PCs atualizados: [[Aenoir]], [[Rhogar]] e [[Sherlock]] (F)
 	- NPCs atualizados: [[Átropos]] e [[Bartolomeu Bravo]]
 	- Local atualizado: [[Porto Lobo]]
 	- Facção atualizada: [[S.A.P.O.]]
-	- "Primeira aparição" adicionada para todos os personagens
+	- *"Primeira aparição"* adicionada para todos os personagens
 
 ---
 
@@ -45,7 +57,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 ### 2025/11/03 (VF)
 - **Motivo:** Adição de uma linha do tempo para a campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Página atualizada: [[Vitria#História do Cenário|História de Vitria]]
+	- Página atualizada: [[Vitria]]
 
 ---
 
@@ -127,7 +139,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **Motivo:** Sessão 12 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF12 ― Mundo Selvagem]]
-	- Novos NPCs: [[Bjorn Germain]], [[Fritz Germain]] e [[Deusa Siene]]
+	- Novos NPCs: [[Bjorn Germain]], [[Fritz Germain]] e [[Siene]]
 	- Local atualizado: [[Porto Lobo]]
 
 ---

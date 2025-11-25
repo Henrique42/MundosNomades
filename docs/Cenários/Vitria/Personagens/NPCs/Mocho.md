@@ -1,4 +1,4 @@
-**Mocho** é uma ladra e ex-membro da *Gangue das Harpias*.
+**Mocho** é uma ex-ladra. No presente, ela atua como funcionária da [[S.A.P.O.]]
 
 ---
 
@@ -9,9 +9,11 @@
 !!! abstract "Perfil"
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
-	- **Ocupação:** Ladra
+	- **Ocupação:** 
+		- Ladra *(anteriormente)*
+		- Empregada
 	- **Afiliação:** 
-		- Gangue das Harpias *(anteriormente)*
+		- [[Gangue das Harpias]] *(anteriormente)*
 		- [[S.A.P.O.]]
 	- **Família:** -
 	<hr>
@@ -23,4 +25,4 @@
 
 ## Sobre
 
-*A ser adicionado.*
+- Após ser derrotada e poupada por um grupo de investigadores da [[S.A.P.O.]], Mocho decidiu largar a vida do crime e se deixar ser acolhida pela organização deles *(Sessão: [[VF14 ― Os Dias de Cão Acabaram]])*.

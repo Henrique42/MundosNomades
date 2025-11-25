@@ -21,5 +21,6 @@
 
 ## Sobre
 
-- Após ser derrotada pelos investigadores da [[S.A.P.O.]], a criatura passou a assombrar [[Aenoir]];
-- Quando Aenoir entrou em contato com um artefato que controlava os mortos, o palhaço usou a oportunidade para criar um novo corpo para si, utilizando a própria elfa como modelo.
+- Após ser derrotada pelos investigadores da [[S.A.P.O.]], a criatura passou a assombrar [[Aenoir]], a nova portadora de seu cálice *(Sessões: [[VF10 ― O Show Tem Que Continuar]] e [[VF11 ― Estivemos Longe Tempo Demais]])*.
+
+- Quando Aenoir entrou em contato com um artefato que controlava os mortos, o palhaço usou a oportunidade para criar um novo corpo para si, utilizando a própria elfa como modelo *(Sessão: [[VF23 ― Canção da Cobra]])*.

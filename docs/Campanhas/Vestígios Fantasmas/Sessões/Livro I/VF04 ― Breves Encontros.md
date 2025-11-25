@@ -1,7 +1,7 @@
-!!! info
+!!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
-	- **Data:** 27/09/2024
-	- **Autor(es):** [[Anthony]] e [[Paulo]]
+	- **Data da sessão:** 27/09/2024
+	- **Autoria do resumo:** [[Anthony]] e [[Paulo]]
 
 ---
 
@@ -58,7 +58,7 @@
 
 - **No Quarto:** O padeiro, então, leva os quatro até o quarto do filho, onde eles buscam por qualquer coisa que os guardas possam ter deixado passar. Após revirarem o quarto, Marduk percebe uma leve aura mágica vindo debaixo do colchão. Ao levantá-lo, encontram uma carta, semelhante a uma carta de tarô, mas são logo expulsos pelo padeiro. Pesquisando um pouco, descobrem que alguns cultos usam cartas como essa para seus iniciados, o que levanta mais dúvidas sobre o que está acontecendo na cidade.
 
-- **Visita ao Templo da Água/Oceano:** Durante a visita ao Templo da Água, Vamas encontrou o padre, que se mostrou inflexível em compartilhar detalhes sobre o templo de Capra. Após insistir, o padre revelou que algo semelhante já havia acontecido com o templo dele e, para discutir melhor, decidiu entrar no templo para preparar um chá. Enquanto isso, Vamas encontra com um coelho que era estudante da academia mágica e estava finalizando sua pesquisa. O coelho falou sobre os "não-lugares", que são locais que os moradores costumam não mencionar ou ignorar.
+- **Visita ao Templo da Água/Oceano:** Durante a visita ao Templo da Água, Vamas encontrou o padre, que se mostrou inflexível em compartilhar detalhes sobre o [[A 'Cripta'|templo de Capra]]. Após insistir, o padre revelou que algo semelhante já havia acontecido com o templo dele e, para discutir melhor, decidiu entrar no templo para preparar um chá. Enquanto isso, Vamas encontra com um coelho que era estudante da academia mágica e estava finalizando sua pesquisa. O coelho falou sobre os "não-lugares", que são locais que os moradores costumam não mencionar ou ignorar.
 
 - **Sobre os Não-Lugares:** O coelho explicou que esses não-lugares são invisíveis para a comunidade local, e sua existência gera um ar de mistério. Ele propôs uma troca de conhecimentos, e Vamas compartilhou tudo que havia vivido até então. Após ouvir as experiências de Vamas, o coelho expressou interesse em pagar para que explorassem um desses não-lugares juntos, mencionando que havia uma biblioteca em ruínas que despertava sua curiosidade. Por fim, ao retornar ao padre, Vamas percebeu que ele havia demorado uma eternidade para trazer o chá, o que deixou a situação ainda mais frustrante.
 

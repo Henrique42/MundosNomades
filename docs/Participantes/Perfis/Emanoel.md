@@ -1,15 +1,14 @@
 !!! abstract "Perfil"
 	- **Pseudônimos:** Emano
-	- **Função:** jogador
 
 ---
 
 ## Personagens
 
-| Campanha                              | Personagem      | Situação   |
-| ------------------------------------- | --------------- | ---------- |
-| [[Partes de Boneca (Halloween 2025)]] | Katarino Bugalu | Aposentado |
-| [[Vestígios Fantasmas]]               | [[Sherlock]]    | Morto      |
+| Personagem      | Campanha(s)                             | Situação           |
+| --------------- | --------------------------------------- | ------------------ |
+| Katarino Bugalu | - [[Partes de Boneca (Halloween 2025)]] | História Concluída |
+| [[Sherlock]]    | - [[Vestígios Fantasmas]]               | Morto              |
 
 ---
 

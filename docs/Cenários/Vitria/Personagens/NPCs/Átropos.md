@@ -10,7 +10,7 @@
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
 	- **Ocupação:** Bruxa
-	- **Afiliação:** [[O Observador]]
+	- **Afiliação:** [[Os Três Venenos]] *(como Serpente)*
 	- **Família:** Duas irmãs *(mortas)*
 	<hr>
 	**Outras Informações:**
@@ -21,6 +21,8 @@
 
 ## Sobre
 
-- No passado, Átropos foi morta pela Inquisição Vernaliana (um destino similar ao de suas duas irmãs);
-- Em algum momento, a bruxa foi revivida pela entidade conhecida como "[[O Observador]]", ganhando o título de "A Serpente do Ódio";
-- No ano de 79 D.A., Átropos coordenou um ataque à cidade de [[Porto Lobo]]. Ela acabou sendo derrotada por um grupo de investigadores da [[S.A.P.O.]]
+- No passado, Átropos foi morta pela Inquisição Vernaliana (um destino similar ao de suas duas irmãs).
+
+- Em algum momento, a bruxa foi revivida pela entidade conhecida como "[[O Observador]]", ganhando o título de "A Serpente do Ódio".
+
+- No ano de 79 DA, Átropos coordenou um ataque à cidade de [[Porto Lobo]]. Ela acabou sendo derrotada por um grupo de investigadores da [[S.A.P.O.]] *(Sessão: [[VF23 ― Canção da Cobra]])*. O ataque ficou conhecido como [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]].

@@ -1,14 +1,13 @@
 !!! abstract "Perfil"
 	- **Pseudônimos:** -
-	- **Função:** jogador
 
 ---
 
 ## Personagens
 
-| Campanha                | Personagem | Situação |
-| ----------------------- | ---------- | -------- |
-| [[Vestígios Fantasmas]] | [[Vamas]]  | Em Hiato |
+| Personagem | Campanha(s)               | Situação   |
+| ---------- | ------------------------- | ---------- |
+| [[Vamas]]  | - [[Vestígios Fantasmas]] | Aposentado |
 
 ---
 

@@ -1,10 +1,9 @@
-**Mandala** é o planeta fictício no qual se passa a história, o lar das mais diversas maravilhas e mistérios, habitada por inúmeras ancestralidades. No passado, era comum a existência de aventureiros, aqueles que dedicavam a sua vida a enfrentar monstros, por todo o globo. Porém, em algum momento, tais monstros começaram a desaparecer, o que levou ao fim da chamada "Era dos Heróis".
+**Mandala** é o plano material (ou sensível) de [[Vitria]]. Ele foi batizado dessa forma por uma das tribos que primeiro habitaram tal dimensão. Por ser afetada de forma direta por todos os outros planos, Mandala é o lar das mais diversas maravilhas e mistérios, habitada por inúmeras ancestralidades de diferentes características.
 
-Atualmente, alguns dos países que compõem este mundo estão passando pelo que pode ser considerada a sua "Primeira Revolução Industrial", na qual novos maquinários, como locomotivas e navios a vapor, foram inventados.
+No passado, era comum a existência de aventureiros, aqueles que dedicavam as suas vidas a enfrentar perigos por toda Mandala. Aqueles de maior sucesso eram capazes de adquirir *status* e riquezas consideráveis. Financiados pelos governos de diversas nações, os aventureiros foram o coração da aliança que exterminou boa parte dos monstros que vagavam pela superfície e deu fim à **Era dos Heróis**.
 
 ---
 
-### Nações
+## Nações
 
-- [[Vernália|Vernália]];
-- A ser adicionado.
+- [[Vernália]]
