@@ -6,10 +6,10 @@
 
 !!! abstract "Ficha"
 	- **Sistema:** D&D 5e (2014)
-	- **Cenário:** [[Vitria]] > [[Mandala]] > [[Vernália]]
+	- **Cenário:** [[Vitria]]
 	- **Gênero(s):** Fantasia e Mistério
 	- **Tipo:** Campanha
-	- **Data(s):** 
+	- **Data(s):**
 		- **Início:** 23/08/2024 
 		- **Fim:** -
 	- **Estado:** Em Andamento
@@ -29,6 +29,7 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 ## Participantes
 
 - **Narrador:** [[Bruno]]
+
 - **Investigadores:**
 
 | Jogador      | Personagens             |

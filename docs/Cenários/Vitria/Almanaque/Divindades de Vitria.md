@@ -23,10 +23,10 @@ Os Avatares, como já explicado anteriormente, são os deuses que personificam o
 | Blair     | Justiça/Ordem        | Chave e Cadeado |
 | [[Capra]] | Morte                | Bode Preto      |
 | Elres     | Malandragem          | Abutre          |
-| Gazna     | Guerra               | Dardo           |
+| Gazna     | Guerra               | Lança           |
 | Lacán     | Forja                | Martelo         |
 | Magno     | Dinheiro/Economia    | Moeda           |
-| Nocta     | Arte                 | Lira            |
+| Nocta     | Arte                 | Harpa           |
 | Órpos     | Vento/Tempestade     | Garça           |
 | Skaha     | Agricultura          | Foice           |
 | Tarno     | Conhecimento/Memória | Caneta de Pena  |

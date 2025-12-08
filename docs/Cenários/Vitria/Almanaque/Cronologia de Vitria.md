@@ -23,18 +23,18 @@ A linha do tempo de Vitria, até o momento, é a seguinte:
 
 <div class="timeline">
 	<div class="event left">
-	    <h3>526 AA:</h3>
-	    <p>- O <strong>Reino de Vernália</strong> é fundado por Albus Feldia <em>(mais conhecido como Albus I)</em>.</p>
-	    <p>- <strong>Ciprino</strong> se torna a capital do novo reino.</p>
-    </div>
-	<div class="event right">
-	    <h3>324 AA:</h3>
-	    <p>- Arendel derrota o "Rei Lobo" e se torna o primeiro grande herói de <strong>Vernália</strong>.</p>
+	    <h3>624 AA:</h3>
+	    <p>- <strong>Arendel</strong> derrota o "Rei Lobo" e se torna o primeiro grande herói do arquipélago de Vernália.</p>
 		<p>- A cidade de <strong>Porto Lobo</strong> foi fundada no território que pertencia ao monstro.</p>
     </div>
-    <div class="event left">
-	    <h3>321 AA:</h3>
-	    <p>- Arendel e seu grupo de aventureiros partem em uma cruzada pelo país, iniciando a chamada <em>"Caça às Bruxas de Vernália"</em>.</p>
+    <div class="event right">
+	    <h3>617 AA:</h3>
+	    <p>- Arendel e seus subordinados partem em uma cruzada pelo país, iniciando uma nova era de caça às bruxas na região. Posteriormente, outras cidades-estados se uniram ao esforço.</p>
+    </div>
+	<div class="event left">
+	    <h3>505 AA:</h3>
+	    <p>- O <strong>Reino de Vernália</strong> é fundado por Albus Feldia <em>(mais conhecido como Albus I)</em> a partir da união de várias cidades-estados.</p>
+	    <p>- <strong>Ciprino</strong> se torna a capital do novo reino.</p>
     </div>
 	<div class="event right">
 	    <h3>100 AA:</h3>

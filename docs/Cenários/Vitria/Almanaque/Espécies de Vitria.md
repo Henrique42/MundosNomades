@@ -2,67 +2,8 @@ Esta página serve como um guia para as diferentes espécies presentes no cenár
 
 ## Distribuição
 
-### Comuns
-
-- Dwarf;
-- Elfos, parte I (Drow, High e Wood);
-- Gnome (menos Deep);
-- Goblin;
-- Half-elf;
-- Half-orc;
-- Halfling;
-- Human (menos Variant);
-- Kobold;
-- Orc;
-- Tabaxi.
-
----
-
-### Incomuns
-
-- Aarakocra;
-- Aasimar;
-- Bugbear;
-- Deep Gnome;
-- Dragonborn;
-- Elfos, parte II (Pallid e Sea Elf);
-- Firbolg;
-- Genasi;
-- Hadozee;
-- Harengon;
-- Hobgoblin;
-- Kenku;
-- Leonin;
-- Lizardfolk;
-- Locathah;
-- Loxodon;
-- Owlin;
-- Shifter;
-- Tiefling;
-- Tortle;
-- Triton.
-
----
-
-### Raras
-
-- [Amálgama (custom)](https://homebrewery.naturalcrit.com/share/wwsnabA7ST-0);
-- Autognome;
-- Centaur;
-- Changeling;
-- Duergar;
-- Elfos, parte III (Astral, Eladrin e Shadar-kai);
-- Fairy;
-- Giff;
-- Gith (Githyanki e Githzerai).
-- Goliath;
-- Kalashtar;
-- Minotaur;
-- Plasmoid;
-- Simic Hybrid;
-- Thri-kreen;
-- Warforged.
-- **Linhagens**:
-	- Dhampir;
-	- Hexblood;
-	- Reborn.
+| Raridade | Espécies                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comum    | - Dwarf<br>- Elfos, parte I (Drow, High e Wood)<br>- Gnome (menos Deep)<br>- Goblin<br>- Half-elf<br>- Half-orc<br>- Halfling<br>- Human (menos Variant)<br>- Kobold<br>- Orc<br>- Tabaxi                                                                                                                                                                                                                   |
+| Incomum  | - Aarakocra<br>- Aasimar<br>- Bugbear<br>- Deep Gnome<br>- Dragonborn<br>- Elfos, parte II (Pallid e Sea Elf)<br>- Firbolg<br>- Genasi<br>- Hadozee<br>- Harengon<br>- Hobgoblin<br>- Kenku<br>- Leonin<br>- Lizardfolk<br>- Locathah<br>- Loxodon<br>- Owlin<br>- Shifter<br>- Tiefling<br>- Tortle<br>- Triton                                                                                            |
+| Raro     | - [Amálgama (original)](https://homebrewery.naturalcrit.com/share/wwsnabA7ST-0)<br>- Autognome<br>- Centaur<br>- Changeling<br>- Duergar<br>- Elfos, parte III (Astral, Eladrin e Shadar-kai)<br>- Fairy<br>- Giff<br>- Gith (Githyanki e Githzerai)<br>- Goliath<br>- Kalashtar<br>- Minotaur<br>- Plasmoid<br>- Simic Hybrid<br>- Thri-kreen<br>- Warforged<br>- *Linhagens* (Dhampir, Hexblood e Reborn) |

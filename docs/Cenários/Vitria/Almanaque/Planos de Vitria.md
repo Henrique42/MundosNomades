@@ -10,7 +10,7 @@ A posição de um plano na torre influência nas seguintes características:
 
 - Planos situados em posições opostas na torre são comumente chamados de "planos inversos", já que apresentam características diretamente opostas ao de sua contraparte.
 
-<img src="https://i.imgur.com/F3eeLm9.png" alt="Planos da existência" style="border:1px solid black">
+<img src="https://i.imgur.com/kkb0qZJ.png" alt="Planos da existência" style="border:1px solid black">
 
 Os planos que compõem a Torre Planar estão listados a seguir.
 
@@ -18,9 +18,11 @@ Os planos que compõem a Torre Planar estão listados a seguir.
 
 É a terra da luz e da pureza, é para o Paraíso que são mandadas as almas das pessoas justas e de bom caráter. É também onde habitam os anjos e outros **celestiais**.
 
-### 2. Jardim do Éden *(Feywild)*
+### 2. Jardim do Éden
 
 É o jardim sagrado que rodeia o Paraíso. Nele, vivem diversas plantas raras e criaturas místicas, as quais são conhecidas como **fey**.
+
+*Esse local seria o equivalente a Feywild em D&D.*
 
 ### 3. Plano Inteligível
 
@@ -38,11 +40,13 @@ Por ser considerado a sua própria contraparte, esse plano é mais caótico que 
 
 > *Ver mais em [[Mandala]].*
 
-### 6. Purgatório *(Shadowfell)*
+### 6. Purgatório
 
-Quando um ser vivo morre, sua alma é mandada para o _Purgatório_, local no qual habita a deusa [[Capra]]. Lá, a índole do indivíduo será julgada pela própria deusa, a qual poderá mandá-lo para três lugares: **Inferno**, **Paraíso** ou o próprio **Purgatório**, onde as almas que não se encaixam nos outros destinos são "lavadas" e esperam uma oportunidade de reencarnar.
+Quando um ser vivo morre, sua alma é mandada para o Purgatório, local no qual habita a deusa [[Capra]]. Lá, a índole do indivíduo será julgada pela própria deusa, a qual poderá mandá-lo para três lugares: **Inferno**, **Paraíso** ou o próprio **Purgatório**, onde as almas que não se encaixam nos outros destinos são "lavadas" e esperam uma oportunidade de reencarnar.
 
 O local onde os julgamentos ocorrem é comumente chamado de [[Setor das Almas Perdidas]].
+
+*Esse local seria o equivalente a Shadowfell em D&D.*
 
 ### 7. Inferno
 

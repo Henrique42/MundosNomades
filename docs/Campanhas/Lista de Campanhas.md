@@ -8,6 +8,6 @@ Esta página serve como uma lista das campanhas presentes na *wiki*. A lista, di
 
 ## One-shots
 
-| Sistema                                         | One-shot                              | Sinopse                                                                                                                                 |
-| ----------------------------------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Liminal Horror](https://liminalhorrorrpg.com/) | [[Partes de Boneca (Halloween 2025)]] | Um quarteto de tiozões começa a investigar uma série de desaparecimentos bizarros que têm ocorrido na cidade interiorana de **Dólmen**. |
+| Sistema                                         | One-shot                              | Sinopse                                                                                                                             |
+| ----------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Liminal Horror](https://liminalhorrorrpg.com/) | [[Partes de Boneca (Halloween 2025)]] | Um quarteto de tiozões começa a investigar uma série de desaparecimentos bizarros que têm ocorrido na cidade interiorana de Dólmen. |
