@@ -22,6 +22,7 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 ## Participantes
 
 - **Narrador:** [[Bruno]]
+
 - **Investigadores:**
 
 | Jogador       | Personagens     | Descrição                |
@@ -37,14 +38,6 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 
 !!! info
 	- **Autoria do resumo:** [[Bruno]]
-
-O quarteto de investigadores fica preso na Mansão Novelo ao tentar investigar a mesma. Lá, eles se deparam com eventos bizarros, como: banheiros estranhamente limpos, escadas que desaparecem, fantasmas arrependidos, políticos traidores (*esse não é tão bizarro*) e manequins assassinos.
-
-Com o tempo, eles descobrem a conexão entre a ascensão (e queda) de **Noélia** com as forças demoníacas que estavam permeando a mansão. Isso leva o quarteto a tentar resgatar a filha perdida da atriz, a responsável pelos desaparecimentos. O demônio **Belial**, suposto pai da criança, fica irritado com isso e começa a perseguir os investigadores.
-
-Eles conseguem se safar com a ajuda dos manequins. No fim, Kleyton acaba adotando a criança, a qual ganha o nome de **Marnie**.
-
----
 
 ### Locais Visitados
 
@@ -66,3 +59,13 @@ Eles conseguem se safar com a ajuda dos manequins. No fim, Kleyton acaba adotand
 
 - Noélia Novelo
 - Marnie
+
+---
+
+### Principais Eventos
+
+O quarteto de investigadores fica preso na Mansão Novelo ao tentar investigar a mesma. Lá, eles se deparam com eventos bizarros, como: banheiros estranhamente limpos, escadas que desaparecem, fantasmas arrependidos, políticos traidores (*esse não é tão bizarro*) e manequins assassinos.
+
+Com o tempo, eles descobrem a conexão entre a ascensão (e queda) de **Noélia** com as forças demoníacas que estavam permeando a mansão. Isso leva o quarteto a tentar resgatar a filha perdida da atriz, a responsável pelos desaparecimentos. O demônio **Belial**, suposto pai da criança, fica irritado com isso e começa a perseguir os investigadores.
+
+Eles conseguem se safar com a ajuda dos manequins. No fim, Kleyton acaba adotando a criança, a qual ganha o nome de **Marnie**.
