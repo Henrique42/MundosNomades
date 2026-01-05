@@ -1,8 +1,8 @@
 **Vestígios Fantasmas** é uma campanha de *D&D 5ª edição* com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
-<div style="text-align: center;">
-	<img src="https://i.imgur.com/QcDfacc.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;">
-</div> 
+<figure align="center">
+	<img src="https://i.imgur.com/QcDfacc.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;" alt="Capa da campanha Vestígios Fantasmas">
+</figure>
 
 !!! abstract "Ficha"
 	- **Sistema:** D&D 5e (2014)
@@ -28,18 +28,15 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Participantes
 
-- **Narrador:** [[Bruno]]
-
-- **Investigadores:**
-
-| Jogador      | Personagens             |
-| ------------ | ----------------------- |
-| [[Anthony]]  | [[Rhogar]] (Aposentado) |
-| [[Antônio]]  | [[Marduk]]              |
-| [[Clenildo]] | [[Lavenza]]             |
-| [[Emanoel]]  | [[Sherlock]] (Morto)    |
-| [[Paulo]]    | [[Vamas]] (Aposentado)  |
-| [[Saymon]]   | [[Aenoir]]              |
+| Participante | Função   | Personagens               |
+| ------------ | -------- | ------------------------- |
+| [[Bruno]]    | Narrador | -                         |
+| [[Anthony]]  | Jogador  | - [[Rhogar]] (Aposentado) |
+| [[Antônio]]  | Jogador  | - [[Marduk]]              |
+| [[Clenildo]] | Jogador  | - [[Lavenza]]             |
+| [[Emanoel]]  | Jogador  | - [[Sherlock]] (Morto)    |
+| [[Paulo]]    | Jogador  | - [[Vamas]] (Aposentado)  |
+| [[Saymon]]   | Jogador  | - [[Aenoir]]              |
 
 ---
 

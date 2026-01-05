@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/5Q0h9Ft.png" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/5Q0h9Ft.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Shadar-kai

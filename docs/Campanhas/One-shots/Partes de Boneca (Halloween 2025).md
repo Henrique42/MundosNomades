@@ -1,8 +1,8 @@
 **Partes de Boneca** foi um one-shot de terror no sistema *Liminal Horror*. Ele foi realizado em comemoração ao *Halloween* de 2025.
 
-<div style="text-align: center;">
-	<img src="https://i.imgur.com/ZAQsXKD.png" width="300" alt="Partes de Boneca" style="border: 1px solid black;">
-</div> 
+<figure align="center">
+	<img src="https://i.imgur.com/ZAQsXKD.png" width="300" alt="Partes de Boneca" style="border: 1px solid black;" alt="Capa do one-shot Partes de Boneca">
+</figure>
 
 !!! abstract "Ficha"
 	- **Sistema:** Liminal Horror
@@ -21,16 +21,13 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 
 ## Participantes
 
-- **Narrador:** [[Bruno]]
-
-- **Investigadores:**
-
-| Jogador       | Personagens     | Descrição                |
-| ------------- | --------------- | ------------------------ |
-| [[Clenildo]]  | Dr. Kleyton     | Médico no hospital local |
-| [[Emanoel]]   | Katarino Bugalu | Bombeiro voluntário      |
-| [[Guilherme]] | Sérgio Santana  | Encanador                |
-| [[Saymon]]    | Carlos Armando  | Gari meio suspeito       |
+| Jogador       | Função   | Personagem      | Descrição                |
+| ------------- | -------- | --------------- | ------------------------ |
+| [[Bruno]]     | Narrador | -               | -                        |
+| [[Clenildo]]  | Jogador  | Dr. Kleyton     | Médico no hospital local |
+| [[Emanoel]]   | Jogador  | Katarino Bugalu | Bombeiro voluntário      |
+| [[Guilherme]] | Jogador  | Sérgio Santana  | Encanador                |
+| [[Saymon]]    | Jogador  | Carlos Armando  | Gari meio suspeito       |
 
 ---
 

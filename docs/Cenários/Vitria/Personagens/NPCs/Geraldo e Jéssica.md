@@ -2,9 +2,12 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/qdJHTxo.jpeg" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/qdJHTxo.jpeg" width="300" style="border: 1px solid black;" alt="Geraldo e Jéssica">
+	<figcaption>
+		Fonte: <a href="https://www.darkhorse.com/books/3006-126/noir-a-collection-of-crime-comics-hc/">Noir: A Collection of Crime Comics</a>
+	</figcaption>
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Humanos
@@ -24,9 +27,3 @@
 - Tanto Geraldo quanto Jéssica fazem de tudo para não trabalhar.
 
 - Eles amam café.
-
----
-
-## Créditos
-
-- Imagem dos personagens: [Noir: A Collection of Crime Comics](https://www.darkhorse.com/books/3006-126/noir-a-collection-of-crime-comics-hc/)

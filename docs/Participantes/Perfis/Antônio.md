@@ -1,13 +1,8 @@
-!!! abstract "Perfil"
-	- **Pseudônimos:** Betinho
-
----
-
 ## Personagens
 
-| Personagem | Campanha(s)               | Situação     |
-| ---------- | ------------------------- | ------------ |
-| [[Marduk]] | - [[Vestígios Fantasmas]] | Em Atividade |
+| Personagem | Campanha(s)               | Situação |
+| ---------- | ------------------------- | -------- |
+| [[Marduk]] | - [[Vestígios Fantasmas]] | Vivo     |
 
 ---
 

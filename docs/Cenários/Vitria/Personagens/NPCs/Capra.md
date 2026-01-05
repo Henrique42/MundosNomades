@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/BgQjqM7.png" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/BgQjqM7.png" width="300" style="border: 1px solid black;" alt="Deusa Capra">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Deidade

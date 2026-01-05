@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/Z2Kfx2a.png" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/Z2Kfx2a.png" width="300" style="border: 1px solid black;" alt="Roberta Araújo">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Humana

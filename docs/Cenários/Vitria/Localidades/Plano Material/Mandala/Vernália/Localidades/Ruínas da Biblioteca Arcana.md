@@ -6,8 +6,9 @@ Em algum momento, um misterioso terremoto, mais tarde revelado como um ataque d'
 
 ## Visual
 
-![The Library](https://cdna.artstation.com/p/assets/images/images/014/623/470/large/maria-yue-highresscreenshot00126.jpg)
-
-### Créditos
-
-A arte utilizada nesta página é de autoria de [Maria Yue](https://www.artstation.com/artwork/balv6k).
+<figure align="center">
+	<img src="https://cdna.artstation.com/p/assets/images/images/014/623/470/large/maria-yue-highresscreenshot00126.jpg" style="border: 1px solid black;" alt="Biblioteca Arcana">
+	<figcaption>
+		Fonte: <a href="https://www.artstation.com/artwork/balv6k">Maria Yue</a>
+	</figcaption>
+</figure>

@@ -1,13 +1,8 @@
-!!! abstract "Perfil"
-	- **Pseudônimos:** -
-
----
-
 ## Personagens
 
-| Personagem | Campanha(s)               | Situação   |
-| ---------- | ------------------------- | ---------- |
-| [[Vamas]]  | - [[Vestígios Fantasmas]] | Aposentado |
+| Personagem | Campanha(s)               | Situação          |
+| ---------- | ------------------------- | ----------------- |
+| [[Vamas]]  | - [[Vestígios Fantasmas]] | Vivo (Aposentado) |
 
 ---
 

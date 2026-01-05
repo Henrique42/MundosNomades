@@ -1,9 +1,10 @@
+**Siene** é a divindade que personifica o rio de mesmo nome, conhecido por banhar a cidade de [[Porto Lobo]].
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/ofe43fK.png" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/ofe43fK.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Deidade

@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/R0X2AgK.png" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/R0X2AgK.png" width="300" height="300" style="border: 1px solid black;" alt="Mocho">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Humana

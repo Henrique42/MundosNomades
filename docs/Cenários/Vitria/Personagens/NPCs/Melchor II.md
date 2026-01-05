@@ -2,9 +2,9 @@ O **Rei Melchor II** foi o monarca de [[Vernália]] durante o início da campanh
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/eJ2yM61.jpg" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/eJ2yM61.jpg" width="300" height="300" style="border: 1px solid black;">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Humano

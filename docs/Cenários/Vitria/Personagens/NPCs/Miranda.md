@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/3yIyMJA.png" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/3yIyMJA.png" width="300" height="300" style="border: 1px solid black;" alt="Miranda">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Humana

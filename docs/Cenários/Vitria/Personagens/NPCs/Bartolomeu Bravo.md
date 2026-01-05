@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/xSgHJzq.png" height="300">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/xSgHJzq.png" height="300" alt="Bartolomeu Bravo">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** humano

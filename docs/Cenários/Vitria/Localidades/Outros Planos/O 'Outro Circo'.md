@@ -6,8 +6,9 @@ Tal lugar pode ser acessado por meio de um espelho mágico. Um desses espelhos f
 
 ## Visual
 
-![O Circo](https://cdna.artstation.com/p/assets/images/images/056/221/346/4k/maria-yue-buffoon00.jpg)
-
-### Créditos
-
-A arte utilizada nesta página é de autoria de [Maria Yue](https://www.artstation.com/artwork/o2NANL).
+<figure align="center">
+	<img src="https://cdna.artstation.com/p/assets/images/images/056/221/346/4k/maria-yue-buffoon00.jpg" style="border: 1px solid black;" alt="O Outro Circo">
+	<figcaption>
+		Fonte: <a href="https://www.artstation.com/artwork/o2NANL">Maria Yue</a>
+	</figcaption>
+</figure>

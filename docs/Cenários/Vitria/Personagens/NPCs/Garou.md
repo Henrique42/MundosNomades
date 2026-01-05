@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/rBO98Hk.png" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/rBO98Hk.png" width="300" height="300" style="border: 1px solid black;" alt="Garou">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Licantropo
@@ -24,3 +24,10 @@
 ## Sobre
 
 - Garou está sempre disposto a tentar proteger outros lobisomens, podendo até mesmo se colocar em perigo no processo *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]], [[VF15 ― A Lua Irá Cantar]] e [[VF23 ― Canção da Cobra]])*.
+
+<figure align="center">
+	<img src="https://i.imgur.com/m91zlz6.jpeg" height="300" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
+	<figcaption>
+		Fonte: Magic the Gathering
+	</figcaption>
+</figure>

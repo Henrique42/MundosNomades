@@ -2,9 +2,12 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://cdna.artstation.com/p/assets/images/images/017/286/766/large/andrew-phillips-dragonbornlumberjacklowresbg.jpg" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://cdna.artstation.com/p/assets/images/images/017/286/766/large/andrew-phillips-dragonbornlumberjacklowresbg.jpg" width="300" style="border: 1px solid black;" alt="Rhogar">
+	<figcaption>
+		Fonte: <a href="https://www.artstation.com/artwork/9ePevR">Andrew Phillips</a>
+	</figcaption>
+</figure>
 
 !!! abstract "Perfil"
 	- **Jogador:** [[Anthony]]
@@ -18,9 +21,3 @@
 	**Outras Informações:**
 		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
 		- **Situação:** Vivo *(Aposentado)*
-
----
-
-### Créditos
-
-- Imagem do personagem: [ArtStation - Drenthis Sarzel, Red Dragonborn Conquest Paladin](https://www.artstation.com/artwork/9ePevR)

@@ -14,8 +14,9 @@ No passado, o bosque era tido como um local sagrado, onde diversas práticas rel
 
 ## Visual
 
-![O Bosque dos Lobos](https://cdna.artstation.com/p/assets/images/images/002/830/622/large/veli-nystrom-sketch-forest.jpg)
-
-### Créditos
-
-Esta arte foi criada por [Veli Nyström](https://www.artstation.com/artwork/PEKAy).
+<figure align="center">
+	<img src="https://cdna.artstation.com/p/assets/images/images/002/830/622/large/veli-nystrom-sketch-forest.jpg" style="border: 1px solid black;" alt="Bosque dos Lobos">
+	<figcaption>
+		Fonte: <a href="https://www.artstation.com/artwork/PEKAy">Veli Nyström</a>
+	</figcaption>
+</figure>

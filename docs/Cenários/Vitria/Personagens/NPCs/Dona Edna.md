@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/h4BJfHb.png" width="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/h4BJfHb.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Gnomo

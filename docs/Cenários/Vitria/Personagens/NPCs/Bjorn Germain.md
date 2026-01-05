@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/dBknRFe.png" width="300" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/dBknRFe.png" width="300" height="300" style="border: 1px solid black;" alt="Bjorn Germain">
+</figure>
 
 !!! abstract "Perfil"
 	- **Espécie:** Anão

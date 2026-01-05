@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/kVGYAxE.png" width="240">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/kVGYAxE.png" width="240" alt="Emblema de Porto Lobo">
+</figure>
 
 ## História
 

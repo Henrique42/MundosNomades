@@ -2,9 +2,12 @@
 
 ---
 
-<div style="text-align: center;">
-<img src="https://i.imgur.com/exjaav3.jpeg" height="300" style="border: 1px solid black;">
-</div>
+<figure align="center">
+	<img src="https://i.imgur.com/exjaav3.jpeg" height="300" style="border: 1px solid black;" alt="Lavenza">
+	<figcaption>
+		Fonte: Franquia Persona
+	</figcaption>
+</figure>
 
 !!! abstract "Perfil"
 	- **Jogador:** [[Clenildo]]
@@ -18,9 +21,3 @@
 	**Outras Informações:**
 		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
 		- **Situação:** Viva
-
----
-
-### Créditos
-
-- Imagem do personagem: Franquia **Persona**.
