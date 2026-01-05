@@ -5,6 +5,7 @@ Esta página serve como uma lista das campanhas presentes na *wiki*. A lista, di
 | Sistema | Campanha                | Sinopse                                                                                                                                                       |
 | ------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | D&D 5e  | [[Vestígios Fantasmas]] | Um grupo de investigadores se junta a uma organização misteriosa para entender o reaparecimento de monstros ainda mais misteriosos na decadente [[Vernália]]. |
+| D&D 5e  | [[VF Confidencial]]     | Coleção de *side-stories* que servem de complemento para a campanha [[Vestígios Fantasmas]].                                                                  |
 
 ## One-shots
 

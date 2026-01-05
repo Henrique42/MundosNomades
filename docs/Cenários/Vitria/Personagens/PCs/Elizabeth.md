@@ -1,0 +1,26 @@
+**Elizabeth** é uma elfa guerreira que atua como investigadora paranormal na [[S.A.P.O.]]
+
+---
+
+<figure align="center">
+	<img src="https://i.imgur.com/sbTnsI9.jpg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
+</figure>
+
+!!! abstract "Perfil"
+	- **Jogador:** [[Clenildo]]
+	- **Espécie:** Sea Elf
+	- **Gênero:** feminino
+	- **Classe:** Fighter (Samurai)
+	- **Campanha(s):** [[VF Confidencial]]
+	- **Afiliação:** [[S.A.P.O.]]
+	- **Família:** ?
+	<hr>
+	**Outras Informações:**
+		- **Primeira Aparição:** [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]]
+		- **Situação:** Viva
+
+---
+
+## Sobre
+
+- Elizabeth foi uma das integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]])*.

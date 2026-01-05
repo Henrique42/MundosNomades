@@ -1,14 +1,10 @@
-!!! abstract "Perfil"
-	- **Pseudônimos:** Clenes
-
----
-
 ## Personagens
 
-| Personagem  | Campanha(s)                             | Situação           |
-| ----------- | --------------------------------------- | ------------------ |
-| Dr. Kleyton | - [[Partes de Boneca (Halloween 2025)]] | História Concluída |
-| [[Lavenza]] | - [[Vestígios Fantasmas]]               | Em Atividade       |
+| Personagem    | Campanha(s)                             | Situação                  |
+| ------------- | --------------------------------------- | ------------------------- |
+| Dr. Kleyton   | - [[Partes de Boneca (Halloween 2025)]] | Vivo (História Concluída) |
+| [[Elizabeth]] | - [[VF Confidencial]]                   | Viva                      |
+| [[Lavenza]]   | - [[Vestígios Fantasmas]]               | Viva                      |
 
 ---
 

@@ -6,10 +6,24 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 | ----- | ------------------------------------- | ------------ |
 | PdB   | [[Partes de Boneca (Halloween 2025)]] | Finalizado   |
 | VF    | [[Vestígios Fantasmas]]               | Em Andamento |
+| VFC   | [[VF Confidencial]]                   | Em Andamento |
 
 ---
 
 ## Registro de Atualizações
+
+### 2026/01/05 (VFC)
+
+- **Motivo:** Sessões do vol. 1 da campanha **VF Confidencial**.
+- **O que há de novo?**
+	- Nova campanha: [[VF Confidencial]]
+	- Novas sessões: VF Confidencial Vol. 1 ― Azul Profundo (Partes[[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)| I]], [[VF Confidencial Vol. 1 ― Azul Profundo (Parte II)|II]] e [[VF Confidencial Vol. 1 ― Azul Profundo (Parte III)|III]])
+	- Novos PCs: [[Bok]], [[Cabeça]], [[Elizabeth]] e [[Nalvan]]
+	- Novos NPCs: [[Utana]] e [[Habitante do Abismo]]
+	- Nova facção: [[Companhia Bellavila]]
+	- Novos locais: [[Mar Utânico]] e [[Ilha de Uzahra]]
+
+---
 
 ### 2025/12/08 (VF)
 
