@@ -3,7 +3,7 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/PPvmBuW.png" height="300" style="border: 1px solid black;" alt="Habitante do Abismo">
+	<img src="https://i.imgur.com/PPvmBuW.png" width="400" style="border: 1px solid black;" alt="Habitante do Abismo">
 	<figcaption>
 		Fonte: Magic the Gathering
 	</figcaption>

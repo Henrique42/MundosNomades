@@ -22,7 +22,7 @@ Esta seção serve como uma lista dos casos que fazem parte do **VF Confidencial
 
 ### Vol. 1 ― Azul Profundo
 
-Um grupo de especialistas em assuntos que envolvem o oceano foi montado pela [[S.A.P.O.]] para investigar uma série de eventos bizarros que têm ocorrido em alto-mar. Após se encontrar na cidade de [[Porto Lobo]], os agentes embarcam em um navio em busca de completar sua missão.
+Um grupo de especialistas em assuntos que envolvem o oceano foi montado pela [[SAPO]] para investigar uma série de eventos bizarros que têm ocorrido em alto-mar. Após se encontrar na cidade de [[Porto Lobo]], os agentes embarcam em um navio em busca de completar sua missão.
 
 #### Participantes
 

@@ -19,11 +19,11 @@
 ## Locais Visitados
 
 - [[Porto Lobo]]:
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 	- Casa das Ervas (Grupo 1)
 	- Mercado (Grupo 2)
 	- Padaria (Grupo 2)
-	- Templo de Utana (Grupo (?) 3)
+	- Templo de [[Utana]] (Grupo (?) 3)
 
 ---
 

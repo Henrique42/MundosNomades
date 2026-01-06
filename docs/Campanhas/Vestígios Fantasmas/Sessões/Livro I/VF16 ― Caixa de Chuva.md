@@ -19,7 +19,7 @@
 
 - [[Porto Lobo]]:
 	- Loja de Brinquedos (?)
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 	- [[Ruínas da Biblioteca Arcana]]
 
 ---

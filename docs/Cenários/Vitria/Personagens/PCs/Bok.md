@@ -1,4 +1,4 @@
-**Bok** é um tiefling ladino que atua como investigador paranormal na [[S.A.P.O.]]
+**Bok** é um tiefling ladino que atua como investigador paranormal na [[SAPO]].
 
 ---
 
@@ -12,7 +12,7 @@
 	- **Gênero:** Masculino
 	- **Classe:** Rogue (Swashbuckler)
 	- **Campanha(s):** [[VF Confidencial]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

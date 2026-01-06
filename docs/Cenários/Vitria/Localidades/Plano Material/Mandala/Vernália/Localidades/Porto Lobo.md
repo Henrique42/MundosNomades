@@ -10,7 +10,7 @@
 
 Após, derrotar a criatura conhecida como *Terrível Rei Lobo*, o herói Arendel fundou um vilarejo onde ficava o covil de seu inimigo. No futuro, aquele vilarejo viria a se tornar a cidade de **Porto Lobo**.
 
-Para comemorar a consolidação da cidade, foi instituído o feriado conhecido como *Festival das 5 Damas da Colheita*. O festejo foi concebido como uma homenagem para as cinco [[Divindades de Vitria|divindades]] que possibilitavam o sucesso da região: *Alnúr*, [[Capra]], [[Siene]], *Skaha* e *Utana*.
+Para comemorar a consolidação da cidade, foi instituído o feriado conhecido como *Festival das 5 Damas da Colheita*. O festejo foi concebido como uma homenagem para as cinco [[Divindades de Vitria|divindades]] que possibilitavam o sucesso da região: *Alnúr*, [[Capra]], [[Siene]], *Skaha* e [[Utana]].
 
 Ainda durante a época em que Vernália era uma das grandes potências mundiais, a cidade era considerada um centro econômico e turístico. Tal fato se deu por conta da importância de seus portos para o comércio e para a realização de aventuras.
 
@@ -39,9 +39,9 @@ Durante o Festival do ano de 79 DA, mais conhecido como [[Cronologia de Vitria#N
 - **Casa das Ervas:** loja criada e administrada pela herbalista [[Dona Edna]];
 - **Esgoto de Porto Lobo;**
 - **Feira da Abóbora:** local onde ocorre as celebrações da deusa Skaha durante o *Festival das 5 Damas da Colheita*;
-- **Forja Germain:** forja criada e administrada pelo respeitado ferreiro [[Bjorn Germain]] e seu filho Fritz;
+- **Forja Germain:** forja criada e administrada pelo respeitado ferreiro [[Bjorn Germain]] e seu filho [[Fritz Germain]];
 - **Forte de Porto Lobo:** centro administrativo da cidade e lar da família Castello;
 - **Prisão de Porto Lobo:** prisão municipal, conhecida como um ponto turístico por certos visitantes;
-- **Sede da S.A.P.O.:** base de operações da misteriosa organização conhecida como [[S.A.P.O.]]
+- **Sede da S.A.P.O.:** base de operações da misteriosa organização conhecida como [[SAPO]], liderada por [[Reina Velez]];
 - **Teatro Municipal de Porto Lobo:** administrado pelo dramaturgo [[Bartolomeu Bravo]];
-- **Templo de Utana:** templo dedicado à deusa Utana.
+- **Templo de Utana:** templo dedicado à deusa [[Utana]].

@@ -1,4 +1,4 @@
-**Reina** é a fundadora e líder da [[S.A.P.O.]]
+**Reina** é a fundadora e líder da [[SAPO]].
 
 ---
 
@@ -9,8 +9,8 @@
 !!! abstract "Perfil"
 	- **Espécie:** Shadar-kai
 	- **Gênero:** Feminino
-	- **Ocupação:** Fundadora e líder da [[S.A.P.O.]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Ocupação:** Fundadora e líder da [[SAPO]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

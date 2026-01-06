@@ -1,4 +1,4 @@
-**Mocho** é uma ex-ladra. No presente, ela atua como funcionária da [[S.A.P.O.]]
+**Mocho** é uma ex-ladra. No presente, ela atua como funcionária da [[SAPO]].
 
 ---
 
@@ -14,7 +14,7 @@
 		- Empregada
 	- **Afiliação:** 
 		- [[Gangue das Harpias]] *(anteriormente)*
-		- [[S.A.P.O.]]
+		- [[SAPO]]
 	- **Família:** -
 	<hr>
 	**Outras Informações:**
@@ -25,4 +25,4 @@
 
 ## Sobre
 
-- Após ser derrotada e poupada por um grupo de investigadores da [[S.A.P.O.]], Mocho decidiu largar a vida do crime e se deixar ser acolhida pela organização deles *(Sessão: [[VF14 ― Os Dias de Cão Acabaram]])*.
+- Após ser derrotada e poupada por um grupo de investigadores da [[SAPO]], Mocho decidiu largar a vida do crime e se deixar ser acolhida pela organização deles *(Sessão: [[VF14 ― Os Dias de Cão Acabaram]])*.

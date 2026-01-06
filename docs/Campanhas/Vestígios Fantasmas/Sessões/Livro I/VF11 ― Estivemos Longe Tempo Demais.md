@@ -19,7 +19,7 @@
 
 - [[Porto Lobo]]:
 	- Circo dos Arlequins
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 
 ---
 

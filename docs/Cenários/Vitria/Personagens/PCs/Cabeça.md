@@ -1,4 +1,4 @@
-**Cabeça Andrade** é um meio-elfo bardo e bárbaro que atua como investigador paranormal na [[S.A.P.O.]]
+**Cabeça Andrade** é um meio-elfo bardo e bárbaro que atua como investigador paranormal na [[SAPO]].
 
 ---
 
@@ -12,7 +12,7 @@
 	- **Gênero:** Masculino
 	- **Classe:** Barbarian (Storm Herald) / Bard
 	- **Campanha(s):** [[VF Confidencial]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

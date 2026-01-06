@@ -20,7 +20,7 @@
 
 - [[Porto Lobo]]:
 	- Esgoto
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 - [[A 'Cripta']]
 
 ---

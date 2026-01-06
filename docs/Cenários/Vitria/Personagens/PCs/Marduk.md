@@ -1,4 +1,4 @@
-**Marduk Fyendal** é um firbolg druida que atua como investigador paranormal na [[S.A.P.O.]]
+**Marduk Fyendal** é um firbolg druida que atua como investigador paranormal na [[SAPO]].
 
 ---
 
@@ -13,7 +13,7 @@
 	- **Ocupação:** Druid (Circle of Stars)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:** 
-		- [[S.A.P.O.]]
+		- [[SAPO]]
 		- Arquivistas
 	- **Família:** Tribo desaparecida
 	<hr>

@@ -1,4 +1,4 @@
-**Geraldo** e **Jéssica** são dois investigadores da [[S.A.P.O.]]
+**Geraldo** e **Jéssica** são dois investigadores da [[SAPO]].
 
 ---
 
@@ -13,7 +13,7 @@
 	- **Espécie:** Humanos
 	- **Gênero:** Masculino e Feminino, respectivamente
 	- **Ocupação:** investigadores
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

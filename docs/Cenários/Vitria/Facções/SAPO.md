@@ -1,7 +1,7 @@
 **S.A.P.O.** (Salvaguarda para Atividades Paranormais e Ocultismo) É uma agência misteriosa de investigadores paranormais de [[Vernália|Vernália]].
 
 <figure align="center">
-	<img src="https://i.imgur.com/GZjMuAm.png" width="300" alt="Emblema da SAPO">
+	<img src="https://i.imgur.com/lEZHb17.png" width="300" alt="Emblema da SAPO">
 </figure>
 
 ---
@@ -20,10 +20,14 @@ O objetivo da agência é solucionar mistérios que envolvam atividades sobrenat
 - [[Teresa Madel]]
 - [[Mocho]]
 - [[Geraldo e Jéssica]]
-- *Party*:
+- Personagens de Jogadores:
 	- [[Aenoir]]
+	- [[Bok]]
+	- [[Cabeça]]
+	- [[Elizabeth]]
 	- [[Lavenza]]
 	- [[Marduk]]
+	- [[Nalvan]]
 	- [[Rhogar]] *(Aposentado)*
 	- [[Sherlock]] *(Morto)*
 	- [[Vamas]] *(Aposentado)*

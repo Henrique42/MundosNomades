@@ -30,7 +30,7 @@ Os Avatares, como já explicado anteriormente, são os deuses que personificam o
 | Órpos     | Vento/Tempestade     | Garça           |
 | Skaha     | Agricultura          | Foice           |
 | Tarno     | Conhecimento/Memória | Caneta de Pena  |
-| Utana     | Mar Utânico          | Espadarte       |
+| [[Utana]] | [[Mar Utânico]]      | Espadarte       |
 | Zanii     | Natureza             | Cervo           |
 
 ## Os Antigos

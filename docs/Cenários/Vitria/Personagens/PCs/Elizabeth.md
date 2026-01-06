@@ -1,4 +1,4 @@
-**Elizabeth** é uma elfa guerreira que atua como investigadora paranormal na [[S.A.P.O.]]
+**Elizabeth** é uma elfa guerreira que atua como investigadora paranormal na [[SAPO]].
 
 ---
 
@@ -12,7 +12,7 @@
 	- **Gênero:** feminino
 	- **Classe:** Fighter (Samurai)
 	- **Campanha(s):** [[VF Confidencial]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

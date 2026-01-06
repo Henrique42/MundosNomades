@@ -1,4 +1,4 @@
-**Vamas Trothil** é um clérigo que atua como investigador paranormal na [[S.A.P.O.]]
+**Vamas Trothil** é um clérigo que atua como investigador paranormal na [[SAPO]].
 
 ---
 
@@ -13,7 +13,7 @@
 	- **Classe:** Cleric (Grave Domain)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:**
-		- [[S.A.P.O.]]
+		- [[SAPO]]
 		- [[Capra]] *(divindade da qual ele é clérigo)*
 	- **Família:** ?
 	<hr>

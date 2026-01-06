@@ -32,4 +32,4 @@
 
 - A pedido da deusa Tarno, Fídias passou os últimos anos de sua vida pesquisando informações sobre [[O Observador]]. Em razão disso, o mago acabou sendo morto por uma das sombras de seu inimigo *(Sessão: [[VF19 ― O Mago]])*.
 
-- Postumamente, os resultados do trabalho de Fídias foram passados para um grupo de investigadores da [[S.A.P.O.]] pelo espírito [[Leto]] *(Sessão: [[VF19 ― O Mago]])*.
+- Postumamente, os resultados do trabalho de Fídias foram passados para um grupo de investigadores da [[SAPO]] pelo espírito [[Leto]] *(Sessão: [[VF19 ― O Mago]])*.

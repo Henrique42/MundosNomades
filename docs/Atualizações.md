@@ -22,6 +22,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- Novos NPCs: [[Utana]] e [[Habitante do Abismo]]
 	- Nova facção: [[Companhia Bellavila]]
 	- Novos locais: [[Mar Utânico]] e [[Ilha de Uzahra]]
+	- Facção atualizada: [[SAPO]]
 
 ---
 
@@ -57,7 +58,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- PCs atualizados: [[Aenoir]], [[Rhogar]] e [[Sherlock]] (F)
 	- NPCs atualizados: [[Átropos]] e [[Bartolomeu Bravo]]
 	- Local atualizado: [[Porto Lobo]]
-	- Facção atualizada: [[S.A.P.O.]]
+	- Facção atualizada: [[SAPO]]
 	- *"Primeira aparição"* adicionada para todos os personagens
 
 ---
@@ -246,7 +247,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- NPCs atualizados: [[Miranda]] e [[Reina Velez]]
 	- Local adicionado: [[A 'Cripta']]
 	- Local atualizado: [[Porto Lobo]]
-	- Facção atualizada: [[S.A.P.O.]]
+	- Facção atualizada: [[SAPO]]
 
 ---
 
@@ -267,6 +268,6 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- Nova sessão: [[VF01 ― Fantasmagoria]]
 	- Personagens dos jogadores adicionados: [[Aenoir]], [[Lavenza]], [[Marduk]], [[Rhogar]], [[Sherlock]] e [[Vamas]]
 	- NPCs adicionados: [[Miranda]] e [[Reina Velez]]
-	- Facção adicionada: [[S.A.P.O.]]
+	- Facção adicionada: [[SAPO]]
 	- Local atualizado: [[Porto Lobo]]
 	- Parte de [[Regras da Campanha (VF)]] e [[Criação de Personagem (VF)]] movida para o blog

@@ -1,4 +1,4 @@
-**Aenoir do clã Argentum** é uma elfa feiticeira que atua como investigadora paranormal na [[S.A.P.O.]]
+**Aenoir do clã Argentum** é uma elfa feiticeira que atua como investigadora paranormal na [[SAPO]].
 
 ---
 
@@ -12,7 +12,7 @@
 	- **Gênero:** Feminino
 	- **Classe:** Sorcerer (Lunar Sorcery)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** [[Mestre dos Espelhos]] *(clone com a consciência de um palhaço)*
 	<hr>
 	**Outras Informações:**

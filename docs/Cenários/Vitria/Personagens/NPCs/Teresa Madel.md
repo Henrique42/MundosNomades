@@ -1,4 +1,4 @@
-**Teresa Madel** é uma enfermeira contratada pela [[S.A.P.O.]].
+**Teresa Madel** é uma enfermeira contratada pela [[SAPO]].
 
 ---
 
@@ -10,7 +10,7 @@
 	- **Espécie:** Halfling
 	- **Gênero:** Feminino
 	- **Ocupação:** Enfermeira
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

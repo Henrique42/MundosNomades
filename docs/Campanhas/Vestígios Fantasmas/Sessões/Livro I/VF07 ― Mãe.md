@@ -19,7 +19,7 @@
 
 - [[Porto Lobo]]:
 	- Bar Água & Sal
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 	- Casa dos Naves
 
 ---

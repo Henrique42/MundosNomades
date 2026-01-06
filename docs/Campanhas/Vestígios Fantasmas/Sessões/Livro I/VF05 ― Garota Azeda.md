@@ -19,7 +19,7 @@
 ## Locais Visitados
 
 - [[Porto Lobo]]:
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 	- Bar Água e Sal
 
 ---

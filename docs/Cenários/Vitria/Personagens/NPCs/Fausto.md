@@ -1,4 +1,4 @@
-**Fausto** é um estudante na Universidade Vernaliana de Magia e estagiário na [[S.A.P.O.]].
+**Fausto** é um estudante na Universidade Vernaliana de Magia e estagiário na [[SAPO]].
 
 ---
 
@@ -14,7 +14,7 @@
 		- Estudante Universitário
 	- **Afiliação:** 
 		- Universidade Vernaliana de Magia
-		- [[S.A.P.O.]]
+		- [[SAPO]]
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**

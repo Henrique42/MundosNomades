@@ -18,7 +18,7 @@
 ## Locais Visitados
 
 - [[Porto Lobo]]:
-	- Sede da [[S.A.P.O.]]
+	- Sede da [[SAPO]]
 	- Mercado
 	- Forja Germain
 	- Feira da Abóbora

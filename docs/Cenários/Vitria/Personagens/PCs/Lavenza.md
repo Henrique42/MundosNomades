@@ -1,9 +1,9 @@
-**Lavenza** é uma aasimar bruxa que atua como investigadora paranormal na [[S.A.P.O.]]
+**Lavenza** é uma aasimar bruxa que atua como investigadora paranormal na [[SAPO]].
 
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/exjaav3.jpeg" height="300" style="border: 1px solid black;" alt="Lavenza">
+	<img src="https://i.imgur.com/exjaav3.jpeg" width="400" style="border: 1px solid black;" alt="Lavenza">
 	<figcaption>
 		Fonte: Franquia Persona
 	</figcaption>
@@ -15,7 +15,7 @@
 	- **Gênero:** Feminino
 	- **Classe:** Warlock (The Celestial)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[S.A.P.O.]]
+	- **Afiliação:** [[SAPO]]
 	- **Família:** Mestre desaparecido
 	<hr>
 	**Outras Informações:**
