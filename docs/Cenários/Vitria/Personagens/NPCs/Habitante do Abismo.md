@@ -30,6 +30,9 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 
 <figure align="center">
 	<img src="https://i.imgur.com/BkcYHp6.png" width="300" height="300" style="border: 1px solid black;" alt="Merlusse">
+	<figcaption>
+		Versão "Merlusse".
+	</figcaption>
 </figure>
 
 - O Habitante não é um único indivíduo, mas uma espécie de mente coletiva. Assim, seu objetivo final é absorver todos os indivíduos ao seu alcance na sua "união", de modo similar ao que foi utilizado nos moradores da [[Ilha de Uzahra]] *(Side-story: [[VF Confidencial Vol. 1 ― Azul Profundo (Parte III)]])*.

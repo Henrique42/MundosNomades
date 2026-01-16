@@ -9,6 +9,6 @@ No ano de 21 A.A., o local teria sido supostamente destruído por um maremoto. N
 <figure align="center">
 	<img src="https://cdna.artstation.com/p/assets/images/images/003/061/580/4k/alena-aenami-lighthouse1k.jpg" style="border: 1px solid black;" alt="Ilha de Uzahra">
 	<figcaption>
-		Fonte: <a href="https://www.artstation.com/artwork/xNebE">Alena Aenami</a>
+		Fonte: Alena Aenami (<a href="https://www.artstation.com/artwork/xNebE">Artstation</a>)
 	</figcaption>
 </figure>

@@ -7,6 +7,6 @@
 <figure align="center">
 	<img src="https://cdnb.artstation.com/p/assets/images/images/001/061/405/large/darren-benton-grave-yard-scene-big.jpg" style="border: 1px solid black;" alt="A Cripta">
 	<figcaption>
-		Fonte: <a href="https://www.artstation.com/artwork/BkVnk">Darren Benton</a>
+		Fonte: Darren Benton (<a href="https://www.artstation.com/artwork/BkVnk">Artstation</a>)
 	</figcaption>
 </figure>

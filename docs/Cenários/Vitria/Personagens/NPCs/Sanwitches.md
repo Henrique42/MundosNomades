@@ -30,6 +30,6 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 <figure align="center">
 	<img src="https://images.unsplash.com/photo-1498946187162-07b3c978b218" width="300px" style="border: 1px solid black;" alt="Sanwitches, versão oculta">
 	<figcaption>
-		Fonte: <a href="https://unsplash.com/photos/silhouette-photo-of-a-man-with-hat-standing-near-concrete-building-at-daytime-lbekri_riMg">Craig Whitehead</a>
+		Versão transformada. — Fonte: Craig Whitehead (<a href="https://unsplash.com/photos/silhouette-photo-of-a-man-with-hat-standing-near-concrete-building-at-daytime-lbekri_riMg">Unsplash</a>)
 	</figcaption>
 </figure>

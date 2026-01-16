@@ -5,7 +5,7 @@
 <figure align="center">
 	<img src="https://i.imgur.com/exjaav3.jpeg" width="400" style="border: 1px solid black;" alt="Lavenza">
 	<figcaption>
-		Fonte: Franquia Persona
+		Fonte: Persona
 	</figcaption>
 </figure>
 

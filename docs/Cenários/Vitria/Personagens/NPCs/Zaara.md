@@ -32,6 +32,6 @@
 <figure align="center">
 	<img src="https://i.imgur.com/QggDCxI.jpeg" width="300" style="border: 1px solid black;" alt="Zaara (forma de lobisomem)">
 	<figcaption>
-		Fonte: Magic the Gathering
+		Versão lobisomem. — Fonte: Magic the Gathering
 	</figcaption>
 </figure>

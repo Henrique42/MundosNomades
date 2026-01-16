@@ -9,6 +9,6 @@ Quando uma alma atravessa para o outro lado, ela é levada para o setor a fim de
 <figure align="center">
 	<img src="https://cdnb.artstation.com/p/assets/images/images/008/611/723/large/megan-i-mcclure-mainshot.jpg" style="border: 1px solid black;" alt="Setor das Almas Perdidas">
 	<figcaption>
-		Fonte: <a href="https://www.artstation.com/artwork/BRmRk">cwytch</a>
+		Fonte: cwytch (<a href="https://www.artstation.com/artwork/BRmRk">Artstation</a>)
 	</figcaption>
 </figure>

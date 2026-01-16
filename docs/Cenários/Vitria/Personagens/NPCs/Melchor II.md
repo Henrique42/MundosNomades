@@ -23,4 +23,4 @@ O **Rei Melchor II** foi o monarca de [[Vernália]] durante o início da campanh
 
 ### Sobre
 
-- Ele morreu em seus aposentos, na cidade de Ciprino, por conta de uma doença desconhecida *(Sessão: [[VF23 ― Canção da Cobra]])*.
+- Ele morreu em seus aposentos, na cidade de [[Ciprino]], por conta de uma doença desconhecida *(Sessão: [[VF23 ― Canção da Cobra]])*.

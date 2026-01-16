@@ -28,6 +28,6 @@
 <figure align="center">
 	<img src="https://i.imgur.com/m91zlz6.jpeg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
 	<figcaption>
-		Fonte: Magic the Gathering
+		Versão lobisomem. — Fonte: Magic the Gathering
 	</figcaption>
 </figure>

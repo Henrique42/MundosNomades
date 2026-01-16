@@ -16,6 +16,6 @@ O objetivo do grupo era essencialmente se tornar o maior império criminoso do p
 
 ## Membros Importantes
 
-- [[Lady Condor]]
-- [[Mocho]]
-- [[Zaara]]
+- [[Lady Condor]] *(líder, agora morta)*
+- [[Mocho]] *(desertora)*
+- [[Zaara]] *(ex-escrava, agora livre da gangue)*

@@ -5,7 +5,7 @@
 <figure align="center">
 	<img src="https://cdna.artstation.com/p/assets/images/images/017/286/766/large/andrew-phillips-dragonbornlumberjacklowresbg.jpg" width="300" style="border: 1px solid black;" alt="Rhogar">
 	<figcaption>
-		Fonte: <a href="https://www.artstation.com/artwork/9ePevR">Andrew Phillips</a>
+		Fonte: Andrew Phillips (<a href="https://www.artstation.com/artwork/9ePevR">Artstation</a>)
 	</figcaption>
 </figure>
 

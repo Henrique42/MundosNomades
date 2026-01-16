@@ -13,6 +13,8 @@ tags:
 
 Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e regras variantes utilizadas na campanha.
 
+*Atualizado em 16/01/2026.*
+
 <!-- more -->
 
 !!! tip "Dica"
@@ -33,8 +35,6 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 	- *Acerto crítico:* vantagem na primeira ação;
 	- *Falha crítica:* desvantagem na primeira ação.
 
-- **Flanquear:** Bônus de +2 para a rolagem de ataque, ao invés vantagem;
-
 ### Montagem de viagem
 
 !!! quote "Montagem de Viagem (Swords of the Serpentine)"
@@ -51,11 +51,9 @@ Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e r
 | Pontos | Motivo                                                                                                                                                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | +1     | Ao subir de nível.                                                                                                                                                                                                       |
-| +1     | Ao tirar uma falha crítica em rolagens de ataques.                                                                                                                                                                       |
 | +1     | Ao forjar ou quebrar um *laço* com um personagem (PC ou NPC).                                                                                                                                                            |
 | +1     | Ao progredir significativamente nos objetivos pessoais do personagem.                                                                                                                                                    |
 | +2     | Ao falhar automaticamente em uma rolagem por causa de uma característica do seu personagem. *EX.: perder um teste contra ficar assustado se o personagem tiver uma fobia já estabelecida de uma criatura em específico.* |
-| +x     | Adicionar conteúdo relevante à *wiki*.                                                                                                                                                                                   |
 
 #### Usos
 

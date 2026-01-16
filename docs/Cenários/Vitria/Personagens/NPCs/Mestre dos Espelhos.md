@@ -30,4 +30,7 @@
 
 <figure align="center">
 	<img src="https://i.imgur.com/QE1iuoe.png" width="300" height="300" style="border: 1px solid black;" alt="Mestre dos Espelhos, versão Aenoir">
+	<figcaption>
+		Versão "Aenoir".
+	</figcaption>
 </figure>

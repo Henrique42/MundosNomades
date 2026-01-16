@@ -10,15 +10,15 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 
 ### Informações
 
-- **Sistema Político:** Monarquia.
-- **Governante:** Rei [[Melchor II]].
-- **Capital:** Ciprino.
+- **Sistema Político:** Monarquia
+- **Governante:** Rei [[Melchor II]]
+- **Capital:** [[Ciprino]]
 
 ---
 
 ### Principais Cidades
 
-- Ciprino (Capital)
+- [[Ciprino]]
 - Cormura
 - Norte Castelo
 - [[Porto Lobo]]
@@ -30,5 +30,8 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 
 <figure align="center">
 	<img src="https://i.imgur.com/x7xVcUf.png" width="600" style="border: 1px solid black;" alt="Mapa de Vernália">
+	<figcaption>
+		Mapa de Vernália em 79 D.A.
+	</figcaption>
 </figure>
 

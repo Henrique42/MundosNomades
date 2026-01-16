@@ -12,6 +12,17 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/01/16 (VF)
+
+- **Motivo:** preparações para o retorno da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Novo NPC: [[Joaquim]]
+	- Nova cidade: [[Ciprino]]
+	- [[Regras da Campanha (VF)|Regras]] atualizadas
+	- Resumo do Livro I da campanha no [[Resumo - Livro I (VF)|Blog]]
+
+---
+
 ### 2026/01/05 (VFC)
 
 - **Motivo:** Sessões do vol. 1 da campanha **VF Confidencial**.
