@@ -1,0 +1,36 @@
+.timeline {
+    position: relative;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: teal;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+.event {
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid teal;
+    position: relative;
+    width: 45%;
+}
+.event.left {
+    left: 0;
+}
+.event.right {
+    left: 55%;
+}
+.event h3 {
+    margin-top: 0;
+    color: teal;
+}
+.event p {
+    font-size: 1em;
+    line-height: 1.5;
+}
