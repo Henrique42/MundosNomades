@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/CloVCYu.png" width="240" alt="Emblema de Ciprino">
+	<img src="/MundosNomades/img/VF+/Símbolos/Ciprino.png" width="240" alt="Emblema de Ciprino">
 </figure>
 
 ## História

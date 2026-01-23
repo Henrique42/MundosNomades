@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/xBWiwqo.jpeg" width="300" style="border: 1px solid black;" alt="Marduk">
+	<img src="/MundosNomades/img/VF+/PCs/Antônio - Marduk v3.jpeg" width="300" style="border: 1px solid black;" alt="Marduk">
 </figure>
 
 !!! abstract "Perfil"

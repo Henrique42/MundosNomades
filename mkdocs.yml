@@ -1,5 +1,6 @@
 site_name: Mundos Nômades
 site_author: nômade
+site_url: https://henrique42.github.io/MundosNomades
 
 theme:
     name: material

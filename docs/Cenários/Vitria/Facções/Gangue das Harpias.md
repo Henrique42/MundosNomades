@@ -3,7 +3,7 @@ A **Gangue das Harpias** foi um grupo de criminosas fundado pela mulher conhecid
 Durante algum tempo, a gangue chegou a utilizar um [[Zaara|lobisomem]] escravizado para realizar seus ataques.
 
 <figure align="center">
-	<img src="https://i.imgur.com/6G6aOu3.png" width="300" alt="Emblema da Gangue das Harpias">
+	<img src="/MundosNomades/img/VF+/Símbolos/Harpias.png" width="300" alt="Emblema da Gangue das Harpias">
 </figure>
 
 ---

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/ZaHTMnC.png" width="300" style="border: 1px solid black;" alt="Fausto">
+	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Fausto.png" width="300" style="border: 1px solid black;" alt="Fausto">
 </figure>
 
 !!! abstract "Perfil"

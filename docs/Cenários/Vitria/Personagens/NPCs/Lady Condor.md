@@ -3,9 +3,9 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/KSig76o.jpeg" width="400" style="border: 1px solid black;" alt="Lady Condor">
+	<img src="/MundosNomades/img/VF+/NPCs/Lady Condor.jpg" width="400" style="border: 1px solid black;" alt="Lady Condor">
 	<figcaption>
-		Fonte: Magic the Gathering
+		Fonte: Chris Rallis <em>(Magic the Gathering)</em>
 	</figcaption>
 </figure>
 

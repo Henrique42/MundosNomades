@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/ofe43fK.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
+	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Siene.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
 </figure>
 
 !!! abstract "Perfil"

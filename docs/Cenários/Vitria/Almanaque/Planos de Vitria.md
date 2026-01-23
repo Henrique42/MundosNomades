@@ -10,7 +10,7 @@ A posição de um plano na torre influência nas seguintes características:
 
 - Planos situados em posições opostas na torre são comumente chamados de "planos inversos", já que apresentam características diretamente opostas ao de sua contraparte.
 
-<img src="https://i.imgur.com/kkb0qZJ.png" alt="Planos da existência" style="border:1px solid black">
+<img src="/MundosNomades/img/VF+/Mapas/Torre Planar.png" alt="Planos da existência" style="border:1px solid black">
 
 Os planos que compõem a Torre Planar estão listados a seguir.
 

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/BgQjqM7.png" width="300" style="border: 1px solid black;" alt="Deusa Capra">
+	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Capra.png" width="300" style="border: 1px solid black;" alt="Deusa Capra">
 </figure>
 
 !!! abstract "Perfil"

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/sbTnsI9.jpg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
+	<img src="/MundosNomades/img/VF+/PCs/Clenes - Elizabeth.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
 </figure>
 
 !!! abstract "Perfil"
@@ -16,11 +16,11 @@
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**
-		- **Primeira Aparição:** [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]]
+		- **Primeira Aparição:** [[VFC01a ― Azul Profundo (Parte I)]]
 		- **Situação:** Viva
 
 ---
 
 ## Sobre
 
-- Elizabeth foi uma das integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]])*.
+- Elizabeth foi uma das integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VFC01a ― Azul Profundo (Parte I)]])*.

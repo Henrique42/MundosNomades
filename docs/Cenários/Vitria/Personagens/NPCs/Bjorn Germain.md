@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/dBknRFe.png" width="300" height="300" style="border: 1px solid black;" alt="Bjorn Germain">
+	<img src="/MundosNomades/img/VF+/NPCs/Germain, Bjorn.png" width="300" height="300" style="border: 1px solid black;" alt="Bjorn Germain">
 </figure>
 
 !!! abstract "Perfil"

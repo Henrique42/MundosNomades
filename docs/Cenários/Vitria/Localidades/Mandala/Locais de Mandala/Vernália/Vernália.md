@@ -5,7 +5,7 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/xu9lFuq.png" width="500" alt="Bandeira de Vernália">
+	<img src="/MundosNomades/img/VF+/Símbolos/Vernália.png" width="500" alt="Bandeira de Vernália">
 </figure>
 
 ### Informações
@@ -29,7 +29,7 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ### Mapa
 
 <figure align="center">
-	<img src="https://i.imgur.com/x7xVcUf.png" width="600" style="border: 1px solid black;" alt="Mapa de Vernália">
+	<img src="/MundosNomades/img/VF+/Mapas/Vernália.png" width="600" style="border: 1px solid black;" alt="Mapa de Vernália">
 	<figcaption>
 		Mapa de Vernália em 79 D.A.
 	</figcaption>

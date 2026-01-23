@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/m5wqV1J.png" width="300" height="300" style="border: 1px solid black;" alt="Joaquim">
+	<img src="/MundosNomades/img/VF+/NPCs/Joaquim.png" width="300" height="300" style="border: 1px solid black;" alt="Joaquim">
 </figure>
 
 !!! abstract "Perfil"

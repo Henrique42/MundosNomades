@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/KwtEtlW.jpeg" width="300" style="border: 1px solid black;" alt="Ignacius">
+	<img src="/MundosNomades/img/VF+/NPCs/Ignacius.jpg" width="300" style="border: 1px solid black;" alt="Ignacius">
 </figure>
 
 !!! abstract "Perfil"

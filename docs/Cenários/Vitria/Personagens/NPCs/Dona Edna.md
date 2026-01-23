@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/h4BJfHb.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
+	<img src="/MundosNomades/img/VF+/NPCs/Dona Edna.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
 </figure>
 
 !!! abstract "Perfil"

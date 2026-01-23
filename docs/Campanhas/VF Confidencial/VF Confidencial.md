@@ -1,7 +1,7 @@
 **VF Confidencial** é uma antologia de *side-stories* de D&D 5ª edição com temática de mistério e fantasia. Ela é um *spin-off* da campanha [[Vestígios Fantasmas]] e também se passa no cenário de [[Vitria]].
 
 <figure align="center">
-	<img src="https://i.imgur.com/MtOuVTj.png" width="300" alt="VF Confidencial" style="border: 1px solid black;" alt="Capa da campanha VF Confidencial">
+	<img src="/MundosNomades/img/VF+/Capas/Capa - VFC.png" width="300" alt="VF Confidencial" style="border: 1px solid black;" alt="Capa da campanha VF Confidencial">
 </figure>
 
 !!! abstract "Ficha"
@@ -36,6 +36,6 @@ Um grupo de especialistas em assuntos que envolvem o oceano foi montado pela [[S
 
 #### Sessões
 
-1. [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]]
-2. [[VF Confidencial Vol. 1 ― Azul Profundo (Parte II)]]
-3. [[VF Confidencial Vol. 1 ― Azul Profundo (Parte III)]]
+1. [[VFC01a ― Azul Profundo (Parte I)]]
+2. [[VFC01b ― Azul Profundo (Parte II)]]
+3. [[VFC01c ― Azul Profundo (Parte III)]]
