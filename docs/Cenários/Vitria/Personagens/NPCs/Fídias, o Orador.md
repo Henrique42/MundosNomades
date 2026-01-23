@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/FgDmUT2.jpeg" width="300" style="border: 1px solid black;" alt="Fídias, o Orador">
+	<img src="/img/VF+/NPCs/Fídias, o Orador.jpg" width="300" style="border: 1px solid black;" alt="Fídias, o Orador">
 	<figcaption>
 		Fonte: <a href="https://www.deviantart.com/lucy-lisett/art/Merlin-the-court-wizard-622420764?src=MC_deviation_stack">DeviantArt</a>
 	</figcaption>

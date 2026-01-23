@@ -1,7 +1,7 @@
 **S.A.P.O.** (Salvaguarda para Atividades Paranormais e Ocultismo) É uma agência misteriosa de investigadores paranormais de [[Vernália|Vernália]].
 
 <figure align="center">
-	<img src="https://i.imgur.com/lEZHb17.png" width="300" alt="Emblema da SAPO">
+	<img src="/img/VF+/Símbolos/SAPO.png" width="300" alt="Emblema da SAPO">
 </figure>
 
 ---

@@ -1,7 +1,7 @@
 **Partes de Boneca** foi um one-shot de terror no sistema *Liminal Horror*. Ele foi realizado em comemoração ao *Halloween* de 2025.
 
 <figure align="center">
-	<img src="https://i.imgur.com/ZAQsXKD.png" width="300" alt="Partes de Boneca" style="border: 1px solid black;" alt="Capa do one-shot Partes de Boneca">
+	<img src="/img/One-shots/Capa - PdB.png" width="300" alt="Partes de Boneca" style="border: 1px solid black;" alt="Capa do one-shot Partes de Boneca">
 </figure>
 
 !!! abstract "Ficha"

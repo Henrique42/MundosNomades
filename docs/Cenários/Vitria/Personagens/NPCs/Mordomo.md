@@ -3,7 +3,7 @@ Uma **mordomo** que pode ser real ou não.
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/gecEHj5.png" width="300" height="300" style="border: 1px solid black;" alt="Mordomo misteriosa">
+	<img src="/img/VF+/NPCs/Mordomo.png" width="300" height="300" style="border: 1px solid black;" alt="Mordomo misteriosa">
 </figure>
 
 !!! abstract "Perfil"

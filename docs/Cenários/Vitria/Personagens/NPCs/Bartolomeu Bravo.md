@@ -3,11 +3,14 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/xSgHJzq.png" height="300" alt="Bartolomeu Bravo">
+	<img src="https://ms.yugipedia.com//e/eb/Wightmare-MADU-EN-VG-artwork.png" width="300" style="border: 1px solid black;" alt="Bartolomeu Bravo">
+	<figcaption>
+		Fonte: Yu-Gi-Oh!
+	</figcaption>
 </figure>
 
 !!! abstract "Perfil"
-	- **Espécie:** humano
+	- **Espécie:** humano *(morto-vivo, posteriormente)*
 	- **Gênero:** Masculino
 	- **Ocupação:** 
 		- Escritor

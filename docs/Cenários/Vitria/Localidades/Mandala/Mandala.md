@@ -6,4 +6,6 @@ No passado, era comum a existência de aventureiros, aqueles que dedicavam as su
 
 ## Nações
 
+- Étincelle
+- Garnícia
 - [[Vernália]]

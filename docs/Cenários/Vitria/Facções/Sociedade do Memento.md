@@ -3,7 +3,7 @@ A Sociedade do Memento é uma ordem de arquivistas e pesquisadores criada pela p
 Durante a história, diversos clãs e famílias que serviam a tal deidade passaram a preparar as suas gerações futuras para servir como arquivistas.
 
 <figure align="center">
-	<img src="https://i.imgur.com/vKfRPfn.png" width="300" alt="Emblema da Sociedade do Memento">
+	<img src="/img/VF+/Símbolos/Memento.png" width="300" alt="Emblema da Sociedade do Memento">
 </figure>
 
 ---

@@ -14,7 +14,9 @@ Resumo do "Livro I" da campanha [[Vestígios Fantasmas]], intitulado **Bruxa à 
 
 <!-- more -->
 
-## Caso I: Fantasma do Teatro
+## Eventos
+
+### Caso I: Fantasma do Teatro
 
 Um grupo de desconhecidos ([[Aenoir]], [[Lavenza]], [[Marduk]], [[Rhogar]], [[Sherlock]] e [[Vamas]]) foi contratado pela misteriosa organização de investigadores conhecida como [[SAPO]]. A primeira missão deles, passada pela secretária da organização, [[Miranda]], foi desvendar o que estava por trás de estranhas aparições do teatro da cidade de [[Porto Lobo]]. Durante uma peça, eles foram atacados por monstros de fumaça. A atriz [[Roberta Araújo]] foi apreendida no local como suspeita pela guarda da cidade, que incluiu o grande [[Sérgio, o Guarda]].
 
@@ -22,7 +24,7 @@ Após uma séries de investigações, o grupo encontrou a verdadeira culpada pel
 
 ---
 
-## Conhecendo Porto Lobo
+### Conhecendo Porto Lobo
 
 Após retornar ao plano material, o grupo finalmente foi capaz de conhecer a sua nova chefe, uma shadar-kai chamada [[Reina Velez]]. Eles também tiveram a oportunidade de explorar a cidade e conhecer alguns de seus moradores, como:
 
@@ -36,7 +38,7 @@ Durante as conversas, eles descobriram que [[Joaquim]], filho de um padeiro e ex
 
 ---
 
-## Caso II: Demônios Circenses
+### Caso II: Demônios Circenses
 
 A segunda missão do grupo foi investigar o desaparecimento de várias crianças pela cidade. Após vasculhar a casa de uma das vítimas, eles descobriram que o culpado utilizou alguma espécie de espelho mágico para realizar o ato. Investigando mais a fundo, eles perceberam que todas as pistas levavam à um circo que, na época, era recém-chegado na cidade.
 
@@ -44,7 +46,7 @@ No circo, eles atravessaram um dos espelhos mágicos e foram parar em um [[O 'Ou
 
 ---
 
-## Caso III: Lobisomem na Noite
+### Caso III: Lobisomem na Noite
 
 Na missão seguinte, os investigadores se reencontraram com o ferreiro Bjorn, agora como um cliente da organização. O anão os explicou sobre um ataque, supostamente realizado por um vulto branco, que ele sofreu ao voltar do [[Bosque dos Lobos|bosque]]. Assim, o grupo deixou a cidade pela primeira vez desde que se juntaram a SAPO. No caminho, eles se encontraram com Garou, que aparentemente estava indo caçar no bosque. Já na floresta, eles se encontraram com [[Siene]], a deusa do rio que banha Porto Lobo, pela primeira vez.
 
@@ -54,7 +56,7 @@ Então, juntos novamente de Garou, revelado ser um lobisomem em uma missão de r
 
 ---
 
-## Caso IV: Codex Gigas
+### Caso IV: Codex Gigas
 
 Ao retornar da missão anterior, o grupo decidiu ajudar Fausto, agora um estagiário na SAPO, a conseguir livros para terminar o seu TCC. O problema era o seguinte: a [[Ruínas da Biblioteca Arcana|biblioteca]] da cidade, outrora uma das mais ricas do país, havia se tornado uma área abandonada (e perigosa) após um incidente que ocorreu décadas atrás. Assim, os investigadores decidiram realizar uma missão "extra-oficial" e escoltar o mago para o local. Ao chegar lá, eles encontraram o local tomado por morte e energia necrótica.
 
@@ -66,7 +68,7 @@ No caminho, eles se encontraram com Reina e Miranda, que estavam investigando a 
 
 ---
 
-## Caso V: Martelo da Bruxa
+### Caso V: Martelo da Bruxa
 
 O dia do [[Porto Lobo#Historia|Festival das 5 Damas da Colheita]] finalmente chegou e, com ele, o grupo reencontrou diversos conhecidos. Durante o evento, um olho gigante substituiu a lua no céu. Naquele momento, o alcaide [[Fábio Castello]] entrou em combustão, processo que o converteu em uma espécie de monstro de chamas. Além disso, diversas pessoas, incluindo [[Teresa Madel]], a enfermeira da SAPO, começaram a se transformar em espantalhos controlados por alguém, [[Cronologia de Vitria#Noite das Aboboras (79 DA)|evento]] que levou toda a cidade a se tornar um grande campo de batalha.
 
@@ -76,9 +78,16 @@ Após participar do banquete, os investigadores finalmente enfrentaram Átropos 
 
 No epílogo, Aenoir entrou em contato com um cajado que estava nos pertences de Átropos, o mesmo que ela roubou do templo de Capra e que utilizou para criar mortos-vivos. O encontro provoca uma reação mágica, criando um novo corpo, baseado no da elfa, para o palhaço que a assombrava desde o caso do circo.
 
-<figure align="center">
-	<img src="https://i.imgur.com/q7pHVfY.png" width="600" style="border: 1px solid black;" alt="Linha do Tempo (VF) v1">
-	<figcaption>
-		Tentativa de linha do tempo do Livro I
-	</figcaption>
-</figure>
+---
+
+## Tentativa de Linha do Tempo
+
+| Data       | Acontecimento              | Sessões | OBS.                                 |
+| ---------- | -------------------------- | ------- | ------------------------------------ |
+| 0079/10/10 | Início da campanha/1º caso | 1 ~ 3   | -                                    |
+| 0079/10/11 | Explorando Porto Lobo      | 4 ~ 6   | -                                    |
+| 0079/10/12 | Caso do circo              | 7 ~ 10  | 1 semana se passou fora do demiplano |
+| 0079/10/19 | Retorno ao Plano Material  | 11      | 5 dias de downtime depois            |
+| 0079/10/25 | Caso dos lobisomens        | 12 ~ 15 | -                                    |
+| 0079/10/27 | Caso da biblioteca         | 16 ~ 20 | Mini downtime depois                 |
+| 0079/10/31 | Caso do festival           | 21 ~ 23 | -                                    |

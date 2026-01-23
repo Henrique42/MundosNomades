@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="https://i.imgur.com/8MMcDCx.jpeg" width="300" style="border: 1px solid black;" alt="Sherlock Gomes">
+	<img src="/img/VF+/PCs/Emano - Sherlock.jpg" width="300" style="border: 1px solid black;" alt="Sherlock Gomes">
 </figure>
 
 !!! abstract "Perfil"
