@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Midna -  Garou.png" width="300" height="300" style="border: 1px solid black;" alt="Garou">
+	<img src="https://i.imgur.com/rBO98Hk.png" width="300" height="300" style="border: 1px solid black;" alt="Garou">
 </figure>
 
 !!! abstract "Perfil"
@@ -26,8 +26,8 @@
 - Garou está sempre disposto a tentar proteger outros lobisomens, podendo até mesmo se colocar em perigo no processo *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]], [[VF15 ― A Lua Irá Cantar]] e [[VF23 ― Canção da Cobra]])*.
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Midna -  Garou  (Lobisomem).jpg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
+	<img src="https://i.imgur.com/m91zlz6.jpeg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
 	<figcaption>
-		Versão lobisomem. — Fonte:  Wayne Reynolds <em>(Magic the Gathering)</em>
+		Versão lobisomem. — Fonte: Magic the Gathering
 	</figcaption>
 </figure>

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Bruxa Átropos.png" width="300" style="border: 1px solid black;" alt="Átropos">
+	<img src="https://i.imgur.com/dRLhfPj.png" width="300" style="border: 1px solid black;" alt="Átropos">
 </figure>
 
 !!! abstract "Perfil"

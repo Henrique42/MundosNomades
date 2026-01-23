@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/PCs/Emano - Cabeça.png" width="300" height="300" style="border: 1px solid black;" alt="Cabeça">
+	<img src="https://i.imgur.com/CW62luE.png" width="300" height="300" style="border: 1px solid black;" alt="Cabeça">
 </figure>
 
 !!! abstract "Perfil"
@@ -16,11 +16,11 @@
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**
-		- **Primeira Aparição:** [[VFC01a ― Azul Profundo (Parte I)]]
+		- **Primeira Aparição:** [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]]
 		- **Situação:** Vivo
 
 ---
 
 ## Sobre
 
-- Cabeça foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VFC01a ― Azul Profundo (Parte I)]])*.
+- Cabeça foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]])*.

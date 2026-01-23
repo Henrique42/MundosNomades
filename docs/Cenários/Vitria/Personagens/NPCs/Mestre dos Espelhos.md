@@ -29,7 +29,7 @@
 - Quando Aenoir entrou em contato com um artefato que controlava os mortos, o palhaço usou a oportunidade para criar um novo corpo para si, utilizando a própria elfa como modelo *(Sessão: [[VF23 ― Canção da Cobra]])*.
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Mestre dos Espelhos.png" width="300" height="300" style="border: 1px solid black;" alt="Mestre dos Espelhos, versão Aenoir">
+	<img src="https://i.imgur.com/QE1iuoe.png" width="300" height="300" style="border: 1px solid black;" alt="Mestre dos Espelhos, versão Aenoir">
 	<figcaption>
 		Versão "Aenoir".
 	</figcaption>

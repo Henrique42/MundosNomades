@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Divindade - Utana.png" width="300" style="border: 1px solid black;" alt="Deusa Utana">
+	<img src="https://i.imgur.com/1OAryfe.png" width="300" style="border: 1px solid black;" alt="Deusa Utana">
 </figure>
 
 !!! abstract "Perfil"
@@ -16,7 +16,7 @@
 	**Outras Informações:**
 		- **Primeira Aparição:** 
 			- [[VF04 ― Breves Encontros]] *(menção)*
-			- [[VFC01b ― Azul Profundo (Parte II)]] *(aparição)*
+			- [[VF Confidencial Vol. 1 ― Azul Profundo (Parte II)]] *(aparição)*
 		- **Situação:** Viva
 
 ---

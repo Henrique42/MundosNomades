@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/PCs/Saymon - Nalvan.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Nalvan">
+	<img src="https://i.imgur.com/dklzlIu.jpg" width="300" height="300" style="border: 1px solid black;" alt="Nalvan">
 </figure>
 
 !!! abstract "Perfil"
@@ -16,11 +16,11 @@
 	- **Família:** ?
 	<hr>
 	**Outras Informações:**
-		- **Primeira Aparição:** [[VFC01a ― Azul Profundo (Parte I)]]
+		- **Primeira Aparição:** [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]]
 		- **Situação:** Vivo
 
 ---
 
 ## Sobre
 
-- Nalvan foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VFC01a ― Azul Profundo (Parte I)]])*.
+- Nalvan foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)]])*.

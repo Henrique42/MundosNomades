@@ -12,16 +12,6 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
-### 2026/01/23 (VF)
-
-- **Motivo:** preparações para o retorno da campanha **Vestígios Fantasmas**.
-- **O que há de novo?**
-	- Adição de uma [[Personagens de Vitria|página]] para os personagens de Vitria
-	- Atualização do mapa de [[Vernália]]
-	- Links de imagens atualizados em várias páginas
-
----
-
 ### 2026/01/16 (VF)
 
 - **Motivo:** preparações para o retorno da campanha **Vestígios Fantasmas**.
@@ -38,7 +28,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **Motivo:** Sessões do vol. 1 da campanha **VF Confidencial**.
 - **O que há de novo?**
 	- Nova campanha: [[VF Confidencial]]
-	- Novas sessões: VF Confidencial Vol. 1 ― Azul Profundo (Partes[[VFC01a ― Azul Profundo (Parte I)| I]], [[VFC01b ― Azul Profundo (Parte II)|II]] e [[VFC01c ― Azul Profundo (Parte III)|III]])
+	- Novas sessões: VF Confidencial Vol. 1 ― Azul Profundo (Partes[[VF Confidencial Vol. 1 ― Azul Profundo (Parte I)| I]], [[VF Confidencial Vol. 1 ― Azul Profundo (Parte II)|II]] e [[VF Confidencial Vol. 1 ― Azul Profundo (Parte III)|III]])
 	- Novos PCs: [[Bok]], [[Cabeça]], [[Elizabeth]] e [[Nalvan]]
 	- Novos NPCs: [[Utana]] e [[Habitante do Abismo]]
 	- Nova facção: [[Companhia Bellavila]]
@@ -209,7 +199,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **Motivo:** Sessão 11 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF11 ― Estivemos Longe Tempo Demais]]
-	- Novo NPC: [[Andriessen]] (anteriormente Capitão Anderson)
+	- Novo NPC: [[Capitão Andriessen]] (anteriormente Capitão Anderson)
 
 ---
 

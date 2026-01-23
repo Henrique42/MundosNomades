@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Manah.png" width="300" height="300" style="border: 1px solid black;" alt="Manah">
+	<img src="https://i.imgur.com/r3NFZuS.png" width="300" height="300" style="border: 1px solid black;" alt="Manah">
 </figure>
 
 !!! abstract "Perfil"

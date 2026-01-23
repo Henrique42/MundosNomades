@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/Germain, Fritz.png" width="300" height="300" style="border: 1px solid black;" alt="Fritz Germain">
+	<img src="https://i.imgur.com/JFuGzOE.png" width="300" height="300" style="border: 1px solid black;" alt="Fritz Germain">
 </figure>
 
 !!! abstract "Perfil"

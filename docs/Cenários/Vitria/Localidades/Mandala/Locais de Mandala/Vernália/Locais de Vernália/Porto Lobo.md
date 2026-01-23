@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/Símbolos/Porto Lobo.png" width="240" alt="Emblema de Porto Lobo">
+	<img src="https://i.imgur.com/kVGYAxE.png" width="240" alt="Emblema de Porto Lobo">
 </figure>
 
 ## História

@@ -1,7 +1,7 @@
 **Vestígios Fantasmas** é uma campanha de *D&D 5ª edição* com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
 <figure align="center">
-	<img src="/img/VF+/Capas/Capa - VF.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;" alt="Capa da campanha Vestígios Fantasmas">
+	<img src="https://i.imgur.com/QcDfacc.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;" alt="Capa da campanha Vestígios Fantasmas">
 </figure>
 
 !!! abstract "Ficha"

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/PCs/Saymon - Aenoir.png" width="300" style="border: 1px solid black;" alt="Aenoir">
+	<img src="https://i.imgur.com/MhaV69Q.png" width="300" style="border: 1px solid black;" alt="Aenoir">
 </figure>
 
 !!! abstract "Perfil"

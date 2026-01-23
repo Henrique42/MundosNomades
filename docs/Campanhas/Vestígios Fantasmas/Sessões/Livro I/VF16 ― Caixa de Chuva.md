@@ -29,7 +29,7 @@
 ### Sem Combate
 
 - [[Sérgio, o Guarda]] e outros guardas
-- [[Andriessen]]
+- [[Capitão Andriessen]]
 - [[Miranda]]
 - [[Reina Velez]]
 - Dona Vera e Dona Roberta

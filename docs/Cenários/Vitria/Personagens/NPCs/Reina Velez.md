@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/SAPO - Reina.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
+	<img src="https://i.imgur.com/5Q0h9Ft.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
 </figure>
 
 !!! abstract "Perfil"

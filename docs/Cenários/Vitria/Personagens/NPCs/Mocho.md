@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/img/VF+/NPCs/SAPO - Mocho.png" width="300" height="300" style="border: 1px solid black;" alt="Mocho">
+	<img src="https://i.imgur.com/R0X2AgK.png" width="300" height="300" style="border: 1px solid black;" alt="Mocho">
 </figure>
 
 !!! abstract "Perfil"
