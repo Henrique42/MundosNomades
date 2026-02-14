@@ -12,6 +12,17 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/02/14 (VF)
+
+- **Motivo:** Sessão 24 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF24 ― Tom Nebuloso de Inverno]]
+	- Novos PCs: [[Tamur]] e [[Watson]]
+	- Novo NPC: [[Baltasar]]
+	- Páginas atualizadas: [[Vernália]] e [[Cronologia de Vitria]]
+
+---
+
 ### 2026/01/23 (VF)
 
 - **Motivo:** preparações para o retorno da campanha **Vestígios Fantasmas**.

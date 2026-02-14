@@ -28,15 +28,16 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Participantes
 
-| Participante | Função   | Personagens               |
-| ------------ | -------- | ------------------------- |
-| [[Bruno]]    | Narrador | -                         |
-| [[Anthony]]  | Jogador  | - [[Rhogar]] (Aposentado) |
-| [[Antônio]]  | Jogador  | - [[Marduk]]              |
-| [[Clenildo]] | Jogador  | - [[Lavenza]]             |
-| [[Emanoel]]  | Jogador  | - [[Sherlock]] (Morto)    |
-| [[Paulo]]    | Jogador  | - [[Vamas]] (Aposentado)  |
-| [[Saymon]]   | Jogador  | - [[Aenoir]]              |
+| Participante  | Função   | Personagens                            |
+| ------------- | -------- | -------------------------------------- |
+| [[Bruno]]     | Narrador | -                                      |
+| [[Anthony]]   | Jogador  | - [[Rhogar]] (Aposentado)              |
+| [[Antônio]]   | Jogador  | - [[Marduk]]                           |
+| [[Clenildo]]  | Jogador  | - [[Lavenza]]                          |
+| [[Emanoel]]   | Jogador  | - [[Sherlock]] (Morto)<br>- [[Watson]] |
+| [[Guilherme]] | Jogador  | - [[Tamur]]                            |
+| [[Paulo]]     | Jogador  | - [[Vamas]] (Aposentado)               |
+| [[Saymon]]    | Jogador  | - [[Aenoir]]                           |
 
 ---
 
@@ -90,6 +91,10 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF22 ― Palha ao Vento]]
 - [[VF23 ― Canção da Cobra]]
 
+---
+
 ### Livro II
 
-*Em breve.*
+**...**
+
+- [[VF24 ― Tom Nebuloso de Inverno]]

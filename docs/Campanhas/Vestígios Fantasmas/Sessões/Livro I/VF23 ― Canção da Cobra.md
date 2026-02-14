@@ -61,4 +61,4 @@
 
 ---
 
-[[VF22 ― Palha ao Vento|<< Anterior]] | Próxima >>
+[[VF22 ― Palha ao Vento|<< Anterior]] | [[VF24 ― Tom Nebuloso de Inverno|Próxima >>]]

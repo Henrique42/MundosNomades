@@ -10,7 +10,9 @@
 </figure>
 
 !!! abstract "Perfil"
-	- **Espécie:** humano *(morto-vivo, posteriormente)*
+	- **Espécie:** 
+		- Humano *(anteriormente)*
+		- Morto-vivo
 	- **Gênero:** Masculino
 	- **Ocupação:** 
 		- Escritor

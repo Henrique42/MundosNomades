@@ -11,7 +11,9 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 - [[Nalvan]]
 - [[Rhogar]]
 - [[Sherlock]]
+- [[Tamur]]
 - [[Vamas]]
+- [[Watson]]
 
 ---
 
@@ -24,6 +26,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### B
 
+- [[Baltasar]]
 - [[Bartolomeu Bravo]]
 - [[Bjorn Germain]]
 

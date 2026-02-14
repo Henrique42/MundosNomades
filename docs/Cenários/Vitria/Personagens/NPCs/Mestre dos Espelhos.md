@@ -10,7 +10,7 @@
 </figure>
 
 !!! abstract "Perfil"
-	- **Espécie:** Demônio (?)
+	- **Espécie:** Demônio
 	- **Gênero:** Palhaço
 	- **Ocupação:** Palhaço
 	- **Afiliação:** [[O 'Outro Circo']]

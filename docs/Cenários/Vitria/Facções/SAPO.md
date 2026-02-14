@@ -1,4 +1,4 @@
-**S.A.P.O.** (Salvaguarda para Atividades Paranormais e Ocultismo) É uma agência misteriosa de investigadores paranormais de [[Vernália|Vernália]].
+**S.A.P.O.** (Salvaguarda para Atividades Paranormais e Ocultismo) é uma agência misteriosa de investigadores paranormais de [[Vernália|Vernália]].
 
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/Símbolos/SAPO.png" width="300" alt="Emblema da SAPO">
@@ -30,4 +30,5 @@ O objetivo da agência é solucionar mistérios que envolvam atividades sobrenat
 	- [[Nalvan]]
 	- [[Rhogar]] *(aposentado)*
 	- [[Sherlock]] *(morto)*
+	- [[Tamur]]
 	- [[Vamas]] *(aposentado)*

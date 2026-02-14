@@ -46,17 +46,21 @@ A linha do tempo de Vitria, até o momento, é a seguinte:
 	    <p>- A <strong>"Era dos Heróis"</strong> chega ao fim, dando lugar à <strong>"Era da Aliança"</strong>.</p>
     </div>
     <div class="event right">
+	    <h3>20 DA:</h3>
+	    <p>- Melchor II assume o trono de Vernália.</p>
+    </div>
+    <div class="event left">
 	    <h3>24 DA:</h3>
 	    <p>- Fídias, o Orador, é assassinado na <em>Biblioteca Arcana de Leto</em>.</p>
     </div>
-	<div class="event left">
+	<div class="event right">
 	    <h3>30 DA:</h3>
          <p>- Uma tribo de <em>firbolgs</em> desaparece nas montanhas.</p>
     </div>
-    <div class="event right">
+    <div class="event left">
 	    <h3>79 DA:</h3>
          <p>- Início da campanha <a href="/Campanhas/Vestígios Fantasmas/Vestígios Fantasmas/">Vestígios Fantasmas</a>.</p>
          <p>- Cidade de Porto Lobo é invadida pela bruxa <strong>Átropos</strong> <em>(Noite das Abóboras)</em>.</p>
-         <p>- <strong>Rei Melchor II</strong> falece em Ciprino por conta de uma doença.</p>
+         <p>- <strong>Rei Melchor II</strong> falece em Ciprino por conta de uma doença. Seu filho, Eládio I, assume o trono de Vernália.</p>
     </div>
 </div>

@@ -10,7 +10,7 @@
 </figure>
 
 !!! abstract "Perfil"
-	- **Espécie:** humano
+	- **Espécie:** Humano
 	- **Gênero:** Masculino
 	- **Ocupação:** Alcaide
 	- **Afiliação:** [[Porto Lobo |Cidade de Porto Lobo]]

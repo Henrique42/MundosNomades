@@ -17,7 +17,7 @@ Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os
 
 <!-- more -->
 
-## Introdução (sessão VF01):
+## Introdução (sessão VF01)
 
 !!! quote "Prompt Inicial"
 	Em algum momento, todos vocês receberam uma carta misteriosa assinada por uma mulher, a qual vocês não conhecem, chamada Reina Velez. O envelope continha uma mensagem provocativa: uma oferta de emprego que prometia uma chance de "solucionar os mistérios mais obscuros deste mundo".

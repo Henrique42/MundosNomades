@@ -12,7 +12,7 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 </figure>
 
 !!! abstract "Perfil"
-	- **Espécie:** Demônio (*sanwitch*)
+	- **Espécie:** Demônio *(sanwitch)*
 	- **Ocupação:** Mercadores
 	<hr>
 	**Outras Informações:**

@@ -74,9 +74,9 @@ O dia do [[Porto Lobo#Historia|Festival das 5 Damas da Colheita]] finalmente che
 
 Enquanto Garou e Zaara partiram para buscar ajuda de seu clã, o grupo, junto de Roberta, partiu para investigar o bairro nobre de Porto Lobo, local onde o alcaide teria sido corrompido (foi nessa parte que Rhogar se separou do grupo). Lá, eles se esgueiraram por entre cobras gigantes e mais espantalhos para enfim chegar ao forte da cidade. Ao adentrar o lugar, eles deram de cara com um banquete preparado por Átropos, a mente por trás daquele caos e Serpente dos Três Venenos.
 
-Após participar do banquete, os investigadores finalmente enfrentaram Átropos em uma dura batalha, a qual tomou a vida de Sherlock. Enquanto o corpo da bruxa era absorvido pelas sombras do Observador, o grupo conseguiu obter um frasco com uma cura para a "monstrificação" da população da cidade.
+Após participar do banquete, os investigadores finalmente enfrentaram Átropos e seus servos, que incluíam um morto-vivo Bartolomeu, em uma dura batalha, a qual tomou a vida de Sherlock. Enquanto o corpo da bruxa era absorvido pelas sombras do Observador, o grupo conseguiu obter um frasco com uma cura para a "monstrificação" da população da cidade.
 
-No epílogo, Aenoir entrou em contato com um cajado que estava nos pertences de Átropos, o mesmo que ela roubou do templo de Capra e que utilizou para criar mortos-vivos. O encontro provoca uma reação mágica, criando um novo corpo, baseado no da elfa, para o palhaço que a assombrava desde o caso do circo.
+No epílogo, Aenoir entrou em contato com um cajado que estava nos pertences de Átropos, o mesmo que ela roubou do templo de Capra e que utilizou para criar mortos-vivos. O encontro provocou uma reação mágica, criando um novo corpo, baseado no da elfa, para o palhaço que a assombrava desde o caso do circo.
 
 ---
 
