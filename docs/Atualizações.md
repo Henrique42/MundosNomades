@@ -12,6 +12,19 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/02/28 (VF)
+
+- **Motivo:** Sessão 25 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF25 ― Despedida]]
+	- Novos NPCs: [[Chien]] e [[Dana Baroni]]
+	- NPCs atualizados: [[Átropos]], [[Garou]], [[Mocho]], [[Roberta Araújo]], [[Teresa Madel]] e [[Zaara]]
+	- Facções atualizadas: [[Clã Midna]] e [[SAPO]]
+	- **Cronologia de Vitria** movida para [[Vernália#Historia de Vernalia|História de Vernália]]
+	- Alcunhas dos personagens adicionadas.
+
+---
+
 ### 2026/02/14 (VF)
 
 - **Motivo:** Sessão 24 da campanha **Vestígios Fantasmas**.
@@ -19,7 +32,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- Nova sessão: [[VF24 ― Tom Nebuloso de Inverno]]
 	- Novos PCs: [[Tamur]] e [[Watson]]
 	- Novo NPC: [[Baltasar]]
-	- Páginas atualizadas: [[Vernália]] e [[Cronologia de Vitria]]
+	- Páginas atualizadas: [[Vernália]] e **Cronologia de Vitria**
 
 ---
 
@@ -62,7 +75,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Correções e adição de algumas pendências na campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Datas alteradas na [[Cronologia de Vitria]]
+	- Datas alteradas na **Cronologia de Vitria**
 	- Página com os [[Planos de Vitria]] atualizada
 
 ---
@@ -74,7 +87,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 	- Novos NPCs: [[Lady Condor]] e [[Melchor II]]
 	- Novas facções: [[Gangue das Harpias]] e [[Os Três Venenos]]
 	- A parte de "sobre" de vários NPCs foi atualizada
-	- Cronologia movida para [[Cronologia de Vitria]]
+	- Cronologia movida para **Cronologia de Vitria**
 	- Páginas atualizadas: [[Planos de Vitria]] e [[Mandala]]
 	- Adição de links em várias páginas e outras correções menores.
 

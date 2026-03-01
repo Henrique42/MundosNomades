@@ -28,16 +28,16 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 ## Participantes
 
-| Participante  | Função   | Personagens                            |
-| ------------- | -------- | -------------------------------------- |
-| [[Bruno]]     | Narrador | -                                      |
-| [[Anthony]]   | Jogador  | - [[Rhogar]] (Aposentado)              |
-| [[Antônio]]   | Jogador  | - [[Marduk]]                           |
-| [[Clenildo]]  | Jogador  | - [[Lavenza]]                          |
-| [[Emanoel]]   | Jogador  | - [[Sherlock]] (Morto)<br>- [[Watson]] |
-| [[Guilherme]] | Jogador  | - [[Tamur]]                            |
-| [[Paulo]]     | Jogador  | - [[Vamas]] (Aposentado)               |
-| [[Saymon]]    | Jogador  | - [[Aenoir]]                           |
+| Participante  | Função   | Personagens                     |
+| ------------- | -------- | ------------------------------- |
+| [[Bruno]]     | Narrador | -                               |
+| [[Anthony]]   | Jogador  | - [[Rhogar]] (Aposentado)       |
+| [[Antônio]]   | Jogador  | - [[Marduk]]                    |
+| [[Clenildo]]  | Jogador  | - [[Lavenza]]                   |
+| [[Emanoel]]   | Jogador  | - [[Sherlock]]†<br>- [[Watson]] |
+| [[Guilherme]] | Jogador  | - [[Tamur]]                     |
+| [[Paulo]]     | Jogador  | - [[Vamas]] (Aposentado)        |
+| [[Saymon]]    | Jogador  | - [[Aenoir]]                    |
 
 ---
 
@@ -95,6 +95,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Livro II
 
-**...**
+**Interlúdio: A Partida**
 
 - [[VF24 ― Tom Nebuloso de Inverno]]
+- [[VF25 ― Despedida]]

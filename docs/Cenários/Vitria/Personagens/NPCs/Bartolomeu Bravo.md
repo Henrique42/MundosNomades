@@ -2,6 +2,8 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="https://ms.yugipedia.com//e/eb/Wightmare-MADU-EN-VG-artwork.png" width="300" style="border: 1px solid black;" alt="Bartolomeu Bravo">
 	<figcaption>
@@ -10,8 +12,10 @@
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** O Diretor
 	- **Espécie:** 
-		- Humano *(anteriormente)*
+		- Humano *(Anteriormente)*
 		- Morto-vivo
 	- **Gênero:** Masculino
 	- **Ocupação:** 
@@ -19,10 +23,10 @@
 		- Dramaturgo
 	- **Afiliação:** [[Porto Lobo |Teatro Municipal de Porto Lobo]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF02 ― Libertar a Bruxa]]
-		- **Situação:** Morto
+	- **Situação:** Morto
+	---
+	### Primeira Aparição
+	- [[VF02 ― Libertar a Bruxa]]
 
 ---
 

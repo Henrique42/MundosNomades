@@ -16,6 +16,6 @@ Desconhecido.
 
 - Patrono: [[O Observador]]
 - Membros:
-	- [[Átropos]], a Serpente do Ódio
+	- [[Átropos]], a Serpente do Ódio *(Derrotada)*
 	- ?
 	- ?

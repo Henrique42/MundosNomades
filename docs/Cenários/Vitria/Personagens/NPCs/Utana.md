@@ -2,22 +2,25 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Utana.png" width="300" style="border: 1px solid black;" alt="Deusa Utana">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Deidade
 	- **Gênero:** Feminino
 	- **Ocupação:** Deusa do [[Mar Utânico]]
 	- **Afiliação:** [[Divindades de Vitria]]
 	- **Família:** -
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** 
-			- [[VF04 ― Breves Encontros]] *(menção)*
-			- [[VFC01b ― Azul Profundo (Parte II)]] *(aparição)*
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF04 ― Breves Encontros]] *(Menção)*
+	- [[VFC01b ― Azul Profundo (Parte II)]] *(Aparição)*
 
 ---
 

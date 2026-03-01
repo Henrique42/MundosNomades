@@ -2,6 +2,8 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="https://ms.yugipedia.com//8/83/PetentheDarkClown-MADU-EN-VG-artwork.png" width="300" height="300" style="border: 1px solid black;" alt="Mestre dos Espelhos">
 	<figcaption>
@@ -10,15 +12,17 @@
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Demônio
 	- **Gênero:** Palhaço
 	- **Ocupação:** Palhaço
 	- **Afiliação:** [[O 'Outro Circo']]
-	- **Família:** [[Aenoir]] *(modelo para o seu corpo atual)*
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF10 ― O Show Tem Que Continuar]]
-		- **Situação:** vivo
+	- **Família:** [[Aenoir]] *(Modelo para o seu corpo atual)*
+	- **Situação:** vivo
+	---
+	### Primeira Aparição
+	- [[VF10 ― O Show Tem Que Continuar]]
 
 ---
 

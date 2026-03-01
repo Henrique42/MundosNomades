@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Emano - Watson.jpeg" width="300" style="border: 1px solid black;" alt="Doutor Watson">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Jogador:** [[Emanoel]]
 	- **Espécie:** Mark of Healing Halfling
 	- **Gênero:** Masculino
@@ -14,7 +18,7 @@
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF24 ― Tom Nebuloso de Inverno]]
-		- **Situação:** Vivo
+	- **Situação:** Vivo
+	---
+	### Primeira Aparição
+	- [[VF24 ― Tom Nebuloso de Inverno]]

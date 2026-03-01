@@ -18,4 +18,4 @@ Críticos mais ávidos costumam desdenhar do ideal de neutralidade da ordem, arg
 
 ## Membros Importantes
 
-- [[Fídias, o Orador]] *(anteriormente)*
+- [[Fídias, o Orador]] *(Anteriormente)*

@@ -17,7 +17,7 @@ Apesar de ser composta por um grupo de goblins excêntricos, a companhia Bellavi
 
 ## Membros Importantes
 
-- Amaro "Capitão" Bellavila
+- Amaro "Capitão" Bellavila *(Chefe)*
 - Marisol Bellavila
 - Gerônimo
 - Santiago

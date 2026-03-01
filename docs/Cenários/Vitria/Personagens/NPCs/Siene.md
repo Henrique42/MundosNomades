@@ -2,20 +2,24 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Siene.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Deidade
 	- **Gênero:** Feminino
-	- **Ocupação:** Deusa do rio Siene
+	- **Ocupação:** Deusa do Rio Siene
 	- **Afiliação:** [[Divindades de Vitria]]
 	- **Família:** -
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF12 ― Mundo Selvagem]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF12 ― Mundo Selvagem]]
 
 ---
 

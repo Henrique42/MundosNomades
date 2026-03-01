@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Emano - Sherlock.jpg" width="300" style="border: 1px solid black;" alt="Sherlock Gomes">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Jogador:** [[Emanoel]]
 	- **Espécie:** Lightfoot Halfling
 	- **Gênero:** Masculino
@@ -14,10 +18,10 @@
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** Sra. Gomes *(mãe)*
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
-		- **Situação:** Morto
+	- **Situação:** Morto
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]]
 
 ---
 

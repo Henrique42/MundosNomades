@@ -2,22 +2,25 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Reina.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** A Chefe
 	- **Espécie:** Shadar-kai
 	- **Gênero:** Feminino
-	- **Ocupação:** Fundadora e líder da [[SAPO]]
+	- **Ocupação:** Fundadora e diretora da [[SAPO]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:**
-			- [[VF01 ― Fantasmagoria]] *(menção)*
-			- [[VF03 ― Caveiras e Velas]] *(aparição)*
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]] *(Menção)*
+	- [[VF03 ― Caveiras e Velas]] *(Aparição)*
 
 ---
 

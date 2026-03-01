@@ -14,5 +14,6 @@ Desconhecido.
 
 ## Membros Importantes
 
+- [[Chien]] *(Líder)*
 - [[Garou]]
 - [[Zaara]]

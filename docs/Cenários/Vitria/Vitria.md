@@ -4,7 +4,6 @@
 
 ## Conheça Vitria
 
-- [[Cronologia de Vitria|Cronologia]]
 - [[Divindades de Vitria|Divindades]]
 - [[Espécies de Vitria|Espécies]]
 - [[Personagens de Vitria|Personagens]]

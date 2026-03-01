@@ -4,6 +4,8 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="https://ms.yugipedia.com//b/bf/Sanwitch-MADU-EN-VG-artwork.png" width="300" height="300" style="border: 1px solid black;" alt="Sanwitches">
 	<figcaption>
@@ -14,12 +16,11 @@ Durante a campanha [[Vestígios Fantasmas]], são encontrados três irmãos sanw
 !!! abstract "Perfil"
 	- **Espécie:** Demônio *(sanwitch)*
 	- **Ocupação:** Mercadores
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** 
-			- [[VF02 ― Libertar a Bruxa]] *(disfarçados)*
-			- [[VF16 ― Caixa de Chuva]] *(forma verdadeira)*
-		- **Situação:** Vivos
+	- **Situação:** Vivos
+	---
+	### Primeira Aparição
+	- [[VF02 ― Libertar a Bruxa]] *(Disfarçados)*
+	- [[VF16 ― Caixa de Chuva]] *(Forma verdadeira)*
 
 ---
 

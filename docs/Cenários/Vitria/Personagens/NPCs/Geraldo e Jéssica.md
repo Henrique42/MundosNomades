@@ -2,6 +2,8 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Geraldo e Jéssica.jpg" width="300" style="border: 1px solid black;" alt="Geraldo e Jéssica">
 	<figcaption>
@@ -10,15 +12,17 @@
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Humanos
 	- **Gênero:** Masculino e Feminino, respectivamente
 	- **Ocupação:** investigadores
 	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF04 ― Breves Encontros]]
-		- **Situação:** Vivos
+	- **Situação:** Vivos
+	---
+	### Primeira Aparição
+	- [[VF04 ― Breves Encontros]]
 
 ---
 

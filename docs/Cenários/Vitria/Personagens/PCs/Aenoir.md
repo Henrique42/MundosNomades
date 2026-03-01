@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Saymon - Aenoir.png" width="300" style="border: 1px solid black;" alt="Aenoir">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Jogador:** [[Saymon]]
 	- **Espécie:** High Elf
 	- **Gênero:** Feminino
@@ -14,7 +18,7 @@
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** [[Mestre dos Espelhos]] *(clone com a consciência de um palhaço)*
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]]

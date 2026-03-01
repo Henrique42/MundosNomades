@@ -2,6 +2,8 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Clenes - Lavenza.jpg" width="400" style="border: 1px solid black;" alt="Lavenza">
 	<figcaption>
@@ -10,6 +12,8 @@
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Jogador:** [[Clenildo]]
 	- **Espécie:** Aasimar
 	- **Gênero:** Feminino
@@ -17,7 +21,7 @@
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** Mestre desaparecido
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]]

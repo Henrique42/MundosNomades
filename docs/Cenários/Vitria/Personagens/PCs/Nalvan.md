@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Saymon - Nalvan.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Nalvan">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Jogador:** [[Saymon]]
 	- **Espécie:** Water Genasi
 	- **Gênero:** Masculino
@@ -14,10 +18,10 @@
 	- **Campanha(s):** [[VF Confidencial]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VFC01a ― Azul Profundo (Parte I)]]
-		- **Situação:** Vivo
+	- **Situação:** Vivo
+	---
+	### Primeira Aparição
+	- [[VFC01a ― Azul Profundo (Parte I)]]
 
 ---
 

@@ -42,7 +42,7 @@
 ## Principais eventos
 
 Na borda de Porto Lobo, um halfling viajante chamado Dr. Watson se encontra na entrada da
-cidade e é impedido por guardas que exigem revistá-lo. Devido aos eventos de um mês atrás, conhecidos como [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]], a guarda anda checando todos que passam pela cidade para saber se não são monstros disfarçados tentando entrar na cidade.
+cidade e é impedido por guardas que exigem revistá-lo. Devido aos eventos de um mês atrás, conhecidos como [[Vernália#Noite das Aboboras|Noite das Abóboras]], a guarda anda checando todos que passam pela cidade para saber se não são monstros disfarçados tentando entrar na cidade.
 
 Durante a revista, Dr. Watson é questionado sobre seu motivo de querer entrar na cidade, quando ele responde que pretende encontrar uma organização chamada [[SAPO]], algo que os guardas não parecem gostar muito de ouvir, comentando sobre como os agentes da organização andam tentando fazer o trabalho deles, comentando sobre uma nova parte da guarda chamada de Vanguarda que são construtos que estão substituindo parte da guarda. Assim que Dr. Watson está prestes a terminar de ser revistado, um dragonborn se aproxima dos portões.
 
@@ -66,4 +66,4 @@ Vendo que o morto-vivo não parece ter intenção de ser uma ameaça para cidade
 
 ---
 
-[[VF23 ― Canção da Cobra|<< Anterior]] | Próxima >>
+[[VF23 ― Canção da Cobra|<< Anterior]] | [[VF25 ― Despedida|Próxima >>]]

@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Antônio - Marduk v3.jpeg" width="300" style="border: 1px solid black;" alt="Marduk">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** A Criança
 	- **Jogador:** [[Antônio]]
 	- **Espécie:** Firbolg
 	- **Gênero:** Masculino
@@ -16,7 +20,7 @@
 		- [[SAPO]]
 		- Arquivistas
 	- **Família:** Tribo desaparecida
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
-		- **Situação:** Vivo
+	- **Situação:** Vivo
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]]

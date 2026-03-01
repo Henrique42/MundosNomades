@@ -2,20 +2,24 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Dona Edna.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Gnomo
 	- **Gênero:** Feminino
 	- **Ocupação:** Herbalista / Apotecária
 	- **Afiliação:** [[Porto Lobo|Casa das Ervas]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF04 ― Breves Encontros]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF04 ― Breves Encontros]]
 
 ---
 

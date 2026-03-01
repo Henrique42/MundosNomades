@@ -2,22 +2,25 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Andriessen.png" width="300" height="300" style="border: 1px solid black;" alt="Capitão Andriessen">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** Capitão Anderson
 	- **Espécie:** Elfo
 	- **Gênero:** Masculino
 	- **Ocupação:** Capitão da Guarda
 	- **Afiliação:** [[Porto Lobo |Cidade de Porto Lobo]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:**
-			- [[VF11 ― Estivemos Longe Tempo Demais]] *(menção)*
-			- [[VF16 ― Caixa de Chuva]] *(aparição)*
-		- **Situação:** Vivo
+	- **Situação:** Vivo
+	---
+	### Primeira Aparição
+	- [[VF11 ― Estivemos Longe Tempo Demais]] *(Menção)*
+	- [[VF16 ― Caixa de Chuva]] *(Aparição)*
 
 ---
 

@@ -2,20 +2,24 @@ Uma **mordomo** que pode ser real ou não.
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Mordomo.png" width="300" height="300" style="border: 1px solid black;" alt="Mordomo misteriosa">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Humana (?)
 	- **Gênero:** Feminino
 	- **Ocupação:** Mordomo (?)
 	- **Afiliação:** ?
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF18 ― Vire a Página]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF18 ― Vire a Página]]
 
 ---
 

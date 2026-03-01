@@ -70,7 +70,7 @@ No caminho, eles se encontraram com Reina e Miranda, que estavam investigando a 
 
 ### Caso V: Martelo da Bruxa
 
-O dia do [[Porto Lobo#Historia|Festival das 5 Damas da Colheita]] finalmente chegou e, com ele, o grupo reencontrou diversos conhecidos. Durante o evento, um olho gigante substituiu a lua no céu. Naquele momento, o alcaide [[Fábio Castello]] entrou em combustão, processo que o converteu em uma espécie de monstro de chamas. Além disso, diversas pessoas, incluindo [[Teresa Madel]], a enfermeira da SAPO, começaram a se transformar em espantalhos controlados por alguém, [[Cronologia de Vitria#Noite das Aboboras (79 DA)|evento]] que levou toda a cidade a se tornar um grande campo de batalha.
+O dia do [[Porto Lobo#Historia|Festival das 5 Damas da Colheita]] finalmente chegou e, com ele, o grupo reencontrou diversos conhecidos. Durante o evento, um olho gigante substituiu a lua no céu. Naquele momento, o alcaide [[Fábio Castello]] entrou em combustão, processo que o converteu em uma espécie de monstro de chamas. Além disso, diversas pessoas, incluindo [[Teresa Madel]], a enfermeira da SAPO, começaram a se transformar em espantalhos controlados por alguém, [[Vernália#Noite das Aboboras|evento]] que levou toda a cidade a se tornar um grande campo de batalha.
 
 Enquanto Garou e Zaara partiram para buscar ajuda de seu clã, o grupo, junto de Roberta, partiu para investigar o bairro nobre de Porto Lobo, local onde o alcaide teria sido corrompido (foi nessa parte que Rhogar se separou do grupo). Lá, eles se esgueiraram por entre cobras gigantes e mais espantalhos para enfim chegar ao forte da cidade. Ao adentrar o lugar, eles deram de cara com um banquete preparado por Átropos, a mente por trás daquele caos e Serpente dos Três Venenos.
 

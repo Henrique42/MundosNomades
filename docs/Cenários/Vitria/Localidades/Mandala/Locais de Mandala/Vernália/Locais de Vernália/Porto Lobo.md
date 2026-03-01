@@ -16,7 +16,7 @@ Ainda durante a época em que Vernália era uma das grandes potências mundiais,
 
 Entretanto, com a perda de relevância do país no cenário global, Porto Lobo começou a entrar em decadência. Atualmente, o local é apenas um fantasma das suas glórias passadas, o que levou alguns moradores a procurar formas de trazer a sua ressureição.
 
-Durante o Festival do ano de 79 DA, mais conhecido como [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]], um ataque da bruxa [[Átropos]] destruiu uma parte considerável de Porto Lobo. O então alcaide da cidade, [[Fábio Castello]], foi confirmado como uma das vítimas.
+Durante o Festival do ano de 79 DA, mais conhecido como [[Vernália#Noite das Aboboras|Noite das Abóboras]], um ataque da bruxa [[Átropos]] destruiu uma parte considerável de Porto Lobo. O então alcaide da cidade, [[Fábio Castello]], foi confirmado como uma das vítimas.
 
 ---
 

@@ -2,20 +2,24 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Roberta.png" width="300" style="border: 1px solid black;" alt="Roberta Araújo">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** A Atriz
 	- **Espécie:** Humana
 	- **Gênero:** Feminino
 	- **Ocupação:** Atriz
 	- **Afiliação:** [[Porto Lobo|Teatro Municipal de Porto Lobo]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF01 ― Fantasmagoria]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VF01 ― Fantasmagoria]]
 
 ---
 
@@ -23,4 +27,6 @@
 
 - Após os ataques de [[Átropos]] ao teatro em que Roberta trabalhava, a atriz foi acusada injustamente (?) de bruxaria *(Sessão: [[VF02 ― Libertar a Bruxa]])*.
 
-- Junto de um grupo de investigadores da [[SAPO]], ela participou da batalha contra Átropos durante a [[Cronologia de Vitria#Noite das Aboboras (79 DA)|Noite das Abóboras]]. Ao longo do conflito, ela teve que enfrentar uma versão morta-viva de seu ex-chefe, [[Bartolomeu Bravo]] *(Sessão: [[VF23 ― Canção da Cobra]])*.
+- Junto de um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]], ela participou da batalha contra Átropos durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]]. Ao longo do conflito, ela teve que enfrentar uma versão morta-viva de seu ex-chefe, [[Bartolomeu Bravo]] *(Sessão: [[VF23 ― Canção da Cobra]])*.
+
+- Após a morte de Bartolomeu e o fechamento por tempo indeterminado do Teatro, Roberta começou a trabalhar no [[Porto Lobo#Locais Importantes|Bar Água & Sal]] *(Sessão: [[VF25 ― Despedida]])*.

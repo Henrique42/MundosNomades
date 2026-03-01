@@ -33,9 +33,11 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### C
 
 - [[Capra]]
+- [[Chien]]
 
 ### D
 
+- [[Dana Baroni]]
 - [[Dona Edna]]
 
 ### F

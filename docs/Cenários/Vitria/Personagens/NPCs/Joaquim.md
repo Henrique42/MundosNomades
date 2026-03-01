@@ -2,20 +2,24 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Joaquim.png" width="300" height="300" style="border: 1px solid black;" alt="Joaquim">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** -
 	- **Espécie:** Humano (?)
 	- **Gênero:** Masculino
 	- **Ocupação:** Assistente de padeiro
 	- **Afiliação:** Padaria Cremona
 	- **Família:** João Cremona
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VF04 ― Breves Encontros]] *(menção)*
-		- **Situação:** Desconhecida
+	- **Situação:** Desconhecida
+	---
+	### Primeira Aparição
+	- [[VF04 ― Breves Encontros]] *(Menção)*
 
 ---
 

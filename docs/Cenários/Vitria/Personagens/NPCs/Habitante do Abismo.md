@@ -2,6 +2,8 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Merlusse (Real).png" width="400" style="border: 1px solid black;" alt="Habitante do Abismo">
 	<figcaption>
@@ -10,15 +12,18 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** Merlusse
 	- **Espécie:** Aberração
 	- **Gênero:** -
 	- **Ocupação:** -
 	- **Afiliação:** -
 	- **Família:** -
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VFC01b ― Azul Profundo (Parte II)]]
-		- **Situação:** Vivo (?)
+	- **Situação:** Vivo (?)
+	---
+	### Primeira Aparição
+	- [[VFC01a ― Azul Profundo (Parte I)]] *(Menção)*
+	- [[VFC01b ― Azul Profundo (Parte II)]] *(Aparição)*
 
 ---
 

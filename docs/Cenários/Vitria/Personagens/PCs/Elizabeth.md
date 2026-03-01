@@ -2,11 +2,15 @@
 
 ---
 
+## Perfil
+
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/PCs/Clenes - Elizabeth.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
 </figure>
 
 !!! abstract "Perfil"
+	### Dados Pessoais
+	- **Alcunha(s):** Dona Betty
 	- **Jogador:** [[Clenildo]]
 	- **Espécie:** Sea Elf
 	- **Gênero:** feminino
@@ -14,10 +18,10 @@
 	- **Campanha(s):** [[VF Confidencial]]
 	- **Afiliação:** [[SAPO]]
 	- **Família:** ?
-	<hr>
-	**Outras Informações:**
-		- **Primeira Aparição:** [[VFC01a ― Azul Profundo (Parte I)]]
-		- **Situação:** Viva
+	- **Situação:** Viva
+	---
+	### Primeira Aparição
+	- [[VFC01a ― Azul Profundo (Parte I)]]
 
 ---
 
