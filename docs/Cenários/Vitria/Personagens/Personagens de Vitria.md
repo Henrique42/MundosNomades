@@ -21,6 +21,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### A
 
+- [[Alice]]
 - [[Andriessen]]
 - [[Átropos]]
 
@@ -33,6 +34,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### C
 
 - [[Capra]]
+- [[Célia]]
 - [[Chien]]
 
 ### D

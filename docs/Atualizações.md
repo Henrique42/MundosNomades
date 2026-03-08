@@ -12,6 +12,16 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/03/08 (VF)
+
+- **Motivo:** Sessão 26 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF26 ― Noite de Nevasca]]
+	- Novos NPCs: [[Célia]] e [[Alice]]
+	- Novo local: [[Ondas Novas]]
+
+---
+
 ### 2026/02/28 (VF)
 
 - **Motivo:** Sessão 25 da campanha **Vestígios Fantasmas**.

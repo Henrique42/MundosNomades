@@ -99,3 +99,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 - [[VF24 ― Tom Nebuloso de Inverno]]
 - [[VF25 ― Despedida]]
+
+**...**
+
+- [[VF26 ― Noite de Nevasca]]
