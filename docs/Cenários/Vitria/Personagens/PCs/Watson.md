@@ -1,4 +1,4 @@
-**Doctor Watson** é um halfling monge que almeja ser um investigador paranormal na [[SAPO]].
+**Doctor Watson** é um halfling monge que atua como investigador paranormal na [[SAPO]].
 
 ---
 

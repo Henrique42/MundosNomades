@@ -12,6 +12,17 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/03/21 (VF)
+
+- **Motivo:** Sessão 27 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF27 ― Buraco de Coelho]]
+	- Novo local: [[Floresta Caburé]]
+	- PC atualizado: [[Watson]]
+	- Facção atualizada: [[SAPO]]
+
+---
+
 ### 2026/03/08 (VF)
 
 - **Motivo:** Sessão 26 da campanha **Vestígios Fantasmas**.

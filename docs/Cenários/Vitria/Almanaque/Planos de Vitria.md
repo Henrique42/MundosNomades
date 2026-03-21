@@ -18,9 +18,9 @@ Os planos que compõem a Torre Planar estão listados a seguir.
 
 É a terra da luz e da pureza, é para o Paraíso que são mandadas as almas das pessoas justas e de bom caráter. É também onde habitam os anjos e outros **celestiais**.
 
-### 2. Jardins do Éden
+### 2. Jardim do Éden
 
-São os jardins sagrados que rodeiam o Paraíso. Neles, vivem diversas plantas raras e criaturas místicas, as quais são conhecidas como **fey**.
+É o jardim sagrado que rodeia o Paraíso. Nele, vivem diversas plantas raras e criaturas místicas, as quais são conhecidas como **fey**.
 
 *Esse local seria o equivalente a Feywild em D&D.*
 

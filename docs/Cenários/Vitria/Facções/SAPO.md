@@ -41,6 +41,7 @@ A **Gomes Sociedade Não Anônima** é um grupo de investigadores com relativa a
 	- [[Sherlock]]†
 	- [[Tamur]]
 	- [[Vamas]] *(Anteriormente)*
+	- [[Watson]]
 
 ### Divisão Aqua
 

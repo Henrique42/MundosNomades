@@ -103,3 +103,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 **...**
 
 - [[VF26 ― Noite de Nevasca]]
+- [[VF27 ― Buraco de Coelho]]
