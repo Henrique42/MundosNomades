@@ -102,5 +102,6 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 **...**
 
-- [[VF26 ― Noite de Nevasca]]
-- [[VF27 ― Buraco de Coelho]]
+- [[VF26 — Coelho Branco]]
+- [[VF27 ― Atrás Daquela Porta Trancada]]
+- [[VF28 ― Tempo, Fique Parado]]

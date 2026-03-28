@@ -16,7 +16,7 @@
 	- **Ocupação:** Deusa da Morte e dos Ciclos
 	- **Afiliação:** 
 		- [[Divindades de Vitria]]
-		- [[Setor das Almas Perdidas]]
+		- [[Purgatório#Setor das Almas Perdidas|Setor das Almas Perdidas]]
 	- **Família:** -
 	- **Situação:** Viva
 	---

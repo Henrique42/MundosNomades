@@ -13,7 +13,7 @@
 - [[Tamur]] (Barbarian 5)
 - [[Watson]] (Monk 5)
 
----  
+---
 
 ## Locais Visitados
 
@@ -98,4 +98,4 @@ Em meio à busca, o trio acaba se perdendo em uma nevasca. Quando Dr. Watson diz
 
 ---
 
-[[VF26 ― Noite de Nevasca|<< Anterior]] | Próxima >>
+[[VF26 — Coelho Branco|<< Anterior]] | [[VF28 ― Tempo, Fique Parado|Próxima >>]]

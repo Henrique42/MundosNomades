@@ -12,11 +12,21 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/03/28 (VF)
+
+- **Motivo:** Sessão 28 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF28 ― Tempo, Fique Parado]]
+	- Novo local: [[Jardim do Éden]]
+	- Local atualizado: [[Purgatório]]
+
+---
+
 ### 2026/03/21 (VF)
 
 - **Motivo:** Sessão 27 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF27 ― Buraco de Coelho]]
+	- Nova sessão: [[VF27 ― Atrás Daquela Porta Trancada]]
 	- Novo local: [[Floresta Caburé]]
 	- PC atualizado: [[Watson]]
 	- Facção atualizada: [[SAPO]]
@@ -27,7 +37,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 26 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF26 ― Noite de Nevasca]]
+	- Nova sessão: [[VF26 — Coelho Branco]]
 	- Novos NPCs: [[Célia]] e [[Alice]]
 	- Novo local: [[Ondas Novas]]
 
@@ -120,7 +130,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **O que há de novo?**
 	- Nova sessão: [[VF23 ― Canção da Cobra]]
 	- Novos NPCs: [[Geraldo e Jéssica]], [[Capra]] e [[Mestre dos Espelhos]]
-	- Novo local: [[Setor das Almas Perdidas]]
+	- Novo local: [[Purgatório]]
 	- PCs atualizados: [[Aenoir]], [[Rhogar]] e [[Sherlock]] (F)
 	- NPCs atualizados: [[Átropos]] e [[Bartolomeu Bravo]]
 	- Local atualizado: [[Porto Lobo]]

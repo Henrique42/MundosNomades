@@ -86,7 +86,7 @@ No epílogo, Aenoir entrou em contato com um cajado que estava nos pertences de 
 | ---------- | -------------------------- | ------- | ------------------------------------ |
 | 0079/10/10 | Início da campanha/1º caso | 1 ~ 3   | -                                    |
 | 0079/10/11 | Explorando Porto Lobo      | 4 ~ 6   | -                                    |
-| 0079/10/12 | Caso do circo              | 7 ~ 10  | 1 semana se passou fora do demiplano |
+| 0079/10/12 | Caso do circo              | 7 ~ 10  | 1 semana se passou fora do semiplano |
 | 0079/10/19 | Retorno ao Plano Material  | 11      | 5 dias de downtime depois            |
 | 0079/10/25 | Caso dos lobisomens        | 12 ~ 15 | -                                    |
 | 0079/10/27 | Caso da biblioteca         | 16 ~ 20 | Mini downtime depois                 |

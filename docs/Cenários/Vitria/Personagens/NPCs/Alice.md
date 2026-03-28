@@ -19,10 +19,10 @@
 	- **Situação:** Desconhecida
 	---
 	### Primeira Aparição
-	- [[VF26 ― Noite de Nevasca]] *(Menção)*
+	- [[VF26 — Coelho Branco]] *(Menção)*
 
 ---
 
 ## Sobre
 
-- Durante uma noite fria, quando Ondas Novas estava sendo atacada por monstros, Alice desapareceu de forma misteriosa *(Sessão: [[VF26 ― Noite de Nevasca]])*.
+- Durante uma noite fria, quando Ondas Novas estava sendo atacada por monstros, Alice desapareceu de forma misteriosa *(Sessão: [[VF26 — Coelho Branco]])*.

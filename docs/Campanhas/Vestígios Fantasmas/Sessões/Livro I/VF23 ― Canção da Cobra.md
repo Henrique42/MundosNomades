@@ -20,7 +20,7 @@
 	- Feira da Abóbora
 	- Ruas
 	- Forte
-- [[Setor das Almas Perdidas]]
+- [[Purgatório]]
 
 ---
 

@@ -72,4 +72,4 @@ Aenoir diz pra Célia que eles planejam investigar a situação. A elfa também 
 
 ---
 
-[[VF25 ― Despedida|<< Anterior]] | [[VF27 ― Buraco de Coelho|Próxima >>]]
+[[VF25 ― Despedida|<< Anterior]] | [[VF27 ― Atrás Daquela Porta Trancada|Próxima >>]]

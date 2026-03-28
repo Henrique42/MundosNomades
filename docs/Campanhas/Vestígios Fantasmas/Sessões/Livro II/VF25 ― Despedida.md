@@ -76,4 +76,4 @@ E assim se inicia uma nova jornada, com o grupo da o primeiro passo na neve em d
 
 ---
 
-[[VF24 ― Tom Nebuloso de Inverno|<< Anterior]] | [[VF26 ― Noite de Nevasca|Próxima >>]]
+[[VF24 ― Tom Nebuloso de Inverno|<< Anterior]] | [[VF26 — Coelho Branco|Próxima >>]]

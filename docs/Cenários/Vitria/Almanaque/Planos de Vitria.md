@@ -44,9 +44,11 @@ Por ser considerado a sua própria contraparte, esse plano é mais caótico que 
 
 Quando um ser vivo morre, sua alma é mandada para o Purgatório, local no qual habita a deusa [[Capra]]. Lá, a índole do indivíduo será julgada pela própria deusa, a qual poderá mandá-lo para três lugares: **Inferno**, **Paraíso** ou o próprio **Purgatório**, onde as almas que não se encaixam nos outros destinos são "lavadas" e esperam uma oportunidade de reencarnar.
 
-O local onde os julgamentos ocorrem é comumente chamado de [[Setor das Almas Perdidas]].
+O local onde os julgamentos ocorrem é comumente chamado de **Setor das Almas Perdidas**.
 
 *Esse local seria o equivalente a Shadowfell em D&D.*
+
+> *Ver mais em [[Purgatório]].*
 
 ### 7. Inferno
 

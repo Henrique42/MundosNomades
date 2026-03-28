@@ -19,7 +19,7 @@
 	- **Situação:** Viva
 	---
 	### Primeira Aparição
-	- [[VF26 ― Noite de Nevasca]]
+	- [[VF26 — Coelho Branco]]
 
 ---
 
