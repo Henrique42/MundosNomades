@@ -12,6 +12,16 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+
+### 2026/04/14 (VF)
+
+- **Motivo:** Sessão 29 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF29 ― Pontes e Muros]]
+	- Local atualizado: [[Jardim do Éden]]
+
+---
+
 ### 2026/03/28 (VF)
 
 - **Motivo:** Sessão 28 da campanha **Vestígios Fantasmas**.
@@ -26,7 +36,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 27 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF27 ― Atrás Daquela Porta Trancada]]
+	- Nova sessão: [[VF27 ― Perdidos]]
 	- Novo local: [[Floresta Caburé]]
 	- PC atualizado: [[Watson]]
 	- Facção atualizada: [[SAPO]]

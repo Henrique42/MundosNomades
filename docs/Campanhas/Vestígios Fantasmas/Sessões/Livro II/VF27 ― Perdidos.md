@@ -48,7 +48,7 @@ Chegando na sede da [[SAPO]] (Definitivamente não R.Ã.) junto do grupo de inve
 
 Durante a conversa com Reina, Dr. Watson se informa da morte de Sherlock, algo que ele já desconfiava que tinha acontecido, mas que tinha que confirmar. Após passar suas condolências, ela pergunta ao halfling o que ele planeja fazer na cidade. Por sua vez, ele responde que ele se encontra em busca de um propósito para sua vida e que ele estaria interessado em entender mais sobre a vida de Sherlock.
 
-Lembrando-se do relatório da equipe Gomes S.N.A., Reina entra em contato com Aenoir por meio das *Pedras de Envio* e pergunta o que o grupo acha desse halfling. A elfa feiticeira diz que ele parece ser uma boa pessoa e ser bastante competente, sentimento que o resto do grupo aparenta compartilhar.
+Lembrando-se do relatório da equipe Gomes S.N.A., Reina entra em contato com Aenoir por meio das **Pedras de Envio** e pergunta o que o grupo acha desse halfling. A elfa feiticeira diz que ele parece ser uma boa pessoa e ser bastante competente, sentimento que o resto do grupo aparenta compartilhar.
 
 Considerando a resposta positiva, Reina vê uma oportunidade de adicionar um possível agente para a organização e estende a oferta para Dr. Watson. Seguido de uma breve divagação similar a algo que o falecido Sherlock faria, ele decide aceitar a oferta.
 
@@ -84,7 +84,7 @@ Retornando para a estalagem, Aenoir e Tamur se juntam ao resto do grupo. Juntos,
 
 Na saída da cidade, o grupo repara que nevou desde o acontecido da madrugada e que os rastros das criaturas podem ser mais difíceis de encontrar. No entanto, Lavenza encontra o caminho que um dos coelhos usou para sair da cidade. O grupo segue pela floresta por um tempo, até que o aumento da neve faz eles perderem o rastro acima de uma colina.
 
-O grupo escala uma montanha próxima para ter uma visão melhor e Aenoir percebe que, mais a frente na floresta, existe uma clareira com um brilho azulado similar ao da névoa que ela viu antes do ataque. O grupo considera a opção de retornar para a cidade, dado que a nevasca está ficando pior. No entanto, visto que a clareira está mais próxima da posição em que eles se encontram, eles seguem em frente. Eles decidem deixar um rastro para trás em forma de uma pedra encantada (com a magia *Light*) para que Dr. Watson possa seguir o caminho.
+O grupo escala uma montanha próxima para ter uma visão melhor e Aenoir percebe que, mais a frente na floresta, existe uma clareira com um brilho azulado similar ao da névoa que ela viu antes do ataque. O grupo considera a opção de retornar para a cidade, dado que a nevasca está ficando pior. No entanto, visto que a clareira está mais próxima da posição em que eles se encontram, eles seguem em frente. Eles decidem deixar um rastro para trás em forma de uma pedra encantada (com a magia **Light**) para que Dr. Watson possa seguir o caminho.
 
 Chegando na clareira, o grupo encontra uma caverna que era basicamente um corredor estreito onde se encontrava um buraco no fim. Lavenza joga uma pedra iluminada no buraco e percebe que ele não parece ter fundo, deixando-a preocupada.
 

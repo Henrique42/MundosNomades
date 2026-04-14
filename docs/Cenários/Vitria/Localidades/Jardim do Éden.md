@@ -10,7 +10,11 @@ Em cada corte, a sucessão de um governo para o próximo é o que faz com que as
 
 ### Corte Cerúlea
 
-*A ser adicionado.*
+A **Corte Cerúlea**, como o nome já diz, é a corte associada com a cor Cerúlea. Assim, ela também é associada com a calma e a tranquilidade. Os moradores desse domínio são caracterizados pela sua pele azulada.
+
+#### História
+
+Durante a campanha [[Vestígios Fantasmas]], a atual monarca da Corte Cerúlea, a **Rainha das Flores**, desapareceu misteriosamente. Tal incidente levou o domínio a "regredir ao inverno" de alguma forma, um momento marcado pela tentativa do **Rei das Neves** de tentar retornar ao poder.
 
 ---
 

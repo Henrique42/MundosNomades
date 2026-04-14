@@ -103,5 +103,6 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 **...**
 
 - [[VF26 — Coelho Branco]]
-- [[VF27 ― Atrás Daquela Porta Trancada]]
+- [[VF27 ― Perdidos]]
 - [[VF28 ― Tempo, Fique Parado]]
+- [[VF29 ― Pontes e Muros]]
