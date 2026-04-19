@@ -37,7 +37,7 @@
 - Guardas Gélidos
 - Confeiteira e outras fadas
 - Gnomo Alfaiate e Lebre Joalheira
-- Gato Preto (Eladrin Transformada)
+- [[Gatos Reais|Gato Preto]] (Eladrin Transformada?)
 
 ---
 

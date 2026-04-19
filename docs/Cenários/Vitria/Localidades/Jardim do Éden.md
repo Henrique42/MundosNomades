@@ -16,6 +16,12 @@ A **Corte Cerúlea**, como o nome já diz, é a corte associada com a cor Cerúl
 
 Durante a campanha [[Vestígios Fantasmas]], a atual monarca da Corte Cerúlea, a **Rainha das Flores**, desapareceu misteriosamente. Tal incidente levou o domínio a "regredir ao inverno" de alguma forma, um momento marcado pela tentativa do **Rei das Neves** de tentar retornar ao poder.
 
+#### Locais Importantes
+
+- Castelo de Cristal
+- Floresta Natalina *(somente durante o inverno)*
+- Vila Indigo
+
 ---
 
 ## Visual

@@ -37,9 +37,9 @@
 - Confeiteira
 - Florista
 - Fadas Bombadas do Moinho
-- Presença Misteriosa do Castelo
+- [[Gatos Reais|Presença Misteriosa do Castelo]]
 - Bonecos de Neve
-- Bruacas?
+- [[Três Irmãs Invernais|Bruacas]]?
 
 ---
 
@@ -90,4 +90,4 @@ Durante sua pausa, ela escuta uma comoção distante e usa essa oportunidade par
 
 ---
 
-[[VF28 ― Tempo, Fique Parado|<< Anterior]] | Próxima >>
+[[VF28 ― Tempo, Fique Parado|<< Anterior]] | [[VF30 ― Por Trás Daquela Porta Trancada|Próxima >>]]

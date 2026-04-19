@@ -52,6 +52,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### G
 
 - [[Garou]]
+- [[Gatos Reais]]
 - [[Geraldo e Jéssica]]
 
 ### H
@@ -86,6 +87,8 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### R
 
+- [[Rainha das Flores]]
+- [[Rei das Neves]]
 - [[Reina Velez]]
 - [[Roberta Araújo]]
 
@@ -98,6 +101,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### T
 
 - [[Teresa Madel]]
+- [[Três Irmãs Invernais]]
 
 ### U
 

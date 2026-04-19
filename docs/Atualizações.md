@@ -1,6 +1,6 @@
 Esta página existe como uma forma de registrar as atualizações na wiki.
 
-## Abreviaturas das Campanhas
+## Campanhas
 
 | Sigla | Nome                                  | Estado       |
 | ----- | ------------------------------------- | ------------ |
@@ -12,6 +12,15 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/04/19 (VF)
+
+- **Motivo:** Sessão 30 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Nova sessão: [[VF30 ― Por Trás Daquela Porta Trancada]]
+	- Novos NPCs: [[Gatos Reais]], [[Rainha das Flores]], [[Rei das Neves]] e [[Três Irmãs Invernais]]
+	- NPC atualizado: [[Alice]]
+
+---
 
 ### 2026/04/14 (VF)
 

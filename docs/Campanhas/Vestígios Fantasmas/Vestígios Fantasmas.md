@@ -106,3 +106,4 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF27 ― Perdidos]]
 - [[VF28 ― Tempo, Fique Parado]]
 - [[VF29 ― Pontes e Muros]]
+- [[VF30 ― Por Trás Daquela Porta Trancada]]
