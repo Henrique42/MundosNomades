@@ -1,7 +1,7 @@
 !!! info "Ficha da Sessão"
 	- **Campanha:** [[VF Confidencial#Vol. 1 ― Azul Profundo|VF Confidencial]]
 	- **Data da sessão:** 14/12/2025
-	- **Autoria do resumo:** [[Bruno]]
+	- **Resumo:** [[Bruno]]
 
 ---
 

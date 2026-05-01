@@ -1,7 +1,8 @@
 !!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data da sessão:** 21/03/2026
-	- **Autoria do resumo:** [[Saymon]]
+	- **Resumo:** [[Saymon]]
+	- **Revisão:** [[Bruno]]
 
 ---
 
@@ -59,7 +60,7 @@ Um pouco depois, o grupo encontra uma árvore com uma porta que aparentemente se
 
 Lavenza responde com um *"é outro gato!"*, o que faz Marduk decidir se transforma em um. O resto do grupo sobe e encontra uma grande coruja humanoide, o Sr. Coruja. Eles explicam para a criatura que estão procurando por uma garota chamada Alice *(com Tamur gritando o tempo todo durante a conversa)*.
 
-O Sr. Coruja, que se encontra doente devido ao tempo frio do inverno atacar suas alergias, conta para o grupo que eles estão no **Jardim do Éden**, a terra das fadas. Além disso, era para ser primavera no momento, mas a **Rainha das Flores**, que deveria ser a monarca atual, desapareceu e o **Rei das Neves**, que deveria estar morto, retomou o trono *(nesse plano, as estações do ano mudam sempre que o rei correspondente a estação daquela era morre)*.
+O Sr. Coruja, que se encontra doente devido ao tempo frio do inverno atacar suas alergias, conta para o grupo que eles estão no **Jardim do Éden**, a terra das fadas. Além disso, era para ser primavera no momento, mas a **Rainha da Primavera**, que deveria ser a monarca atual, desapareceu e o **Rei do Inverno**, que deveria estar morto, retomou o trono *(nesse plano, as estações do ano mudam sempre que o rei correspondente a estação daquela era morre)*.
 
 Lavenza se oferece a ajudar o Sr. Coruja com suas alergias, pedindo ao grupo para procurar por algumas folhas de boldo para fazer um chá enquanto ela faz uma sopa para ele. O grupo sai e ela aproveita para conversar com o Sr. Coruja, perguntando-o sobre algumas coisas do local. A aasimar começa apresentando o seu nome, o que faz com que a coruja a aconselhe a não fazer o mesmo para os demais habitantes locais.
 
@@ -77,7 +78,7 @@ Após passar pela porta, Dr. Watson, Manah e Ignacius se encontram em outro loca
 
 Dr. Watson acaba por contratar uma das fadas para servir de tradutora durante sua passagem por aqui e começa a andar pela cidade em direção ao alfaiate, um dos estabelecimentos sugeridos pela fada. Ao chegar no local, eles encontram uma **Festa do Chá**. Lá, um gnomo barbudo e uma lebre estavam discutindo sobre o grande espetáculo que é o famoso **futefada** *(apesar que a lebre não parece compartilhar da adoração pelo esporte)*. Eles encontram também o último membro do trio: um rato gigante que estava dormindo em um dos bancos.
 
-Dr. Watson entra na conversa e, só para contrariar, declara que vai se tornar torcedor do time oposto ao do alfaiate (o gnomo), algo que a lebre acha muito engraçado. Além do belíssimo esporte, eles também conversam sobre como o trio de fey está preso em uma festa do chá eterna desde que o Rei das Neves voltou. Watson começa a ficar calvo por causa dos efeitos do chá encantado.
+Dr. Watson entra na conversa e, só para contrariar, declara que vai se tornar torcedor do time oposto ao do alfaiate (o gnomo), algo que a lebre acha muito engraçado. Além do belíssimo esporte, eles também conversam sobre como o trio de fey está preso em uma festa do chá eterna desde que o Rei do Inverno voltou. Watson começa a ficar calvo por causa dos efeitos do chá encantado.
 
 Durante a conversa *(e após ser ameaçado de furto pelo monge)*, o alfaiate faz a oferta de costurar um Gi mágico para o halfling. Além disso, ele diz que faria um desconto considerável se ele trouxer o material mais raro, uma **Flor das Estações**. Obviamente, Dr. Watson aceita.
 

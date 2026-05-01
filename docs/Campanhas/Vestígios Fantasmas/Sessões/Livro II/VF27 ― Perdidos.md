@@ -1,7 +1,8 @@
 !!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data da sessão:** 07/03/2026
-	- **Autoria do resumo:** [[Saymon]]
+	- **Resumo:** [[Saymon]]
+	- **Revisão:** [[Bruno]]
 
 ---
 

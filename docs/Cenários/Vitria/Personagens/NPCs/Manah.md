@@ -26,3 +26,5 @@
 ## Sobre
 
 - Durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]], Manah fez uma previsão sobre o "bote da serpente", isto é, o ataque realizado por [[Átropos]] na mesma noite *(Sessão: [[VF22 ― Palha ao Vento]])*.
+
+- Após ajudar a [[SAPO#Gomes SNA|Gomes SNA]] na luta contra o [[Lorde das Neves]], Manah e Ignacius ficaram na [[Corte Cerúlea]] para treinar com as [[Fadas do Espaço-Tempo]] *(Sessão: [[VF32 ― Alice]])*.

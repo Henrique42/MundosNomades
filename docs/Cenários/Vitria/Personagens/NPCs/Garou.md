@@ -37,7 +37,7 @@
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Midna -  Garou  (Lobisomem).jpg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
 	<figcaption>
-		Versão lobisomem. — Fonte:  Wayne Reynolds <em>(Magic the Gathering)</em>
+		Versão lobisomem. — Fonte: Wayne Reynolds <em>(Magic the Gathering)</em>
 	</figcaption>
 </figure>
 

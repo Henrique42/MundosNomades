@@ -1,4 +1,4 @@
-Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, que pertencem a [[Rainha das Flores]]. Geralmente, eles são conhecidos somente como **Gato Preto** e **Gato Rosa**.
+Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, que pertencem a [[Dama das Flores]]. Geralmente, eles são conhecidos somente como **Gato Preto** e **Gato Rosa**.
 
 ---
 
@@ -17,8 +17,10 @@ Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, qu
 	- **Espécie:** Fey
 	- **Gênero:** ?
 	- **Ocupação:** Mascotes
-	- **Afiliação:** [[Jardim do Éden#Corte Cerulea|Corte Cerúlea]]
-	- **Família:** [[Rainha das Flores]] *(Dona)*
+	- **Afiliação:** [[Corte Cerúlea]]
+	- **Família:** 
+		- [[Dama das Flores]] *(Antiga dona)*
+		- [[Alice]] *(Dona atual)*
 	- **Situação:** Vivos
 	---
 	### Primeira Aparição
@@ -31,4 +33,6 @@ Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, qu
 
 - Enquanto Gato Rosa é mais centrada e responsável, Gato Preto é mais próximo do arquétipo clássico de fey ardiloso.
 
-- Quando a Rainha das Flores desapareceu, ambos os gatos buscaram, à sua maneira, derrotar aqueles que queriam usurpar o trono: o [[Rei das Neves]] e suas [[Três Irmãs Invernais|bruacas]] *(Sessões: [[VF28 ― Tempo, Fique Parado]], [[VF29 ― Pontes e Muros]] e [[VF30 ― Por Trás Daquela Porta Trancada]])*.
+- Quando a Dama das Flores desapareceu, ambos os gatos buscaram, à sua maneira, derrotar aqueles que queriam usurpar o trono: o [[Lorde das Neves]] e suas [[Três Irmãs Invernais|bruacas]] *(Sessões: [[VF28 ― Tempo, Fique Parado]], [[VF29 ― Pontes e Muros]] e [[VF30 ― Por Trás Daquela Porta Trancada]])*.
+
+- Juntos, os gatos reais podem se transformar no **Cetro Real da Primavera** *(Sessão: [[VF32 ― Alice]])*.

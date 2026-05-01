@@ -34,7 +34,7 @@ A cidade de Dólmen ficou conhecida por ser o túmulo de **Noélia Novelo**, uma
 ## Resumo
 
 !!! info
-	- **Autoria do resumo:** [[Bruno]]
+	- **Resumo:** [[Bruno]]
 
 ### Locais Visitados
 

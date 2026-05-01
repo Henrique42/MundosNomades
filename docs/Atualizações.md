@@ -12,12 +12,24 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/05/01 (VF)
+
+- **Motivo:** Sessões 31 e 32 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Novas sessões: [[VF31 ― Vamos Dançar]] e [[VF32 ― Alice]]
+	- Novo local: [[Corte Cerúlea]]
+	- Novos NPCs: [[Fadas do Espaço-Tempo]]
+	- Local atualizado: [[Jardim do Éden]]
+	- NPCs atualizados: [[Alice]], [[Lorde das Neves]], [[Gatos Reais]], [[Manah]] e [[Ignacius]]
+
+---
+
 ### 2026/04/19 (VF)
 
 - **Motivo:** Sessão 30 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF30 ― Por Trás Daquela Porta Trancada]]
-	- Novos NPCs: [[Gatos Reais]], [[Rainha das Flores]], [[Rei das Neves]] e [[Três Irmãs Invernais]]
+	- Novos NPCs: [[Gatos Reais]], [[Dama das Flores]], [[Lorde das Neves]] e [[Três Irmãs Invernais]]
 	- NPC atualizado: [[Alice]]
 
 ---

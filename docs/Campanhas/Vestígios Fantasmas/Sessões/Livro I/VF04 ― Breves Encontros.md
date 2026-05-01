@@ -1,7 +1,8 @@
 !!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data da sessão:** 27/09/2024
-	- **Autoria do resumo:** [[Anthony]] e [[Paulo]]
+	- **Resumo:** [[Anthony]] e [[Paulo]]
+	- **Revisão:** [[Bruno]]
 
 ---
 

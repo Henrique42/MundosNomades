@@ -47,37 +47,37 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Livro I: Bruxa à Beira-Mar
 
-**Arquivo S.A.P.O.: "O Fantasma do Teatro"**
+#### Arquivo S.A.P.O.: "O Fantasma do Teatro"
 
 - [[VF01 ― Fantasmagoria]]
 - [[VF02 ― Libertar a Bruxa]]
 - [[VF03 ― Caveiras e Velas]]
 
-**Interlúdio: Conhecendo Porto Lobo**
+#### Interlúdio: Conhecendo Porto Lobo
 
 - [[VF04 ― Breves Encontros]]
 - [[VF05 ― Garota Azeda]]
 - [[VF06 ― Mergulhe]]
 
-**Arquivo S.A.P.O.: "Demônios Circenses"**
+#### Arquivo S.A.P.O.: "Demônios Circenses"
 
 - [[VF07 ― Mãe]]
 - [[VF08 ― A Galeria dos Espelhos]]
 - [[VF09 ― Atravesse (Para o Outro Lado)]]
 - [[VF10 ― O Show Tem Que Continuar]]
 
-**Interlúdio: O Arquivo da S.A.P.O.**
+#### Interlúdio: O Arquivo da S.A.P.O.
 
 - [[VF11 ― Estivemos Longe Tempo Demais]]
 
-**Arquivo S.A.P.O.: "Lobisomem na Noite"**
+#### Arquivo S.A.P.O.: "Lobisomem na Noite"
 
 - [[VF12 ― Mundo Selvagem]]
 - [[VF13 ― Carne e Sangue]]
 - [[VF14 ― Os Dias de Cão Acabaram]]
 - [[VF15 ― A Lua Irá Cantar]]
 
-**Arquivo S.A.P.O.: *"Codex Gigas"***
+#### Arquivo S.A.P.O.: *"Codex Gigas"*
 
 - [[VF16 ― Caixa de Chuva]]
 - [[VF17 ― Flores Mortas]]
@@ -85,7 +85,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF19 ― O Mago]]
 - [[VF20 ― Mosca na Parede]]
 
-**Arquivo S.A.P.O.: "Martelo da Bruxa"**
+#### Arquivo S.A.P.O.: "Martelo da Bruxa"
 
 - [[VF21 ― Martelos e Pregos]]
 - [[VF22 ― Palha ao Vento]]
@@ -95,15 +95,17 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Livro II
 
-**Interlúdio: A Partida**
+#### Interlúdio: A Partida
 
 - [[VF24 ― Tom Nebuloso de Inverno]]
 - [[VF25 ― Despedida]]
 
-**...**
+#### Arquivo S.A.P.O.: "Primavera Boreal"
 
 - [[VF26 — Coelho Branco]]
 - [[VF27 ― Perdidos]]
 - [[VF28 ― Tempo, Fique Parado]]
 - [[VF29 ― Pontes e Muros]]
 - [[VF30 ― Por Trás Daquela Porta Trancada]]
+- [[VF31 ― Vamos Dançar]]
+- [[VF32 ― Alice]]

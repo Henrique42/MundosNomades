@@ -1,4 +1,4 @@
-Esta página serve como uma lista dos personagens presentes no cenário de [[Vitria]]. A lista é dividida entre PCs (*player characters*) e NPCs (*non-player characters*).
+Esta página serve como uma lista dos personagens presentes no cenário de [[Vitria]]. A lista é dividida entre PCs *(player characters)* e NPCs *(non-player characters)*.
 
 ## PCs
 
@@ -39,12 +39,14 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### D
 
+- [[Dama das Flores]]
 - [[Dana Baroni]]
 - [[Dona Edna]]
 
 ### F
 
 - [[Fábio Castello]]
+- [[Fadas do Espaço-Tempo]]
 - [[Fausto]]
 - [[Fídias, o Orador]]
 - [[Fritz Germain]]
@@ -71,6 +73,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 - [[Lady Condor]]
 - [[Leto]]
+- [[Lorde das Neves]]
 
 ### M
 
@@ -87,8 +90,6 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### R
 
-- [[Rainha das Flores]]
-- [[Rei das Neves]]
 - [[Reina Velez]]
 - [[Roberta Araújo]]
 

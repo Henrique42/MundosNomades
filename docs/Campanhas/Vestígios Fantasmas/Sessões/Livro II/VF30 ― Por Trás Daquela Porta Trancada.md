@@ -1,7 +1,8 @@
 !!! info "Ficha da Sessão"
 	- **Campanha:** [[Vestígios Fantasmas]]
 	- **Data da sessão:** 11/04/2026
-	- **Autoria do resumo:** [[Saymon]]
+	- **Resumo:** [[Saymon]]
+	- **Revisão:** [[Bruno]]
 
 ---
 
@@ -37,7 +38,7 @@
 - [[Manah]]
 - [[Ignacius]]
 - Pessoas Sequestradas
-- [[Rei das Neves]]
+- [[Lorde das Neves]]
 
 ---
 
@@ -71,7 +72,7 @@ Além da porta recém-aberta, o trio encontra várias pessoas que parecem estar 
 
 ### Reunião
 
-Enquanto o grupo cuida das vítimas, a gata revela mais algumas explicações sobre o mistério. Ela fala sobre como, ao final de todo inverno, o monarca atual é congelado pelo próprio frio. Assim, o Rei das Neves estaria tentando, de alguma forma, usar o calor absorvido daquelas pessoas para se descongelar. Ela continua, dizendo que algo deve ter dado errado naquele plano, já que, em seguida, o Rei foi atrás de Alice, sua própria filha, para usar como um novo corpo para si.
+Enquanto o grupo cuida das vítimas, a gata revela mais algumas explicações sobre o mistério. Ela fala sobre como, ao final de todo inverno, o monarca atual é congelado pelo próprio frio. Assim, o Rei do Inverno estaria tentando, de alguma forma, usar o calor absorvido daquelas pessoas para se descongelar. Ela continua, dizendo que algo deve ter dado errado naquele plano, já que, em seguida, o Rei foi atrás de Alice, sua própria filha, para usar como um novo corpo para si.
 
 Em algum momento dessa conversa, Lavenza descobre que a gata preta, irmã da rosa, mentiu sobre seu passado triste e sua maldição. Ao entender que, no fim, a intenção dela ainda era derrotar as bruacas, Lavenza decide continuar sua missão.
 
@@ -97,4 +98,4 @@ Assim, o trio se encontra em um grande salão com árvores natalinas e um grande
 
 ---
 
-[[VF29 ― Pontes e Muros|<< Anterior]] | Próxima >>
+[[VF29 ― Pontes e Muros|<< Anterior]] | [[VF31 ― Vamos Dançar|Próxima >>]]
