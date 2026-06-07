@@ -31,17 +31,9 @@ O objetivo da agência é solucionar mistérios que envolvam atividades sobrenat
 
 ### Gomes SNA
 
-A **Gomes Sociedade Não Anônima** é um grupo de investigadores com relativa autonomia dentro da SAPO. Seu funcionamento é bastante influenciado pelos grupos de aventureiros de outrora.
+> Ver artigo principal: [[Gomes SNA]].
 
-- Membros:
-	- [[Aenoir]]
-	- [[Lavenza]]
-	- [[Marduk]]
-	- [[Rhogar]] *(Anteriormente)*
-	- [[Sherlock]]†
-	- [[Tamur]]
-	- [[Vamas]] *(Anteriormente)*
-	- [[Watson]]
+A **Gomes Sociedade Não Anônima** é um grupo de investigadores com relativa autonomia dentro da SAPO.
 
 ### Divisão Aqua
 

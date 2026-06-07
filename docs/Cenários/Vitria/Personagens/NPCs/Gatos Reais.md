@@ -24,7 +24,7 @@ Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, qu
 	- **Situação:** Vivos
 	---
 	### Primeira Aparição
-	- [[VF28 ― Tempo, Fique Parado]] *(Preto)*
+	- [[VF28 ― Um Conto de Inverno]] *(Preto)*
 	- [[VF29 ― Pontes e Muros]] *(Rosa)*
 
 ---
@@ -33,6 +33,6 @@ Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, qu
 
 - Enquanto Gato Rosa é mais centrada e responsável, Gato Preto é mais próximo do arquétipo clássico de fey ardiloso.
 
-- Quando a Dama das Flores desapareceu, ambos os gatos buscaram, à sua maneira, derrotar aqueles que queriam usurpar o trono: o [[Lorde das Neves]] e suas [[Três Irmãs Invernais|bruacas]] *(Sessões: [[VF28 ― Tempo, Fique Parado]], [[VF29 ― Pontes e Muros]] e [[VF30 ― Por Trás Daquela Porta Trancada]])*.
+- Quando a Dama das Flores desapareceu, ambos os gatos buscaram, à sua maneira, derrotar aqueles que queriam usurpar o trono: o [[Lorde das Neves]] e suas [[Três Irmãs Invernais|bruacas]] *(Sessões: [[VF28 ― Um Conto de Inverno]], [[VF29 ― Pontes e Muros]] e [[VF30 ― Por Trás Daquela Porta Trancada]])*.
 
 - Juntos, os gatos reais podem se transformar no **Cetro Real da Primavera** *(Sessão: [[VF32 ― Alice]])*.

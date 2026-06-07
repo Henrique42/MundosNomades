@@ -51,4 +51,4 @@
 
 ---
 
-[[VF06 ― Mergulhe|<< Anterior]] | [[VF08 ― A Galeria dos Espelhos|Próxima >>]]
+[[VF06 ― Continue Pescando|<< Anterior]] | [[VF08 ― Sombras em um Espelho|Próxima >>]]

@@ -16,7 +16,9 @@
 	- **Gênero:** Feminino
 	- **Classe:** Sorcerer (Lunar Sorcery)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** [[Mestre dos Espelhos]] *(clone com a consciência de um palhaço)*
 	- **Situação:** Viva
 	---

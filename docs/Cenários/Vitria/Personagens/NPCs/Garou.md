@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna -  Garou.png" width="300" height="300" style="border: 1px solid black;" alt="Garou">
+	<img src="/MundosNomades/img/VF+/NPCs/Midna - Garou.png" width="300" height="300" style="border: 1px solid black;" alt="Garou">
 </figure>
 
 !!! abstract "Perfil"
@@ -23,6 +23,7 @@
 	- **Família:**
 		- [[Chien]] *(Pai)*
 		- [[Zaara]] *(Irmã adotiva)*
+		- [[Clã Midna]]
 	- **Situação:** Vivo
 	---
 	### Primeira Aparição
@@ -35,7 +36,7 @@
 - Garou está sempre disposto a tentar proteger outros lobisomens, podendo até mesmo se colocar em perigo no processo. Isso o levou a acolher Zaara, uma lobisomem anteriormente escravisada por criminosos, em seu clã *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]] e [[VF15 ― A Lua Irá Cantar]])*.
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna -  Garou  (Lobisomem).jpg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
+	<img src="/MundosNomades/img/VF+/NPCs/Midna - Garou (Lobisomem).jpg" width="400" style="border: 1px solid black;" alt="Garou (forma de lobisomem)">
 	<figcaption>
 		Versão lobisomem. — Fonte: Wayne Reynolds <em>(Magic the Gathering)</em>
 	</figcaption>

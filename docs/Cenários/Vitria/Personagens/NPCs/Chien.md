@@ -13,13 +13,16 @@
 	- **Alcunha(s):** -
 	- **Espécie:** Licantropo
 	- **Gênero:** Masculino
-	- **Ocupação:** Jornalista
+	- **Ocupação:**
+		- Chefe de clã
+		- Jornalista
 	- **Afiliação:**
 		- [[Clã Midna]]
 		- Jornal "O Lobo Diário"
 	- **Família:**
 		- [[Garou]] *(Filho)*
 		- [[Zaara]] *(Filha adotiva)*
+		- [[Clã Midna]]
 	- **Situação:** Vivo
 	---
 	### Primeira Aparição

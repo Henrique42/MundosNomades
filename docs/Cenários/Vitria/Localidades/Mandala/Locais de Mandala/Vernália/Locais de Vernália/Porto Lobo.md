@@ -8,7 +8,7 @@
 
 ## História
 
-Após, derrotar a criatura conhecida como *Terrível Rei Lobo*, o herói Arendel fundou um vilarejo onde ficava o covil de seu inimigo. No futuro, aquele vilarejo viria a se tornar a cidade de **Porto Lobo**.
+Após, derrotar a criatura conhecida como "O Terrível [[Rei Lobo]]", o herói [[Arendel]] fundou um vilarejo onde ficava o covil de seu inimigo. No futuro, aquele vilarejo viria a se tornar a cidade de **Porto Lobo**.
 
 Para comemorar a consolidação da cidade, foi instituído o feriado conhecido como *Festival das 5 Damas da Colheita*. O festejo foi concebido como uma homenagem para as cinco [[Divindades de Vitria|divindades]] que possibilitavam o sucesso da região: *Alnúr*, [[Capra]], [[Siene]], *Skaha* e [[Utana]].
 
@@ -45,3 +45,14 @@ Durante o Festival do ano de 79 DA, mais conhecido como [[Vernália#Noite das Ab
 - **Sede da S.A.P.O.:** base de operações da misteriosa organização conhecida como [[SAPO]], liderada por [[Reina Velez]];
 - **Teatro Municipal de Porto Lobo:** administrado pelo dramaturgo [[Bartolomeu Bravo]];
 - **Templo de Utana:** templo dedicado à deusa [[Utana]].
+
+---
+
+## Visual
+
+<figure align="center">
+	<img src="https://cdna.artstation.com/p/assets/images/images/004/603/772/large/steffen-biko-harbour.jpg" style="border: 1px solid black;" alt="Porto Lobo">
+	<figcaption>
+		Fonte: Steffen Biko (<a href="https://www.artstation.com/biko">Artstation</a>)
+	</figcaption>
+</figure>

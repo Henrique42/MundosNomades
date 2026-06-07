@@ -12,11 +12,25 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/06/07 (VF, VFC)
+
+- **Motivo:** Sessões 33 e 34 da campanha **Vestígios Fantasmas** + expansão da wiki.
+- **O que há de novo?**
+	- Novas sessões: [[VF33 ― Dormir para Sonhar]] e [[VF34 ― Um Eco, Uma Mácula]]
+	- Novos NPCs: [[Fifi]], [[Igor]], [[Arendel]] e [[Rei Lobo]]
+	- Novo local: [[Ponta Floresta]]
+	- "Nova" Facção: [[Gomes SNA]]
+	- Novas páginas: [[Conjunto de Fábulas]] e [[Espada do Líder da Alcateia]]
+	- Local atualizado: [[Porto Lobo]]
+	- Campanhas atualizadas: [[Vestígios Fantasmas]] e [[VF Confidencial]] ([[Caso VFC01 (Azul Profundo)]])
+
+---
+
 ### 2026/05/01 (VF)
 
 - **Motivo:** Sessões 31 e 32 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Novas sessões: [[VF31 ― Vamos Dançar]] e [[VF32 ― Alice]]
+	- Novas sessões: [[VF31 ― Frias como Gelo]] e [[VF32 ― Alice]]
 	- Novo local: [[Corte Cerúlea]]
 	- Novos NPCs: [[Fadas do Espaço-Tempo]]
 	- Local atualizado: [[Jardim do Éden]]
@@ -47,7 +61,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 28 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF28 ― Tempo, Fique Parado]]
+	- Nova sessão: [[VF28 ― Um Conto de Inverno]]
 	- Novo local: [[Jardim do Éden]]
 	- Local atualizado: [[Purgatório]]
 
@@ -57,7 +71,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 27 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF27 ― Perdidos]]
+	- Nova sessão: [[VF27 ― Tempestade de Neve]]
 	- Novo local: [[Floresta Caburé]]
 	- PC atualizado: [[Watson]]
 	- Facção atualizada: [[SAPO]]
@@ -295,7 +309,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 - **Motivo:** Sessão 11 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
 	- Nova sessão: [[VF11 ― Estivemos Longe Tempo Demais]]
-	- Novo NPC: [[Andriessen]] (anteriormente Capitão Anderson)
+	- Novo NPC: [[Eliot Andriessen]] (anteriormente Capitão Anderson)
 
 ---
 
@@ -321,7 +335,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 08 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF08 ― A Galeria dos Espelhos]]
+	- Nova sessão: [[VF08 ― Sombras em um Espelho]]
 
 ---
 
@@ -338,7 +352,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessões 05 e 06 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Novas sessões: [[VF05 ― Garota Azeda]] e [[VF06 ― Mergulhe]]
+	- Novas sessões: [[VF05 ― Garota Azeda]] e [[VF06 ― Continue Pescando]]
 	- NPCs adicionados: [[Garou]]
 	- Local atualizado: [[Porto Lobo]] (**Bar Água & Sal** adicionado)
 	- Mapa de [[Vernália]] remodelado

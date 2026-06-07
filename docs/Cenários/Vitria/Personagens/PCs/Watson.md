@@ -16,7 +16,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Monk (Way of Mercy)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** ?
 	- **Situação:** Vivo
 	---

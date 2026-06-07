@@ -16,7 +16,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Rogue (Inquisitive)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** Sra. Gomes *(mãe)*
 	- **Situação:** Morto
 	---

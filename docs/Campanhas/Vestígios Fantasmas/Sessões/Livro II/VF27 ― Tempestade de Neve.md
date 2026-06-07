@@ -59,9 +59,9 @@ Saindo de Porto Lobo, Dr. Watson se encontra com Manah e Ignacius, a vidente e s
 
 ### Presente - Grupo 1
 
-Após a noite inquieta da batalha, o grupo passa algumas horas do dia relaxando para se sentirem revigorados. Lavenza encontra um livro para ler sobre paisagens de Vernália, Marduk prefere continuar a dormir e Tamur decide meditar sobre a espada que lhe foi dada pelo grupo, o que o leva a entrar em uma espécie de sonho.
+Após a noite inquieta da batalha, o grupo passa algumas horas do dia relaxando para se sentirem revigorados. Lavenza encontra um livro para ler sobre paisagens de Vernália, Marduk prefere continuar a dormir e Tamur decide meditar sobre a [[Espada do Líder da Alcateia|espada]] que lhe foi dada pelo grupo, o que o leva a entrar em uma espécie de sonho.
 
-No sonho, Tamur se encontra em um vazio escuro onde ele vê um guerreiro de armadura que ele não reconhece. Tamur questiona o homem sobre sua identidade e o guerreiro responde oferecendo uma caneca de cerveja, algo que o dragonborn não pode recusar. Depois desse acontecido, Tamur retorna à realidade e encerra sua meditação.
+No sonho, Tamur se encontra em um vazio escuro onde ele vê um [[Arendel|guerreiro]] de armadura que ele não reconhece. Tamur questiona o homem sobre sua identidade e o guerreiro responde oferecendo uma caneca de cerveja, algo que o dragonborn não pode recusar. Depois desse acontecido, Tamur vê o guerreiro enfrentando um [[Rei Lobo|lobisomem]], mas logo retorna à realidade e encerra sua meditação.
 
 Vendo que o resto do grupo vai passar um tempo na estalagem, Aenoir desce as escadas pensando em procurar mais informações sobre os ataques. Lá, ela se depara com o dono da estalagem falando com um guarda. Ao se aproximar, ela descobre o motivo da conversa: a carne dos coelhos que o grupo derrotou mais cedo.
 
@@ -99,4 +99,4 @@ Em meio à busca, o trio acaba se perdendo em uma nevasca. Quando Dr. Watson diz
 
 ---
 
-[[VF26 — Coelho Branco|<< Anterior]] | [[VF28 ― Tempo, Fique Parado|Próxima >>]]
+[[VF26 — Coelho Branco|<< Anterior]] | [[VF28 ― Um Conto de Inverno|Próxima >>]]

@@ -22,7 +22,7 @@ As **Fadas do Espaço-Tempo** são os dois conselheiros reais da [[Corte Cerúle
 	- **Situação:** Vivos
 	---
 	### Primeira Aparição
-	- [[VF28 ― Tempo, Fique Parado]] *(Menção)*
+	- [[VF28 ― Um Conto de Inverno]] *(Menção)*
 	- [[VF32 ― Alice]] *(Aparição)*
 
 ---

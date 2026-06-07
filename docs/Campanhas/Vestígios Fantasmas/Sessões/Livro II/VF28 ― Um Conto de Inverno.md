@@ -36,7 +36,7 @@
 
 - Sr. Coruja Refinada
 - Guardas Gélidos
-- Confeiteira e outras fadas
+- [[Fifi|Fada Confeiteira]] e outras fadas
 - Gnomo Alfaiate e Lebre Joalheira
 - [[Gatos Reais|Gato Preto]] (Eladrin Transformada?)
 
@@ -114,4 +114,4 @@ Após o trio testemunhar o ocorrido, eles se juntam novamente ao resto do grupo 
 
 ---
 
-[[VF27 ― Perdidos|<< Anterior]] | [[VF29 ― Pontes e Muros|Próxima >>]]
+[[VF27 ― Tempestade de Neve|<< Anterior]] | [[VF29 ― Pontes e Muros|Próxima >>]]

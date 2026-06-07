@@ -25,6 +25,6 @@
 
 ## Sobre
 
-- Em algum momento, Joaquim desapareceu misteriosamente. Ele foi visto pela última vez acompanhado por um grupo de homens encapuzados *(Sessões: [[VF04 ― Breves Encontros]], [[VF05 ― Garota Azeda]] e [[VF06 ― Mergulhe]])*.
+- Em algum momento, Joaquim desapareceu misteriosamente. Ele foi visto pela última vez acompanhado por um grupo de homens encapuzados *(Sessões: [[VF04 ― Breves Encontros]], [[VF05 ― Garota Azeda]] e [[VF06 ― Continue Pescando]])*.
 
 - Posteriormente, Garou revelou que Joaquim estava no processo de se transformar em alguma espécie de monstro pouco antes de desaparecer *(Sessão: [[VF15 ― A Lua Irá Cantar]])*.

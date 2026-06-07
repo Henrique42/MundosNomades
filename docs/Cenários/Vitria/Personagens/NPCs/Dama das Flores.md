@@ -21,10 +21,10 @@ A **Dama das Flores** é uma das monarcas da primavera na [[Corte Cerúlea]].
 	- **Situação:** Desaparecida
 	---
 	### Primeira Aparição
-	- [[VF28 ― Tempo, Fique Parado]] *(Menção)*
+	- [[VF28 ― Um Conto de Inverno]] *(Menção)*
 
 ---
 
 ## Sobre
 
-- Como manda o ciclo do Jardim do Éden, o [[Lorde das Neves]] morreu congelado pelo próprio frio, dando assim início a uma **Era da Primavera**. No entanto, com o desaparecimento da Dama das Flores, o monarca retornou de alguma forma, fazendo o local regredir à **Era do Inverno** *(Sessão: [[VF28 ― Tempo, Fique Parado]])*.
+- Como manda o ciclo do Jardim do Éden, o [[Lorde das Neves]] morreu congelado pelo próprio frio, dando assim início a uma **Era da Primavera**. No entanto, com o desaparecimento da Dama das Flores, o monarca retornou de alguma forma, fazendo o local regredir à **Era do Inverno** *(Sessão: [[VF28 ― Um Conto de Inverno]])*.

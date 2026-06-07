@@ -42,4 +42,4 @@
 
 ---
 
-[[VF08 ― A Galeria dos Espelhos|<< Anterior]] | [[VF10 ― O Show Tem Que Continuar|Próxima >>]]
+[[VF08 ― Sombras em um Espelho|<< Anterior]] | [[VF10 ― O Show Tem Que Continuar|Próxima >>]]

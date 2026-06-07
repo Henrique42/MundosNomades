@@ -19,7 +19,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Barbarian (Path of Wild Magic)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** Irmã desaparecida
 	- **Situação:** Vivo *(Aposentado)*
 	---

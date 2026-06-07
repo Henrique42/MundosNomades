@@ -22,7 +22,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### A
 
 - [[Alice]]
-- [[Andriessen]]
+- [[Arendel]]
 - [[Átropos]]
 
 ### B
@@ -43,12 +43,17 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 - [[Dana Baroni]]
 - [[Dona Edna]]
 
+### E
+
+- [[Eliot Andriessen]]
+
 ### F
 
 - [[Fábio Castello]]
 - [[Fadas do Espaço-Tempo]]
 - [[Fausto]]
 - [[Fídias, o Orador]]
+- [[Fifi]]
 - [[Fritz Germain]]
 
 ### G
@@ -64,6 +69,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### I
 
 - [[Ignacius]]
+- [[Igor]]
 
 ### J
 
@@ -90,6 +96,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ### R
 
+- [[Rei Lobo]]
 - [[Reina Velez]]
 - [[Roberta Araújo]]
 

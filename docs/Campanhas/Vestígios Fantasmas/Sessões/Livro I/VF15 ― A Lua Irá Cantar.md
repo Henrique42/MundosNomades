@@ -43,8 +43,9 @@
 1. Após a batalha, os investigadores analisam a criatura, que está viva, mas enfraquecida.
 2. Juntos de Garou, que se revela um lobisomem, eles realizam uma espécie de *ritual lunar* na floresta, livrando a criatura do item amaldiçoado que a prendia.
 3. Agora descansados, os personagens fazem perguntas a Garou e Zaara, a loba branca.
-4. Eles voltam pelo mesmo caminho que vieram, se reencontrando com Siene.
-5. Os investigadores finalmente retornam à cidade, recebendo a recompensa pela missão na Forja Germain.
+4. Com a ajuda de Zaara, eles removem uma [[Espada do Líder da Alcateia|espada]], a qual estava selada no santuário.
+5. Eles voltam pelo mesmo caminho que vieram, se reencontrando com Siene.
+6. Os investigadores finalmente retornam à cidade, recebendo a recompensa pela missão na Forja Germain.
 
 ---
 

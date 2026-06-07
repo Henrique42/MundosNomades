@@ -45,7 +45,7 @@
 
 ## Principais eventos
 
-1. Da *Bag of Holding* que continha o núcleo de Leto, surgiram cinco livros mágicos (um para cada investigador) e uma gema azulada.
+1. Da *Bag of Holding* que continha o núcleo de Leto, surgiram cinco [[Conjunto de Fábulas|livros mágicos]] (um para cada investigador) e uma gema azulada.
 2. Os investigadores se preparam para o tão esperado *Festival das 5 Damas da Colheita*. Eles fazem vendas e compras pelo mercado, interagindo com diferentes moradores da cidade e descobrindo mais sobre os festejos iminentes.
 3. Durante os dias restantes, eles percebem algumas coisas bizarras na cidade, como uma sensação estranha no ar e animais mortos aleatoriamente.
 4. O dia do festival finalmente chega e o grupo é designado para a área da *Feira da Abóbora*. Lá, eles se encontram com alguns velhos conhecidos, incluindo Vegas, que se revela ser três sanwitches em um sobretudo (Vegas era o que ficava como "cabeça").

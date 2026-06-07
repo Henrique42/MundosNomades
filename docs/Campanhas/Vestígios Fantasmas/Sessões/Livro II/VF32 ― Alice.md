@@ -37,7 +37,7 @@
 - [[Alice]] e/ou [[Lorde das Neves]]
 - [[Gatos Reais]]
 - [[Fadas do Espaço-Tempo]]
-- Fada Confeiteira
+- [[Fifi|Fada Confeiteira]]
 - Gnomo Alfaiate e Lebre Joalheira
 
 ---
@@ -78,7 +78,7 @@
 
 12. O grupo ajuda Alice a decidir seu novo título. O vencedor foi: **Dama das Crisálidas**. Eles também descobrem que o espírito do rei agora está preso na mão esquerda de Alice.
 
-13. O grupo se reencontra com as Fadas do Espaço-Tempo. Manah e Ignacius decidem ficar treinando com eles. Durante a despedida, o casal entrega para o quinteto dois livros: um deles adornado pela **Roda da Fortuna**, e o outro, pelo **Diabo**.
+13. O grupo se reencontra com as Fadas do Espaço-Tempo. Manah e Ignacius decidem ficar treinando com eles. Durante a despedida, o casal entrega para o quinteto dois [[Conjunto de Fábulas|livros mágicos]]: um deles adornado pela **Roda da Fortuna**, e o outro, pelo **Diabo**.
 
 14. As duas fadas guiam os investigadores para uma **Porta Planar** no jardim. Ao conversar com eles, o grupo aprende algumas coisas:
 	1. Quem ajudou o Lorde das Neves a tomar o castelo foi um *"homem encapuzado com uma capa cheia de olhos"*;
@@ -88,4 +88,4 @@
 
 ---
 
-[[VF31 ― Vamos Dançar|<< Anterior]] | Próxima >>
+[[VF31 ― Frias como Gelo|<< Anterior]] | [[VF33 ― Dormir para Sonhar|Próxima >>]]

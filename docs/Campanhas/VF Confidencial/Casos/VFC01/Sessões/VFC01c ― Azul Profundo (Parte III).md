@@ -1,5 +1,5 @@
 !!! info "Ficha da Sessão"
-	- **Campanha:** [[VF Confidencial#Vol. 1 ― Azul Profundo|VF Confidencial]]
+	- **Campanha:** [[VF Confidencial]] > [[Caso VFC01 (Azul Profundo)]]
 	- **Data da sessão:** 03/01/2026
 	- **Resumo:** [[Bruno]]
 

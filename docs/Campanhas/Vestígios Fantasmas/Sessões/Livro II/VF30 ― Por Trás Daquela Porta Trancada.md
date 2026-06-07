@@ -98,4 +98,4 @@ Assim, o trio se encontra em um grande salão com árvores natalinas e um grande
 
 ---
 
-[[VF29 ― Pontes e Muros|<< Anterior]] | [[VF31 ― Vamos Dançar|Próxima >>]]
+[[VF29 ― Pontes e Muros|<< Anterior]] | [[VF31 ― Frias como Gelo|Próxima >>]]

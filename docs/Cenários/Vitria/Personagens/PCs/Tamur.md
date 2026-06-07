@@ -16,7 +16,9 @@
 	- **Gênero:** Masculino
 	- **Classe:** Barbarian (Path of the Berserker)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** ?
 	- **Situação:** Vivo
 	---

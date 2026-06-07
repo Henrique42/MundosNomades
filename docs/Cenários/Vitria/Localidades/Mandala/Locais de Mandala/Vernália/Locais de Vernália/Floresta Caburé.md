@@ -6,7 +6,7 @@ Historicamente, a floresta é conhecida por ser o lar de diversas criaturas mís
 
 ## Locais Importantes
 
-- Caminho de Arendel: estrada que corta a floresta ao meio, conectando as cidades de [[Ciprino]], Ponta Floresta e [[Porto Lobo]].
+- **Caminho de Arendel:** estrada que corta a floresta ao meio, conectando as cidades de [[Ciprino]], Ponta Floresta e [[Porto Lobo]].
 
 ---
 

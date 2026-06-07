@@ -25,6 +25,6 @@
 
 ## Sobre
 
-- Ignacius é um diabo. No entanto, ele aparentemente foi banido do **Inferno** por seus companheiros em algum momento *(Sessões: [[VF31 ― Vamos Dançar]] e [[VF32 ― Alice]])*.
+- Ignacius é um diabo. No entanto, ele aparentemente foi banido do **Inferno** por seus companheiros em algum momento *(Sessões: [[VF31 ― Frias como Gelo]] e [[VF32 ― Alice]])*.
 
-- Após ajudar a [[SAPO#Gomes SNA|Gomes SNA]] na luta contra o [[Lorde das Neves]], Manah e Ignacius ficaram na [[Corte Cerúlea]] para treinar com as [[Fadas do Espaço-Tempo]] *(Sessão: [[VF32 ― Alice]])*.
+- Após ajudar a [[Gomes SNA]] na luta contra o [[Lorde das Neves]], Manah e Ignacius ficaram na [[Corte Cerúlea]] para treinar com as [[Fadas do Espaço-Tempo]] *(Sessão: [[VF32 ― Alice]])*.

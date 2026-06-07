@@ -16,10 +16,11 @@
 	- **Gênero:** Masculino
 	- **Ocupação:** Druid (Circle of Stars)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** 
+	- **Afiliação:**
+		- Clã Fyendal
+		- [[Gomes SNA]]
 		- [[SAPO]]
-		- Arquivistas
-	- **Família:** Tribo desaparecida
+	- **Família:** Clã Fyendal
 	- **Situação:** Vivo
 	---
 	### Primeira Aparição

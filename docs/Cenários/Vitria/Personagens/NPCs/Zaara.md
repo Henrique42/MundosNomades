@@ -21,6 +21,7 @@
 	- **Família:**
 		- [[Chien]] *(Pai adotivo)*
 		- [[Garou]] *(Irmão adotivo)*
+		- [[Clã Midna]]
 	- **Situação:** Viva
 	---
 	### Primeira Aparição
@@ -36,7 +37,7 @@
 - Um dia, ela decidiu se rebelar contra seus captores, sendo ferida durante sua fuga. Posteriormente, ela foi protegida e tratada por Garou e um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]], o que a levou a ser adotada pelo Clã Midna *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]] e [[VF15 ― A Lua Irá Cantar]])*.
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna -  Zaara (Lobisomem).jpg" width="300" style="border: 1px solid black;" alt="Zaara (forma de lobisomem)">
+	<img src="/MundosNomades/img/VF+/NPCs/Midna - Zaara (Lobisomem).jpg" width="300" style="border: 1px solid black;" alt="Zaara (forma de lobisomem)">
 	<figcaption>
 		Versão lobisomem. — Fonte: Michael Walsh <em>(Magic the Gathering)</em>
 	</figcaption>

@@ -73,4 +73,4 @@ Aenoir diz pra Célia que eles planejam investigar a situação. A elfa também 
 
 ---
 
-[[VF25 ― Despedida|<< Anterior]] | [[VF27 ― Perdidos|Próxima >>]]
+[[VF25 ― Despedida|<< Anterior]] | [[VF27 ― Tempestade de Neve|Próxima >>]]

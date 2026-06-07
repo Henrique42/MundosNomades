@@ -43,7 +43,7 @@
 
 ## Principais eventos
 
-1. Antes de seguir em direção ao barulho (da porta sendo destruída), a [[SAPO#Gomes SNA|Gomes SNA]] encontra uma Célia paralisada em uma das gaiolas. Eles a deixam com o resto das pessoas sequestradas.
+1. Antes de seguir em direção ao barulho (da porta sendo destruída), a [[Gomes SNA]] encontra uma Célia paralisada em uma das gaiolas. Eles a deixam com o resto das pessoas sequestradas.
 
 2. Tamur, Ignacius e Manah se encontram em frente a figura no trono, sua aparência alternando entre Rei do Inverno e Alice. Após uma conversa que não vai a lugar nenhum, o rei invoca a sua névoa, que cobre todo o salão de festas.
 

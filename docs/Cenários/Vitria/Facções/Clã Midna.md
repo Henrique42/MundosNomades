@@ -16,4 +16,5 @@ Desconhecido.
 
 - [[Chien]] *(Líder)*
 - [[Garou]]
+- [[Rei Lobo]] *(Ancestral)*
 - [[Zaara]]

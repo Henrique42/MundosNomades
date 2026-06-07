@@ -19,7 +19,9 @@
 	- **Gênero:** Feminino
 	- **Classe:** Warlock (The Celestial)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
-	- **Afiliação:** [[SAPO]]
+	- **Afiliação:**
+		- [[Gomes SNA]]
+		- [[SAPO]]
 	- **Família:** Mestre desaparecido
 	- **Situação:** Viva
 	---

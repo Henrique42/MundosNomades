@@ -17,6 +17,7 @@
 	- **Classe:** Cleric (Grave Domain)
 	- **Campanha(s):** [[Vestígios Fantasmas]]
 	- **Afiliação:**
+		- [[Gomes SNA]]
 		- [[SAPO]]
 		- [[Capra]] *(divindade da qual ele é clérigo)*
 	- **Família:** ?

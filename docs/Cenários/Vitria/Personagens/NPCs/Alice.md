@@ -34,4 +34,4 @@
 
 - Alice aparenta ser filha do Lorde das Neves. Tal conexão sanguínea fez com que o monarca desejasse o corpo dela como um novo receptáculo para si *(Sessão: [[VF30 ― Por Trás Daquela Porta Trancada]])*.
 
-- Com a ajuda de [[Célia]] e da [[SAPO#Gomes SNA|Gomes SNA]], Alice conseguiu se libertar da influência do Lorde das Neves e reivindicar a **Coroa da Primavera**, se tornando assim a nova monarca da estação. No processo, o antigo rei invernal acabou ficando preso em sua mão esquerda *(Sessão: [[VF32 ― Alice]])*.
+- Com a ajuda de [[Célia]] e da [[Gomes SNA]], Alice conseguiu se libertar da influência do Lorde das Neves e reivindicar a **Coroa da Primavera**, se tornando assim a nova monarca da estação. No processo, o antigo rei invernal acabou ficando preso em sua mão esquerda *(Sessão: [[VF32 ― Alice]])*.

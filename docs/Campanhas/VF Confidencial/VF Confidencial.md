@@ -16,26 +16,10 @@
 
 ---
 
-## Lista de Casos
+## Arquivo
 
 Esta seção serve como uma lista dos casos que fazem parte do **VF Confidencial.** São eles:
 
-### Vol. 1 ― Azul Profundo
-
-Um grupo de especialistas em assuntos que envolvem o oceano foi montado pela [[SAPO]] para investigar uma série de eventos bizarros que têm ocorrido em alto-mar. Após se encontrar na cidade de [[Porto Lobo]], os agentes embarcam em um navio em busca de completar sua missão.
-
-#### Participantes
-
-| Jogador       | Função   | Personagem    |
-| ------------- | -------- | ------------- |
-| [[Bruno]]     | Narrador | -             |
-| [[Clenildo]]  | Jogador  | [[Elizabeth]] |
-| [[Emanoel]]   | Jogador  | [[Cabeça]]    |
-| [[Guilherme]] | Jogador  | [[Bok]]       |
-| [[Saymon]]    | Jogador  | [[Nalvan]]    |
-
-#### Sessões
-
-1. [[VFC01a ― Azul Profundo (Parte I)]]
-2. [[VFC01b ― Azul Profundo (Parte II)]]
-3. [[VFC01c ― Azul Profundo (Parte III)]]
+| Caso                           | Sinopse                                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [[Caso VFC01 (Azul Profundo)]] | Uma equipe de especialistas parte para alto-mar para solucionar um mistério envolvendo pessoas desaparecidas. |

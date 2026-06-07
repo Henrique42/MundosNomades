@@ -35,7 +35,7 @@
 
 ### Sem Combate
 
-- Confeiteira
+- [[Fifi|Fada Confeiteira]]
 - Florista
 - Fadas Bombadas do Moinho
 - [[Gatos Reais|Presença Misteriosa do Castelo]]
@@ -91,4 +91,4 @@ Durante sua pausa, ela escuta uma comoção distante e usa essa oportunidade par
 
 ---
 
-[[VF28 ― Tempo, Fique Parado|<< Anterior]] | [[VF30 ― Por Trás Daquela Porta Trancada|Próxima >>]]
+[[VF28 ― Um Conto de Inverno|<< Anterior]] | [[VF30 ― Por Trás Daquela Porta Trancada|Próxima >>]]

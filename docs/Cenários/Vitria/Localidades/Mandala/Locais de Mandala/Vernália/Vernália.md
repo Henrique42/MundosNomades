@@ -46,7 +46,7 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 	- **AA:** Antes da Aliança
 	- **DA:** Depois da Aliança
 
-No passado, a região conhecida como **Arquipélago Vernaliano**, era composta por um conjunto de cidades-estados independentes. Um delas, por exemplo, era a cidade de Porto Lobo, fundada em 696 AA por Arendel, considerado o maior herói do país, após o mesmo derrotar o então governante do território, o terrível "Rei Lobo".
+No passado, a região conhecida como **Arquipélago Vernaliano**, era composta por um conjunto de cidades-estados independentes. Um delas, por exemplo, era a cidade de Porto Lobo, fundada em 696 AA por [[Arendel]], considerado o maior herói do país, após o mesmo derrotar o então governante do território, "O Terrível [[Rei Lobo]]".
 
 Essa época foi marcada pelo constante confronto entre humanoides e monstros, razão pela qual o governo das cidades-estados se unirão, em 624 AA, para formar a chamada **Inquisição Vernaliana**. A inquisição foi formada por, entre outras coisas, realizar uma das maiores Caças às Bruxas de Mandala.
 

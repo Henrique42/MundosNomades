@@ -49,4 +49,4 @@
 
 ---
 
-[[VF04 ― Breves Encontros|<< Anterior]] | [[VF06 ― Mergulhe|Próxima >>]]
+[[VF04 ― Breves Encontros|<< Anterior]] | [[VF06 ― Continue Pescando|Próxima >>]]
