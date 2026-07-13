@@ -67,7 +67,7 @@ Reina explica sobre as notícias (ou falta delas) de uma situação antiga, a ca
 
 No fim, eles aceitam a missão. Depois de uma conversa, que inclui a adição de Tamur como integrante do grupo, eles decidem que partir imediatamente à pé, visto que a situação em Ciprino pode ser urgente e o barco confiável parceiro da organização está indisponível. O grupo é oficializado como Gomes Sociedade Não Anônima.
 
-Então, eles começam a se despedir das pessoas de Porto Lobo. Eles visitam conhecidos como as tias da cozinha (Vera e Roberta), Teresa e Mocho, Fausto, Roberta (Atriz) e Dona Edna. Falhando em encontrar Sérgio, Garou e Zaara, eles partem de Porto Lobo. 
+Então, eles começam a se despedir das pessoas de Porto Lobo. Eles visitam conhecidos como as tias da cozinha (Vera e Roberta), Teresa e Mocho, Fausto, Roberta (Atriz) e Dona Edna. Falhando em encontrar Sérgio, Garou e Zaara, eles partem de Porto Lobo.
 
 Nisso, eles se deparam com alguém conhecido, que uma certa bruxa não deveria ter esquecido, a Deusa do Rio Siene. Depois de muito choro e desculpas, Lavenza fala que, no futuro, irá voltar para se encontrar com a deusa, que ainda estava irritada.
 
@@ -77,4 +77,4 @@ E assim se inicia uma nova jornada, com o grupo da o primeiro passo na neve em d
 
 ---
 
-[[VF24 ― Tom Nebuloso de Inverno|<< Anterior]] | [[VF26 — Coelho Branco|Próxima >>]]
+[[VF24 ― Tom Nebuloso de Inverno|<< Anterior]] | [[VF26 ― Coelho Branco|Próxima >>]]

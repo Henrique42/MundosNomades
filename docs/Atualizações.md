@@ -12,6 +12,17 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 ## Registro de Atualizações
 
+### 2026/07/13 (VF)
+
+- **Motivo:** Sessões 35 e 36 da campanha **Vestígios Fantasmas**.
+- **O que há de novo?**
+	- Novas sessões: [[VF35 ― Cidade Nova em Folha]] e [[VF36 ― Esta Casa]]
+	- Novos personagens: [[Oru]], [[Ziggy]], [[Cédric]] e [[Dehra]]
+	- Facção atualizada: [[SAPO]]
+	- Local atualizado: [[Ciprino]]
+
+---
+
 ### 2026/06/07 (VF, VFC)
 
 - **Motivo:** Sessões 33 e 34 da campanha **Vestígios Fantasmas** + expansão da wiki.
@@ -82,7 +93,7 @@ Esta página existe como uma forma de registrar as atualizações na wiki.
 
 - **Motivo:** Sessão 26 da campanha **Vestígios Fantasmas**.
 - **O que há de novo?**
-	- Nova sessão: [[VF26 — Coelho Branco]]
+	- Nova sessão: [[VF26 ― Coelho Branco]]
 	- Novos NPCs: [[Célia]] e [[Alice]]
 	- Novo local: [[Ondas Novas]]
 

@@ -27,7 +27,10 @@ O objetivo da agência é solucionar mistérios que envolvam atividades sobrenat
 ### Filial de Ciprino
 
 - Membros:
-	- [[Dana Baroni]] *(Líder da filial)*
+	- [[Dana Baroni]] *(Líder da filial; Desaparecida)*
+	- [[Ziggy]] *(Secretário; Líder Temporário)*
+	- [[Oru]]
+	- [[Cédric]]
 
 ### Gomes SNA
 

@@ -45,7 +45,7 @@
 1. Após o fim da missão, nossos investigadores retornam para a sede da organização. No caminho, eles finalmente encontram com Andriessen, o chefe da guarda.
 2. Na sede, eles reportam o que ocorreu na missão para os seus superiores. Depois, há uma conversa com Mocho, que agora faz parte da organização, e Teresa na enfermaria improvisada.
 3. Após algumas horas de descanso, os personagens enfim partem para a biblioteca com Fausto, escondidos da organização.
-4. A biblioteca, abandonada há décadas, está em uma situação precária, coberta por plantas bizarras e uma energia misteriosa. Lá, eles encontram um trio de criaturas curiosas, conhecidas como *Sanwitches*.
+4. A biblioteca, abandonada há décadas, está em uma situação precária, coberta por plantas bizarras e uma energia misteriosa. Lá, eles encontram um trio de criaturas curiosas, conhecidas como **Sanwitches**.
 
 ---
 

@@ -48,7 +48,7 @@
 
 ### Grupo Completo
 
-Depois de se reunirem e se atualizarem sobre seus achados, a [[SAPO#Gomes SNA|Gomes S.N.A.]] discute sobre a ponte a frente do grupo e a grande parede do outro lado. Aenoir e Lavenza decidem olhar mais de perto e começam a subir na ponte, quando a Aasimar percebe algo de errado. 
+Depois de se reunirem e se atualizarem sobre seus achados, a [[SAPO#Gomes SNA|Gomes S.N.A.]] discute sobre a ponte a frente do grupo e a grande parede do outro lado. Aenoir e Lavenza decidem olhar mais de perto e começam a subir na ponte, quando a Aasimar percebe algo de errado.
 
 Lavenza relata para o grupo que tem algo de diferente com essa ponte e Marduk começa um ritual para conjurar **Detect Magic**. A impaciente aasimar escolhe expandir suas asas e passar por cima da ponte, mas é interrompida por um forte vento que surge e a derruba em direção ao abismo. Aenoir tenta parar a queda com **Feather Fall**, mas não obtêm sucesso.
 
@@ -67,7 +67,7 @@ Chegando na cidade, eles encontram um senhor vendendo algo que ele chama de "CDs
 
 Depois de se informar com a Confeiteira sobre os antigos reis e rainhas das estações, eles descobrem que cerveja pode servir para o verão e que milho e abóboras, para o outono. O grupo vai então até uma uma florista (que tinha bastante história pra contar sobre seus anos quando era mais nova) e conseguem obter uma coroa de flores para a primavera.
 
-Tendo em mãos possíveis respostas para a primavera e verão, o grupo vai em direção a um moinho, onde eles planejam obter pó de milho para o outono. No local, eles encontram duas fadas musculosas trabalhando ao girar o moinho para criar o pó de milho. Inicialmente, as fadas não dão muita atenção ao grupo, mas acabam aceitando a ajuda de Tamur no moinho e a cerveja grátis. 
+Tendo em mãos possíveis respostas para a primavera e verão, o grupo vai em direção a um moinho, onde eles planejam obter pó de milho para o outono. No local, eles encontram duas fadas musculosas trabalhando ao girar o moinho para criar o pó de milho. Inicialmente, as fadas não dão muita atenção ao grupo, mas acabam aceitando a ajuda de Tamur no moinho e a cerveja grátis.
 
 A Gomes SNA retorna para a estrutura, dessa vez, usando cordas para deixar um caminho pela ponte, facilitando as passagens póstumas. Quando eles colocam os items nos pratos como resposta, a estrutura parece aceitar por um momento. Porém, o pó de milho não parece ter sido uma resposta satisfatória. Como última alternativa, eles vão à floresta próxima da cidade em busca de abóboras.
 

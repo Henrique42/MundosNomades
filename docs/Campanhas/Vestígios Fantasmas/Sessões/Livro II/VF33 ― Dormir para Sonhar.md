@@ -20,7 +20,7 @@
 
 - [[Floresta Caburé]]
 	- Cabana do Igor
-- Ponta Floresta
+- [[Ponta Floresta]]
 	- Delegacia
 
 ---
@@ -45,7 +45,7 @@ Vendo que não há mais nada na sala, Lavenza sai pela porta. Fora, ela encontra
 
 O grupo continua andando pela casa. Aenoir entra em um quarto que parece ser o quarto do mestre da casa, encontrando um mapa na parede que indica que a cabana fica no fim da Floresta Caburé. Vasculhando um pouco mais, ela também encontra um baú e chama Lavenza para checar o conteúdo.
 
-Lavenza encontra um livro que parece ser um diário de um herbalista, contendo fórmulas para poções de cura, e uma imagem de um sol, lua e estrela que lembra Aenoir da carta do Sol Invertido. Ver essa imagem faz Lavenza lembrar de algo que seu mestre Igor disse para ela quando era mais nova: 
+Lavenza encontra um livro que parece ser um diário de um herbalista, contendo fórmulas para poções de cura, e uma imagem de um sol, lua e estrela que lembra Aenoir da carta do Sol Invertido. Ver essa imagem faz Lavenza lembrar de algo que seu mestre Igor disse para ela quando era mais nova:
 
 > Lavenza, vê se me escuta. Aprender magia não é algo natural. A nossa verdadeira natureza como usuários de magia não é a vida, mas sim a morte. Esse caminho não é nada além de uma rota para a autodestruição...
 

@@ -1,4 +1,4 @@
-**Porto Lobo** é uma cidade no país [[Vernália|Vernália]], ela é mais conhecida pelo seu porto, o qual foi essencial para o comércio e navegação no **Mar Utânico**.
+**Porto Lobo** é uma cidade no país [[Vernália|Vernália]]. Ela é mais conhecida pelo seu porto, o qual foi essencial para o comércio e navegação no **Mar Utânico**.
 
 ---
 
@@ -53,6 +53,6 @@ Durante o Festival do ano de 79 DA, mais conhecido como [[Vernália#Noite das Ab
 <figure align="center">
 	<img src="https://cdna.artstation.com/p/assets/images/images/004/603/772/large/steffen-biko-harbour.jpg" style="border: 1px solid black;" alt="Porto Lobo">
 	<figcaption>
-		Fonte: Steffen Biko (<a href="https://www.artstation.com/biko">Artstation</a>)
+		Fonte: Steffen Biko (<a href="https://www.artstation.com/artwork/vBBA6">Artstation</a>)
 	</figcaption>
 </figure>

@@ -56,7 +56,7 @@ O ritual parece consistir no ato de Sirion passar algum poder ou energia para Ma
 
 Marduk agora se encontra flutuando em sua consciência. Lá, ele sente uma presença: Leto. O espírito da biblioteca se desculpa por trazer a tona essas memórias, mas a criança diz que está tudo bem. O druida também agradece por lembrá-lo, já que, mesmo que aquelas fossem memórias dolorosas, ele não gostaria de esquecê-las.
 
-Leto aproveita o encontro para dar um aviso para Marduk. Ele diz que os itens que os investigadores receberam junto dos livros são apenas uma distração e que os livros são, na verdade, de extrema importância. Leto continua, explicando que existem 22 deles e que eles devem juntar todos para revelar seu poder, o qual pode ser usado contra [[O Observador]].
+Leto aproveita o encontro para dar um aviso para Marduk. Ele diz que os itens que os investigadores receberam junto dos [[Conjunto de Fábulas|Livros]] (após a biblioteca) são apenas uma distração e que os livros são, na verdade, de extrema importância. Leto continua, explicando que existem 22 deles e que eles devem juntar todos para revelar seu poder, o qual pode ser usado contra [[O Observador]].
 
 ### Ponta Floresta
 
@@ -64,11 +64,11 @@ O grupo desperta, exceto por Lavenza que decide continuar dormindo. Eles convers
 
 Os guardas aparecem e oferecem um café da manhã, o grupo aceita. O pão não estava muito bom, então Tamur decide conjurar mel do **Jarro de Alquimia** para adoçá-lo. Ele o oferece aos guardas, o que alguns aceitam.
 
-Terminando de comer, eles são informados de que o chefe da guarda deseja falar com eles. Decidindo cooperar, o grupo vai para o escritório do chefe, onde se encontra com um homem humano, que é o capitão da guarda, e um kobold vestindo uma capa verde. 
+Terminando de comer, eles são informados de que o chefe da guarda deseja falar com eles. Decidindo cooperar, o grupo vai para o escritório do chefe, onde se encontra com um homem humano, que é o capitão da guarda, e um kobold vestindo uma capa verde.
 
 O humano, chamado de Gai, é o antigo líder do grupo de mercenários que Tamur fazia parte no passado, então eles acabam relembrando os velhos tempos. O Kobold é um druida chamado Kleon, o qual continua calado, observando a conversa.
 
-Gai fala sobre o ataque que o grupo sofreu. Ele fala sobre como a população acredita que eles mataram o guardião da floresta, o que é considerado um mal presságio. Ele esclarece que não é supersticioso, mas deve fazer seu trabalho e, por isso, pediu para falar com o grupo. 
+Gai fala sobre o ataque que o grupo sofreu. Ele fala sobre como a população acredita que eles mataram o guardião da floresta, o que é considerado um mal presságio. Ele esclarece que não é supersticioso, mas deve fazer seu trabalho e, por isso, pediu para falar com o grupo.
 
 Gai pede para um guarda trazer um pedaço de carne do javali e pergunta se o grupo sabe algo a mais sobre a situação. O grupo olha a carne novamente, percebendo que o líquido escuro ainda está saíndo da mesma. Eles dizem não saber de onde veio o javali e que foram atacados sem motivo aparente.
 
@@ -94,4 +94,4 @@ O resto da viagem é tranquila. Depois de muito tempo, eles finalmente estão di
 
 ---
 
-[[VF33 ― Dormir para Sonhar|<< Anterior]] | Próxima >>
+[[VF33 ― Dormir para Sonhar|<< Anterior]] | [[VF35 ― Cidade Nova em Folha|Próxima >>]]

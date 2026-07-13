@@ -78,17 +78,17 @@ Em algum momento dessa conversa, Lavenza descobre que a gata preta, irmã da ros
 
 Depois de tirar as pessoas das jaulas, a gata diz que as bruacas irão perceber logo que algo está errado. Assim, o grupo decide acender uma fogueira para tentar aquecer as pessoas desacordadas. Enquanto isso, tendo em mente o confronto vindouro, Aenoir prepara um chá para tentar acordar Dr. Watson.
 
-Eles decidem se preparar para uma emboscada: Lavenza se esconde atrás da porta, Marduk se disfarça como uma das mulheres e entra em uma das jaulas enquanto Aenoir e Dr. Watson fingem estar desacordados ao lado da fogueira. 
+Eles decidem se preparar para uma emboscada: Lavenza se esconde atrás da porta, Marduk se disfarça como uma das mulheres e entra em uma das jaulas enquanto Aenoir e Dr. Watson fingem estar desacordados ao lado da fogueira.
 
 Um grupo de guardas congelados chega logo em seguida, um deles com uma nota dizendo: "Não temos tempo para lidar com os ratos." A emboscada tem um certo sucesso, já que o grupo consegue lidar com os guardas.
 
 ### Tamur
 
-Tamur, Manah e Ignacius são levados para uma sala diferente, aparentemente cheia de salgadinhos para festa. Fazendo jus a sua reputação, Tamur aproveita para obter um acompanhamento para sua futura cerveja, mesmo quando eles se encontram bem gelados. 
+Tamur, Manah e Ignacius são levados para uma sala diferente, aparentemente cheia de salgadinhos para festa. Fazendo jus a sua reputação, Tamur aproveita para obter um acompanhamento para sua futura cerveja, mesmo quando eles se encontram bem gelados.
 
 Saindo da sala, Tamur encontra dois zumbis gélidos vestindo casacos da SAPO parecidos com o seu. Assim, Tamur remove, meio violentamente, os casacos dos zumbis. Ao sentir cheiro de ervas de chá e encontrar a foto de um halfling completamente aleatório, o draconato imagina que eles devem pertencer a Aenoir e Watson.
 
-Depois do encontro, Manah usa **Augury** para ver qual caminho eles devem seguir. O resultado aparenta dizer que a direção atual que eles seguem tem algo ruim, mas Tamur diz que é exatamente para lá que eles devem ir. 
+Depois do encontro, Manah usa **Augury** para ver qual caminho eles devem seguir. O resultado aparenta dizer que a direção atual que eles seguem tem algo ruim, mas Tamur diz que é exatamente para lá que eles devem ir.
 
 O trio continua explorando em volta, se deparando com uma porta congelada onde eles sentem uma estranha presença, provavelmente o que Manah tinha aludido antes. Eles escutam gemidos vindo do outro lado da porta e decidem quebrá-la.
 

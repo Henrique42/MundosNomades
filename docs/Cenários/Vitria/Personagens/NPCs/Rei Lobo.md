@@ -26,7 +26,7 @@
 
 ## Sobre
 
-- Após ser morto por Arendel, o Rei Lobo selou sua espada em um lago que ficava no [[Bosque dos Lobos|santuário de uma floresta]] *(Sessão: [[VF33 ― Dormir para Sonhar]])*.
+- Após ser morto por Arendel, o Rei Lobo selou sua [[Espada do Líder da Alcateia|espada]] em um lago que ficava no [[Bosque dos Lobos|santuário de uma floresta]] *(Sessão: [[VF33 ― Dormir para Sonhar]])*.
 
 <figure align="center">
 	<img src="/MundosNomades/img/VF+/NPCs/Midna - Rei Lobo (Lobisomem).jpg" width="400" style="border: 1px solid black;" alt="Rei Lobo (forma de lobisomem)">

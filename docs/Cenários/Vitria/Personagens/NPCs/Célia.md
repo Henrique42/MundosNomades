@@ -19,7 +19,7 @@
 	- **Situação:** Viva
 	---
 	### Primeira Aparição
-	- [[VF26 — Coelho Branco]]
+	- [[VF26 ― Coelho Branco]]
 
 ---
 

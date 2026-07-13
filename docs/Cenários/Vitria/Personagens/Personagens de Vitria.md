@@ -34,6 +34,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### C
 
 - [[Capra]]
+- [[Cédric]]
 - [[Célia]]
 - [[Chien]]
 
@@ -41,6 +42,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 - [[Dama das Flores]]
 - [[Dana Baroni]]
+- [[Dehra]]
 - [[Dona Edna]]
 
 ### E
@@ -93,6 +95,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### O
 
 - [[O Observador]]
+- [[Oru]]
 
 ### R
 
@@ -118,3 +121,4 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### Z
 
 - [[Zaara]]
+- [[Ziggy]]

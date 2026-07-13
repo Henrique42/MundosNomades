@@ -45,8 +45,8 @@
 3. Após uma noite de descanso, eles voltam a ter uma reunião com Reina. Ela explica melhor os detalhes do funcionamento do time e apresenta a existência do quadro de missões.
 	-  Os jogadores escolhem uma missão relacionada ao desaparecimento de uma criança para investigar.
 4. Eles investigam o quarto da criança após conversar com a mãe da mesma.
-5. Lá, eles encontram um símbolo estranho na parede e um boneco de pano, ambos com uma tinta vinho que foi realçada pela magia *detect magic*.
-6. O *detect magic* também indicou que a magia presente parecia ser do tipo **encantamento**.
+5. Lá, eles encontram um símbolo estranho na parede e um boneco de pano, ambos com uma tinta vinho que foi realçada pela magia **detect magic**.
+6. O detect magic também indicou que a magia presente parecia ser do tipo **encantamento**.
 7. Após sair da casa, os jogadores se encontram com guardas que estavam investigando a casa vizinha. Entre eles, estava um dos guardas que estava presente no caso do teatro.
 
 ---

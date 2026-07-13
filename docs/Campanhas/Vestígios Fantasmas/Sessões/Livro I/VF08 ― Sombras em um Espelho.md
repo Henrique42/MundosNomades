@@ -41,7 +41,7 @@
 
 1. Os jogadores tentam entrar na casa da criança desaparecida enquanto os guardas a vasculham.
 	- Inicialmente, Lavenza tenta mandar seu familiar cobra, mas Sérgio a percebe.
-	- A cobra consegue passar após conjurarem *Invisibility* nela.
+	- A cobra consegue passar após conjurarem **Invisibility** nela.
 2. Na casa, um dos guardas começa a rir descontroladamente após se aproximar de um espelho. Os guardas levam o espelho ao sair.
 3. Marduk também entra na casa, transformado em borboleta.
 4. Após conversar novamente com Lucilla e investigar o parquinho próximo, os jogadores encontram o panfleto de um circo.

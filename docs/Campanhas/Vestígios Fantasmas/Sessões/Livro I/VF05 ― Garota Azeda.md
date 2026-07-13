@@ -44,7 +44,7 @@
 	- Eles descobrem que Joaquim foi visto com homens encapuzados.
 3. Após passar pela sede seus companheiros se juntam à eles.
 4. Fora do bar, eles ameaçam um guarda bêbado a fim de obter informações, sem muito sucesso.
-5. De volta ao bar, Lavenza utiliza *detect magic* e descobre que Roberta carregava um item mágico (um pergaminho de *disguise self*, como revelado posteriormente).
+5. De volta ao bar, Lavenza utiliza **detect magic** e descobre que Roberta carregava um item mágico (um pergaminho de **disguise self**, como revelado posteriormente).
 6. Após ameaças e discussões, Roberta se separa do grupo.
 
 ---

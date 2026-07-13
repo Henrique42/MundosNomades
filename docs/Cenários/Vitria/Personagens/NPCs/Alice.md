@@ -23,14 +23,14 @@
 	- **Situação:** Viva
 	---
 	### Primeira Aparição
-	- [[VF26 — Coelho Branco]] *(Menção)*
+	- [[VF26 ― Coelho Branco]] *(Menção)*
 	- [[VF30 ― Por Trás Daquela Porta Trancada]] *(Aparição)*
 
 ---
 
 ## Sobre
 
-- Durante uma noite fria, quando Ondas Novas estava sendo atacada por monstros, Alice desapareceu de forma misteriosa *(Sessão: [[VF26 — Coelho Branco]])*.
+- Durante uma noite fria, quando Ondas Novas estava sendo atacada por monstros, Alice desapareceu de forma misteriosa *(Sessão: [[VF26 ― Coelho Branco]])*.
 
 - Alice aparenta ser filha do Lorde das Neves. Tal conexão sanguínea fez com que o monarca desejasse o corpo dela como um novo receptáculo para si *(Sessão: [[VF30 ― Por Trás Daquela Porta Trancada]])*.
 

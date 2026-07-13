@@ -120,7 +120,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 **Sinopse:** A caminho de Ciprino, a Gomes SNA faz uma parada para investigar um mistério envolvendo coelhos brancos e uma menina chamada Alice. Mal sabiam eles que o inverno daquele ano seria mais mágico e mortal do que o normal.
 
-- [[VF26 — Coelho Branco]]
+- [[VF26 ― Coelho Branco]]
 - [[VF27 ― Tempestade de Neve]]
 - [[VF28 ― Um Conto de Inverno]]
 - [[VF29 ― Pontes e Muros]]
@@ -134,3 +134,10 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 - [[VF33 ― Dormir para Sonhar]]
 - [[VF34 ― Um Eco, Uma Mácula]]
+
+#### Interlúdio: Conhecendo Ciprino
+
+**Sinopse:** Após finalmente atravessar a Floresta Caburé, a Gomes SNA aproveita a oportunidade para conhecer a cidade de Ciprino e a sede da SAPO existente lá.
+
+- [[VF35 ― Cidade Nova em Folha]]
+- [[VF36 ― Esta Casa]]

@@ -69,7 +69,7 @@ O guarda diz que ele está aqui para confiscar a carne pois ela pode ser perigos
 
 Logo após a saída do guarda, o dono da estalagem brevemente fala com Aenoir e pergunta se o grupo planeja trazer mais problemas para o seu estabelecimento. A elfa diz que o grupo planeja sair para investigar os ataques e que qualquer problema deve acontecer fora da cidade, algo que o dono aceita relutantemente. Aenoir pergunta ao dono sobre os ataques e, apesar do homem não saber muito sobre, ele comenta que a dona Carmem deve saber mais devido a seus talentos conversacionais.
 
-A feiticeira então decide ler para passar o tempo enquanto aguarda alguém do grupo descer para acompanhá-la. Ela encontra um conto sobre uma sacerdotisa elfa usando um chapéu estrelado que uma vez encantou a lua. Um detalhe desse conto é que a primeira lua nova aconteceu devido a lua sentir falta da sacerdotisa depois da mesma falecer. 
+A feiticeira então decide ler para passar o tempo enquanto aguarda alguém do grupo descer para acompanhá-la. Ela encontra um conto sobre uma sacerdotisa elfa usando um chapéu estrelado que uma vez encantou a lua. Um detalhe desse conto é que a primeira lua nova aconteceu devido a lua sentir falta da sacerdotisa depois da mesma falecer.
 
 Terminando seu descanso, Tamur desce as escadas e se junta a Aenoir para procurar informações pela cidade. Eles decidem ir falar brevemente com Célia, assegurando-a de que o grupo irá buscar sua irmã. A dupla então segue para a casa ao lado para falar com Carmem.
 
@@ -99,4 +99,4 @@ Em meio à busca, o trio acaba se perdendo em uma nevasca. Quando Dr. Watson diz
 
 ---
 
-[[VF26 — Coelho Branco|<< Anterior]] | [[VF28 ― Um Conto de Inverno|Próxima >>]]
+[[VF26 ― Coelho Branco|<< Anterior]] | [[VF28 ― Um Conto de Inverno|Próxima >>]]

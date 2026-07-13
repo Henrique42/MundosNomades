@@ -1,4 +1,4 @@
-Em [[Mandala]], a maioria das pessoas não cultua deuses com base na moral dos mesmos, mas sim, nos benefícios que tal ato traz ou malefícios que são impedidos por ele. Por exemplo, um agricultor provavelmente não vai cultuar um deus da colheita por se identificar com o alinhamento dele, mas porque a existência da sua plantação depende disso.
+Em [[Vitria]], a maioria das pessoas não cultua deuses com base na moral dos mesmos, mas sim, nos benefícios que tal ato traz ou malefícios que são impedidos por ele. Por exemplo, um agricultor provavelmente não vai cultuar um deus da colheita por se identificar com o alinhamento dele, mas porque a existência da sua plantação depende disso.
 
 Isso não é necessariamente verdade para pessoas que decidiram dedicar a sua vida para servir uma divindade, como clérigos, mas eles ainda precisam respeitar e tentar agradar outros deuses fora o seu patrono.
 
@@ -12,7 +12,7 @@ O desenvolvimento espiritual de algo não significa necessariamente o surgimento
 
 ## Os Avatares
 
-Os Avatares, como já explicado anteriormente, são os deuses que personificam os diferentes aspectos de Mandala. Este grupo inclui as divindades mais famosas e cultuadas do mundo, como:
+Os **Avatares**, como já explicado anteriormente, são os deuses que personificam os diferentes aspectos de Mandala. Este grupo inclui as divindades mais famosas e cultuadas do mundo, como:
 
 | Divindade | Domínio              | Símbolo         |
 | --------- | -------------------- | --------------- |
@@ -33,9 +33,17 @@ Os Avatares, como já explicado anteriormente, são os deuses que personificam o
 | [[Utana]] | [[Mar Utânico]]      | Espadarte       |
 | Zanii     | Natureza             | Cervo           |
 
+### Lares
+
+**Lares** são avatares menores que personificam e protegem residências. No passado, o seu culto era um elemento importante do cotidiano dos cidadãos de Vitria. Contudo, com o tempo, a sua existência passou a ser cada vez mais rara.
+
+---
+
 ## Os Antigos
 
 Ao contrário dos Avatares, que representam aspectos conhecidos pelos mortais, os Antigos são criaturas que habitam os cantos menos explorados do universo. A maioria das pessoas os temem, mas existem aqueles que fazem cultos em seus nomes.
+
+---
 
 ## O Demiurgo
 

@@ -42,7 +42,7 @@
 
 ## Principais eventos
 
-1. Os investigadores vão para a *Forja Germain* para saber mais sobre o incidente. Lá, eles conversam com Bjorn e seu filho.
+1. Os investigadores vão para a **Forja Germain** para saber mais sobre o incidente. Lá, eles conversam com Bjorn e seu filho.
 2. Sherlock banha sua espada curta em prata.
 3. Eles saem da cidade, chegando a um pedágio comandado por guardas. Rhogar paga o pedágio para eles e para Garou, que também estava lá.
 4. Junto de Garou, eles adentram a floresta. O grupo é atacado por uma matilha de lobos, mas consegue avançar.

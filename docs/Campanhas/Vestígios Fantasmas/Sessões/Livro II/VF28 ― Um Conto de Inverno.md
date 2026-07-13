@@ -46,15 +46,15 @@
 
 ### Grupo 1
 
-Após a queda no buraco sem fim, a [[SAPO#Gomes SNA|Gomes S.N.A.]] percebe que está em uma colina no meio de um grande campo nevado. Olhando em volta, o grupo encontra uma floresta na descida da colina. 
+Após a queda no buraco sem fim, a [[SAPO#Gomes SNA|Gomes S.N.A.]] percebe que está em uma colina no meio de um grande campo nevado. Olhando em volta, o grupo encontra uma floresta na descida da colina.
 
-Entrando na floresta, que está decorada com enfeites natalinos, que eles não reconhecem, Marduk detecta a presença de corujas adentro. Assim, o grupo decide ir mais fundo. A criança encontra um bombom entre as árvores e decide comer. A natureza mágica do doce, no entanto, o faz crescer alguns centímetros. 
+Entrando na floresta, que está decorada com enfeites natalinos, que eles não reconhecem, Marduk detecta a presença de corujas adentro. Assim, o grupo decide ir mais fundo. A criança encontra um bombom entre as árvores e decide comer. A natureza mágica do doce, no entanto, o faz crescer alguns centímetros.
 
 Ele encontra mais bombons e repassa para o restante do grupo, que os os comem e experienciam os seguintes efeitos:
 
 - Aenoir recupera um pouco de sua magia;
 - Lavenza passa a escutar uma música que se recusa a sair de sua cabeça;
-- Tamur passa a falar tudo gritando sem perceber o volume de sua voz. 
+- Tamur passa a falar tudo gritando sem perceber o volume de sua voz.
 
 Um pouco depois, o grupo encontra uma árvore com uma porta que aparentemente serve como uma casa. Vendo que é dai que a presença de corujas está vindo, eles decidem entrar. Dentro da casa, eles escutam um espirro, para o qual Marduk responde *"Saúde!"*. Isso faz com que uma voz vinda do andar de cima agradeça e, logo em seguida, perceba que tem alguém na casa. *"Quem está aí?"*, pergunta a voz.
 
@@ -86,7 +86,7 @@ Explorando mais a cidade, Dr. Watson decide ir para a casa de uma bruxa, outro l
 
 ### Reunião e Nova Separação
 
-Na floresta, a Gomes S.N.A. finalmente se reúne e discute os seus achados. Lavenza expressa interesse em ir para a cada da bruxa, mas a fada tradutora (agora conhecida como Confeiteira) diz que ela não vai para aquele lugar, explicando que as fadas procuram passar longe de lá. 
+Na floresta, a Gomes S.N.A. finalmente se reúne e discute os seus achados. Lavenza expressa interesse em ir para a cada da bruxa, mas a fada tradutora (agora conhecida como Confeiteira) diz que ela não vai para aquele lugar, explicando que as fadas procuram passar longe de lá.
 
 Aenoir e Tamur ficam interessados na aranha caramelizada que a Confeiteira diz ser a sua especialidade. Então, o grupo decide se separar novamente, com Lavenza, Dr. Watson, Manah e Ignacius indo para a casa da bruxa enquanto Aenoir, Marduk e Tamur vão para a casa da Confeiteira.
 
