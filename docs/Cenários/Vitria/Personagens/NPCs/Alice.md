@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Alice.png" width="300" height="300" style="border: 1px solid black;" alt="Alice">
+	<img src="/MundosNomades/img/Vitria/NPCs/Alice.png" width="300" height="300" style="border: 1px solid black;" alt="Alice">
 </figure>
 
 !!! abstract "Perfil"

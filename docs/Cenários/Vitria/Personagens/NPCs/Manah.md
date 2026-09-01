@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Manah.png" width="300" height="300" style="border: 1px solid black;" alt="Manah">
+	<img src="/MundosNomades/img/Vitria/NPCs/Manah.png" width="300" height="300" style="border: 1px solid black;" alt="Manah">
 </figure>
 
 !!! abstract "Perfil"
@@ -25,6 +25,6 @@
 
 ## Sobre
 
-- Durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]], Manah fez uma previsão sobre o "bote da serpente", isto é, o ataque realizado por [[Átropos]] na mesma noite *(Sessão: [[VF22 ― Palha ao Vento]])*.
+- Durante a [[Noite das Abóboras]], Manah fez uma previsão sobre o "bote da serpente", isto é, o ataque realizado por [[Átropos]] na mesma noite *(Sessão: [[VF22 ― Palha ao Vento]])*.
 
 - Após ajudar a [[Gomes SNA]] na luta contra o [[Lorde das Neves]], Manah e Ignacius ficaram na [[Corte Cerúlea]] para treinar com as [[Fadas do Espaço-Tempo]] *(Sessão: [[VF32 ― Alice]])*.

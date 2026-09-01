@@ -5,7 +5,7 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Merlusse (Real).png" width="400" style="border: 1px solid black;" alt="Habitante do Abismo">
+	<img src="/MundosNomades/img/Vitria/NPCs/Merlusse (Real).png" width="400" style="border: 1px solid black;" alt="Habitante do Abismo">
 	<figcaption>
 		Fonte:  DZO <em>(Magic the Gathering)</em>
 	</figcaption>
@@ -34,7 +34,7 @@ O **Habitante do Abismo** é uma aberração que se encontra aprisionada nas pro
 - Enquanto preso, o habitante pode usar "receptáculos" para atuar na superfície. Um desses receptáculos foi uma jovem vidente chamada **Merlusse** *(Side-stories: [[VFC01b ― Azul Profundo (Parte II)]] e [[VFC01c ― Azul Profundo (Parte III)]])*.
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Merlusse.png" width="300" height="300" style="border: 1px solid black;" alt="Merlusse">
+	<img src="/MundosNomades/img/Vitria/NPCs/Merlusse.png" width="300" height="300" style="border: 1px solid black;" alt="Merlusse">
 	<figcaption>
 		Versão "Merlusse".
 	</figcaption>

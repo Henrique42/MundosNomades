@@ -14,24 +14,24 @@ O desenvolvimento espiritual de algo não significa necessariamente o surgimento
 
 Os **Avatares**, como já explicado anteriormente, são os deuses que personificam os diferentes aspectos de Mandala. Este grupo inclui as divindades mais famosas e cultuadas do mundo, como:
 
-| Divindade | Domínio              | Símbolo         |
-| --------- | -------------------- | --------------- |
-| Absas     | Magia/Ilusão         | Coelho          |
-| Alcór     | Sol/Dia              | Águia           |
-| Alnúr     | Lua/Noite            | Mariposa        |
-| Avhel     | Tempo                | Ampulheta       |
-| Blair     | Justiça/Ordem        | Chave e Cadeado |
-| [[Capra]] | Morte                | Bode Preto      |
-| Elres     | Malandragem          | Abutre          |
-| Gazna     | Guerra               | Lança           |
-| Lacán     | Forja                | Martelo         |
-| Magno     | Dinheiro/Economia    | Moeda           |
-| Nocta     | Arte                 | Harpa           |
-| Órpos     | Vento/Tempestade     | Garça           |
-| Skaha     | Agricultura          | Foice           |
-| Tarno     | Conhecimento/Memória | Caneta de Pena  |
-| [[Utana]] | [[Mar Utânico]]      | Espadarte       |
-| Zanii     | Natureza             | Cervo           |
+| Divindade | Domínio              | Símbolo        |
+| --------- | -------------------- | -------------- |
+| Absas     | Magia/Ilusão         | Pentagrama     |
+| Alcór     | Sol/Dia              | Fênix          |
+| Alnúr     | Lua/Noite            | Mariposa Lunar |
+| Avhel     | Tempo                | Ampulheta      |
+| Blair     | Justiça/Ordem        | Balança        |
+| [[Capra]] | Vida/Morte           | Bode Preto     |
+| Elres     | Malandragem          | Abutre         |
+| Gazna     | Guerra               | Elmo           |
+| Lacán     | Forja                | Martelo        |
+| Magno     | Dinheiro/Economia    | Moeda          |
+| Nocta     | Arte                 | Harpa          |
+| Órpos     | Vento/Tempestade     | Garça          |
+| Skaha     | Agricultura          | Foice          |
+| Tarno     | Conhecimento/Memória | Caneta de Pena |
+| [[Utana]] | [[Mar Utânico]]      | Espadarte      |
+| Zanii     | Natureza             | Cervo          |
 
 ### Lares
 

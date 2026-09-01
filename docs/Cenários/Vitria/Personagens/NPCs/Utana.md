@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Utana.png" width="300" style="border: 1px solid black;" alt="Deusa Utana">
+	<img src="/MundosNomades/img/Vitria/NPCs/Divindade - Utana.png" width="300" style="border: 1px solid black;" alt="Deusa Utana">
 </figure>
 
 !!! abstract "Perfil"

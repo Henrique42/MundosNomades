@@ -51,7 +51,7 @@
 
 - **Chegada no Plano Terreno;** Após o combate, os aventureiros atravessam o portal de volta ao mundo físico, mas não encontram sinais da bruxa na sala. Decidem sair dos esgotos para tentar encontrar pistas de seu paradeiro. Ao saírem, são surpreendidos por Miranda, a empregada da líder da Organização. Ela agradece por terem chegado até ali, mas diz que a missão tomou proporções inesperadas e que estava na hora de conhecerem a líder da organização.
 
-- **A Base;** Miranda então nos leva à base onde finalmente conhecemos Reina, a líder da Organização Salvaguarda para Atividades Paranormais e Ocultismo (SAPO). Ela então nos conta mais sobre a S.A.P.O. e que eles vem investigando vários acontecimentos estranhos na cidade mas mas diz podemos conversar sobre isso na manha seguinte, que nós provavelmente estávamos cansados e que haviam camas nos esperando.
+- **A Base;** Miranda então nos leva à base onde finalmente conhecemos Reina, a líder da Organização Salvaguarda para Atividades Paranormais e Ocultismo (SAPO). Ela então nos conta mais sobre a SAPO e que eles vem investigando vários acontecimentos estranhos na cidade mas mas diz podemos conversar sobre isso na manha seguinte, que nós provavelmente estávamos cansados e que haviam camas nos esperando.
 
 ---
 

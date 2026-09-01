@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Olhos.png" width="400" style="border: 1px solid black;">
+	<img src="/MundosNomades/img/Vitria/NPCs/Olhos.png" width="400" style="border: 1px solid black;">
 	<figcaption>Fonte: Aku no Hana (mangá)
 	</figcaption>
 </figure>

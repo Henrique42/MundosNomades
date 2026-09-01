@@ -1,7 +1,7 @@
 **S.A.P.O.** (Salvaguarda para Atividades Paranormais e Ocultismo) é uma agência misteriosa de investigadores paranormais de [[Vernália|Vernália]].
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Símbolos/SAPO.png" width="300" alt="Emblema da SAPO">
+	<img src="/MundosNomades/img/Vitria/Símbolos/SAPO.png" width="300" alt="Emblema da SAPO">
 </figure>
 
 ---
@@ -50,7 +50,7 @@ A **Divisão Aqua** é um grupo de elite da SAPO cuja função é lidar com assu
 
 ### Aliança com os Midna
 
-Após a [[Vernália#Noite das Aboboras|Noite das Abóboras]], a SAPO formou uma aliança com o [[Clã Midna]], uma antiga linhagem de lobisomens. Assim, alguns membros da família foram recebidos na organização como investigadores honorários.
+Após a [[Noite das Abóboras]], a SAPO formou uma aliança com o [[Clã Midna]], uma antiga linhagem de lobisomens. Assim, alguns membros da família foram recebidos na organização como investigadores honorários.
 
 - Membros:
 	- [[Garou]]

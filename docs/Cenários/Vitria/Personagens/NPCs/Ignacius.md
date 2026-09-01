@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Ignacius.jpg" width="300" style="border: 1px solid black;" alt="Ignacius">
+	<img src="/MundosNomades/img/Vitria/NPCs/Ignacius.jpg" width="300" style="border: 1px solid black;" alt="Ignacius">
 </figure>
 
 !!! abstract "Perfil"

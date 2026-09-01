@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Emano - Sherlock.jpg" width="300" style="border: 1px solid black;" alt="Sherlock Gomes">
+	<img src="/MundosNomades/img/Vitria/PCs/Emano - Sherlock.jpg" width="300" style="border: 1px solid black;" alt="Sherlock Gomes">
 </figure>
 
 !!! abstract "Perfil"

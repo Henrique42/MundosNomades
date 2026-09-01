@@ -1,11 +1,11 @@
-**Capra** é a divindade que personifica a morte. Ela é conhecida por ser uma das entidades mais respeitadas e temidas de [[Vitria]].
+**Capra** é a divindade que personifica o ciclo da vida e da morte. Ela é conhecida por ser uma das entidades mais respeitadas e temidas de [[Vitria]].
 
 ---
 
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Capra.png" width="300" style="border: 1px solid black;" alt="Deusa Capra">
+	<img src="/MundosNomades/img/Vitria/NPCs/Divindade - Capra.png" width="300" style="border: 1px solid black;" alt="Deusa Capra">
 </figure>
 
 !!! abstract "Perfil"
@@ -13,7 +13,7 @@
 	- **Alcunha(s):** -
 	- **Espécie:** Deidade
 	- **Gênero:** Feminino
-	- **Ocupação:** Deusa da Morte e dos Ciclos
+	- **Ocupação:** Deusa da Vida e da Morte
 	- **Afiliação:** 
 		- [[Divindades de Vitria]]
 		- [[Purgatório#Setor das Almas Perdidas|Setor das Almas Perdidas]]

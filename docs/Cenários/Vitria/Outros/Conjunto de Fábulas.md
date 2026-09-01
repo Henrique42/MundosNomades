@@ -1,4 +1,4 @@
-!!! info "Descrição"
+!!! info
 	- **Categoria:** Item Mágico
 	- **Criador(es):** [[Fídias, o Orador]], e [[Leto]]
 	- **Portador(es):** Vários
@@ -28,7 +28,7 @@ Segundo Leto, os livros contém uma forma secreta de derrotar [[O Observador]], 
 | X     | Roda da Fortuna    | [[Manah]]         |
 | XI    | A Força            | [[Rhogar]]        |
 | XII   | O Enforcado        | ?                 |
-| XIII  | Morte              | ?                 |
+| XIII  | Morte              | [[Vamas]]         |
 | XIV   | A Temperança       | ?                 |
 | XV    | O Diabo            | [[Ignacius]]      |
 | XVI   | A Torre            | ?                 |

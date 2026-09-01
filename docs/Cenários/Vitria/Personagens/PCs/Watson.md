@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Emano - Watson.jpeg" width="300" style="border: 1px solid black;" alt="Doutor Watson">
+	<img src="/MundosNomades/img/Vitria/PCs/Emano - Watson.jpeg" width="300" style="border: 1px solid black;" alt="Doutor Watson">
 </figure>
 
 !!! abstract "Perfil"

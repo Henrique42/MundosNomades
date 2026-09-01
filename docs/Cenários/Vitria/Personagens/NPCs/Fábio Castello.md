@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Fábio Castello.webp" width="300" alt="Fábio Castello">
+	<img src="/MundosNomades/img/Vitria/NPCs/Fábio Castello.webp" width="300" alt="Fábio Castello">
 	<figcaption>
 		Fonte: u/EmpathyMonster (<a href="https://www.reddit.com/r/DnD/comments/f9ip3j/ocartdrawing_the_monster_manual_8_noble/">Reddit</a>)
 	</figcaption>
@@ -29,4 +29,4 @@
 
 ## Sobre
 
-- Durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]], Fábio acabou sendo transformado em um monstro de chamas. Ele morreu após ser derrotado por um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]] *(Sessão: [[VF22 ― Palha ao Vento]])*.
+- Durante a [[Noite das Abóboras]], Fábio acabou sendo transformado em um monstro de chamas. Ele morreu após ser derrotado por um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]] *(Sessão: [[VF22 ― Palha ao Vento]])*.

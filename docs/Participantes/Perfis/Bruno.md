@@ -10,4 +10,4 @@
 	- [[Vestígios Fantasmas]]
 	- [[VF Confidencial]]
 - One-shots:
-	- [[Partes de Boneca (Halloween 2025)]]
+	- [[Partes de Boneca (one-shot)]]

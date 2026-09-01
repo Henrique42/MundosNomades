@@ -1,4 +1,4 @@
-!!! info "Descrição"
+!!! info
 	- **Categoria:** Item Mágico (Arma)
 	- **Criador(es):** ?
 	- **Portador(es):**

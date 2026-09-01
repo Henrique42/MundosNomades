@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Paulo - Vamas.jpg" width="300" style="border: 1px solid black;" alt="Vamas">
+	<img src="/MundosNomades/img/Vitria/PCs/Paulo - Vamas.jpg" width="300" style="border: 1px solid black;" alt="Vamas">
 </figure>
 
 !!! abstract "Perfil"

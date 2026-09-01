@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna - Chien.png" width="300" height="300" style="border: 1px solid black;" alt="Chien Midna">
+	<img src="/MundosNomades/img/Vitria/NPCs/Midna - Chien.png" width="300" height="300" style="border: 1px solid black;" alt="Chien Midna">
 </figure>
 
 !!! abstract "Perfil"
@@ -33,4 +33,4 @@
 
 ## Sobre
 
-- Após a [[Vernália#Noite das Aboboras|Noite das Abóboras]], Chien formou uma aliança com a [[SAPO]]. Assim, Garou e Zaara se tornaram investigadores em serviço da organização *(Sessão: [[VF25 ― Despedida]])*.
+- Após a [[Noite das Abóboras]], Chien formou uma aliança com a [[SAPO]]. Assim, Garou e Zaara se tornaram investigadores em serviço da organização *(Sessão: [[VF25 ― Despedida]])*.

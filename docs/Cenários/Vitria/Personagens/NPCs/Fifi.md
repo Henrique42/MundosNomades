@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Fifi.png" width="300" height="300" style="border: 1px solid black;" alt="Fifi, a fada confeiteira">
+	<img src="/MundosNomades/img/Vitria/NPCs/Fifi.png" width="300" height="300" style="border: 1px solid black;" alt="Fifi, a fada confeiteira">
 </figure>
 
 !!! abstract "Perfil"

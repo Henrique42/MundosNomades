@@ -18,7 +18,7 @@
 
 ## Locais Visitados
 
-- [[Jardim do Éden]]:
+- [[Éden]]:
 	- Corte Cerúlea:
 		- Floresta Natalina:
 			- Árvore do Sr. Coruja
@@ -60,7 +60,7 @@ Um pouco depois, o grupo encontra uma árvore com uma porta que aparentemente se
 
 Lavenza responde com um *"é outro gato!"*, o que faz Marduk decidir se transforma em um. O resto do grupo sobe e encontra uma grande coruja humanoide, o Sr. Coruja. Eles explicam para a criatura que estão procurando por uma garota chamada Alice *(com Tamur gritando o tempo todo durante a conversa)*.
 
-O Sr. Coruja, que se encontra doente devido ao tempo frio do inverno atacar suas alergias, conta para o grupo que eles estão no **Jardim do Éden**, a terra das fadas. Além disso, era para ser primavera no momento, mas a **Rainha da Primavera**, que deveria ser a monarca atual, desapareceu e o **Rei do Inverno**, que deveria estar morto, retomou o trono *(nesse plano, as estações do ano mudam sempre que o rei correspondente a estação daquela era morre)*.
+O Sr. Coruja, que se encontra doente devido ao tempo frio do inverno atacar suas alergias, conta para o grupo que eles estão nos **Jardins do Éden**, a terra das fadas. Além disso, era para ser primavera no momento, mas a **Rainha da Primavera**, que deveria ser a monarca atual, desapareceu e o **Rei do Inverno**, que deveria estar morto, retomou o trono *(nesse plano, as estações do ano mudam sempre que o rei correspondente a estação daquela era morre)*.
 
 Lavenza se oferece a ajudar o Sr. Coruja com suas alergias, pedindo ao grupo para procurar por algumas folhas de boldo para fazer um chá enquanto ela faz uma sopa para ele. O grupo sai e ela aproveita para conversar com o Sr. Coruja, perguntando-o sobre algumas coisas do local. A aasimar começa apresentando o seu nome, o que faz com que a coruja a aconselhe a não fazer o mesmo para os demais habitantes locais.
 

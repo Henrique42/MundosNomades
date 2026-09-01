@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna - Zaara.png" width="300" height="300" style="border: 1px solid black;" alt="Zaara">
+	<img src="/MundosNomades/img/Vitria/NPCs/Midna - Zaara.png" width="300" height="300" style="border: 1px solid black;" alt="Zaara">
 </figure>
 
 !!! abstract "Perfil"
@@ -37,10 +37,10 @@
 - Um dia, ela decidiu se rebelar contra seus captores, sendo ferida durante sua fuga. Posteriormente, ela foi protegida e tratada por Garou e um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]], o que a levou a ser adotada pelo Clã Midna *(Sessões: [[VF14 ― Os Dias de Cão Acabaram]] e [[VF15 ― A Lua Irá Cantar]])*.
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Midna - Zaara (Lobisomem).jpg" width="300" style="border: 1px solid black;" alt="Zaara (forma de lobisomem)">
+	<img src="/MundosNomades/img/Vitria/NPCs/Midna - Zaara (Lobisomem).jpg" width="300" style="border: 1px solid black;" alt="Zaara (forma de lobisomem)">
 	<figcaption>
 		Versão lobisomem. — Fonte: Michael Walsh <em>(Magic the Gathering)</em>
 	</figcaption>
 </figure>
 
-- Após a [[Vernália#Noite das Aboboras|Noite das Abóboras]], o Clã Midna formou uma aliança com a SAPO. Assim, Garou e Zaara se tornaram investigadores em serviço da organização *(Sessão: [[VF25 ― Despedida]])*.
+- Após a [[Noite das Abóboras]], o Clã Midna formou uma aliança com a SAPO. Assim, Garou e Zaara se tornaram investigadores em serviço da organização *(Sessão: [[VF25 ― Despedida]])*.

@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Cédric.png" width="300" height="300" style="border: 1px solid black;" alt="Cédric">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Cédric.png" width="300" height="300" style="border: 1px solid black;" alt="Cédric">
 </figure>
 
 !!! abstract "Perfil"

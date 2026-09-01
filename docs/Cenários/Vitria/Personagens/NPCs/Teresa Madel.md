@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Teresa.png" width="300" height="300" style="border: 1px solid black;" alt="Teresa Madel">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Teresa.png" width="300" height="300" style="border: 1px solid black;" alt="Teresa Madel">
 </figure>
 
 !!! abstract "Perfil"
@@ -25,4 +25,4 @@
 
 ## Sobre
 
-- Durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]], Teresa foi transformada em espantalho pela magia de [[Átropos]] *(Sessão: [[VF22 ― Palha ao Vento]])*. Após ser curada, ele começou a usar muletas em decorrência das sequelas do evento *(Sessão: [[VF25 ― Despedida]])*.
+- Durante a [[Noite das Abóboras]], Teresa foi transformada em espantalho pela magia de [[Átropos]] *(Sessão: [[VF22 ― Palha ao Vento]])*. Após ser curada, ele começou a usar muletas em decorrência das sequelas do evento *(Sessão: [[VF25 ― Despedida]])*.

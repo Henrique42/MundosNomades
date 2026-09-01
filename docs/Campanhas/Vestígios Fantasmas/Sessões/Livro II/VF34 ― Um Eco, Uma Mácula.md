@@ -30,7 +30,7 @@
 - Capitão Gai
 - Kleon
 - Guardas de Ponta Floresta
-- **Nos sonhos:** [[Igor]], crianças de Caelora, Sirion Fyendal, homem encapuzado e [[Leto]]
+- **Nos sonhos:** [[Igor]], patrono de Lavenza, crianças de Caelora, Sirion Fyendal, [[Figura Encapuzada]] e [[Leto]]
 
 ---
 
@@ -46,13 +46,13 @@ A passagem a leva a uma fonte. A voz, que Lavenza reconhece como sendo de seu pa
 
 ### Sonho de Marduk
 
-Marduk se depara com uma vista familiar: um riacho passando por uma montanha, similar ao riacho perto de sua vila. A nostalgia se intensifica quando ele escuta a voz de outra criança o chamando. Ela estava se banhando acompanhada de suas amigas. O investigador pergunta se eles estavam em **Vila Caelora**, o que é confirmado pela criança. O grupo pergunta se Marduk estava bem, já que ele parecia meio confuso.
+Marduk se depara com uma vista familiar: um riacho passando por uma montanha, similar ao riacho perto de sua vila. A nostalgia se intensifica quando ele escuta a voz de outra criança o chamando. Ela estava se banhando acompanhada de suas amigas. O investigador pergunta se eles estavam em [[Vila Caelora]], o que é confirmado pela criança. O grupo pergunta se Marduk estava bem, já que ele parecia meio confuso.
 
 Pouco depois, Marduk percebe fumaça vindo da vila, no topo da montanha. Ele tenta correr em direção a mesma, quando uma tempestade começa. No céu tempestuoso, se encontra um olho que parece observá-lo. Percebendo o olho, a criança tenta usar **Call Lightning** para tomar controle da tempestade e conseguir atacá-lo com um raio. Entretanto, o olho parece apenas "rir" de sua tentativa.
 
 Marduk chega na fonte da fumaça e encontra uma casa pegando fogo, a casa na qual ele vivia. Ele entra na casa e se encontra **Sirion Fyendal**, seu pai adotivo, enfrentando uma gárgula. Marduk o ajuda com seu **Thorn Whip**, mas Sirion parece bastante machucado. Como um último recurso, Sirion leva a criança por um túnel, dizendo que eles devem completar o ritual no templo da vila.
 
-O ritual parece consistir no ato de Sirion passar algum poder ou energia para Marduk. No entanto, ele é interrompido por um homem vestindo uma capa, que invade o local e ataca Sirion, revelando olhos sob a capa. O invasor consegue cooptar a "herança" antes dela ser passada para o jovem. Tudo o que Sirion consegue fazer é usar suas últimas forças para proteger Marduk em um casulo.
+O ritual parece consistir no ato de Sirion passar algum poder ou energia para Marduk. No entanto, ele é interrompido por um [[Figura Encapuzada|homem vestindo uma capa]], que invade o local e ataca Sirion, revelando olhos sob a capa. O invasor consegue cooptar a "herança" antes dela ser passada para o jovem. Tudo o que Sirion consegue fazer é usar suas últimas forças para proteger Marduk em um casulo.
 
 Marduk agora se encontra flutuando em sua consciência. Lá, ele sente uma presença: Leto. O espírito da biblioteca se desculpa por trazer a tona essas memórias, mas a criança diz que está tudo bem. O druida também agradece por lembrá-lo, já que, mesmo que aquelas fossem memórias dolorosas, ele não gostaria de esquecê-las.
 

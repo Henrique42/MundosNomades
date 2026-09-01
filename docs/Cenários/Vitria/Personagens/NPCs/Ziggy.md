@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Ziggy.png" width="300" height="300" style="border: 1px solid black;" alt="Ziggu">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Ziggy.png" width="300" height="300" style="border: 1px solid black;" alt="Ziggu">
 </figure>
 
 !!! abstract "Perfil"

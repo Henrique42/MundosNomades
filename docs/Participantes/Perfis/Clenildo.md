@@ -1,10 +1,10 @@
 ## Personagens
 
-| Personagem    | Campanha(s)                             | Situação                  |
-| ------------- | --------------------------------------- | ------------------------- |
-| Dr. Kleyton   | - [[Partes de Boneca (Halloween 2025)]] | Vivo (História Concluída) |
-| [[Elizabeth]] | - [[VF Confidencial]]                   | Viva                      |
-| [[Lavenza]]   | - [[Vestígios Fantasmas]]               | Viva                      |
+| Personagem    | Campanha(s)                       | Situação                  |
+| ------------- | --------------------------------- | ------------------------- |
+| Dr. Kleyton   | - [[Partes de Boneca (one-shot)]] | Vivo (História Concluída) |
+| [[Elizabeth]] | - [[VF Confidencial]]             | Viva                      |
+| [[Lavenza]]   | - [[Vestígios Fantasmas]]         | Viva                      |
 
 ---
 

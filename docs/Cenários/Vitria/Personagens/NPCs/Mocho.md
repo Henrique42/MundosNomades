@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Mocho.png" width="300" height="300" style="border: 1px solid black;" alt="Mocho">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Mocho.png" width="300" height="300" style="border: 1px solid black;" alt="Mocho">
 </figure>
 
 !!! abstract "Perfil"
@@ -31,4 +31,4 @@
 
 - Após ser derrotada e poupada por um [[SAPO#Gomes SNA|grupo de investigadores da SAPO]], Mocho decidiu largar a vida do crime e se deixar ser acolhida pela organização deles *(Sessão: [[VF14 ― Os Dias de Cão Acabaram]])*.
 
-- Já na SAPO, Mocho começou a ajudar [[Teresa Madel]] com os cuidados médicos na organização. Após sua atuação na [[Vernália#Noite das Aboboras|Noite das Abóboras]], ela se tornou oficialmente uma enfermeira.
+- Já na SAPO, Mocho começou a ajudar [[Teresa Madel]] com os cuidados médicos na organização. Após sua atuação na [[Noite das Abóboras]], ela se tornou oficialmente uma enfermeira.

@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Símbolos/Porto Lobo.png" width="240" alt="Emblema de Porto Lobo">
+	<img src="/MundosNomades/img/Vitria/Símbolos/Porto Lobo.png" width="240" alt="Emblema de Porto Lobo">
 </figure>
 
 ## História
@@ -16,7 +16,7 @@ Ainda durante a época em que Vernália era uma das grandes potências mundiais,
 
 Entretanto, com a perda de relevância do país no cenário global, Porto Lobo começou a entrar em decadência. Atualmente, o local é apenas um fantasma das suas glórias passadas, o que levou alguns moradores a procurar formas de trazer a sua ressureição.
 
-Durante o Festival do ano de 79 DA, mais conhecido como [[Vernália#Noite das Aboboras|Noite das Abóboras]], um ataque da bruxa [[Átropos]] destruiu uma parte considerável de Porto Lobo. O então alcaide da cidade, [[Fábio Castello]], foi confirmado como uma das vítimas.
+Durante o Festival do ano de 79 DA, mais conhecido como [[Noite das Abóboras]], um ataque da bruxa [[Átropos]] destruiu uma parte considerável de Porto Lobo. O então alcaide da cidade, [[Fábio Castello]], foi confirmado como uma das vítimas.
 
 ---
 
@@ -42,7 +42,7 @@ Durante o Festival do ano de 79 DA, mais conhecido como [[Vernália#Noite das Ab
 - **Forja Germain:** forja criada e administrada pelo respeitado ferreiro [[Bjorn Germain]] e seu filho [[Fritz Germain]];
 - **Forte de Porto Lobo:** centro administrativo da cidade e lar da família Castello;
 - **Prisão de Porto Lobo:** prisão municipal, conhecida como um ponto turístico por certos visitantes;
-- **Sede da S.A.P.O.:** base de operações da misteriosa organização conhecida como [[SAPO]], liderada por [[Reina Velez]];
+- **Sede da SAPO:** base de operações da misteriosa organização conhecida como [[SAPO]], liderada por [[Reina Velez]];
 - **Teatro Municipal de Porto Lobo:** administrado pelo dramaturgo [[Bartolomeu Bravo]];
 - **Templo de Utana:** templo dedicado à deusa [[Utana]].
 

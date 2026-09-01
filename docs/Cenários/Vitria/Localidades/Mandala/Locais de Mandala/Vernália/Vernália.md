@@ -5,7 +5,7 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ---
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Símbolos/Vernália.png" width="500" alt="Bandeira de Vernália">
+	<img src="/MundosNomades/img/Vitria/Símbolos/Vernália.png" width="500" alt="Bandeira de Vernália">
 </figure>
 
 ## Informações
@@ -19,7 +19,7 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ## Mapa
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Mapas/Vernália.png" width="600" style="border: 1px solid black;" alt="Mapa de Vernália">
+	<img src="/MundosNomades/img/Vitria/Mapas/Vernália.png" width="600" style="border: 1px solid black;" alt="Mapa de Vernália">
 	<figcaption>
 		Mapa de Vernália em 79 D.A.
 	</figcaption>
@@ -58,9 +58,9 @@ Além disso, **Ciprino**, cidade-estado que era governada por Albus na época, s
 
 ### Cruzada de 100 anos
 
-No ano de 100 AA, as forças armadas de diversos países de Mandala, incluindo Vernália, se uniram por um único objetivo: limpar o mundo de todo o mal, isto é, de todos os monstros. Assim, foi formada aquela que ficou conhecida como **Aliança dos Homens Livres**.
+No ano de 100 AA, as forças armadas de diversos países de Mandala, se uniram por um único objetivo: limpar o mundo de todo o mal, isto é, de todos os monstros. Assim, foi formada aquela que ficou conhecida como **Aliança dos Homens Livres**.
 
-As forças da aliança enfrentaram exércitos de monstros por todo o mundo. Então, 100 anos depois, a **Rainha Carmesim**, monarca do **Império Vampiro** e última comandante conhecida das forças inumanas, foi derrotada em Vernália, dando um fim àquela guerra. Tal evento ficou marcado por dar início à **Era da Aliança**.
+Em Vernália, as forças da aliança enfrentaram o exército de monstros da **Rainha Carmesim**, uma das vampiras mais famosas de Vitria. A queda da monarca das trevas foi um dos eventos que marcou o sucesso da Aliança e, como consequência, o fim da **Era dos Heróis**.
 
 ### Era da Aliança
 
@@ -68,16 +68,10 @@ As forças da aliança enfrentaram exércitos de monstros por todo o mundo. Ent�
 
 [[Melchor II]] foi o primeiro rei de Vernália a iniciar o seu governo durante a Era da Aliança. Nesse contexto, seu período como monarca foi bastante criticado pela população devido aos altos impostos e à dificuldade do país de acompanhar o crescimento econômico dos seus vizinhos.
 
-Durante o governo de Melchor II, diversos eventos de teor sobrenatural ocorreram em Vernália, como o desaparecimento misterioso de um clã de *firbolgs* e um suposto terremoto que teria destruído a [[Ruínas da Biblioteca Arcana|biblioteca]] de Porto Lobo.
-
-##### Noite das Abóboras
-
-O maior desses eventos, no entando, ocorreu no último ano de seu governo, em 79 DA, quando a [[Átropos]] invadiu a cidade de Porto Lobo. Na ocasião, a bruxa teve como exército uma parte da população que ela mesma transformou em espantalhos. Tal evento ficou conhecido como **Noite das Abóboras**.
+Durante o governo de Melchor II, diversos eventos de teor sobrenatural ocorreram em Vernália, como o desaparecimento misterioso de um clã de *firbolgs* e um suposto terremoto que teria destruído a [[Ruínas da Biblioteca Arcana|biblioteca]] de Porto Lobo. O mais famoso desses eventos foi a [[Noite das Abóboras]].
 
 #### Governo Eládio I (79 DA - Presente)
 
 Atualmente, o monarca do país é **Eládio I**, o qual assumiu a coroa no final de 79 DA após a morte de seu pai, o rei Melchor II, em decorrência de uma doença desconhecida.
 
-##### Projeto Vanguarda
-
-Um dos primeiros decretos de Eládio I foi o início do chamado **Projeto Vanguarda**, isto é, a substituição gradual da guarda do país por soldados *Warforged*. Os primeiros vanguardas começaram a ser enviados para diferentes cidades a partir do início de 80 DA.
+Um dos primeiros decretos de Eládio I foi o início do chamado "Projeto Vanguarda".

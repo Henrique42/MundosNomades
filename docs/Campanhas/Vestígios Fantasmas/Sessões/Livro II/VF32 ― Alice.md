@@ -17,7 +17,7 @@
 
 ## Locais Visitados
 
-- [[Jardim do Éden]]:
+- [[Éden]]:
 	- Corte Cerúlea:
 		- Castelo de Cristal
 		- Vila Indigo:
@@ -81,7 +81,7 @@
 13. O grupo se reencontra com as Fadas do Espaço-Tempo. Manah e Ignacius decidem ficar treinando com eles. Durante a despedida, o casal entrega para o quinteto dois [[Conjunto de Fábulas|livros mágicos]]: um deles adornado pela **Roda da Fortuna**, e o outro, pelo **Diabo**.
 
 14. As duas fadas guiam os investigadores para uma **Porta Planar** no jardim. Ao conversar com eles, o grupo aprende algumas coisas:
-	1. Quem ajudou o Lorde das Neves a tomar o castelo foi um *"homem encapuzado com uma capa cheia de olhos"*;
+	1. Quem ajudou o Lorde das Neves a tomar o castelo foi um "[[Figura Encapuzada|homem encapuzado com uma capa cheia de olhos]]";
 	2. O mestre de Lavenza, Igor, costumava visitar aquela Corte no passado, acompanhado por duas outras pessoas;
 
 15. Os investigadores recebem dois presentes de agradecimento (a mando de Alice): uma **lança** e uma **varinha**, ambos mágicos. Após identificá-los, eles finalmente atravessam a porta e retornam ao plano material.

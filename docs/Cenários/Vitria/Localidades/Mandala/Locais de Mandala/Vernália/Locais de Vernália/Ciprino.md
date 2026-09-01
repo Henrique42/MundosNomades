@@ -3,7 +3,7 @@
 ---
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Símbolos/Ciprino.png" width="240" alt="Emblema de Ciprino">
+	<img src="/MundosNomades/img/Vitria/Símbolos/Ciprino.png" width="240" alt="Emblema de Ciprino">
 </figure>
 
 ## História
@@ -27,7 +27,7 @@
 ## Locais Importantes
 
 - **Palácio do Rei Sol:** castelo ocupado pela família real vernaliana. É encontrado no ponto mais alto da cidade;
-- **Sede da S.A.P.O.:** base de operações da filial da [[SAPO#Filial de Ciprino|SAPO]] em Ciprino;
+- **Sede da SAPO:** base de operações da filial da [[SAPO#Filial de Ciprino|SAPO]] em Ciprino;
 - **Universidade Vernaliana de Magia:** principal instituição de ensino focada em magia existente em Vernália.
 
 ---

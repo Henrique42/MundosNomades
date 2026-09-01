@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Sérgio.png" width="300" height="300" style="border: 1px solid black;" alt="Sérgio, o Guarda">
+	<img src="/MundosNomades/img/Vitria/NPCs/Sérgio.png" width="300" height="300" style="border: 1px solid black;" alt="Sérgio, o Guarda">
 </figure>
 
 !!! abstract "Perfil"
@@ -25,4 +25,4 @@
 
 ## Sobre
 
-- No início, Sérgio não acreditava em monstros. Isso mudou quando ele presenciou os ataques que ocorreram durante a [[Vernália#Noite das Aboboras|Noite das Abóboras]] *(Sessões: [[VF22 ― Palha ao Vento]] e [[VF23 ― Canção da Cobra]])*.
+- No início, Sérgio não acreditava em monstros. Isso mudou quando ele presenciou os ataques que ocorreram durante a [[Noite das Abóboras]] *(Sessões: [[VF22 ― Palha ao Vento]] e [[VF23 ― Canção da Cobra]])*.

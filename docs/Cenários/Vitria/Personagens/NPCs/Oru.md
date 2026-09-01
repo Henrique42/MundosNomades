@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Oru.png" width="300" height="300" style="border: 1px solid black;" alt="Oru">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Oru.png" width="300" height="300" style="border: 1px solid black;" alt="Oru">
 </figure>
 
 !!! abstract "Perfil"

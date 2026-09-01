@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Germain, Fritz.png" width="300" height="300" style="border: 1px solid black;" alt="Fritz Germain">
+	<img src="/MundosNomades/img/Vitria/NPCs/Germain, Fritz.png" width="300" height="300" style="border: 1px solid black;" alt="Fritz Germain">
 </figure>
 
 !!! abstract "Perfil"

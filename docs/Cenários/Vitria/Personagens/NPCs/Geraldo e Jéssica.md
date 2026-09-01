@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Geraldo e Jéssica.jpg" width="300" style="border: 1px solid black;" alt="Geraldo e Jéssica">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Geraldo e Jéssica.jpg" width="300" style="border: 1px solid black;" alt="Geraldo e Jéssica">
 	<figcaption>
 		Fonte: <a href="https://www.darkhorse.com/books/3006-126/noir-a-collection-of-crime-comics-hc/">Noir: A Collection of Crime Comics</a>
 	</figcaption>

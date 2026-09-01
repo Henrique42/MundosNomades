@@ -5,7 +5,7 @@ As **Três Irmãs Invernais** são um trio de bruacas *(hags)* que serviam o [[L
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/3 Irmãs Invernais.png" style="border: 1px solid black;" alt="3 irmãs Invernais">
+	<img src="/MundosNomades/img/Vitria/NPCs/3 Irmãs Invernais.png" style="border: 1px solid black;" alt="3 irmãs Invernais">
 </figure>
 
 !!! abstract "Perfil"

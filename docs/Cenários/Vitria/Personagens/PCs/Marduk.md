@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Antônio - Marduk v3.jpeg" width="300" style="border: 1px solid black;" alt="Marduk">
+	<img src="/MundosNomades/img/Vitria/PCs/Antônio - Marduk v3.jpeg" width="300" style="border: 1px solid black;" alt="Marduk">
 </figure>
 
 !!! abstract "Perfil"
@@ -20,7 +20,7 @@
 		- Clã Fyendal
 		- [[Gomes SNA]]
 		- [[SAPO]]
-	- **Família:** Clã Fyendal
+	- **Família:** [[Sirion]] *(Pai adotivo)*
 	- **Situação:** Vivo
 	---
 	### Primeira Aparição

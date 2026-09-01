@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Lady Condor.jpg" width="400" style="border: 1px solid black;" alt="Lady Condor">
+	<img src="/MundosNomades/img/Vitria/NPCs/Lady Condor.jpg" width="400" style="border: 1px solid black;" alt="Lady Condor">
 	<figcaption>
 		Fonte: Chris Rallis <em>(Magic the Gathering)</em>
 	</figcaption>

@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Guilherme - Tamur.png" width="300" style="border: 1px solid black;" alt="">
+	<img src="/MundosNomades/img/Vitria/PCs/Guilherme - Tamur.png" width="300" style="border: 1px solid black;" alt="">
 </figure>
 
 !!! abstract "Perfil"

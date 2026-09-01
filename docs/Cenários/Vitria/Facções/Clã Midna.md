@@ -1,7 +1,7 @@
 O **Clã Midna**, também conhecido como "A Alcateia", é uma antiga família de licantropos residente em [[Vernália]].
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Símbolos/Midna.png" width="300" alt="Emblema do Clã Midna">
+	<img src="/MundosNomades/img/Vitria/Símbolos/Midna.png" width="300" alt="Emblema do Clã Midna">
 </figure>
 
 ---

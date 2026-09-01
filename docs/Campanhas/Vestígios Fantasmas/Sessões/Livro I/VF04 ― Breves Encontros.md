@@ -33,7 +33,7 @@
 ### Sem Combate
 
 - [[Miranda]] (Empregada)
-- [[Reina Velez]] (Líder da S.A.P.O)
+- [[Reina Velez]] (Líder da SAPO)
 - [[Roberta Araújo]] (Atriz)
 - [[Dona Edna]] (Herbalista)
 - [[Átropos]] (Bruxa)
@@ -45,9 +45,9 @@
 
 ## Principais Eventos
 
-- **Café da Manhã na S.A.P.O:** Ao acordarem na base da S.A.P.O., o grupo se dirige ao café da manhã, mas logo são interrompidos por Miranda, que informa que Reina está esperando os aventureiros em sua sala. Na sala da diretora, Reina os cumprimenta e pergunta sobre o café da manhã. Em seguida, explica o que vem acontecendo e o que a S.A.P.O. está investigando. Ela revela que, nos últimos meses, diversos desaparecimentos ocorreram na cidade de Porto Lobo mas que não tem muitas informações para nos dar em seguida ela pede que o grupo converse com uma pessoa.
+- **Café da Manhã na SAPO:** Ao acordarem na base da SAPO, o grupo se dirige ao café da manhã, mas logo são interrompidos por Miranda, que informa que Reina está esperando os aventureiros em sua sala. Na sala da diretora, Reina os cumprimenta e pergunta sobre o café da manhã. Em seguida, explica o que vem acontecendo e o que a SAPO está investigando. Ela revela que, nos últimos meses, diversos desaparecimentos ocorreram na cidade de Porto Lobo mas que não tem muitas informações para nos dar em seguida ela pede que o grupo converse com uma pessoa.
 
-- **Visitas Inesperadas:** Enquanto Reina fala, a porta se abre, e entra uma agente da S.A.P.O. acompanhada de Roberta Araújo, a atriz que havia sido presa por bruxaria e agora está livre. Roberta é recebida pelo grupo e agradece a Reina por tê-la libertado, mesmo que ainda esteja sendo acusada de bruxaria. O grupo, aproveitando que ela vive na cidade, mostra a Roberta as fotos dos desaparecidos e pergunta se ela conhece alguém. Ela reconhece uma das pessoas nas fotos: Joaquin, o filho do padeiro.
+- **Visitas Inesperadas:** Enquanto Reina fala, a porta se abre, e entra uma agente da SAPO acompanhada de Roberta Araújo, a atriz que havia sido presa por bruxaria e agora está livre. Roberta é recebida pelo grupo e agradece a Reina por tê-la libertado, mesmo que ainda esteja sendo acusada de bruxaria. O grupo, aproveitando que ela vive na cidade, mostra a Roberta as fotos dos desaparecidos e pergunta se ela conhece alguém. Ela reconhece uma das pessoas nas fotos: Joaquin, o filho do padeiro.
 
 - **Plano de Ação:** A equipe decide ir ao centro da cidade para falar com o padeiro e comprar algumas coisas no mercado. No entanto, Aenoir e Lavenza optam por se separar do grupo para buscar algumas ervas que precisam, dividindo a equipe em dois grupos. Roberta menciona uma herbalista em outro distrito da cidade onde elas podem encontrar as ervas que buscam.
 

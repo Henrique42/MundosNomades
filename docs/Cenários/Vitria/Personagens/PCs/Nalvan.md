@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Saymon - Nalvan.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Nalvan">
+	<img src="/MundosNomades/img/Vitria/PCs/Saymon - Nalvan.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Nalvan">
 </figure>
 
 !!! abstract "Perfil"

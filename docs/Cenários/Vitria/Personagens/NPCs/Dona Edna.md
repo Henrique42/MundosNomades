@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Dona Edna.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
+	<img src="/MundosNomades/img/Vitria/NPCs/Dona Edna.png" width="300" style="border: 1px solid black;" alt="Dona Edna">
 </figure>
 
 !!! abstract "Perfil"

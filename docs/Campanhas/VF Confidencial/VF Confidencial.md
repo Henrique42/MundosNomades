@@ -1,7 +1,7 @@
 **VF Confidencial** é uma antologia de *side-stories* de D&D 5ª edição com temática de mistério e fantasia. Ela é um *spin-off* da campanha [[Vestígios Fantasmas]] e também se passa no cenário de [[Vitria]].
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Capas/Capa - VFC.png" width="300" alt="VF Confidencial" style="border: 1px solid black;" alt="Capa da campanha VF Confidencial">
+	<img src="/MundosNomades/img/Vitria/Capas/Capa - VFC.png" width="300" alt="VF Confidencial" style="border: 1px solid black;" alt="Capa da campanha VF Confidencial">
 </figure>
 
 !!! abstract "Ficha"

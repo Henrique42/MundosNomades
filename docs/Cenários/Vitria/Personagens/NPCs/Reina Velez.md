@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Reina.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Reina.png" width="300" height="300" style="border: 1px solid black;" alt="Reina Velez">
 </figure>
 
 !!! abstract "Perfil"

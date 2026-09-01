@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Fausto.png" width="300" style="border: 1px solid black;" alt="Fausto">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Fausto.png" width="300" style="border: 1px solid black;" alt="Fausto">
 </figure>
 
 !!! abstract "Perfil"
@@ -29,7 +29,7 @@
 
 ## Sobre
 
-- Fausto se tornou estagiário na S.A.P.O. para poder arcar com os custos de seus estudos.
+- Fausto se tornou estagiário na SAPO para poder arcar com os custos de seus estudos.
 
 - Ele acabou contratando um [[SAPO#Gomes SNA|grupo de investigadores]] da própria organização para conseguir livros antigos nas [[Ruínas da Biblioteca Arcana]] e enfim terminar o seu TCC *(Sessões: [[VF04 ― Breves Encontros]] e [[VF11 ― Estivemos Longe Tempo Demais]])*.
 

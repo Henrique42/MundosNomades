@@ -5,7 +5,7 @@ Igor é um famoso farmacêutico de [[Vernália]].
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Igor.png" width="300" height="300" style="border: 1px solid black;" alt="Igor">
+	<img src="/MundosNomades/img/Vitria/NPCs/Igor.png" width="300" height="300" style="border: 1px solid black;" alt="Igor">
 </figure>
 
 !!! abstract "Perfil"

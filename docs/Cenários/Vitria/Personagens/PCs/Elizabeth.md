@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Clenes - Elizabeth.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
+	<img src="/MundosNomades/img/Vitria/PCs/Clenes - Elizabeth.jpeg" width="300" height="300" style="border: 1px solid black;" alt="Elizabeth">
 </figure>
 
 !!! abstract "Perfil"

@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Emano - Cabeça.png" width="300" height="300" style="border: 1px solid black;" alt="Cabeça">
+	<img src="/MundosNomades/img/Vitria/PCs/Emano - Cabeça.png" width="300" height="300" style="border: 1px solid black;" alt="Cabeça">
 </figure>
 
 !!! abstract "Perfil"

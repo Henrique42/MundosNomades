@@ -1,7 +1,7 @@
 **Vestígios Fantasmas** é uma campanha de *D&D 5ª edição* com temática de mistério e fantasia. Ela se passa no cenário de [[Vitria]].
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Capas/Capa - VF.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;" alt="Capa da campanha Vestígios Fantasmas">
+	<img src="/MundosNomades/img/Vitria/Capas/Capa - VF.png" width="300" alt="Vestígios Fantasmas" style="border: 1px solid black;" alt="Capa da campanha Vestígios Fantasmas">
 </figure>
 
 !!! abstract "Ficha"
@@ -47,7 +47,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 ### Livro I: Bruxa à Beira-Mar
 
-#### Arquivo S.A.P.O.: "O Fantasma do Teatro"
+#### Arquivo SAPO: "O Fantasma do Teatro"
 
 **Sinopse:** Um grupo de jovens estranhos chega à cidade de Porto Lobo para se tornarem investigadores da misteriosa organização conhecida como SAPO. Para isso, precisam provar seu valor lidando com aparições macabras no teatro da cidade.
 
@@ -63,7 +63,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF05 ― Garota Azeda]]
 - [[VF06 ― Continue Pescando]]
 
-#### Arquivo S.A.P.O.: "O Demônio que Ri"
+#### Arquivo SAPO: "O Demônio que Ri"
 
 **Sinopse:** Ao tentar desvendar o que está por trás do desaparecimento de crianças em Porto Lobo, os investigadores descobrem que o sorriso de um palhaço pode esconder muitos mistérios.
 
@@ -72,13 +72,13 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF09 ― Atravesse (Para o Outro Lado)]]
 - [[VF10 ― O Show Tem Que Continuar]]
 
-#### Interlúdio: O Arquivo da S.A.P.O.
+#### Interlúdio: O Arquivo da SAPO
 
 **Sinopse:** Após retornar do Mundo dos Espelhos, os investigadores descobrem que a passagem do tempo é mais complexa do que parece.
 
 - [[VF11 ― Estivemos Longe Tempo Demais]]
 
-#### Arquivo S.A.P.O.: "Lobisomem na Noite"
+#### Arquivo SAPO: "Lobisomem na Noite"
 
 **Sinopse:** A busca por uma criatura misteriosa se torna uma batalha contra os maus-tratos contra os animais e a formação de uma nova aliança.
 
@@ -87,7 +87,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF14 ― Os Dias de Cão Acabaram]]
 - [[VF15 ― A Lua Irá Cantar]]
 
-#### Arquivo S.A.P.O.: *"Codex Gigas"*
+#### Arquivo SAPO: *"Codex Gigas"*
 
 **Sinopse:** Acompanhados por um estudante de magia, os investigadores partem para a biblioteca decadente de Porto Lobo. Lá, eles se veem envolvidos em uma antiga conspiração que envolve a misteriosa entidade conhecida como "O Observador".
 
@@ -97,7 +97,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF19 ― O Mago]]
 - [[VF20 ― Mosca na Parede]]
 
-#### Arquivo S.A.P.O.: "Martelo da Bruxa"
+#### Arquivo SAPO: "Martelo da Bruxa"
 
 **Sinopse:** Durante um festival, Porto Lobo é atacada pelas forças da bruxa Átropos, a Serpente do Ódio. Além de fazer parte do grupo de servos do Observador conhecido como "Os Três Venenos", ela também é alguém que evoca sentimentos conflitantes nos investigadores.
 
@@ -111,12 +111,12 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 
 #### Interlúdio: A Partida
 
-**Sinopse:** Agora oficialmente denominada Gomes SNA, a equipe de investigadores parte para a capital da Vernália: Ciprino. Lá, esperam descobrir mais sobre o Observador e seus Três Venenos.
+**Sinopse:** Agora oficialmente denominada Gomes SNA, a equipe de investigadores parte para Ciprino, a capital vernaliana. Lá, esperam descobrir mais sobre o Observador e seus Três Venenos.
 
 - [[VF24 ― Tom Nebuloso de Inverno]]
 - [[VF25 ― Despedida]]
 
-#### Arquivo S.A.P.O.: "Primavera Boreal"
+#### Arquivo SAPO: "Primavera Boreal"
 
 **Sinopse:** A caminho de Ciprino, a Gomes SNA faz uma parada para investigar um mistério envolvendo coelhos brancos e uma menina chamada Alice. Mal sabiam eles que o inverno daquele ano seria mais mágico e mortal do que o normal.
 
@@ -128,7 +128,7 @@ Esta seção serve como uma lista de sessões e arcos da campanha.
 - [[VF31 ― Frias como Gelo]]
 - [[VF32 ― Alice]]
 
-#### Arquivo S.A.P.O.: "Raiz de Amargura"
+#### Arquivo SAPO: "Raiz de Amargura"
 
 **Sinopse:** Ao retornarem da terra das fadas, a Gomes SNA retoma sua jornada para Ciprino. No caminho, eles acabam tendo que lidar com uma misteriosa praga que aflige a floresta e seus habitantes.
 

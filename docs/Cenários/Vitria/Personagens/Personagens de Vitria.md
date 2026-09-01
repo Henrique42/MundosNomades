@@ -2,18 +2,21 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 
 ## PCs
 
-- [[Aenoir]]
-- [[Bok]]
-- [[Cabeça]]
-- [[Elizabeth]]
-- [[Lavenza]]
-- [[Marduk]]
-- [[Nalvan]]
-- [[Rhogar]]
-- [[Sherlock]]
-- [[Tamur]]
-- [[Vamas]]
-- [[Watson]]
+!!!info
+	Os personagens a seguir foram utilizados pelos jogadores nas campanhas [[Vestígios Fantasmas]] (VF) e [[VF Confidencial]] (VFC).
+
+- [[Aenoir]] (VF)
+- [[Bok]] (VFC)
+- [[Cabeça]] (VFC)
+- [[Elizabeth]] (VFC)
+- [[Lavenza]] (VF)
+- [[Marduk]] (VF)
+- [[Nalvan]] (VFC)
+- [[Rhogar]] (VF)
+- [[Sherlock]] (VF)
+- [[Tamur]] (VF)
+- [[Vamas]] (VF)
+- [[Watson]] (VF)
 
 ---
 
@@ -56,6 +59,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 - [[Fausto]]
 - [[Fídias, o Orador]]
 - [[Fifi]]
+- [[Figura Encapuzada]]
 - [[Fritz Germain]]
 
 ### G
@@ -108,6 +112,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 - [[Sanwitches]]
 - [[Sérgio, o Guarda]]
 - [[Siene]]
+- [[Sirion]]
 
 ### T
 

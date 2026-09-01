@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Clenes - Lavenza.jpg" width="400" style="border: 1px solid black;" alt="Lavenza">
+	<img src="/MundosNomades/img/Vitria/PCs/Clenes - Lavenza.jpg" width="400" style="border: 1px solid black;" alt="Lavenza">
 	<figcaption>
 		Fonte: Persona
 	</figcaption>

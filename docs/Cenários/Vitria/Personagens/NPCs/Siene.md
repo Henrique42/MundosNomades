@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Siene.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
+	<img src="/MundosNomades/img/Vitria/NPCs/Divindade - Siene.png" width="300" style="border: 1px solid black;" alt="Deusa Siene">
 </figure>
 
 !!! abstract "Perfil"

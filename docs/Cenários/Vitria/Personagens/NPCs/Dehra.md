@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Divindade - Dehra.png" width="300" height="300" style="border: 1px solid black;" alt="Dehra">
+	<img src="/MundosNomades/img/Vitria/NPCs/Divindade - Dehra.png" width="300" height="300" style="border: 1px solid black;" alt="Dehra">
 </figure>
 
 !!! abstract "Perfil"

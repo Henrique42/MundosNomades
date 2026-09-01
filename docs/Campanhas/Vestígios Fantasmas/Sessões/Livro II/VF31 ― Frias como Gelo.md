@@ -17,7 +17,7 @@
 
 ## Locais Visitados
 
-- [[Jardim do Éden]]:
+- [[Éden]]:
 	- Corte Cerúlea:
 		- Castelo de Cristal
 

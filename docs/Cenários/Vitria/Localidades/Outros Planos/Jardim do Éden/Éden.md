@@ -1,6 +1,6 @@
-O **Jardim do Éden** é um dos planos principais de [[Planos de Vitria|Vitria]]. Ele é conhecido por ser o jardim sagrado que rodeia o **Paraíso**. Nele, vivem diversas plantas raras e criaturas místicas, as quais são conhecidas como fadas.
+O **Éden**, também chamado de **Jardins do Éden**, é um dos planos principais de [[Planos de Vitria|Vitria]]. Ele é conhecido por ser o jardim sagrado que rodeia o **Paraíso**. Nele, vivem diversas plantas raras e criaturas místicas, as quais são conhecidas como fadas.
 
-O Jardim do Éden é um plano composto por vários planos menores, conhecidos como **Cortes**. Cada corte possui um governo próprio.
+O plano é composto por vários planos menores, conhecidos como **Cortes** ou **Jardins**. Cada corte possui uma cor, uma emoção e um governo próprios.
 
 Em cada corte, a sucessão de um governo para o próximo é o que faz com que as estações do ano avancem. Assim, todos os governantes estão necessariamente associados à estação do ano vigente durante seu reinado.
 
@@ -19,7 +19,7 @@ A **Corte Cerúlea**, como o nome já diz, é a corte associada com a cor Cerúl
 ## Visual
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/Locais/Jardim do Éden.png" width="500" style="border: 1px solid black;" alt="Jardim do Éden">
+	<img src="/MundosNomades/img/Vitria/Locais/Jardins do Éden.png" width="500" style="border: 1px solid black;" alt="Jardins do Éden">
 	<figcaption>
 		Fonte: Dimitar Marinski <em>(Magic the Gathering)</em>
 	</figcaption>

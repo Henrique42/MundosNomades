@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/SAPO - Miranda.png" width="300" height="300" style="border: 1px solid black;" alt="Miranda">
+	<img src="/MundosNomades/img/Vitria/NPCs/SAPO - Miranda.png" width="300" height="300" style="border: 1px solid black;" alt="Miranda">
 </figure>
 
 !!! abstract "Perfil"

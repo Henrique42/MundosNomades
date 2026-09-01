@@ -1,4 +1,4 @@
-A **Corte Cerúlea** é uma das **Cortes**, isto é, uma subdivisão do [[Jardim do Éden]]. Como o nome já diz, ela é a corte associada com a cor Cerúlea. Assim, ela também é associada com a calma e a tranquilidade. Os moradores desse domínio são caracterizados pela sua pele azulada.
+A **Corte Cerúlea** é uma das **Cortes**, isto é, uma subdivisão do [[Éden]]. Como o nome já diz, ela é a corte associada com a cor Cerúlea. Assim, ela também é associada com a calma e a tranquilidade. Os moradores desse domínio são caracterizados pela sua pele azulada.
 
 ---
 

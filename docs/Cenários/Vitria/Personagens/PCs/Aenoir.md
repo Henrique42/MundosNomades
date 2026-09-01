@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/PCs/Saymon - Aenoir.png" width="300" style="border: 1px solid black;" alt="Aenoir">
+	<img src="/MundosNomades/img/Vitria/PCs/Saymon - Aenoir.png" width="300" style="border: 1px solid black;" alt="Aenoir">
 </figure>
 
 !!! abstract "Perfil"

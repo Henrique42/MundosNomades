@@ -5,7 +5,7 @@ Os **Gatos Reais** são uma dupla de felinos mágicos, um preto e outro rosa, qu
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Gatos Reais.jpg" width="500" style="border: 1px solid black;" alt="Gatos Reais">
+	<img src="/MundosNomades/img/Vitria/NPCs/Gatos Reais.jpg" width="500" style="border: 1px solid black;" alt="Gatos Reais">
 	<figcaption>
 		Gatos Preto e Rosa. — Fonte:  Pokémon
 	</figcaption>

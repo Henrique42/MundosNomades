@@ -5,7 +5,7 @@
 ## Perfil
 
 <figure align="center">
-	<img src="/MundosNomades/img/VF+/NPCs/Célia.png" width="300" style="border: 1px solid black;" alt="Célia">
+	<img src="/MundosNomades/img/Vitria/NPCs/Célia.png" width="300" style="border: 1px solid black;" alt="Célia">
 </figure>
 
 !!! abstract "Perfil"
