@@ -46,15 +46,15 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 	- **AA:** Antes da Aliança
 	- **DA:** Depois da Aliança
 
-No passado, a região conhecida como **Arquipélago Vernaliano**, era composta por um conjunto de cidades-estados independentes. Um delas, por exemplo, era a cidade de Porto Lobo, fundada em 696 AA por [[Arendel]], considerado o maior herói do país, após o mesmo derrotar o então governante do território, "O Terrível [[Rei Lobo]]".
-
-Essa época foi marcada pelo constante confronto entre humanoides e monstros, razão pela qual o governo das cidades-estados se unirão, em 624 AA, para formar a chamada **Inquisição Vernaliana**. A inquisição foi formada por, entre outras coisas, realizar uma das maiores Caças às Bruxas de Mandala.
-
-### Fundação
-
-Em 505 AA, o Arquipélago Vernaliano foi unificado por **Albus Feldia**, mais tarde conhecido como Albus I. Assim, o **Reino de Vernália** foi fundado.
+No passado, a região conhecida como **Arquipélago Vernaliano**, era composta por um conjunto de cidades-estados independentes. Em 555 AA, elas foram unificadas por **Albus Feldia**, mais tarde conhecido como Albus I. Assim, o **Reino de Vernália** foi fundado.
 
 Além disso, **Ciprino**, cidade-estado que era governada por Albus na época, se tornou a capital da nação recém-nascida.
+
+### Anos de Conflito
+
+Os primeiros séculos da história vernaliana foram marcados pelo conflito entre humanoides e monstros. Uma cidade marcada por isso foi Porto Lobo, um importante polo econômico da época. Ela foi fundada em 404 AA por [[Arendel]], considerado o maior herói do país, após o mesmo derrotar o então governante do território, "O Terrível [[Rei Lobo]]".
+
+Por conta de seus feitos, Arendel foi responsável por influenciar diversos movimentos anti-monstros, o que inclui a famosa **Inquisição Vernaliana**, iniciada em 324 AA.
 
 ### Cruzada de 100 anos
 
