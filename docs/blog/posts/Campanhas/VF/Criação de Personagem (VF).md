@@ -1,6 +1,8 @@
 ---
 draft: false
-date: 2024-08-16
+date:
+  created: 2024-08-16
+  updated: 2025-11-23
 slug: vf-criando-um-personagem
 categories:
   - ajuda
@@ -12,8 +14,6 @@ tags:
 # Criação de Personagem - Vestígios Fantasmas
 
 Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os seus personagens.
-
-*Atualizado em 23/11/2025.*
 
 <!-- more -->
 

@@ -22,4 +22,4 @@ Esta seção serve como uma lista dos casos que fazem parte do **VF Confidencial
 
 | Caso                           | Sinopse                                                                                                       |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| [[Caso VFC01 (Azul Profundo)]] | Uma equipe de especialistas parte para alto-mar para solucionar um mistério envolvendo pessoas desaparecidas. |
+| [[Caso VFC01 ― 'Azul Profundo']] | Uma equipe de especialistas parte para alto-mar para solucionar um mistério envolvendo pessoas desaparecidas. |

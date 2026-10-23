@@ -1,6 +1,8 @@
 ---
 draft: false
-date: 2025-07-04
+date:
+  created: 2025-07-04
+  updated: 2026-01-16
 slug: vf-regras
 categories:
   - regras
@@ -12,8 +14,6 @@ tags:
 # Regras da Campanha - Vestígios Fantasmas
 
 Esta postagem existe como uma forma de deixar registrado todos os *homebrew* e regras variantes utilizadas na campanha.
-
-*Atualizado em 16/01/2026.*
 
 <!-- more -->
 

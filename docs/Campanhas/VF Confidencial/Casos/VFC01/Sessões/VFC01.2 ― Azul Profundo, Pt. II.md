@@ -1,5 +1,5 @@
 !!! info "Ficha da Sessão"
-	- **Campanha:** [[VF Confidencial]] > [[Caso VFC01 (Azul Profundo)]]
+	- **Campanha:** [[VF Confidencial]] > [[Caso VFC01 ― 'Azul Profundo']]
 	- **Data da sessão:** 26/12/2025
 	- **Resumo:** [[Bruno]]
 
@@ -40,4 +40,4 @@
 
 ---
 
-[[VFC01a ― Azul Profundo (Parte I)|<< Anterior]] | [[VFC01c ― Azul Profundo (Parte III)|Próxima >>]]
+[[VFC01.1 ― Azul Profundo, Pt. I|<< Anterior]] | [[VFC01.3 ― Azul Profundo, Pt. III|Próxima >>]]

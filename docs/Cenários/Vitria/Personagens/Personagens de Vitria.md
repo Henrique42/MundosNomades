@@ -84,6 +84,7 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 ### L
 
 - [[Lady Condor]]
+- [[Lana]]
 - [[Leto]]
 - [[Lorde das Neves]]
 
@@ -96,9 +97,14 @@ Esta página serve como uma lista dos personagens presentes no cenário de [[Vit
 - [[Mocho]]
 - [[Mordomo]]
 
+### N
+
+- [[Nanaya]]
+
 ### O
 
 - [[O Observador]]
+- [[Ophiel]]
 - [[Oru]]
 
 ### R

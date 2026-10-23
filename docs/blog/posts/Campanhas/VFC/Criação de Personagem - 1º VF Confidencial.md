@@ -1,6 +1,8 @@
 ---
 draft: false
-date: 2025-11-24
+date:
+  created: 2025-11-24
+  updated: 2025-12-25
 slug: vfconfidencial-1
 categories:
   - ajuda
@@ -13,8 +15,6 @@ tags:
 # Criação de Personagem - 1º VF Confidencial
 
 Esta postagem existe como uma forma de auxiliar os jogadores na hora de criar os seus personagens para a primeira edição do *VF Confidencial*, uma série de one-shot derivados da campanha [[Vestígios Fantasmas]].
-
-*Atualizado em 08/12/2025.*
 
 <!-- more -->
 

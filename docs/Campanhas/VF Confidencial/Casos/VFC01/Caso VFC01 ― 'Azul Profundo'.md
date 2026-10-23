@@ -22,6 +22,6 @@ Um grupo de especialistas mistérios aquáticos foi montado pela [[SAPO]] para i
 
 ## Sessões
 
-1. [[VFC01a ― Azul Profundo (Parte I)]]
-2. [[VFC01b ― Azul Profundo (Parte II)]]
-3. [[VFC01c ― Azul Profundo (Parte III)]]
+1. [[VFC01.1 ― Azul Profundo, Pt. I]]
+2. [[VFC01.2 ― Azul Profundo, Pt. II]]
+3. [[VFC01.3 ― Azul Profundo, Pt. III]]

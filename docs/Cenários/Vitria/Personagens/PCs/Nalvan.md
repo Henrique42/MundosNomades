@@ -21,10 +21,10 @@
 	- **Situação:** Vivo
 	---
 	### Primeira Aparição
-	- [[VFC01a ― Azul Profundo (Parte I)]]
+	- [[VFC01.1 ― Azul Profundo, Pt. I]]
 
 ---
 
 ## Sobre
 
-- Nalvan foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VFC01a ― Azul Profundo (Parte I)]])*.
+- Nalvan foi um dos integrantes do time responsável por investigar desaparecimentos em alto-mar, o que resultou na batalha contra um dos receptáculos do [[Habitante do Abismo]] *(Side-story: [[VFC01.1 ― Azul Profundo, Pt. I]])*.

@@ -20,7 +20,7 @@
 	---
 	### Primeira Aparição
 	- [[VF04 ― Breves Encontros]] *(Menção)*
-	- [[VFC01b ― Azul Profundo (Parte II)]] *(Aparição)*
+	- [[VFC01.2 ― Azul Profundo, Pt. II]] *(Aparição)*
 
 ---
 

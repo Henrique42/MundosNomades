@@ -30,7 +30,7 @@
 - Capitão Gai
 - Kleon
 - Guardas de Ponta Floresta
-- **Nos sonhos:** [[Igor]], patrono de Lavenza, crianças de Caelora, Sirion Fyendal, [[Figura Encapuzada]] e [[Leto]]
+- **Nos sonhos:** [[Igor]], [[Ophiel|patrono de Lavenza]], crianças de Caelora, Sirion Fyendal, [[Figura Encapuzada]] e [[Leto]]
 
 ---
 
@@ -84,7 +84,7 @@ Logo fora da cidade, o grupo se encontra novamente com Kleon. Ele pede desculpas
 
 O grupo parte para [[Ciprino]]. No caminho, eles se encontram em uma parte escura da floresta. Quando eles menos esperam, um grupo de árvores com rostos malignos o emboscam. O grupo se prepara para lidar com a situação, mas percebe que tem inimigos demais - eles terão que escapar.
 
-!!! danger "Emboscada Arbórea"
+!!! danger "Skill Challenge - Emboscada Arbórea"
 	- **Time:** Aenoir, Lavenza, Marduk, Tamur, Watson
 	- **Inimigos:** Árvores do Capeta
 

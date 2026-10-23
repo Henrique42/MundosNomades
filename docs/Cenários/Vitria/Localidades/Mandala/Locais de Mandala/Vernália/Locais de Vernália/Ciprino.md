@@ -29,6 +29,7 @@
 - **Palácio do Rei Sol:** castelo ocupado pela família real vernaliana. É encontrado no ponto mais alto da cidade;
 - **Sede da SAPO:** base de operações da filial da [[SAPO#Filial de Ciprino|SAPO]] em Ciprino;
 - **Universidade Vernaliana de Magia:** principal instituição de ensino focada em magia existente em Vernália.
+- **Casa Ch'aska:** Bordel e cabaré presente na Vila Lumina. Era visitado por nobres de Ciprino.
 
 ---
 
