@@ -1,6 +1,7 @@
 site_name: Mundos Nômades
 site_author: nômade
 site_url: https://henrique42.github.io/MundosNomades
+site_description: Wiki para campanhas de TTRPG.
 
 theme:
     name: material
@@ -66,6 +67,12 @@ plugins:
       match_path: blog/posts/.* 
       date_from_meta:
         as_creation: date.created
+        as_update: git
+        datetime_format: "%Y-%m-%d %H:%M"
+        default_time: "09:30"
+        default_timezone: America/Sao_Paulo
+      length: 50
+      use_git: true
         
       categories:
         - categories

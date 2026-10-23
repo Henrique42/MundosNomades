@@ -2,7 +2,6 @@
 draft: false
 date:
   created: 2025-10-15
-  updated: 2025-10-15
 slug: halloween-2025
 categories:
   - ajuda

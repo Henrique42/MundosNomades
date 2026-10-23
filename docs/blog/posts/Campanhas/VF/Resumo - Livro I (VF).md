@@ -2,7 +2,6 @@
 draft: false
 date:
   created: 2026-01-16
-  updated: 2026-01-16
 slug: vf-resumo1
 categories:
   - Vestígios Fantasmas
