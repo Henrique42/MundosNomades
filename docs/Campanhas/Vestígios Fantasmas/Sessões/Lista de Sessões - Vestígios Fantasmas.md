@@ -6,20 +6,20 @@ Esta página serve como uma lista de sessões e arcos da campanha.
 
 A campanha é, até o momento, dividida em duas partes, também conhecidas como **Livros**. Cada parte é divida em diversos arcos, os quais podem ser um **Arquivo SAPO** (ou seja, casos) ou um **Interlúdio** (demais tipos de arco). A divisão é a seguinte:
 
-- Sessões [[VF01 ― Fantasmagoria|01]]~[[VF23 ― Canção da Cobra|23]] ― Livro I: **Bruxa à Beira-Mar**
-	- Sessões [[VF01 ― Fantasmagoria|01]]~[[VF03 ― Caveiras e Velas|03]] ― Arquivo SAPO: **"O Fantasma do Teatro"**
-	- Sessões [[VF04 ― Breves Encontros|04]]~[[VF06 ― Continue Pescando|06]] ― Interlúdio: **Conhecendo Porto Lobo**
-	- Sessões [[VF07 ― Mãe|07]]~[[VF10 ― O Show Tem Que Continuar|10]] ― Arquivo SAPO: **"O Demônio que Ri"**
-	- Sessão [[VF11 ― Estivemos Longe Tempo Demais|11]] ― Interlúdio: **O Arquivo da SAPO**
-	- Sessões [[VF12 ― Mundo Selvagem|12]]~[[VF15 ― A Lua Irá Cantar|15]] ― Arquivo SAPO: **"Lobisomem na Noite"**
-	- Sessões [[VF16 ― Caixa de Chuva|16]]~[[VF20 ― Mosca na Parede|20]] ―  Arquivo SAPO: ***"Codex Gigas"***
-	- Sessões [[VF21 ― Martelos e Pregos|21]]~[[VF23 ― Canção da Cobra|23]] ― Arquivo SAPO: **"Martelo da Bruxa"**
-- Sessões [[VF24 ― Tom Nebuloso de Inverno|24]]~Presente ― Livro II
-	- Sessões [[VF24 ― Tom Nebuloso de Inverno|24]]~[[VF25 ― Despedida|25]] ― Interlúdio: **A Partida**
-	- Sessões [[VF26 ― Coelho Branco|26]]~[[VF32 ― Alice|32]] ― Arquivo SAPO: **"Primavera Boreal"**
-	- Sessões [[VF33 ― Dormir para Sonhar|33]]~[[VF34 ― Um Eco, Uma Mácula|34]] ― Arquivo SAPO: **"Raiz de Amargura"**
-	- Sessões [[VF35 ― Cidade Nova em Folha|35]]~[[VF36 ― Esta Casa|36]] ― Interlúdio: **Conhecendo Ciprino**
-	- Sessões [[VF37 ― Cemitério|37]]~[[VF41 ― Salmos|41]] ― Arquivo SAPO: ***"Ero Guro"***
+- Sessões [[VF01 ― Fantasmagoria|VF01]]~[[VF23 ― Canção da Cobra|VF23]] ― Livro I: **Bruxa à Beira-Mar**
+	- Sessões [[VF01 ― Fantasmagoria|VF01]]~[[VF03 ― Caveiras e Velas|VF03]] ― Arquivo SAPO: **"O Fantasma do Teatro"**
+	- Sessões [[VF04 ― Breves Encontros|VF04]]~[[VF06 ― Continue Pescando|VF06]] ― Interlúdio: **Conhecendo Porto Lobo**
+	- Sessões [[VF07 ― Mãe|VF07]]~[[VF10 ― O Show Tem Que Continuar|VF10]] ― Arquivo SAPO: **"O Demônio que Ri"**
+	- Sessão [[VF11 ― Estivemos Longe Tempo Demais|VF11]] ― Interlúdio: **O Arquivo da SAPO**
+	- Sessões [[VF12 ― Mundo Selvagem|VF12]]~[[VF15 ― A Lua Irá Cantar|VF15]] ― Arquivo SAPO: **"Lobisomem na Noite"**
+	- Sessões [[VF16 ― Caixa de Chuva|VF16]]~[[VF20 ― Mosca na Parede|VF20]] ―  Arquivo SAPO: ***"Codex Gigas"***
+	- Sessões [[VF21 ― Martelos e Pregos|VF21]]~[[VF23 ― Canção da Cobra|VF23]] ― Arquivo SAPO: **"Martelo da Bruxa"**
+- Sessões [[VF24 ― Tom Nebuloso de Inverno|VF24]]~Presente ― Livro II
+	- Sessões [[VF24 ― Tom Nebuloso de Inverno|VF24]]~[[VF25 ― Despedida|VF25]] ― Interlúdio: **A Partida**
+	- Sessões [[VF26 ― Coelho Branco|VF26]]~[[VF32 ― Alice|VF32]] ― Arquivo SAPO: **"Primavera Boreal"**
+	- Sessões [[VF33 ― Dormir para Sonhar|VF33]]~[[VF34 ― Um Eco, Uma Mácula|VF34]] ― Arquivo SAPO: **"Raiz de Amargura"**
+	- Sessões [[VF35 ― Cidade Nova em Folha|VF35]]~[[VF36 ― Esta Casa|VF36]] ― Interlúdio: **Conhecendo Ciprino**
+	- Sessões [[VF37 ― Cemitério|VF37]]~[[VF41 ― Salmos|VF41]] ― Arquivo SAPO: ***"Ero Guro"***
 
 ---
 

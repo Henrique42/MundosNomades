@@ -39,13 +39,13 @@
 
 Aenoir e Marduk, agora juntos de Watson, consegue se encontrar com a fonte dos gritos de socorro: duas das trabalhadoras do local, as únicas sobreviventes. Após acalmá-las, eles retornam para o andar de cima, onde se reagrupam com o resto.
 
-Conversando com as mulheres, os investigadores descobrem mais sobre o que ocorreu na Casa Ch'aska no passado. Aparentemente, Nanaya foi pega em um incêndio "acidental" enquanto estava a sós com um cliente - ela saiu bastante ferida do fogo. Era claro para todos que o cliente em questão, um elfo de meia idade, foi o responsável, mas, dada o seu poder e influência, ele não recebeu a culpa (e nem teve a identidade revelada). Muito pelo contrário, a dona do estabelecimento expulsou a própria Nanaya, por ela não servir mais como cortesã e ainda "trazer problemas" para lá.
+Conversando com as mulheres, os investigadores descobrem mais sobre o que ocorreu na Casa Ch'aska no passado. Aparentemente, Nanaya foi pega em um incêndio "acidental" enquanto estava a sós com um cliente, saindo bastante ferida. Era claro para todos que o cliente em questão, um elfo de meia idade que saiu ileso, foi o responsável. Porém, dado o seu poder e influência, ele não recebeu a culpa (e nem teve a identidade revelada). Na verdade, a dona do estabelecimento expulsou a própria Nanaya, por ela não servir mais como cortesã e ainda "trazer problemas" para lá.
 
 Após verificar que as duas não estavam infectadas e ainda assustá-las com a cabeça decepada da dona, o grupo constrói uma barricada para elas em um dos quartos. Nisso, eles partem novamente para o térreo. No caminho, eles são interrompidos por dois corvos mágicos, enviados por Lana para auxiliá-los no combate.
 
 ### VS Nanaya
 
-Os investigadores chegam ao que parece um palco (o bordel também era um cabaré). Lá, Nanaya espera por eles. Um combate contra ela e seus zumbis, tanto cortesãs quanto clientes falecidos, se inicia.
+Os investigadores chegam no que parece um palco (o bordel também era um cabaré afinal). Lá, Nanaya espera por eles. Um combate contra ela e seus zumbis, tanto cortesãs quanto clientes falecidos, se inicia.
 
 !!! danger "VS Diva dos Mortos-Vivos"
 	- **Time:** Vamas + Gomes SNA

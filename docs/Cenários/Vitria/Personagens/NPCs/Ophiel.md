@@ -1,4 +1,4 @@
-**Ophiel** é um dos anjos que habita o Paraíso. Ele é o patrono da bruxa [[Lavenza]].
+**Ophiel** é um dos anjos que habita o Paraíso. Ele é mais conhecido por ser patrono da bruxa [[Lavenza]].
 
 ---
 

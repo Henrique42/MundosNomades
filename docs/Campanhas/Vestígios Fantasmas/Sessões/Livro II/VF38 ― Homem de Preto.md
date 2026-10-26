@@ -43,17 +43,17 @@ Depois de descobrir que o grupo tem alguma relação com [[Reina Velez]], Lana d
 
 ### Pela Favela
 
-No caminho para o bordel, o grupo acaba se deparando com o caos que se instaurou na Vila Lumina. Nisso, eles acabam tendo que lidar com moradores suicidas e até mesmo um padeiro (?).
+No caminho para o bordel, o grupo se depara com o caos que se instaurou na Vila Lumina. Nisso, eles acabam tendo que lidar com moradores suicidas e até mesmo um padeiro (?).
 
 Ainda na região, eles param para investigar uma loja de roupas completamente destruída pelos zumbis. Lá, eles descobrem que os zumbis pareciam ter uma tendência a atacar roupas e perfumes.
 
 ### A Casa Ch'aska, Pt. I
 
-Ao chegar no local, Watson, que passou parte de sua infância naquela favela, se lembra que havia uma passagem que nobres utilizavam para visitar o bordel. Investigando, eles percebem que ela havia sido bloqueada.
+Ao chegar no local, Watson, que passou parte de sua infância naquela favela, se lembra de que havia uma passagem que nobres utilizavam para visitar o bordel. Investigando, eles percebem que ela havia sido bloqueada após o início da epidemia.
 
-Com o auxílio de Orti, a serpente-cajado de Lavenza, o grupo atravessa uma janela aberta e entra no andar superior do edifício (o grupo percebeu que parecia haver uma névoa misteriosa no inferior). Lá, eles investigam o que parecem ser os aposentos das cortesãs. Dois quartos chamam a sua atenção:
+Com o auxílio de Orti, a serpente-cajado de Lavenza, o grupo atravessa uma janela aberta e entra no andar superior do edifício (eles perceberam que parecia haver uma névoa misteriosa embaixo). Lá, eles investigam o que parecem ser os aposentos das cortesãs. Dois quartos chamam a sua atenção:
 
-1. O quarto de uma cortesã conhecida como **Nanaya**, a qual parecia ter um *status* elevado no local. O aposento, o qual eles conseguiram abrir com uma chave, se encontrava em um estado de surpreendente preservação.
+1. O quarto de uma cortesã conhecida como **Nanaya**, a qual parecia ter um *status* elevado no local. O aposento, o qual eles conseguiram abrir após encontrar uma chave, se encontrava em um estado de surpreendente preservação.
 2. O quarto da dona do bordel, o qual se abriu sozinho. Lá, eles encontram documentos e uma cabeça zumbificada, aparentemente da própria dona, presa na parede. A porta do quarto se fecha e a cabeça começa a expelir veneno.
 
 !!! danger "Armadilha Venenosa"

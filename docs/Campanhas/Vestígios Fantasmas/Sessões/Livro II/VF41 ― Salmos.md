@@ -47,7 +47,7 @@
 
 ### Zumbis Sem Dono
 
-Após se despedir de Vamas, que voltou para reportar aos seus superiores, a [[Gomes SNA]] decide parar para descansar da batalha. Algum tempo depois, eles percebem que zumbis remanescentes estavam cercando o local, perdidos sem sua criadora. Os investigadores, tentam retornar correndo para as cortesãs, que ainda estavam no quarto.
+Após se despedir de Vamas, que voltou para reportar aos seus superiores, a [[Gomes SNA]] decide parar para descansar da batalha. Algum tempo depois, eles percebem que zumbis remanescentes estavam cercando o local, perdidos sem sua criadora. Os investigadores tentam retornar correndo para as cortesãs, que ainda estavam no quarto.
 
 !!! danger "Skill Challenge - O Cerco"
 	- **Time:** Aenoir, Lavenza, Marduk, Tamur, Watson
@@ -61,7 +61,7 @@ Na praça central, os investigadores passam por um ritual sendo realizado pelos 
 
 ### Descanso dos Mortais
 
-Devido a sua exaustão, a Gomes SNA decide se retirar cedo e retornar a SAPO. Após alguns dias de descanso, eles recebem mais notícias do que está acontecendo em Ciprino. Aparentemente, a epidemia causou estragos tanto na Vila Lumina quanto nas zonas nobres da cidade. O mais surpreendente, no entanto, foi a forma na qual o rei, Eládio I, lidou com o [[Surto de Lumina|ocorrido]]. Graças a um decreto dele, as famílias nobres com membros ligados ao bordel tiveram seus bens confiscados.
+Devido a sua exaustão, a Gomes SNA decide se retirar cedo e retornar a SAPO. Após alguns dias de descanso, eles recebem mais notícias do que está acontecendo em Ciprino. Aparentemente, a epidemia causou estragos tanto na Vila Lumina quanto nas zonas nobres da cidade. O mais surpreendente, no entanto, foi a forma na qual o rei, Eládio I, lidou com o [[Surto de Lumina|ocorrido]]. Graças a um decreto dele, as famílias nobres com membros ligados ao bordel tiveram seus bens confiscados, para o descontentamento de pessoas de poder.
 
 Um tempo depois, os investigadores receberam uma carta - um convite de Lana para uma reunião, mais especificamente. Assim, eles decidiram ir novamente até o templo de Capra.
 
@@ -69,14 +69,14 @@ Um tempo depois, os investigadores receberam uma carta - um convite de Lana para
 
 No templo, o grupo, guiados pelos corvos sagrados de Lana, atravessa uma porta planar que leva até o Purgatório. Lá, eles recebem bodes gigantes e se dirigem até o castelo no qual o escritório de Capra se encontra.
 
-No castelo, a Gomes SNA se encontra com duas comitivas, as quais estavam indo para um encontro com a própria Capra. Uma delas é composta por Ophiel, o patrono de Lavenza, e outros celestiais. Diante dos esforços da bruxa na contenção da doença, o anjo a presenteia com um item mágico. O outro grupo, no entanto, é composto por diabos, liderados por uma mulher, estranhamente parecida com [[Manah]], que criou algum interesse em Aenoir.
+No castelo, a Gomes SNA se encontra com duas comitivas, as quais estavam indo para um encontro com a própria Capra. Uma delas é composta por Ophiel, o patrono de Lavenza, e outros celestiais. Diante dos esforços da bruxa na contenção da doença, o anjo a presenteia com um item mágico. O outro grupo, no entanto, é composto por diabos liderados por uma mulher excêntrica, estranhamente parecida com [[Manah]], que criou algum interesse em Aenoir.
 
 Após se separar das comitivas, os investigadores atravessam outra porta planar, indo parar em um lugar familiar para parte deles: [[A 'Cripta']]. Lá, eles têm uma extensa conversa com Lana, na qual diversas informações são trocados por ambos os lados.
 
 - Lana explica aos investigadores sobre o que é realmente a [[Mácula]], a condição que afetava [[Nanaya]]. Ela também conta a história de como aquele templo havia se tornado o domínio de um maculado - um sacerdote de Capra tomado pela culpa - e como o local foi banido por conta disso.
-- Os investigadores contam a Lana sobre [[O Observador]]. Ela compartilha com eles uma vela que protege a região iluminada por ela de qualquer tipo de divinação, o que permite eles uma conversa privada pela primeira vez em muito tempo.
+- Os investigadores contam a Lana sobre [[O Observador]]. Ela compartilha com eles uma vela que protege a região iluminada por suas chamas de qualquer tipo de divinação, o que permite a eles ter uma conversa privada pela primeira vez em muito tempo.
 
-Nesse contexto, ambas as partes decidem cooperar tanto na batalha contra o inimigo em comum quanto na recuperação do cajado cuja metade está com Aenoir, um item que pertencia àquele templo *(Sessão: [[VF23 ― Canção da Cobra]])*. Assim, a Gomes SNA deixa o castelo para retornar à SAPO.
+Nesse contexto, ambas as partes decidem cooperar, tanto na batalha contra o inimigo em comum quanto na recuperação do cajado cuja metade está com Aenoir, um item que pertencia àquele templo *(Sessão: [[VF23 ― Canção da Cobra]])*. Assim, a Gomes SNA deixa o castelo para retornar à SAPO.
 
 ---
 

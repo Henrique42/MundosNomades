@@ -47,5 +47,5 @@ Recentemente, relatos inquietantes começaram a se espalhar: aparições de cria
 
 A campanha é, até o momento, dividida em duas partes, também conhecidas como **Livros**. Elas são:
 
-- Sessões [[VF01 ― Fantasmagoria|01]]~[[VF23 ― Canção da Cobra|23]] ― Livro I: **Bruxa à Beira-Mar**
-- Sessões [[VF24 ― Tom Nebuloso de Inverno|24]]~Presente ― Livro II
+- Sessões [[VF01 ― Fantasmagoria|VF01]]~[[VF23 ― Canção da Cobra|VF23]] ― Livro I: **Bruxa à Beira-Mar**
+- Sessões [[VF24 ― Tom Nebuloso de Inverno|VF24]]~Presente ― Livro II

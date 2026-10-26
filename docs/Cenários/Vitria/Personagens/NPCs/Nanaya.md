@@ -1,4 +1,4 @@
-**Nanaya** foi uma cortesã que trabalhou na [[Ciprino#Locais Importantes|Casa Ch'aska]].
+**Nanaya** foi uma cortesã que trabalhou na Casa Ch'aska, em [[Ciprino]].
 
 ---
 

@@ -13,6 +13,6 @@
 
 A **Peste Fúnebre** é uma doença que transforma pessoas, vivas ou mortas, em zumbis. A doença é temida por ser uma das formas mais rápidas de criar mortos-vivos em massa e já ter sido responsável pela queda de cidades e reinos.
 
-Uma pessoa afetada pela doença é morta por seus sintomas e retorna como zumbis pouco tempo depois, seu desejo pela carne de seus semelhantes sempre presente. A depender da causa da Peste Fúnebre em si, os zumbis podem ser controlados ou não.
+Uma pessoa afetada pela doença é morta por seus sintomas e retorna como zumbis pouco tempo depois, carregada pelo seu desejo pela carne de seus semelhantes. A depender da causa da Peste Fúnebre em si, os zumbis podem ser controlados ou não por algum terceiro.
 
-Geralmente, a doença precisa ser curada somente por meios mágicos.
+Geralmente, a doença precisa ser curada por meios mágicos para ser completamente eliminada.

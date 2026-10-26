@@ -92,4 +92,4 @@ Após um sonho que envolvia uma voz misteriosa, Lavenza faz a checagem diária n
 
 ---
 
-[[VF35 ― Cidade Nova em Folha|<< Anterior]] | Próxima >>
+[[VF35 ― Cidade Nova em Folha|<< Anterior]] | [[VF37 ― Cemitério|Próxima >>]]
